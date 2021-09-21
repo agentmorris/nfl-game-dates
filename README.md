@@ -2,6 +2,7 @@
 
 Python script (and hopefully soon a Web app) to retrieve a chronologically sorted list of NFL games for any week, historical or scheduled, from pro-football-reference.com.
 
+
 ### But why?
 
 I am critically dependent on NFL football for my physical fitness.  So dependent that I wrote an [excessively long blog post](http://rockicon.net/wp/2019/10/22/the-doctor-of-rocks-tfip-total-football-immersion-program/) about how hard I work to avoid football scores so I'm motivated to exercise every day.  During the season, of course, that's football that was just played the prior weekend.  But even during the offseason, I watch old playoff games that I don't really remember.  Either way, I <i>need</i> to avoid knowing the outcomes of football games.
@@ -17,7 +18,7 @@ If you're wondering "but don't you talk to other people about football?"... no, 
 
 ### Usage
 
-`python nfl-game-dates.py [year] [week]`
+`python nfl-game-dates.py [year] [week] [--html]`
 
 "year" is the start of the season, not the calendar year of the game.  I.e., 2012 week 17 is in 2013.
 
@@ -25,6 +26,8 @@ If you're wondering "but don't you talk to other people about football?"... no, 
 
 * A 1-indexed number from 1 to 22, where 22 would be the Super Bowl after the start of the 17-game season
 * A playoff round name, from ["wild card","divisional","championship","super bowl"]
+
+The "html" option renders to HTML instead of text, with links to NFL Game Pass.
 
 
 ### Examples
