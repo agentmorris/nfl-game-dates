@@ -15,9 +15,11 @@
 import re
 import requests
 from dateutil import parser as dateparser
+from datetime import timedelta
 from bs4 import BeautifulSoup
 
 base_url = 'https://www.pro-football-reference.com'
+gamepass_base_url = 'https://www.nfl.com/games/'
 
 playoff_round_names = ['wildcard','divisional','championship','superbowl']
 
@@ -150,8 +152,6 @@ def load_game_times_from_url(url,week,year):
         
     games = []
     
-    print('Parsing games...')
-    
     # game_table = game_tables[0]
     for i_game,game_table in enumerate(game_tables):
         
@@ -229,17 +229,8 @@ def load_game_times_from_url(url,week,year):
     
     return sorted_games
     
-def load_game_times(year,week):
-    """
-    Load all games from the specified week, return as a list of Game objects.
-    
-    Year refers to the year of week 1, i.e. the 2012 Super Bowl took place in 2013.
-    
-    Week can be a 1-indexed integer from 1 to 22 (19, 21, or 22 would be the Super Bowl, depending
-    on the year), or it can be a string from playoff_game_names.
-    
-    Only seasons >= 1961 are supported.
-    """
+
+def week_to_numeric(year,week):
     
     if isinstance(year,str):
         year = int(year)
@@ -262,12 +253,103 @@ def load_game_times(year,week):
     # One way or another, *week* is an integer now
     assert isinstance(week,int)
     
+    return year,week
+
+
+def load_game_times(year,week):
+    """
+    Load all games from the specified week, return as a list of Game objects.
+    
+    Year refers to the year of week 1, i.e. the 2012 Super Bowl took place in 2013.
+    
+    Week can be a 1-indexed integer from 1 to 22 (19, 21, or 22 would be the Super Bowl, depending
+    on the year), or it can be a string from playoff_game_names.
+    
+    Only seasons >= 1961 are supported.
+    """
+    
+    year,week = week_to_numeric(year,week)
+    
     url = base_url + '/years/' + str(year) + '/week_' + str(week) + '.htm'
     # os.startfile(url) 
     
     return load_game_times_from_url(url,week,year)
-        
 
+
+def team_name_from_team_string(team_string):
+    
+    # Converts "Dallas Cowboys" to "Cowboys"
+    team_name_tokens = team_string.split(' ')
+    if 'football team' in team_string.lower():
+        team_name = 'Football Team'
+    else:
+        team_name = team_name_tokens[-1]
+    
+    return team_name
+
+    
+#%%
+    
+def game_list_to_html(games,week,year):    
+
+    output_html = '<html><body>\n'
+    
+    year,week = week_to_numeric(year,week)
+    is_postseason = (week > get_number_of_weeks_in_season(year))
+    
+    if is_postseason:
+        season_portion = 'post'
+    else:
+        season_portion = 'reg'
+        
+    # Sample game URL:
+    #
+    # https://www.nfl.com/games/titans-at-seahawks-2021-reg-2
+    previous_game_time = None
+    
+    # s = games[0]
+    for s in games:
+        
+        # E.g. New Orleans Saints at Green Bay Packers, 2011-09-08 20:40:00'
+        game_str = str(s)
+        tokens = game_str.split(',')
+        assert len(tokens) == 2
+        teams_string = tokens[0]
+        assert ' at ' in teams_string
+        date_string = tokens[1]
+        game_start_time = dateparser.parse(date_string)
+        
+        start_new_line = (previous_game_time is not None) and \
+            (game_start_time - previous_game_time > timedelta(hours=1))
+        
+        if start_new_line:
+            output_html += '\n<br/>\n\n'
+        
+        previous_game_time = game_start_time
+        
+        # E.g. New Orleans Saints at Green Bay Packers
+        team_tokens = teams_string.split(' at ')
+        assert len(team_tokens) == 2
+        visiting_team = team_name_from_team_string(team_tokens[0]).lower().replace(' ','-')
+        home_team = team_name_from_team_string(team_tokens[1]).lower().replace(' ','-')
+        
+        assert gamepass_base_url.endswith('/')
+        gamepass_url = gamepass_base_url + visiting_team + '-at-' + home_team + '-' + str(year) + \
+            '-' + season_portion + '-' + str(week)
+        
+        # print(gamepass_url)          
+        output_html += '<p><a href="{}">{}</a></p>\n'.format(
+            gamepass_url,game_str)
+
+    # ...for each game
+    
+    output_html += '</body></html>'
+    
+    return output_html
+
+# ...def game_list_to_html()
+
+    
 #%% Test driver
 
 if False:
@@ -312,6 +394,8 @@ if False:
     games = load_game_times(year,week)
     for s in games:
         print(s)
+    html = game_list_to_html(games,week,year)
+    print(html)
     
 #%% Command-line driver
 
@@ -328,15 +412,24 @@ def main():
         'week',
         help='Week to fetch, either a number (1-22) or a playoff week name (wild card, divisional, championship, super bowl)'
         )
-    
+    parser.add_argument(
+        '--html',
+        help='Output HTML with links to NFL Game Pass, instead of plain text',
+        action='store_true')
+        
     if len(sys.argv[1:]) == 0:
         parser.print_help()
         parser.exit()
 
     args = parser.parse_args()
     games = load_game_times(args.year,args.week)
-    for s in games:
-        print(s)
+    
+    if args.html:
+        html = game_list_to_html(games,args.week,args.year)
+        print(html)
+    else:
+        for s in games:
+            print(s)
 
 if __name__ == '__main__':
     main()
