@@ -14,6 +14,8 @@
 
 import re
 import requests
+import clipboard
+
 from dateutil import parser as dateparser
 from datetime import timedelta
 from bs4 import BeautifulSoup
@@ -416,6 +418,10 @@ def main():
         '--html',
         help='Output HTML with links to NFL Game Pass, instead of plain text',
         action='store_true')
+    parser.add_argument(
+        '--copy',
+        help='Copy output text to the clipboard',
+        action='store_true')
         
     if len(sys.argv[1:]) == 0:
         parser.print_help()
@@ -425,11 +431,14 @@ def main():
     games = load_game_times(args.year,args.week)
     
     if args.html:
-        html = game_list_to_html(games,args.week,args.year)
-        print(html)
+        s = game_list_to_html(games,args.week,args.year)
+        print(s)
     else:
-        for s in games:
-            print(s)
+        s = '\n'.join([str(g) for g in games])
+        print(s)
+        
+    if args.copy:
+        clipboard.copy(s)
 
 if __name__ == '__main__':
     main()
