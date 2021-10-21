@@ -15,6 +15,7 @@
 import re
 import requests
 import clipboard
+import klembord
 
 from dateutil import parser as dateparser
 from datetime import timedelta
@@ -24,6 +25,7 @@ base_url = 'https://www.pro-football-reference.com'
 gamepass_base_url = 'https://www.nfl.com/games/'
 
 playoff_round_names = ['wildcard','divisional','championship','superbowl']
+klembord.init()
 
 
 #%% Classes
@@ -398,6 +400,7 @@ if False:
         print(s)
     html = game_list_to_html(games,week,year)
     print(html)
+    klembord.set_with_rich_text('',html)
     
 #%% Command-line driver
 
@@ -438,7 +441,7 @@ def main():
         print(s)
         
     if args.copy:
-        clipboard.copy(s)
+        klembord.set_with_rich_text(s,s)
 
 if __name__ == '__main__':
     main()
