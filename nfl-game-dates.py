@@ -302,8 +302,14 @@ def game_list_to_html(games,week,year):
     is_postseason = (week > get_number_of_weeks_in_season(year))
     
     if is_postseason:
+        
         season_portion = 'post'
+        
+        # The first week of the postseason is written as post-1, not, e.g., post-19
+        week = week - get_number_of_weeks_in_season(year) 
+        
     else:
+        
         season_portion = 'reg'
         
     # Sample game URL:
@@ -338,8 +344,8 @@ def game_list_to_html(games,week,year):
         home_team = team_name_from_team_string(team_tokens[1]).lower().replace(' ','-')
         
         assert gamepass_base_url.endswith('/')
-        gamepass_url = gamepass_base_url + visiting_team + '-at-' + home_team + '-' + str(year) + \
-            '-' + season_portion + '-' + str(week)
+        gamepass_url = gamepass_base_url + visiting_team + '-at-' + home_team + '-' + \
+            str(year) + '-' + season_portion + '-' + str(week)
         
         # print(gamepass_url)          
         output_html += '<p><a href="{}">{}</a></p>\n'.format(
