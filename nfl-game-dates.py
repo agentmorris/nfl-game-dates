@@ -22,7 +22,7 @@ from datetime import timedelta
 from bs4 import BeautifulSoup
 
 base_url = 'https://www.pro-football-reference.com'
-gamepass_base_url = 'https://www.nfl.com/games/'
+gamepass_base_url = 'https://nfl.com/plus/games/'
 
 playoff_round_names = ['wildcard','divisional','championship','superbowl']
 klembord.init()
