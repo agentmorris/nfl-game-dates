@@ -14,7 +14,6 @@
 
 import re
 import requests
-import clipboard
 import klembord
 
 from dateutil import parser as dateparser
