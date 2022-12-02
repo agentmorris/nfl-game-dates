@@ -114,7 +114,11 @@ def load_game_times_from_url(url,week,year):
     assert isinstance(week,int)
     assert isinstance(year,int)
     
-    html_text = requests.get(url).text
+    s = requests.Session() 
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+    html_text = s.get(url, headers=headers).text
+    if 'access denied' in html_text.lower():
+        raise ValueError('Access denied')
     week_soup = BeautifulSoup(html_text,'html.parser')
     game_tables = week_soup.find_all('table', {'class':'teams'})
     
@@ -398,14 +402,15 @@ if False:
         
     #%%
     
-    year = 2021
-    week = 1
+    year = 2022
+    week = 12
     games = load_game_times(year,week)
     for s in games:
         print(s)
     html = game_list_to_html(games,week,year)
     print(html)
     klembord.set_with_rich_text('',html)
+    
     
 #%% Command-line driver
 
