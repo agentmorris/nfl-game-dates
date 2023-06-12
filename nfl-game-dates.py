@@ -47,7 +47,8 @@ class GameInfo:
 def get_number_of_weeks_in_season(year):
     """
     Return the number of weeks in any regular season >= 1961
-    """    
+    """
+    
     # See https://en.wikipedia.org/wiki/NFL_regular_season
     assert isinstance(year,int)
     assert year >= 1961
@@ -80,6 +81,7 @@ def normalize_string(s):
     """
     Lowercase and remove whitespace from *s*
     """
+    
     assert isinstance(s,str)
     return s.lower().strip().replace(' ','')
 
@@ -238,6 +240,10 @@ def load_game_times_from_url(url,week,year):
     
 
 def week_to_numeric(year,week):
+    """
+    Convert a week string (which might be "1" (int or str) or "19" (postseason) or "wild card") 
+    to a 1-indexed week number.
+    """
     
     if isinstance(year,str):
         year = int(year)
@@ -284,8 +290,10 @@ def load_game_times(year,week):
 
 
 def team_name_from_team_string(team_string):
+    """
+    Converts, e.g., "Dallas Cowboys" to "Cowboys".
+    """
     
-    # Converts "Dallas Cowboys" to "Cowboys"
     team_name_tokens = team_string.split(' ')
     if 'football team' in team_string.lower():
         team_name = 'Football Team'
@@ -295,10 +303,12 @@ def team_name_from_team_string(team_string):
     return team_name
 
     
-#%%
-    
 def game_list_to_html(games,week,year):    
-
+    """
+    Given a list of games (created by load_game_times()), generate the nice HTML content
+    we did all this work for.
+    """
+    
     output_html = '<html><body>\n'
     
     year,week = week_to_numeric(year,week)
@@ -362,6 +372,34 @@ def game_list_to_html(games,week,year):
 
 # ...def game_list_to_html()
 
+
+#%% Interactive driver
+
+if False:
+    
+    pass
+
+    #%% Get a list of all games and times from every year since 2009
+    
+    sleep_time_per_request = 15
+    n_playoff_rounds = 4
+    
+    min_year = 2009
+    max_year = 2022
+    
+    from collections import defaultdict
+    from tqdm import tqdm
+    import time
+    
+    year_to_games = defaultdict(list)
+    for year in tqdm(range(min_year,max_year+1),total=(max_year-min_year)+1):
+        print('Retrieving game times for {}'.format(year))
+        n_weeks = get_number_of_weeks_in_season(year) + n_playoff_rounds
+        for i_week in range(1,n_weeks+1):
+            games = load_game_times(year,i_week)
+            year_to_games[year].append(games)
+            time.sleep(sleep_time_per_request)
+    
     
 #%% Test driver
 
