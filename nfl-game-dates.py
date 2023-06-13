@@ -15,6 +15,7 @@
 import re
 import requests
 import klembord
+import time
 
 from dateutil import parser as dateparser
 from datetime import timedelta
@@ -26,20 +27,26 @@ gamepass_base_url = 'https://nfl.com/plus/games/'
 playoff_round_names = ['wildcard','divisional','championship','superbowl']
 klembord.init()
 
+# Will sleep this many seconds after every request for either a whole page or an
+# individual box score.
+sleep_after_request_time = 0
+
 
 #%% Classes
 
 class GameInfo:
-    def __init__(self,teamAway,teamHome,start_time):
-        self.teamAway = teamAway
-        self.teamHome = teamHome
+    def __init__(self,team_away,team_home,start_time,away_scores,home_scores,away_record,home_record):
+        self.team_away = team_away
+        self.team_home = team_home
         self.start_time = start_time
+        self.away_scores = away_scores
+        self.home_scores = home_scores
     
     def __str__(self):
-        return '{} at {}, {}'.format(self.teamAway,self.teamHome,self.start_time)
+        return '{} at {}, {}'.format(self.team_away,self.team_home,self.start_time)
     
     def __repr__(self):
-        return '{} at {}, {}'.format(self.teamAway,self.teamHome,self.start_time)
+        return '{} at {}, {}'.format(self.team_away,self.team_home,self.start_time)
         
         
 #%% Functions
@@ -110,7 +117,13 @@ def is_super_bowl(week,year):
 
 def load_game_times_from_url(url,week,year):
     """
-    See load_game_times() for return values
+    Load game times from a single-week URL, e.g.:
+        
+    https://www.pro-football-reference.com/years/2009/week_1.htm
+    
+    Will initiate multiple http requests, one per box score.
+    
+    See load_game_times() for return values.
     """
     
     assert isinstance(week,int)
@@ -118,7 +131,9 @@ def load_game_times_from_url(url,week,year):
     
     s = requests.Session() 
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
-    html_text = s.get(url, headers=headers).text
+    html_text = s.get(url, headers=headers).text    
+    time.sleep(sleep_after_request_time)
+    
     if 'access denied' in html_text.lower():
         raise ValueError('Access denied')
     week_soup = BeautifulSoup(html_text,'html.parser')
@@ -161,7 +176,7 @@ def load_game_times_from_url(url,week,year):
         
     games = []
     
-    # game_table = game_tables[0]
+    # i_game = 0; game_table = game_tables[i_game]
     for i_game,game_table in enumerate(game_tables):
         
         game_links = game_table.find_all('a')
@@ -169,9 +184,12 @@ def load_game_times_from_url(url,week,year):
         assert len(boxscore_links) == 1
         boxscore_link = boxscore_links[0]
         relative_path = boxscore_link['href']
+        
+        # E.g.: https://www.pro-football-reference.com/boxscores/200909100pit.htm
         boxscore_url = base_url + relative_path
         
         html_text = requests.get(boxscore_url).text
+        time.sleep(sleep_after_request_time)
         game_soup = BeautifulSoup(html_text,'html.parser')
         
         # E.g.:
@@ -192,17 +210,86 @@ def load_game_times_from_url(url,week,year):
         title_raw = game_soup.title.getText()
         
         # Super Bowls use 'vs.', all other games use 'at' (maybe London games use 'vs.'?)
-        assert ' at ' in title_raw or ' vs. ' in title_raw
+        assert ' at ' in title_raw or ' vs. ' in title_raw, 'Could not parse title: {}'.format(title_raw)
         team_tokens = re.split(r' at | vs. ',title_raw,maxsplit=1)
         assert len(team_tokens) == 2
-        teamAway = team_tokens[0].strip()
-        if ' - ' in teamAway:
-            teamAway = teamAway.split(' - ')[1].strip()
-        teamHome = team_tokens[1].strip()
-        if ' - ' in teamHome:
-            teamHome = teamHome.split(' - ')[0].strip()
+        team_away = team_tokens[0].strip()
+        if ' - ' in team_away:
+            team_away = team_away.split(' - ')[1].strip()
+        team_home = team_tokens[1].strip()
+        if ' - ' in team_home:
+            team_home = team_home.split(' - ')[0].strip()
         
-        # The scorebox looks like this:
+        # Get records *after* this game
+        scorebox = game_soup.find_all('div','scorebox')
+        assert len(scorebox) == 1
+        scorebox = scorebox[0]
+        score_divs = scorebox.find_all('div','score')
+        assert len(score_divs) == 2
+        away_final_score = int(score_divs[0].text)
+        home_final_score = int(score_divs[1].text)
+                
+        scorebox_inner_divs = scorebox.find_all('div')
+        team_record_strings = []
+        for div in scorebox_inner_divs:
+            if len(div.text) < 10 and '-' in div.text:
+                team_record_strings.append(div.text)
+        assert len(team_record_strings) == 2
+        away_record = team_record_strings[0]
+        home_record = team_record_strings[1]
+                
+        # Get scores
+        linescores = game_soup.find_all('table','linescore')
+        assert len(linescores) == 1
+        linescore_table = linescores[0]
+        linescore_table_body = linescore_table.find('tbody')
+        linescore_table_rows = linescore_table_body.find_all('tr')
+        
+        assert len(linescore_table_rows) == 2
+        
+        home_scores = None
+        away_scores = None
+        
+        for i_row,row in enumerate(linescore_table_rows):
+            cols = row.find_all('td')
+            
+            # This depends on whether the game went into OT
+            assert len(cols) == 7 or len(cols) == 8
+            # team_logo_col = cols[0]
+            team_name_col = str(cols[1])
+            if i_row == 0:
+                assert team_away in team_name_col
+            else:
+                assert team_home in team_name_col
+            
+            # Team score by quarter, then overtime, then final
+            team_scores = [0] * 6            
+            team_scores[0] = int(cols[2].text)
+            team_scores[1] = int(cols[3].text)
+            team_scores[2] = int(cols[4].text)
+            team_scores[3] = int(cols[5].text)
+            
+            # If there was no overtime            
+            if len(cols) == 7:        
+                team_scores[4] = 0
+                team_scores[5] = int(cols[6].text)
+            else:
+                assert len(cols) == 8
+                team_scores[4] = int(cols[6].text)
+                team_scores[5] = int(cols[7].text)
+                        
+            if i_row == 0:
+                away_scores = team_scores
+            else:
+                home_scores = team_scores
+        
+        # ...for each row in the two-row scoring table
+        
+        assert away_final_score == away_scores[5]
+        assert home_final_score == home_scores[5]
+        
+        # Get date/time
+        # The scorebox meta information looks like this:
         """
         <div class="scorebox_meta">
 		<div>Thursday Sep 8, 2011</div><div><strong>Start Time</strong>: 8:40pm</div><div><strong>Stadium</strong>: <a href="/stadiums/GNB00.htm">Lambeau Field</a> </div><div><strong>Attendance</strong>: <a href="/years/2011/attendance.htm">70,555</a></div><div><strong>Time of Game</strong>: 3:09</div>
@@ -210,15 +297,14 @@ def load_game_times_from_url(url,week,year):
             / <a href="//www.sports-reference.com/blog/2016/06/redesign-team-and-league-logos-courtesy-sportslogos-net/">About logos</a></em></div>
         <div>
         """
-        scoreboxes = game_soup.find_all('div',{'class':'scorebox_meta'})
-        assert len(scoreboxes) == 1
-        scorebox = scoreboxes[0]
-        scorebox_divs = scorebox.find_all('div')
-        date_text = scorebox_divs[0].getText().strip()
-        time_text = scorebox_divs[1].getText()
+        scorebox_meta = game_soup.find_all('div',{'class':'scorebox_meta'})
+        assert len(scorebox_meta) == 1
+        scorebox_meta = scorebox_meta[0]
+        scorebox_meta_divs = scorebox_meta.find_all('div')
+        date_text = scorebox_meta_divs[0].getText().strip()
+        time_text = scorebox_meta_divs[1].getText()
         assert time_text.startswith('Start Time')
-        time_text = time_text.split(':',1)[1].strip()
-        
+        time_text = time_text.split(':',1)[1].strip()        
         datetime_text = date_text + ' ' + time_text
         
         # Now we have, e.g.:
@@ -228,7 +314,8 @@ def load_game_times_from_url(url,week,year):
         # I'm *almost* positive it's returning games in browser-local time        
         game_start_time = dateparser.parse(datetime_text)
         
-        game = GameInfo(teamAway,teamHome,game_start_time)
+        game = GameInfo(team_away,team_home,game_start_time,
+                        away_scores,home_scores,away_record,home_record)
         games.append(game)
     
     # ...for each game
@@ -279,6 +366,10 @@ def load_game_times(year,week):
     on the year), or it can be a string from playoff_game_names.
     
     Only seasons >= 1961 are supported.
+    
+    Processes a single URL per call, e.g.:
+        
+    https://www.pro-football-reference.com/years/2009/week_1.htm
     """
     
     year,week = week_to_numeric(year,week)
@@ -379,9 +470,10 @@ if False:
     
     pass
 
-    #%% Get a list of all games and times from every year since 2009
+    #%% Get a list of all games for every year since 2009
     
-    sleep_time_per_request = 15
+    sleep_after_request_time = 15
+    initial_sleep_time = 0
     n_playoff_rounds = 4
     
     min_year = 2009
@@ -389,17 +481,25 @@ if False:
     
     from collections import defaultdict
     from tqdm import tqdm
-    import time
     
     year_to_games = defaultdict(list)
+    
+    print('Starting initial sleep')
+    time.sleep(initial_sleep_time)
+    
     for year in tqdm(range(min_year,max_year+1),total=(max_year-min_year)+1):
+        
         print('Retrieving game times for {}'.format(year))
         n_weeks = get_number_of_weeks_in_season(year) + n_playoff_rounds
+        
         for i_week in range(1,n_weeks+1):
+
             games = load_game_times(year,i_week)
-            year_to_games[year].append(games)
-            time.sleep(sleep_time_per_request)
+            year_to_games[year].append(games)            
+            
+        # ...for each week
     
+    # ...for each year
     
 #%% Test driver
 
@@ -407,8 +507,8 @@ if False:
 
     #%%
     
-    # https://www.pro-football-reference.com/years/2011/week_1.htm
-    year = 2011
+    # https://www.pro-football-reference.com/years/2009/week_1.htm
+    year = 2009
     week = 1        
     games = load_game_times(year,week)
     for s in games:
