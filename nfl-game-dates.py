@@ -12,10 +12,13 @@
 
 #%% Imports and constants
 
+import os
 import re
 import requests
 import klembord
 import time
+import pickle
+import copy
 
 from dateutil import parser as dateparser
 from datetime import timedelta
@@ -25,6 +28,7 @@ base_url = 'https://www.pro-football-reference.com'
 gamepass_base_url = 'https://nfl.com/plus/games/'
 
 playoff_round_names = ['wildcard','divisional','championship','superbowl']
+playoff_round_names_long = ['wild card','divisisional','championship','super bowl']
 klembord.init()
 
 # Will sleep this many seconds after every request for either a whole page or an
@@ -35,13 +39,17 @@ sleep_after_request_time = 0
 #%% Classes
 
 class GameInfo:
+
     def __init__(self,team_away,team_home,start_time,away_scores,home_scores,away_record,home_record):
         self.team_away = team_away
         self.team_home = team_home
         self.start_time = start_time
         self.away_scores = away_scores
         self.home_scores = home_scores
-    
+        
+        self.boxscore_url = ''
+        self.boxscore_html = ''
+                
     def __str__(self):
         return '{} at {}, {}'.format(self.team_away,self.team_home,self.start_time)
     
@@ -93,6 +101,56 @@ def normalize_string(s):
     return s.lower().strip().replace(' ','')
 
 
+def week_to_numeric(year,week):
+    """
+    Convert a week string (which might be "1" (int or str) or "19" (postseason) or "wild card") 
+    to a 1-indexed week number.
+    """
+    
+    if isinstance(year,str):
+        year = int(year)
+    assert isinstance(year,int)
+    assert year >= 1966 and year <= 2050
+    
+    if isinstance(week,str):
+        try:
+            week = int(normalize_string(week))
+        except:
+            pass
+        
+    if isinstance(week,str):
+        round_name = normalize_string(week)
+        assert round_name in playoff_round_names,'Unrecognized week name {}'.format(round_name)
+        number_of_regular_season_weeks = get_number_of_weeks_in_season(year)
+        playoff_offset = playoff_round_to_offset(round_name,year)
+        week = number_of_regular_season_weeks + playoff_offset
+        
+    # One way or another, *week* is an integer now
+    assert isinstance(week,int)
+    
+    return year,week
+
+
+def week_index_to_name(week,year):
+    """
+    Given a zero-indexed week number, return a string name for that week, e.g.
+    "week 12" or "divsionional round"
+    """
+    
+    assert year >= 1966 and year <= 2050
+    
+    n_regular_season_weeks = get_number_of_weeks_in_season(year)
+    if week < n_regular_season_weeks:
+        return 'week {}'.format(week+1)
+    else:
+        playoff_round_index = week - n_regular_season_weeks
+        if year < 1978:
+            round_mapping = {0:'divisional',1:'championship',2:'super bowl'}        
+        else:
+            round_mapping = {0:'wild card',1:'divisional',2:'championship',3:'super bowl'}        
+        return round_mapping[playoff_round_index]
+
+
 def playoff_round_to_offset(round_name,year):
     """
     Given a playoff round name from playoff_round_names, return the number of games
@@ -115,6 +173,155 @@ def is_super_bowl(week,year):
     return week == get_number_of_weeks_in_season(year) + playoff_round_to_offset('superbowl',year)
         
 
+def parse_game_from_boxscore_html(boxscore_html):
+    
+    game_soup = BeautifulSoup(boxscore_html,'html.parser')
+    
+    # E.g.:
+    #
+    # Regular season:
+    #
+    # New Orleans Saints at Green Bay Packers - September 8th, 2011 | Pro-Football-Reference.com
+    #
+    # Playoff:
+    #
+    # Wild Card - Atlanta Falcons at Arizona Cardinals - January 3rd, 2009 | Pro-Football-Reference.com
+    #
+    # Starting in 2021:
+    # 
+    # Dallas Cowboys  at  Tampa Bay Buccaneers - September 9th, 2021 - Raymond James Stadium | Pro-Football-Reference.com
+    # Cleveland Browns  at  Kansas City Chiefs - September 12th, 2021 - GEHA Field at Arrowhead Stadium | Pro-Football-Reference.com
+    
+    title_raw = game_soup.title.getText()
+    
+    # Super Bowls use 'vs.', all other games use 'at' (maybe London games use 'vs.'?)
+    assert ' at ' in title_raw or ' vs. ' in title_raw, 'Could not parse title: {}'.format(title_raw)
+    team_tokens = re.split(r' at | vs. ',title_raw,maxsplit=1)
+    assert len(team_tokens) == 2
+    team_away = team_tokens[0].strip()
+    if ' - ' in team_away:
+        team_away = team_away.split(' - ')[1].strip()
+    team_home = team_tokens[1].strip()
+    if ' - ' in team_home:
+        team_home = team_home.split(' - ')[0].strip()
+    
+    # Get records *after* this game
+    scorebox = game_soup.find_all('div','scorebox')
+    assert len(scorebox) == 1
+    scorebox = scorebox[0]
+    score_divs = scorebox.find_all('div','score')
+    assert len(score_divs) == 2
+    away_final_score = int(score_divs[0].text)
+    home_final_score = int(score_divs[1].text)
+            
+    scorebox_inner_divs = scorebox.find_all('div')
+    team_record_strings = []
+    for div in scorebox_inner_divs:
+        if len(div.text) < 10 and '-' in div.text:
+            team_record_strings.append(div.text)
+    assert len(team_record_strings) == 2
+    away_record = team_record_strings[0]
+    home_record = team_record_strings[1]
+            
+    # Get scores
+    linescores = game_soup.find_all('table','linescore')
+    assert len(linescores) == 1
+    linescore_table = linescores[0]
+    linescore_table_body = linescore_table.find('tbody')
+    linescore_table_rows = linescore_table_body.find_all('tr')
+    
+    assert len(linescore_table_rows) == 2
+    
+    home_scores = None
+    away_scores = None
+    
+    for i_row,row in enumerate(linescore_table_rows):
+        cols = row.find_all('td')
+        
+        # This depends on whether the game went into OT
+        # 
+        # 7 cols == logo,name,q1,q2,q3,q4,final
+        # 8 cols == logo,name,q1,q2,q3,q4,ot,final
+        # 9 cols == logo,name,q1,q2,q3,q4,ot,ot2,final
+        assert len(cols) >= 7
+        
+        # team_logo_col = cols[0]
+        team_name_col = str(cols[1])
+        if i_row == 0:
+            assert team_away in team_name_col
+        else:
+            assert team_home in team_name_col
+        
+        # Team score by quarter, then overtime, then final
+        #
+        # In the (rare) case of a 2OT game, column 4 will be a comma-separated string.
+        team_scores = [0] * 6            
+        team_scores[0] = int(cols[2].text)
+        team_scores[1] = int(cols[3].text)            
+        team_scores[2] = int(cols[4].text)            
+        team_scores[3] = int(cols[5].text)
+        
+        # If there was no overtime
+        if len(cols) == 7:        
+            team_scores[4] = 0
+            team_scores[5] = int(cols[6].text)
+        else:
+            assert len(cols) == 8 or len(cols) == 9
+            if len(cols) == 8:
+                team_scores[4] = int(cols[6].text)
+                team_scores[5] = int(cols[7].text)
+            else:
+                assert len(cols) == 9
+                team_scores[4] = cols[6].text.strip() + ',' + cols[7].text
+                team_scores[5] = int(cols[8].text)
+                    
+        if i_row == 0:
+            away_scores = team_scores
+        else:
+            home_scores = team_scores
+    
+    # ...for each row in the two-row scoring table
+    
+    if away_final_score != away_scores[-1]:
+        assert away_final_score == home_scores[-1]
+        print('Warning: game {} has the home/away scores reversed'.format(title_raw))        
+    if home_final_score != home_scores[-1]:
+        assert home_final_score == away_scores[-1]
+        print('Warning: game {} has the away/home scores reversed'.format(title_raw))        
+    
+    # Get date/time
+    # The scorebox meta information looks like this:
+    """
+    <div class="scorebox_meta">
+iv>Thursday Sep 8, 2011</div><div><strong>Start Time</strong>: 8:40pm</div><div><strong>Stadium</strong>: <a href="/stadiums/GNB00.htm">Lambeau Field</a> </div><div><strong>Attendance</strong>: <a href="/years/2011/attendance.htm">70,555</a></div><div><strong>Time of Game</strong>: 3:09</div>
+iv><em>Logos <a href="http://www.sportslogos.net/">via Sports Logos.net</a>
+        / <a href="//www.sports-reference.com/blog/2016/06/redesign-team-and-league-logos-courtesy-sportslogos-net/">About logos</a></em></div>
+    <div>
+    """
+    scorebox_meta = game_soup.find_all('div',{'class':'scorebox_meta'})
+    assert len(scorebox_meta) == 1
+    scorebox_meta = scorebox_meta[0]
+    scorebox_meta_divs = scorebox_meta.find_all('div')
+    date_text = scorebox_meta_divs[0].getText().strip()
+    time_text = scorebox_meta_divs[1].getText()
+    assert time_text.startswith('Start Time')
+    time_text = time_text.split(':',1)[1].strip()        
+    datetime_text = date_text + ' ' + time_text
+    
+    # Now we have, e.g.:
+    #
+    # Thursday Sep 8, 2011 8:40pm
+    #        
+    # I'm *almost* positive it's returning games in browser-local time        
+    game_start_time = dateparser.parse(datetime_text)
+    
+    game = GameInfo(team_away,team_home,game_start_time,
+                    away_scores,home_scores,away_record,home_record)
+    game.boxscore_html = boxscore_html
+    
+    return game
+    
+    
 def load_game_times_from_url(url,week,year):
     """
     Load game times from a single-week URL, e.g.:
@@ -188,134 +395,11 @@ def load_game_times_from_url(url,week,year):
         # E.g.: https://www.pro-football-reference.com/boxscores/200909100pit.htm
         boxscore_url = base_url + relative_path
         
-        html_text = requests.get(boxscore_url).text
+        boxscore_html = requests.get(boxscore_url).text
         time.sleep(sleep_after_request_time)
-        game_soup = BeautifulSoup(html_text,'html.parser')
         
-        # E.g.:
-        #
-        # Regular season:
-        #
-        # New Orleans Saints at Green Bay Packers - September 8th, 2011 | Pro-Football-Reference.com
-        #
-        # Playoff:
-        #
-        # Wild Card - Atlanta Falcons at Arizona Cardinals - January 3rd, 2009 | Pro-Football-Reference.com
-        #
-        # Starting in 2021:
-        # 
-        # Dallas Cowboys  at  Tampa Bay Buccaneers - September 9th, 2021 - Raymond James Stadium | Pro-Football-Reference.com
-        # Cleveland Browns  at  Kansas City Chiefs - September 12th, 2021 - GEHA Field at Arrowhead Stadium | Pro-Football-Reference.com
-        
-        title_raw = game_soup.title.getText()
-        
-        # Super Bowls use 'vs.', all other games use 'at' (maybe London games use 'vs.'?)
-        assert ' at ' in title_raw or ' vs. ' in title_raw, 'Could not parse title: {}'.format(title_raw)
-        team_tokens = re.split(r' at | vs. ',title_raw,maxsplit=1)
-        assert len(team_tokens) == 2
-        team_away = team_tokens[0].strip()
-        if ' - ' in team_away:
-            team_away = team_away.split(' - ')[1].strip()
-        team_home = team_tokens[1].strip()
-        if ' - ' in team_home:
-            team_home = team_home.split(' - ')[0].strip()
-        
-        # Get records *after* this game
-        scorebox = game_soup.find_all('div','scorebox')
-        assert len(scorebox) == 1
-        scorebox = scorebox[0]
-        score_divs = scorebox.find_all('div','score')
-        assert len(score_divs) == 2
-        away_final_score = int(score_divs[0].text)
-        home_final_score = int(score_divs[1].text)
-                
-        scorebox_inner_divs = scorebox.find_all('div')
-        team_record_strings = []
-        for div in scorebox_inner_divs:
-            if len(div.text) < 10 and '-' in div.text:
-                team_record_strings.append(div.text)
-        assert len(team_record_strings) == 2
-        away_record = team_record_strings[0]
-        home_record = team_record_strings[1]
-                
-        # Get scores
-        linescores = game_soup.find_all('table','linescore')
-        assert len(linescores) == 1
-        linescore_table = linescores[0]
-        linescore_table_body = linescore_table.find('tbody')
-        linescore_table_rows = linescore_table_body.find_all('tr')
-        
-        assert len(linescore_table_rows) == 2
-        
-        home_scores = None
-        away_scores = None
-        
-        for i_row,row in enumerate(linescore_table_rows):
-            cols = row.find_all('td')
-            
-            # This depends on whether the game went into OT
-            assert len(cols) == 7 or len(cols) == 8
-            # team_logo_col = cols[0]
-            team_name_col = str(cols[1])
-            if i_row == 0:
-                assert team_away in team_name_col
-            else:
-                assert team_home in team_name_col
-            
-            # Team score by quarter, then overtime, then final
-            team_scores = [0] * 6            
-            team_scores[0] = int(cols[2].text)
-            team_scores[1] = int(cols[3].text)
-            team_scores[2] = int(cols[4].text)
-            team_scores[3] = int(cols[5].text)
-            
-            # If there was no overtime            
-            if len(cols) == 7:        
-                team_scores[4] = 0
-                team_scores[5] = int(cols[6].text)
-            else:
-                assert len(cols) == 8
-                team_scores[4] = int(cols[6].text)
-                team_scores[5] = int(cols[7].text)
-                        
-            if i_row == 0:
-                away_scores = team_scores
-            else:
-                home_scores = team_scores
-        
-        # ...for each row in the two-row scoring table
-        
-        assert away_final_score == away_scores[5]
-        assert home_final_score == home_scores[5]
-        
-        # Get date/time
-        # The scorebox meta information looks like this:
-        """
-        <div class="scorebox_meta">
-		<div>Thursday Sep 8, 2011</div><div><strong>Start Time</strong>: 8:40pm</div><div><strong>Stadium</strong>: <a href="/stadiums/GNB00.htm">Lambeau Field</a> </div><div><strong>Attendance</strong>: <a href="/years/2011/attendance.htm">70,555</a></div><div><strong>Time of Game</strong>: 3:09</div>
-		<div><em>Logos <a href="http://www.sportslogos.net/">via Sports Logos.net</a>
-            / <a href="//www.sports-reference.com/blog/2016/06/redesign-team-and-league-logos-courtesy-sportslogos-net/">About logos</a></em></div>
-        <div>
-        """
-        scorebox_meta = game_soup.find_all('div',{'class':'scorebox_meta'})
-        assert len(scorebox_meta) == 1
-        scorebox_meta = scorebox_meta[0]
-        scorebox_meta_divs = scorebox_meta.find_all('div')
-        date_text = scorebox_meta_divs[0].getText().strip()
-        time_text = scorebox_meta_divs[1].getText()
-        assert time_text.startswith('Start Time')
-        time_text = time_text.split(':',1)[1].strip()        
-        datetime_text = date_text + ' ' + time_text
-        
-        # Now we have, e.g.:
-        #
-        # Thursday Sep 8, 2011 8:40pm
-        #        
-        # I'm *almost* positive it's returning games in browser-local time        
-        game_start_time = dateparser.parse(datetime_text)
-        
-        game = GameInfo(team_away,team_home,game_start_time,
-                        away_scores,home_scores,away_record,home_record)
+        game = parse_game_from_boxscore_html(boxscore_html)
+        game.boxscore_url = boxscore_url        
         games.append(game)
     
     # ...for each game
@@ -325,36 +409,6 @@ def load_game_times_from_url(url,week,year):
     
     return sorted_games
     
-
-def week_to_numeric(year,week):
-    """
-    Convert a week string (which might be "1" (int or str) or "19" (postseason) or "wild card") 
-    to a 1-indexed week number.
-    """
-    
-    if isinstance(year,str):
-        year = int(year)
-    assert isinstance(year,int)
-    assert year >= 1966 and year <= 2050
-    
-    if isinstance(week,str):
-        try:
-            week = int(normalize_string(week))
-        except:
-            pass
-        
-    if isinstance(week,str):
-        round_name = normalize_string(week)
-        assert round_name in playoff_round_names,'Unrecognized week name {}'.format(round_name)
-        number_of_regular_season_weeks = get_number_of_weeks_in_season(year)
-        playoff_offset = playoff_round_to_offset(round_name,year)
-        week = number_of_regular_season_weeks + playoff_offset
-        
-    # One way or another, *week* is an integer now
-    assert isinstance(week,int)
-    
-    return year,week
-
 
 def load_game_times(year,week):
     """
@@ -394,13 +448,25 @@ def team_name_from_team_string(team_string):
     return team_name
 
     
-def game_list_to_html(games,week,year):    
+def game_list_to_html(games,week,year,output_format='html',
+                      include_quality_info=False,
+                      team_records=None,
+                      include_gamepass_links=False):
     """
     Given a list of games (created by load_game_times()), generate the nice HTML content
     we did all this work for.
     """
+    assert output_format in ['html','markdown']
     
-    output_html = '<html><body>\n'
+    output_html = ''
+    
+    p_open = ''
+    p_close = '\n'
+    
+    if output_format == 'html':
+        output_html += '<html><body>\n'
+        p_open -= '<p>'
+        p_close = '</p>'
     
     year,week = week_to_numeric(year,week)
     is_postseason = (week > get_number_of_weeks_in_season(year))
@@ -421,43 +487,82 @@ def game_list_to_html(games,week,year):
     # https://www.nfl.com/games/titans-at-seahawks-2021-reg-2
     previous_game_time = None
     
-    # s = games[0]
-    for s in games:
+    # game = games[0]
+    for game in games:
+
+        away_record_string = ''
+        home_record_string = ''
         
-        # E.g. New Orleans Saints at Green Bay Packers, 2011-09-08 20:40:00'
-        game_str = str(s)
-        tokens = game_str.split(',')
-        assert len(tokens) == 2
-        teams_string = tokens[0]
-        assert ' at ' in teams_string
-        date_string = tokens[1]
-        game_start_time = dateparser.parse(date_string)
+        if team_records is not None:
+            away_record = team_records[game.team_away]
+            home_record = team_records[game.team_home]
+            away_record_string = ' ({}-{}'.format(away_record['wins'],away_record['losses'])
+            if away_record['ties'] > 0:
+                away_record_string += '-{}'.format(away_record['ties'])
+            home_record_string = ' ({}-{}'.format(home_record['wins'],home_record['losses'])
+            if home_record['ties'] > 0:
+                home_record_string += '-{}'.format(home_record['ties'])
+            away_record_string += ')'
+            home_record_string += ')'
+                
+        zero_padding_specifier = '#'        
+        if os.name != 'nt':
+            zero_padding_specifier = '-'
+            
+        quality_string = ''
         
+        if include_quality_info:
+            if ('game_tags' not in game.__dict__.keys()) or \
+                (len(game.game_tags) == 0):
+                quality_string = ''
+            else:
+                assert len(game.game_tags) == 1
+                if 'bad' in game.game_tags:
+                    
+                    quality_string = \
+                        ' (	:red_circle: bad game)'
+                    #     ' ![bad game](https://img.shields.io/badge/-bad_game-aa4444)'
+                        
+                else:
+                    assert 'good' in game.game_tags
+                    quality_string = \
+                        ' (	:green_circle: good game)'
+                    #    ' ![good game](https://img.shields.io/badge/-good_game-44aa44)'
+                        
+            
+        game_str = '{}{} at {}{}, {}{}'.format(
+            game.team_away,away_record_string,
+            game.team_home,home_record_string,
+            game.start_time.strftime('%A, %b %{}d, %{}I:%M %p'.format(
+                zero_padding_specifier,zero_padding_specifier)),
+            quality_string)
+                
         start_new_line = (previous_game_time is not None) and \
-            (game_start_time - previous_game_time > timedelta(hours=1))
+            (game.start_time - previous_game_time > timedelta(hours=1))
         
         if start_new_line:
-            output_html += '\n<br/>\n\n'
+            output_html += '\n<br/>\n\n'        
         
-        previous_game_time = game_start_time
+        previous_game_time = game.start_time
         
         # E.g. New Orleans Saints at Green Bay Packers
-        team_tokens = teams_string.split(' at ')
-        assert len(team_tokens) == 2
-        visiting_team = team_name_from_team_string(team_tokens[0]).lower().replace(' ','-')
-        home_team = team_name_from_team_string(team_tokens[1]).lower().replace(' ','-')
+        visiting_team = game.team_away
+        home_team = game.team_home
         
         assert gamepass_base_url.endswith('/')
         gamepass_url = gamepass_base_url + visiting_team + '-at-' + home_team + '-' + \
             str(year) + '-' + season_portion + '-' + str(week)
         
-        # print(gamepass_url)          
-        output_html += '<p><a href="{}">{}</a></p>\n'.format(
-            gamepass_url,game_str)
+        if include_gamepass_links:
+            output_html += '{}<a href="{}">{}</a>{}\n'.format(
+                p_open,gamepass_url,game_str,p_close)
+        else:
+            output_html += '{}{}{}\n'.format(p_open,game_str,p_close)
 
     # ...for each game
     
-    output_html += '</body></html>'
+    if output_format == 'html':
+        output_html += '</body></html>'
     
     return output_html
 
@@ -470,10 +575,31 @@ if False:
     
     pass
 
-    #%% Get a list of all games for every year since 2009
+    #%% Estimate total time
     
-    sleep_after_request_time = 15
-    initial_sleep_time = 0
+    import humanfriendly
+    time_per_game = 15
+    games_per_week = 15    
+    weeks_per_year = 18
+    n_years = 14
+    humanfriendly.format_timespan(time_per_game*games_per_week*weeks_per_year*n_years)
+    
+    
+    #%% Get a list of all games for every year since 2009
+
+    from md_utils import path_utils
+    data_folder = r'g:\temp\nfl-game-ranks'
+    
+    def back_up_game_data(year_to_games):
+
+        output_filename = os.path.join(data_folder,'nfl-game-data.pickle')
+        output_filename = path_utils.insert_before_extension(output_filename)
+        
+        with open(output_filename,'wb') as f:
+            pickle.dump(year_to_games,f)
+
+    sleep_after_request_time = 10
+    initial_sleep_time = 0 # 60*30
     n_playoff_rounds = 4
     
     min_year = 2009
@@ -484,9 +610,10 @@ if False:
     
     year_to_games = defaultdict(list)
     
-    print('Starting initial sleep')
-    time.sleep(initial_sleep_time)
-    
+    if initial_sleep_time > 0:
+        print('Starting initial sleep')
+        time.sleep(initial_sleep_time)
+        
     for year in tqdm(range(min_year,max_year+1),total=(max_year-min_year)+1):
         
         print('Retrieving game times for {}'.format(year))
@@ -498,8 +625,276 @@ if False:
             year_to_games[year].append(games)            
             
         # ...for each week
+        
+        back_up_game_data(year_to_games)
     
     # ...for each year
+    
+    
+    #%% Restore data from a folder full of backups
+    
+    data_folder = r'g:\temp\nfl-game-ranks'
+    
+    pickled_files = os.listdir(data_folder)
+    pickled_files = [fn for fn in pickled_files if fn.endswith('.pickle')]
+    pickled_files = [os.path.join(data_folder,fn) for fn in pickled_files]
+    
+    year_to_games = {}
+    
+    for fn in pickled_files:        
+        with open(fn,'rb') as f:
+            d = pickle.load(f)
+            years = list(d.keys())
+            print('File {} contains games from {} to {}'.format(
+                os.path.basename(fn),min(years),max(years)))
+            for year in years:
+                year_to_games[year] = d[year]
+                
+    
+    #%% Restore data from the one and only backup file
+    
+    fn = r"G:\temp\nfl-game-ranks\nfl-game-data.2023.06.15.06.18.01.pickle"
+    with open(fn,'rb') as f:
+        year_to_games = pickle.load(f)
+        
+    
+    #%% Test html parsing from stored games
+    
+    years = sorted(list(year_to_games.keys()))
+    
+    # year = years[0]
+    for year in years:
+        
+        weeks = year_to_games[year]
+        
+        # i_week = 0
+        for i_week in range(0,len(weeks)):
+            
+            games = weeks[i_week]
+            
+            for i_game in range(0,len(games)):
+                
+                game = games[i_game]
+                game_reparsed = parse_game_from_boxscore_html(games[i_game].boxscore_html)
+                
+                assert game.home_scores == game_reparsed.home_scores
+                assert game.away_scores == game_reparsed.away_scores
+                assert game.team_away == game_reparsed.team_away
+                assert game.team_home == game_reparsed.team_home
+                assert game.start_time == game_reparsed.start_time
+                
+            # ...for each game
+            
+        # ...for each week
+        
+    # ...for each year
+    
+    print('Finished validating game parsing')
+    
+    
+    #%% Generate markdown for every week
+    
+    output_folder = r'C:\git\nfl-game-dates\nfl-game-ranks'
+    years = sorted(list(year_to_games.keys()))
+    
+    markdown_folder = os.path.join(output_folder,'games')
+    os.makedirs(markdown_folder,exist_ok=True)
+        
+    header_file = os.path.join(output_folder,'header.txt')    
+    with open(header_file,'r') as f:
+        header_lines = f.readlines()
+        
+    main_s = ''.join(header_lines) + '\n'
+    
+    for year in years:
+        main_s += '* [{}](season_{}.md)\n'.format(year,year)
+                
+    trailer_file = os.path.join(output_folder,'trailer.txt')    
+    with open(trailer_file,'r') as f:
+        trailer_lines = f.readlines()
+    main_s += '\n' + ''.join(trailer_lines) + '\n'
+    
+    main_file = os.path.join(markdown_folder,'README.md')
+    with open(main_file,'w') as f:
+        f.write(main_s)        
+    
+    
+    # year = years[0]
+    for year in years:
+                        
+        weeks = year_to_games[year]
+        n_regular_season_weeks = get_number_of_weeks_in_season(year)
+        assert n_regular_season_weeks == len(weeks) - 4
+        
+        #%%
+                
+        # Parse team names
+        team_names = set()
+        for game in weeks[0]:
+            team_names.add(game.team_home)
+            team_names.add(game.team_away)
+        assert len(team_names) == 32
+        
+        # Parse team records, also mark games as good and bad
+        
+        # Each element will be a dicts, mapping the team name to their record *before* that week
+        team_to_record_so_far = {}
+        for team_name in team_names:        
+            team_to_record_so_far[team_name] = {'wins':0,'losses':0,'ties':0}                        
+        
+        team_records_by_week = [copy.deepcopy(team_to_record_so_far)]
+        
+        # i_week = 0
+        for i_week in range(0,n_regular_season_weeks):
+            
+            games = weeks[i_week]
+            
+            # i_game = 0
+            for i_game in range(0,len(games)):
+                
+                game = games[i_game]
+                
+                # Update records
+                home_final_score = game.home_scores[-1]
+                away_final_score = game.away_scores[-1]
+                
+                if home_final_score > away_final_score:
+                    result = 'home_win'
+                elif home_final_score < away_final_score:
+                    result = 'away_win'
+                else:
+                    result = 'tie'
+                    
+                if result == 'home_win':
+                    team_to_record_so_far[game.team_home]['wins'] = \
+                        team_to_record_so_far[game.team_home]['wins'] + 1
+                    team_to_record_so_far[game.team_away]['losses'] = \
+                        team_to_record_so_far[game.team_away]['losses'] + 1
+                elif result == 'away_win':
+                    team_to_record_so_far[game.team_away]['wins'] = \
+                        team_to_record_so_far[game.team_away]['wins'] + 1
+                    team_to_record_so_far[game.team_home]['losses'] = \
+                        team_to_record_so_far[game.team_home]['losses'] + 1
+                else:
+                    team_to_record_so_far[game.team_away]['ties'] = \
+                        team_to_record_so_far[game.team_away]['ties'] + 1
+                    team_to_record_so_far[game.team_home]['ties'] = \
+                        team_to_record_so_far[game.team_home]['ties'] + 1
+                              
+                # Update good/bad tags
+                
+                game.game_tags = set()
+            
+                home_halftime_score = game.home_scores[0] + game.home_scores[1]
+                away_halftime_score = game.away_scores[0] + game.away_scores[1]
+                
+                halftime_result = None
+                if home_halftime_score > away_halftime_score:
+                    halftime_result = 'home_win'
+                elif home_halftime_score < away_halftime_score:
+                    halftime_result = 'away_win'
+                else:
+                    halftime_result = 'tie'
+                                
+                final_score_differential = abs(home_final_score - away_final_score)
+                
+                # Bad games are blowouts where the halftime leader was the final winner
+                if (final_score_differential > 16) and \
+                    (result == halftime_result):
+                        game.game_tags.add('bad')
+                    
+                second_half_comeback = False
+                if (halftime_result != 'tie') and \
+                    (halftime_result != result):
+                        second_half_comeback = True
+                
+                total_points = home_final_score + away_final_score
+                
+                # Good games are:
+                #                    
+                # The game finished as a one-score game, or...
+                # The winning team was losing at halftime...
+                # It was a two-score game with an absurd amount of scoring
+                if (final_score_differential <= 8) or \
+                    (second_half_comeback) or \
+                    ((final_score_differential <= 16) and (total_points > 60)):
+                    
+                    game.game_tags.add('good')
+                
+                assert len(game.game_tags) <= 1
+                
+            # ...for each game
+            
+            # Update team records by week
+            team_records_by_week.append(copy.deepcopy(team_to_record_so_far))
+                    
+        # ...for each week
+        
+        # Make sure records add up to the number of weeks in the season (plus one bye)
+        for team_name in team_names:
+            record = team_to_record_so_far[team_name]
+            assert record['wins'] + record['losses'] + record['ties'] == n_regular_season_weeks - 1
+            
+            
+        #%%
+                
+        no_quality_links = []
+        with_quality_links = []
+        
+        output_format='markdown'
+        
+        # i_week = 0
+        for i_week in range(0,len(weeks)):
+            
+            games = weeks[i_week]
+            
+            team_records = None
+            if i_week < n_regular_season_weeks:
+                team_records = team_records_by_week[i_week]
+                
+            md_header = '# Game info for {} {}\n\n'.format(year,week_index_to_name(i_week,year))
+            
+            md_no_quality = game_list_to_html(games,i_week,year,output_format=output_format,
+                                              include_quality_info=False,team_records=team_records)
+            md_with_quality = game_list_to_html(games,i_week,year,output_format=output_format,
+                                              include_quality_info=True,team_records=team_records)
+                                        
+            md_no_quality_string = md_header + md_no_quality
+            md_with_quality_string = md_header + md_with_quality
+            
+            md_no_quality_file = 'year_{}_week_{}_no_quality.md'.format(year,i_week)
+            md_with_quality_file = 'year_{}_week_{}_with_quality.md'.format(year,i_week)
+            
+            no_quality_links.append(md_no_quality_file)
+            with_quality_links.append(md_with_quality_file)
+            
+            with open(os.path.join(markdown_folder,md_no_quality_file),'w') as f:
+                f.write(md_no_quality_string)
+            with open(os.path.join(markdown_folder,md_with_quality_file),'w') as f:
+                f.write(md_with_quality_string)                
+                    
+        # ...for each week
+        
+        
+        #%% Write the year page
+        
+        year_s = ''        
+        year_s += '# Game info for the {} season\n\n'.format(year)
+        
+        year_s += '## Records only\n'        
+        for i_week in range(0,len(weeks)):
+            year_s += '* [{}]({})\n'.format(week_index_to_name(i_week,year).title(),no_quality_links[i_week])
+        
+        year_s += '## With quality indicators\n'        
+        for i_week in range(0,len(weeks)):
+            year_s += '* [{}]({})\n'.format(week_index_to_name(i_week,year).title(),with_quality_links[i_week])
+            
+        year_file = os.path.join(markdown_folder,'season_{}.md'.format(year))
+        with open(year_file,'w') as f:
+            f.write(year_s)
+        
+    # ...for each year
+        
     
 #%% Test driver
 
