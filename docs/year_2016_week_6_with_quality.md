@@ -1,13 +1,9 @@
 ## Game info for 2016 week 7
 Chicago Bears (1-5) at Green Bay Packers (3-2), Thursday, Oct 20, 8:26 PM
 
+<br/>New York Giants (3-3) at Los Angeles Rams (3-3), Sunday, Oct 23, 9:31 AM (	:green_circle: good game)
 
-
-New York Giants (3-3) at Los Angeles Rams (3-3), Sunday, Oct 23, 9:31 AM (	:green_circle: good game)
-
-
-
-Cleveland Browns (0-6) at Cincinnati Bengals (2-4), Sunday, Oct 23, 1:02 PM
+<br/>Cleveland Browns (0-6) at Cincinnati Bengals (2-4), Sunday, Oct 23, 1:02 PM
 
 Washington Redskins (4-2) at Detroit Lions (3-3), Sunday, Oct 23, 1:02 PM (	:green_circle: good game)
 
@@ -23,19 +19,13 @@ New Orleans Saints (2-3) at Kansas City Chiefs (3-2), Sunday, Oct 23, 1:03 PM (	
 
 Baltimore Ravens (3-3) at New York Jets (1-5), Sunday, Oct 23, 1:04 PM (	:green_circle: good game)
 
-
-
-San Diego Chargers (2-4) at Atlanta Falcons (4-2), Sunday, Oct 23, 4:05 PM (	:green_circle: good game)
+<br/>San Diego Chargers (2-4) at Atlanta Falcons (4-2), Sunday, Oct 23, 4:05 PM (	:green_circle: good game)
 
 Tampa Bay Buccaneers (2-3) at San Francisco 49ers (1-5), Sunday, Oct 23, 4:05 PM (	:red_circle: bad game)
 
 New England Patriots (5-1) at Pittsburgh Steelers (4-2), Sunday, Oct 23, 4:25 PM
 
+<br/>Seattle Seahawks (4-1) at Arizona Cardinals (3-3), Sunday, Oct 23, 8:30 PM (	:green_circle: good game)
 
-
-Seattle Seahawks (4-1) at Arizona Cardinals (3-3), Sunday, Oct 23, 8:30 PM (	:green_circle: good game)
-
-
-
-Houston Texans (4-2) at Denver Broncos (4-2), Monday, Oct 24, 8:30 PM (	:red_circle: bad game)
+<br/>Houston Texans (4-2) at Denver Broncos (4-2), Monday, Oct 24, 8:30 PM (	:red_circle: bad game)
 

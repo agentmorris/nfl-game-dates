@@ -17,9 +17,7 @@ Houston Texans (0-1) at Tennessee Titans (0-1), Sunday, Sep 20, 1:03 PM
 
 New Orleans Saints (1-0) at Philadelphia Eagles (1-0), Sunday, Sep 20, 1:04 PM
 
-
-
-Tampa Bay Buccaneers (0-1) at Buffalo Bills (0-1), Sunday, Sep 20, 4:05 PM
+<br/>Tampa Bay Buccaneers (0-1) at Buffalo Bills (0-1), Sunday, Sep 20, 4:05 PM
 
 Seattle Seahawks (1-0) at San Francisco 49ers (1-0), Sunday, Sep 20, 4:05 PM
 
@@ -29,11 +27,7 @@ Cleveland Browns (0-1) at Denver Broncos (1-0), Sunday, Sep 20, 4:15 PM
 
 Baltimore Ravens (1-0) at San Diego Chargers (1-0), Sunday, Sep 20, 4:15 PM
 
+<br/>New York Giants (1-0) at Dallas Cowboys (1-0), Sunday, Sep 20, 8:20 PM
 
-
-New York Giants (1-0) at Dallas Cowboys (1-0), Sunday, Sep 20, 8:20 PM
-
-
-
-Indianapolis Colts (1-0) at Miami Dolphins (0-1), Monday, Sep 21, 8:42 PM
+<br/>Indianapolis Colts (1-0) at Miami Dolphins (0-1), Monday, Sep 21, 8:42 PM
 

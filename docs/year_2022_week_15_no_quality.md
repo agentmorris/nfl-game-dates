@@ -1,9 +1,7 @@
 ## Game info for 2022 week 16
 Jacksonville Jaguars (6-8) at New York Jets (7-7), Thursday, Dec 22, 8:15 PM
 
-
-
-Detroit Lions (7-7) at Carolina Panthers (5-9), Saturday, Dec 24, 1:00 PM
+<br/>Detroit Lions (7-7) at Carolina Panthers (5-9), Saturday, Dec 24, 1:00 PM
 
 Buffalo Bills (11-3) at Chicago Bears (3-11), Saturday, Dec 24, 1:00 PM
 
@@ -19,29 +17,17 @@ Houston Texans (1-12-1) at Tennessee Titans (7-7), Saturday, Dec 24, 1:00 PM
 
 Atlanta Falcons (5-9) at Baltimore Ravens (9-5), Saturday, Dec 24, 1:00 PM
 
-
-
-Washington Commanders (7-6-1) at San Francisco 49ers (10-4), Saturday, Dec 24, 4:05 PM
+<br/>Washington Commanders (7-6-1) at San Francisco 49ers (10-4), Saturday, Dec 24, 4:05 PM
 
 Philadelphia Eagles (13-1) at Dallas Cowboys (10-4), Saturday, Dec 24, 4:25 PM
 
+<br/>Las Vegas Raiders (6-8) at Pittsburgh Steelers (6-8), Saturday, Dec 24, 8:15 PM
 
+<br/>Green Bay Packers (6-8) at Miami Dolphins (8-6), Sunday, Dec 25, 1:00 PM
 
-Las Vegas Raiders (6-8) at Pittsburgh Steelers (6-8), Saturday, Dec 24, 8:15 PM
+<br/>Denver Broncos (4-10) at Los Angeles Rams (4-10), Sunday, Dec 25, 4:30 PM
 
+<br/>Tampa Bay Buccaneers (6-8) at Arizona Cardinals (4-10), Sunday, Dec 25, 8:20 PM
 
-
-Green Bay Packers (6-8) at Miami Dolphins (8-6), Sunday, Dec 25, 1:00 PM
-
-
-
-Denver Broncos (4-10) at Los Angeles Rams (4-10), Sunday, Dec 25, 4:30 PM
-
-
-
-Tampa Bay Buccaneers (6-8) at Arizona Cardinals (4-10), Sunday, Dec 25, 8:20 PM
-
-
-
-Los Angeles Chargers (8-6) at Indianapolis Colts (4-9-1), Monday, Dec 26, 8:15 PM
+<br/>Los Angeles Chargers (8-6) at Indianapolis Colts (4-9-1), Monday, Dec 26, 8:15 PM
 

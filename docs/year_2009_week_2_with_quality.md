@@ -17,9 +17,7 @@ San Francisco 49ers (2-0) at Minnesota Vikings (2-0), Sunday, Sep 27, 1:03 PM (	
 
 Tennessee Titans (0-2) at New York Jets (2-0), Sunday, Sep 27, 1:03 PM (	:green_circle: good game)
 
-
-
-New Orleans Saints (2-0) at Buffalo Bills (1-1), Sunday, Sep 27, 4:05 PM (	:red_circle: bad game)
+<br/>New Orleans Saints (2-0) at Buffalo Bills (1-1), Sunday, Sep 27, 4:05 PM (	:red_circle: bad game)
 
 Chicago Bears (1-1) at Seattle Seahawks (1-1), Sunday, Sep 27, 4:06 PM (	:green_circle: good game)
 
@@ -29,11 +27,7 @@ Denver Broncos (2-0) at Oakland Raiders (1-1), Sunday, Sep 27, 4:15 PM (	:red_ci
 
 Miami Dolphins (0-2) at San Diego Chargers (1-1), Sunday, Sep 27, 4:15 PM
 
+<br/>Indianapolis Colts (2-0) at Arizona Cardinals (1-1), Sunday, Sep 27, 8:31 PM (	:red_circle: bad game)
 
-
-Indianapolis Colts (2-0) at Arizona Cardinals (1-1), Sunday, Sep 27, 8:31 PM (	:red_circle: bad game)
-
-
-
-Carolina Panthers (0-2) at Dallas Cowboys (1-1), Monday, Sep 28, 8:40 PM (	:green_circle: good game)
+<br/>Carolina Panthers (0-2) at Dallas Cowboys (1-1), Monday, Sep 28, 8:40 PM (	:green_circle: good game)
 

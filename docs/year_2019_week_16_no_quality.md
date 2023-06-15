@@ -15,9 +15,7 @@ Miami Dolphins (4-11) at New England Patriots (12-3), Sunday, Dec 29, 1:00 PM
 
 Atlanta Falcons (6-9) at Tampa Bay Buccaneers (7-8), Sunday, Dec 29, 1:00 PM
 
-
-
-Washington Redskins (3-12) at Dallas Cowboys (7-8), Sunday, Dec 29, 4:25 PM
+<br/>Washington Redskins (3-12) at Dallas Cowboys (7-8), Sunday, Dec 29, 4:25 PM
 
 Oakland Raiders (7-8) at Denver Broncos (6-9), Sunday, Dec 29, 4:25 PM
 
@@ -31,7 +29,5 @@ Arizona Cardinals (5-9-1) at Los Angeles Rams (8-7), Sunday, Dec 29, 4:25 PM
 
 Pittsburgh Steelers (8-7) at Baltimore Ravens (13-2), Sunday, Dec 29, 4:25 PM
 
-
-
-San Francisco 49ers (12-3) at Seattle Seahawks (11-4), Sunday, Dec 29, 8:20 PM
+<br/>San Francisco 49ers (12-3) at Seattle Seahawks (11-4), Sunday, Dec 29, 8:20 PM
 

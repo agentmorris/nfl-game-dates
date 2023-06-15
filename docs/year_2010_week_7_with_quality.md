@@ -13,9 +13,7 @@ Denver Broncos (2-5) at San Francisco 49ers (1-6), Sunday, Oct 31, 1:07 PM (	:gr
 
 Buffalo Bills (0-6) at Kansas City Chiefs (4-2), Sunday, Oct 31, 1:08 PM (	:green_circle: good game)
 
-
-
-Tennessee Titans (5-2) at San Diego Chargers (2-5), Sunday, Oct 31, 4:05 PM (	:green_circle: good game)
+<br/>Tennessee Titans (5-2) at San Diego Chargers (2-5), Sunday, Oct 31, 4:05 PM (	:green_circle: good game)
 
 Tampa Bay Buccaneers (4-2) at Arizona Cardinals (3-3), Sunday, Oct 31, 4:15 PM (	:green_circle: good game)
 
@@ -23,11 +21,7 @@ Minnesota Vikings (2-4) at New England Patriots (5-1), Sunday, Oct 31, 4:15 PM
 
 Seattle Seahawks (4-2) at Oakland Raiders (3-4), Sunday, Oct 31, 4:15 PM (	:red_circle: bad game)
 
+<br/>Pittsburgh Steelers (5-1) at New Orleans Saints (4-3), Sunday, Oct 31, 8:30 PM
 
-
-Pittsburgh Steelers (5-1) at New Orleans Saints (4-3), Sunday, Oct 31, 8:30 PM
-
-
-
-Houston Texans (4-2) at Indianapolis Colts (4-2), Monday, Nov 1, 8:41 PM
+<br/>Houston Texans (4-2) at Indianapolis Colts (4-2), Monday, Nov 1, 8:41 PM
 

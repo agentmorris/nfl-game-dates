@@ -1,9 +1,7 @@
 ## Game info for 2020 week 2
 Cincinnati Bengals (0-1) at Cleveland Browns (0-1), Thursday, Sep 17, 8:20 PM
 
-
-
-New York Giants (0-1) at Chicago Bears (1-0), Sunday, Sep 20, 1:00 PM
+<br/>New York Giants (0-1) at Chicago Bears (1-0), Sunday, Sep 20, 1:00 PM
 
 Minnesota Vikings (0-1) at Indianapolis Colts (0-1), Sunday, Sep 20, 1:00 PM
 
@@ -23,19 +21,13 @@ Denver Broncos (0-1) at Pittsburgh Steelers (1-0), Sunday, Sep 20, 1:00 PM
 
 Carolina Panthers (0-1) at Tampa Bay Buccaneers (0-1), Sunday, Sep 20, 1:00 PM
 
-
-
-Washington Football Team (1-0) at Arizona Cardinals (1-0), Sunday, Sep 20, 4:05 PM
+<br/>Washington Football Team (1-0) at Arizona Cardinals (1-0), Sunday, Sep 20, 4:05 PM
 
 Baltimore Ravens (1-0) at Houston Texans (0-1), Sunday, Sep 20, 4:25 PM
 
 Kansas City Chiefs (1-0) at Los Angeles Chargers (1-0), Sunday, Sep 20, 4:25 PM
 
+<br/>New England Patriots (1-0) at Seattle Seahawks (1-0), Sunday, Sep 20, 8:20 PM
 
-
-New England Patriots (1-0) at Seattle Seahawks (1-0), Sunday, Sep 20, 8:20 PM
-
-
-
-New Orleans Saints (1-0) at Las Vegas Raiders (1-0), Monday, Sep 21, 8:15 PM
+<br/>New Orleans Saints (1-0) at Las Vegas Raiders (1-0), Monday, Sep 21, 8:15 PM
 

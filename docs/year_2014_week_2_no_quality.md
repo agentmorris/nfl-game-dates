@@ -1,9 +1,7 @@
 ## Game info for 2014 week 3
 Tampa Bay Buccaneers (0-2) at Atlanta Falcons (1-1), Thursday, Sep 18, 8:26 PM
 
-
-
-Dallas Cowboys (1-1) at St. Louis Rams (1-1), Sunday, Sep 21, 1:00 PM
+<br/>Dallas Cowboys (1-1) at St. Louis Rams (1-1), Sunday, Sep 21, 1:00 PM
 
 San Diego Chargers (1-1) at Buffalo Bills (2-0), Sunday, Sep 21, 1:02 PM
 
@@ -23,19 +21,13 @@ Washington Redskins (1-1) at Philadelphia Eagles (2-0), Sunday, Sep 21, 1:02 PM
 
 Minnesota Vikings (1-1) at New Orleans Saints (0-2), Sunday, Sep 21, 1:03 PM
 
-
-
-San Francisco 49ers (1-1) at Arizona Cardinals (2-0), Sunday, Sep 21, 4:05 PM
+<br/>San Francisco 49ers (1-1) at Arizona Cardinals (2-0), Sunday, Sep 21, 4:05 PM
 
 Kansas City Chiefs (0-2) at Miami Dolphins (1-1), Sunday, Sep 21, 4:25 PM
 
 Denver Broncos (2-0) at Seattle Seahawks (1-1), Sunday, Sep 21, 4:25 PM
 
+<br/>Pittsburgh Steelers (1-1) at Carolina Panthers (2-0), Sunday, Sep 21, 8:31 PM
 
-
-Pittsburgh Steelers (1-1) at Carolina Panthers (2-0), Sunday, Sep 21, 8:31 PM
-
-
-
-Chicago Bears (1-1) at New York Jets (1-1), Monday, Sep 22, 8:30 PM
+<br/>Chicago Bears (1-1) at New York Jets (1-1), Monday, Sep 22, 8:30 PM
 

@@ -1,9 +1,7 @@
 ## Game info for 2020 week 9
 Green Bay Packers (5-2) at San Francisco 49ers (4-4), Thursday, Nov 5, 8:20 PM (	:red_circle: bad game)
 
-
-
-Denver Broncos (3-4) at Atlanta Falcons (2-6), Sunday, Nov 8, 1:00 PM (	:green_circle: good game)
+<br/>Denver Broncos (3-4) at Atlanta Falcons (2-6), Sunday, Nov 8, 1:00 PM (	:green_circle: good game)
 
 Seattle Seahawks (6-1) at Buffalo Bills (6-2), Sunday, Nov 8, 1:00 PM (	:green_circle: good game)
 
@@ -19,19 +17,13 @@ Chicago Bears (5-3) at Tennessee Titans (5-2), Sunday, Nov 8, 1:00 PM (	:green_c
 
 New York Giants (1-7) at Washington Football Team (2-5), Sunday, Nov 8, 1:00 PM (	:green_circle: good game)
 
-
-
-Las Vegas Raiders (4-3) at Los Angeles Chargers (2-5), Sunday, Nov 8, 4:05 PM (	:green_circle: good game)
+<br/>Las Vegas Raiders (4-3) at Los Angeles Chargers (2-5), Sunday, Nov 8, 4:05 PM (	:green_circle: good game)
 
 Miami Dolphins (4-3) at Arizona Cardinals (5-2), Sunday, Nov 8, 4:25 PM (	:green_circle: good game)
 
 Pittsburgh Steelers (7-0) at Dallas Cowboys (2-6), Sunday, Nov 8, 4:25 PM (	:green_circle: good game)
 
+<br/>New Orleans Saints (5-2) at Tampa Bay Buccaneers (6-2), Sunday, Nov 8, 8:20 PM (	:red_circle: bad game)
 
-
-New Orleans Saints (5-2) at Tampa Bay Buccaneers (6-2), Sunday, Nov 8, 8:20 PM (	:red_circle: bad game)
-
-
-
-New England Patriots (2-5) at New York Jets (0-8), Monday, Nov 9, 8:15 PM (	:green_circle: good game)
+<br/>New England Patriots (2-5) at New York Jets (0-8), Monday, Nov 9, 8:15 PM (	:green_circle: good game)
 

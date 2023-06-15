@@ -1,17 +1,11 @@
 ## Game info for 2018 week 12
 Chicago Bears (7-3) at Detroit Lions (4-6), Thursday, Nov 22, 12:30 PM
 
+<br/>Washington Redskins (6-4) at Dallas Cowboys (5-5), Thursday, Nov 22, 4:30 PM
 
+<br/>Atlanta Falcons (4-6) at New Orleans Saints (9-1), Thursday, Nov 22, 8:20 PM
 
-Washington Redskins (6-4) at Dallas Cowboys (5-5), Thursday, Nov 22, 4:30 PM
-
-
-
-Atlanta Falcons (4-6) at New Orleans Saints (9-1), Thursday, Nov 22, 8:20 PM
-
-
-
-Jacksonville Jaguars (3-7) at Buffalo Bills (3-7), Sunday, Nov 25, 1:00 PM
+<br/>Jacksonville Jaguars (3-7) at Buffalo Bills (3-7), Sunday, Nov 25, 1:00 PM
 
 Seattle Seahawks (5-5) at Carolina Panthers (6-4), Sunday, Nov 25, 1:00 PM
 
@@ -25,19 +19,13 @@ Oakland Raiders (2-8) at Baltimore Ravens (5-5), Sunday, Nov 25, 1:00 PM
 
 San Francisco 49ers (2-8) at Tampa Bay Buccaneers (3-7), Sunday, Nov 25, 1:00 PM
 
-
-
-Arizona Cardinals (2-8) at Los Angeles Chargers (7-3), Sunday, Nov 25, 4:05 PM
+<br/>Arizona Cardinals (2-8) at Los Angeles Chargers (7-3), Sunday, Nov 25, 4:05 PM
 
 Miami Dolphins (5-5) at Indianapolis Colts (5-5), Sunday, Nov 25, 4:25 PM
 
 Pittsburgh Steelers (7-2-1) at Denver Broncos (4-6), Sunday, Nov 25, 4:25 PM
 
+<br/>Green Bay Packers (4-5-1) at Minnesota Vikings (5-4-1), Sunday, Nov 25, 8:20 PM
 
-
-Green Bay Packers (4-5-1) at Minnesota Vikings (5-4-1), Sunday, Nov 25, 8:20 PM
-
-
-
-Tennessee Titans (5-5) at Houston Texans (7-3), Monday, Nov 26, 8:15 PM
+<br/>Tennessee Titans (5-5) at Houston Texans (7-3), Monday, Nov 26, 8:15 PM
 

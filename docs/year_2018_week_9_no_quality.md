@@ -1,9 +1,7 @@
 ## Game info for 2018 week 10
 Carolina Panthers (6-2) at Pittsburgh Steelers (5-2-1), Thursday, Nov 8, 8:20 PM
 
-
-
-Detroit Lions (3-5) at Chicago Bears (5-3), Sunday, Nov 11, 1:00 PM
+<br/>Detroit Lions (3-5) at Chicago Bears (5-3), Sunday, Nov 11, 1:00 PM
 
 New Orleans Saints (7-1) at Cincinnati Bengals (5-3), Sunday, Nov 11, 1:00 PM
 
@@ -19,19 +17,13 @@ New England Patriots (7-2) at Tennessee Titans (4-4), Sunday, Nov 11, 1:00 PM
 
 Washington Redskins (5-3) at Tampa Bay Buccaneers (3-5), Sunday, Nov 11, 1:00 PM
 
-
-
-Los Angeles Chargers (6-2) at Oakland Raiders (1-7), Sunday, Nov 11, 4:05 PM
+<br/>Los Angeles Chargers (6-2) at Oakland Raiders (1-7), Sunday, Nov 11, 4:05 PM
 
 Miami Dolphins (5-4) at Green Bay Packers (3-4-1), Sunday, Nov 11, 4:25 PM
 
 Seattle Seahawks (4-4) at Los Angeles Rams (8-1), Sunday, Nov 11, 4:25 PM
 
+<br/>Dallas Cowboys (3-5) at Philadelphia Eagles (4-4), Sunday, Nov 11, 8:20 PM
 
-
-Dallas Cowboys (3-5) at Philadelphia Eagles (4-4), Sunday, Nov 11, 8:20 PM
-
-
-
-New York Giants (1-7) at San Francisco 49ers (2-7), Monday, Nov 12, 8:15 PM
+<br/>New York Giants (1-7) at San Francisco 49ers (2-7), Monday, Nov 12, 8:15 PM
 

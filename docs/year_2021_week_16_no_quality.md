@@ -19,9 +19,7 @@ Miami Dolphins (8-7) at Tennessee Titans (10-5), Sunday, Jan 2, 1:00 PM
 
 Philadelphia Eagles (8-7) at Washington Football Team (6-9), Sunday, Jan 2, 1:00 PM
 
-
-
-Denver Broncos (7-8) at Los Angeles Chargers (8-7), Sunday, Jan 2, 4:05 PM
+<br/>Denver Broncos (7-8) at Los Angeles Chargers (8-7), Sunday, Jan 2, 4:05 PM
 
 Houston Texans (4-11) at San Francisco 49ers (8-7), Sunday, Jan 2, 4:05 PM
 
@@ -29,11 +27,7 @@ Los Angeles Rams (11-4) at Baltimore Ravens (8-7), Sunday, Jan 2, 4:25 PM
 
 Detroit Lions (2-12-1) at Seattle Seahawks (5-10), Sunday, Jan 2, 4:25 PM
 
+<br/>Minnesota Vikings (7-8) at Green Bay Packers (12-3), Sunday, Jan 2, 8:20 PM
 
-
-Minnesota Vikings (7-8) at Green Bay Packers (12-3), Sunday, Jan 2, 8:20 PM
-
-
-
-Cleveland Browns (7-8) at Pittsburgh Steelers (7-7-1), Monday, Jan 3, 8:15 PM
+<br/>Cleveland Browns (7-8) at Pittsburgh Steelers (7-7-1), Monday, Jan 3, 8:15 PM
 

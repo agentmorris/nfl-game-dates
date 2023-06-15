@@ -1,13 +1,9 @@
 ## Game info for 2015 week 16
 San Diego Chargers (4-10) at Oakland Raiders (6-8), Thursday, Dec 24, 8:26 PM
 
+<br/>Washington Redskins (7-7) at Philadelphia Eagles (6-8), Saturday, Dec 26, 8:26 PM
 
-
-Washington Redskins (7-7) at Philadelphia Eagles (6-8), Saturday, Dec 26, 8:26 PM
-
-
-
-Carolina Panthers (14-0) at Atlanta Falcons (7-7), Sunday, Dec 27, 1:02 PM
+<br/>Carolina Panthers (14-0) at Atlanta Falcons (7-7), Sunday, Dec 27, 1:02 PM
 
 Dallas Cowboys (4-10) at Buffalo Bills (6-8), Sunday, Dec 27, 1:02 PM
 
@@ -25,19 +21,13 @@ Cleveland Browns (3-11) at Kansas City Chiefs (9-5), Sunday, Dec 27, 1:03 PM
 
 Chicago Bears (5-9) at Tampa Bay Buccaneers (6-8), Sunday, Dec 27, 1:03 PM
 
-
-
-Jacksonville Jaguars (5-9) at New Orleans Saints (5-9), Sunday, Dec 27, 4:05 PM
+<br/>Jacksonville Jaguars (5-9) at New Orleans Saints (5-9), Sunday, Dec 27, 4:05 PM
 
 Green Bay Packers (10-4) at Arizona Cardinals (12-2), Sunday, Dec 27, 4:25 PM
 
 St. Louis Rams (6-8) at Seattle Seahawks (9-5), Sunday, Dec 27, 4:26 PM
 
+<br/>New York Giants (6-8) at Minnesota Vikings (9-5), Sunday, Dec 27, 8:30 PM
 
-
-New York Giants (6-8) at Minnesota Vikings (9-5), Sunday, Dec 27, 8:30 PM
-
-
-
-Cincinnati Bengals (11-3) at Denver Broncos (10-4), Monday, Dec 28, 8:30 PM
+<br/>Cincinnati Bengals (11-3) at Denver Broncos (10-4), Monday, Dec 28, 8:30 PM
 

@@ -19,9 +19,7 @@ Washington Redskins (8-7) at Dallas Cowboys (4-11), Sunday, Jan 3, 1:03 PM
 
 Philadelphia Eagles (6-9) at New York Giants (6-9), Sunday, Jan 3, 1:03 PM (	:green_circle: good game)
 
-
-
-Tampa Bay Buccaneers (6-9) at Carolina Panthers (14-1), Sunday, Jan 3, 4:25 PM (	:red_circle: bad game)
+<br/>Tampa Bay Buccaneers (6-9) at Carolina Panthers (14-1), Sunday, Jan 3, 4:25 PM (	:red_circle: bad game)
 
 Seattle Seahawks (9-6) at Arizona Cardinals (13-2), Sunday, Jan 3, 4:25 PM (	:red_circle: bad game)
 
@@ -31,7 +29,5 @@ St. Louis Rams (7-8) at San Francisco 49ers (4-11), Sunday, Jan 3, 4:25 PM (	:gr
 
 Oakland Raiders (7-8) at Kansas City Chiefs (10-5), Sunday, Jan 3, 4:26 PM (	:green_circle: good game)
 
-
-
-Minnesota Vikings (10-5) at Green Bay Packers (10-5), Sunday, Jan 3, 8:30 PM (	:green_circle: good game)
+<br/>Minnesota Vikings (10-5) at Green Bay Packers (10-5), Sunday, Jan 3, 8:30 PM (	:green_circle: good game)
 

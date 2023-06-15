@@ -17,9 +17,7 @@ Carolina Panthers (6-9) at New Orleans Saints (12-3), Sunday, Jan 1, 1:03 PM
 
 Chicago Bears (7-8) at Minnesota Vikings (3-12), Sunday, Jan 1, 1:05 PM
 
-
-
-Seattle Seahawks (7-8) at Arizona Cardinals (7-8), Sunday, Jan 1, 4:15 PM
+<br/>Seattle Seahawks (7-8) at Arizona Cardinals (7-8), Sunday, Jan 1, 4:15 PM
 
 San Diego Chargers (7-8) at Oakland Raiders (8-7), Sunday, Jan 1, 4:15 PM
 
@@ -31,7 +29,5 @@ Kansas City Chiefs (6-9) at Denver Broncos (8-7), Sunday, Jan 1, 4:16 PM
 
 Tampa Bay Buccaneers (4-11) at Atlanta Falcons (9-6), Sunday, Jan 1, 4:17 PM
 
-
-
-Dallas Cowboys (8-7) at New York Giants (8-7), Sunday, Jan 1, 8:31 PM
+<br/>Dallas Cowboys (8-7) at New York Giants (8-7), Sunday, Jan 1, 8:31 PM
 

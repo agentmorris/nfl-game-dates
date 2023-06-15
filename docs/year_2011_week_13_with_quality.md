@@ -1,9 +1,7 @@
 ## Game info for 2011 week 14
 Cleveland Browns (4-8) at Pittsburgh Steelers (9-3), Thursday, Dec 8, 8:28 PM
 
-
-
-Houston Texans (9-3) at Cincinnati Bengals (7-5), Sunday, Dec 11, 1:02 PM (	:green_circle: good game)
+<br/>Houston Texans (9-3) at Cincinnati Bengals (7-5), Sunday, Dec 11, 1:02 PM (	:green_circle: good game)
 
 Kansas City Chiefs (5-7) at New York Jets (7-5), Sunday, Dec 11, 1:02 PM (	:red_circle: bad game)
 
@@ -21,9 +19,7 @@ New England Patriots (9-3) at Washington Redskins (4-8), Sunday, Dec 11, 1:03 PM
 
 Atlanta Falcons (7-5) at Carolina Panthers (4-8), Sunday, Dec 11, 1:04 PM (	:green_circle: good game)
 
-
-
-San Francisco 49ers (10-2) at Arizona Cardinals (5-7), Sunday, Dec 11, 4:05 PM (	:green_circle: good game)
+<br/>San Francisco 49ers (10-2) at Arizona Cardinals (5-7), Sunday, Dec 11, 4:05 PM (	:green_circle: good game)
 
 Chicago Bears (7-5) at Denver Broncos (7-5), Sunday, Dec 11, 4:05 PM (	:green_circle: good game)
 
@@ -31,11 +27,7 @@ Oakland Raiders (7-5) at Green Bay Packers (12-0), Sunday, Dec 11, 4:15 PM (	:re
 
 Buffalo Bills (5-7) at San Diego Chargers (5-7), Sunday, Dec 11, 4:15 PM (	:red_circle: bad game)
 
+<br/>New York Giants (6-6) at Dallas Cowboys (7-5), Sunday, Dec 11, 8:30 PM (	:green_circle: good game)
 
-
-New York Giants (6-6) at Dallas Cowboys (7-5), Sunday, Dec 11, 8:30 PM (	:green_circle: good game)
-
-
-
-St. Louis Rams (2-10) at Seattle Seahawks (5-7), Monday, Dec 12, 8:40 PM (	:red_circle: bad game)
+<br/>St. Louis Rams (2-10) at Seattle Seahawks (5-7), Monday, Dec 12, 8:40 PM (	:red_circle: bad game)
 

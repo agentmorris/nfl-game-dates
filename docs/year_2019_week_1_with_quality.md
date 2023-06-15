@@ -1,9 +1,7 @@
 ## Game info for 2019 week 2
 Tampa Bay Buccaneers (0-1) at Carolina Panthers (0-1), Thursday, Sep 12, 8:20 PM (	:green_circle: good game)
 
-
-
-San Francisco 49ers (1-0) at Cincinnati Bengals (0-1), Sunday, Sep 15, 1:00 PM (	:red_circle: bad game)
+<br/>San Francisco 49ers (1-0) at Cincinnati Bengals (0-1), Sunday, Sep 15, 1:00 PM (	:red_circle: bad game)
 
 Los Angeles Chargers (1-0) at Detroit Lions (0-0-1), Sunday, Sep 15, 1:00 PM (	:green_circle: good game)
 
@@ -23,19 +21,13 @@ Arizona Cardinals (0-0-1) at Baltimore Ravens (1-0), Sunday, Sep 15, 1:00 PM (	:
 
 Dallas Cowboys (1-0) at Washington Redskins (0-1), Sunday, Sep 15, 1:00 PM
 
-
-
-Kansas City Chiefs (1-0) at Oakland Raiders (1-0), Sunday, Sep 15, 4:05 PM (	:red_circle: bad game)
+<br/>Kansas City Chiefs (1-0) at Oakland Raiders (1-0), Sunday, Sep 15, 4:05 PM (	:red_circle: bad game)
 
 Chicago Bears (0-1) at Denver Broncos (0-1), Sunday, Sep 15, 4:25 PM (	:green_circle: good game)
 
 New Orleans Saints (1-0) at Los Angeles Rams (1-0), Sunday, Sep 15, 4:25 PM (	:red_circle: bad game)
 
+<br/>Philadelphia Eagles (1-0) at Atlanta Falcons (0-1), Sunday, Sep 15, 8:20 PM (	:green_circle: good game)
 
-
-Philadelphia Eagles (1-0) at Atlanta Falcons (0-1), Sunday, Sep 15, 8:20 PM (	:green_circle: good game)
-
-
-
-Cleveland Browns (0-1) at New York Jets (0-1), Monday, Sep 16, 8:15 PM (	:red_circle: bad game)
+<br/>Cleveland Browns (0-1) at New York Jets (0-1), Monday, Sep 16, 8:15 PM (	:red_circle: bad game)
 

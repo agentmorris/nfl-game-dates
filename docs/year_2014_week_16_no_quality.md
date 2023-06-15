@@ -19,9 +19,7 @@ New Orleans Saints (6-9) at Tampa Bay Buccaneers (2-13), Sunday, Dec 28, 1:03 PM
 
 Dallas Cowboys (11-4) at Washington Redskins (4-11), Sunday, Dec 28, 1:05 PM
 
-
-
-Carolina Panthers (6-8-1) at Atlanta Falcons (6-9), Sunday, Dec 28, 4:25 PM
+<br/>Carolina Panthers (6-8-1) at Atlanta Falcons (6-9), Sunday, Dec 28, 4:25 PM
 
 Oakland Raiders (3-12) at Denver Broncos (11-4), Sunday, Dec 28, 4:25 PM
 
@@ -31,7 +29,5 @@ Arizona Cardinals (11-4) at San Francisco 49ers (7-8), Sunday, Dec 28, 4:25 PM
 
 St. Louis Rams (6-9) at Seattle Seahawks (11-4), Sunday, Dec 28, 4:27 PM
 
-
-
-Cincinnati Bengals (10-4-1) at Pittsburgh Steelers (10-5), Sunday, Dec 28, 8:30 PM
+<br/>Cincinnati Bengals (10-4-1) at Pittsburgh Steelers (10-5), Sunday, Dec 28, 8:30 PM
 

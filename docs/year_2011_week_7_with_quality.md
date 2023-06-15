@@ -11,9 +11,7 @@ Arizona Cardinals (1-5) at Baltimore Ravens (4-2), Sunday, Oct 30, 1:02 PM (	:gr
 
 Minnesota Vikings (1-6) at Carolina Panthers (2-5), Sunday, Oct 30, 1:03 PM (	:green_circle: good game)
 
-
-
-Washington Redskins (3-3) at Buffalo Bills (4-2), Sunday, Oct 30, 4:05 PM (	:red_circle: bad game)
+<br/>Washington Redskins (3-3) at Buffalo Bills (4-2), Sunday, Oct 30, 4:05 PM (	:red_circle: bad game)
 
 Detroit Lions (5-2) at Denver Broncos (2-4), Sunday, Oct 30, 4:10 PM (	:red_circle: bad game)
 
@@ -23,11 +21,7 @@ Cleveland Browns (3-3) at San Francisco 49ers (5-1), Sunday, Oct 30, 4:15 PM
 
 Cincinnati Bengals (4-2) at Seattle Seahawks (2-4), Sunday, Oct 30, 4:16 PM (	:red_circle: bad game)
 
+<br/>Dallas Cowboys (3-3) at Philadelphia Eagles (2-4), Sunday, Oct 30, 8:28 PM (	:red_circle: bad game)
 
-
-Dallas Cowboys (3-3) at Philadelphia Eagles (2-4), Sunday, Oct 30, 8:28 PM (	:red_circle: bad game)
-
-
-
-San Diego Chargers (4-2) at Kansas City Chiefs (3-3), Monday, Oct 31, 8:40 PM (	:green_circle: good game)
+<br/>San Diego Chargers (4-2) at Kansas City Chiefs (3-3), Monday, Oct 31, 8:40 PM (	:green_circle: good game)
 

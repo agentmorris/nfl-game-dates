@@ -1,13 +1,9 @@
 ## Game info for 2017 week 4
 Chicago Bears (1-2) at Green Bay Packers (2-1), Thursday, Sep 28, 8:25 PM
 
+<br/>New Orleans Saints (1-2) at Miami Dolphins (1-1), Sunday, Oct 1, 9:30 AM
 
-
-New Orleans Saints (1-2) at Miami Dolphins (1-1), Sunday, Oct 1, 9:30 AM
-
-
-
-Buffalo Bills (2-1) at Atlanta Falcons (3-0), Sunday, Oct 1, 1:00 PM
+<br/>Buffalo Bills (2-1) at Atlanta Falcons (3-0), Sunday, Oct 1, 1:00 PM
 
 Cincinnati Bengals (0-3) at Cleveland Browns (0-3), Sunday, Oct 1, 1:00 PM
 
@@ -23,9 +19,7 @@ Jacksonville Jaguars (2-1) at New York Jets (1-2), Sunday, Oct 1, 1:00 PM
 
 Pittsburgh Steelers (2-1) at Baltimore Ravens (2-1), Sunday, Oct 1, 1:00 PM
 
-
-
-San Francisco 49ers (0-3) at Arizona Cardinals (1-2), Sunday, Oct 1, 4:05 PM
+<br/>San Francisco 49ers (0-3) at Arizona Cardinals (1-2), Sunday, Oct 1, 4:05 PM
 
 Philadelphia Eagles (2-1) at Los Angeles Chargers (0-3), Sunday, Oct 1, 4:05 PM
 
@@ -33,11 +27,7 @@ New York Giants (0-3) at Tampa Bay Buccaneers (1-1), Sunday, Oct 1, 4:05 PM
 
 Oakland Raiders (2-1) at Denver Broncos (2-1), Sunday, Oct 1, 4:25 PM
 
+<br/>Indianapolis Colts (1-2) at Seattle Seahawks (1-2), Sunday, Oct 1, 8:30 PM
 
-
-Indianapolis Colts (1-2) at Seattle Seahawks (1-2), Sunday, Oct 1, 8:30 PM
-
-
-
-Washington Redskins (2-1) at Kansas City Chiefs (3-0), Monday, Oct 2, 8:30 PM
+<br/>Washington Redskins (2-1) at Kansas City Chiefs (3-0), Monday, Oct 2, 8:30 PM
 

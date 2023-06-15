@@ -13,9 +13,7 @@ Tampa Bay Buccaneers (4-3) at New Orleans Saints (5-3), Sunday, Nov 6, 1:03 PM
 
 San Francisco 49ers (6-1) at Washington Redskins (3-4), Sunday, Nov 6, 1:03 PM (	:green_circle: good game)
 
-
-
-Cincinnati Bengals (5-2) at Tennessee Titans (4-3), Sunday, Nov 6, 4:05 PM (	:green_circle: good game)
+<br/>Cincinnati Bengals (5-2) at Tennessee Titans (4-3), Sunday, Nov 6, 4:05 PM (	:green_circle: good game)
 
 Denver Broncos (2-5) at Oakland Raiders (4-3), Sunday, Nov 6, 4:05 PM (	:green_circle: good game)
 
@@ -25,11 +23,7 @@ New York Giants (5-2) at New England Patriots (5-2), Sunday, Nov 6, 4:15 PM (	:g
 
 Green Bay Packers (7-0) at San Diego Chargers (4-3), Sunday, Nov 6, 4:15 PM (	:green_circle: good game)
 
+<br/>Baltimore Ravens (5-2) at Pittsburgh Steelers (6-2), Sunday, Nov 6, 8:30 PM (	:green_circle: good game)
 
-
-Baltimore Ravens (5-2) at Pittsburgh Steelers (6-2), Sunday, Nov 6, 8:30 PM (	:green_circle: good game)
-
-
-
-Chicago Bears (4-3) at Philadelphia Eagles (3-4), Monday, Nov 7, 8:41 PM (	:green_circle: good game)
+<br/>Chicago Bears (4-3) at Philadelphia Eagles (3-4), Monday, Nov 7, 8:41 PM (	:green_circle: good game)
 

@@ -1,9 +1,7 @@
 ## Game info for 2017 week 6
 Philadelphia Eagles (4-1) at Carolina Panthers (4-1), Thursday, Oct 12, 8:25 PM
 
-
-
-Miami Dolphins (2-2) at Atlanta Falcons (3-1), Sunday, Oct 15, 1:00 PM
+<br/>Miami Dolphins (2-2) at Atlanta Falcons (3-1), Sunday, Oct 15, 1:00 PM
 
 Cleveland Browns (0-5) at Houston Texans (2-3), Sunday, Oct 15, 1:00 PM
 
@@ -17,9 +15,7 @@ Chicago Bears (1-4) at Baltimore Ravens (3-2), Sunday, Oct 15, 1:00 PM
 
 San Francisco 49ers (0-5) at Washington Redskins (2-2), Sunday, Oct 15, 1:00 PM
 
-
-
-Tampa Bay Buccaneers (2-2) at Arizona Cardinals (2-3), Sunday, Oct 15, 4:05 PM
+<br/>Tampa Bay Buccaneers (2-2) at Arizona Cardinals (2-3), Sunday, Oct 15, 4:05 PM
 
 Los Angeles Rams (3-2) at Jacksonville Jaguars (3-2), Sunday, Oct 15, 4:05 PM
 
@@ -27,11 +23,7 @@ Pittsburgh Steelers (3-2) at Kansas City Chiefs (5-0), Sunday, Oct 15, 4:25 PM
 
 Los Angeles Chargers (1-4) at Oakland Raiders (2-3), Sunday, Oct 15, 4:25 PM
 
+<br/>New York Giants (0-5) at Denver Broncos (3-1), Sunday, Oct 15, 8:30 PM
 
-
-New York Giants (0-5) at Denver Broncos (3-1), Sunday, Oct 15, 8:30 PM
-
-
-
-Indianapolis Colts (2-3) at Tennessee Titans (2-3), Monday, Oct 16, 8:30 PM
+<br/>Indianapolis Colts (2-3) at Tennessee Titans (2-3), Monday, Oct 16, 8:30 PM
 

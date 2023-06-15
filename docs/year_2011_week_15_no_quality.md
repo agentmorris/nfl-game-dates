@@ -1,9 +1,7 @@
 ## Game info for 2011 week 16
 Houston Texans (10-4) at Indianapolis Colts (1-13), Thursday, Dec 22, 8:29 PM
 
-
-
-Denver Broncos (8-6) at Buffalo Bills (5-9), Saturday, Dec 24, 1:02 PM
+<br/>Denver Broncos (8-6) at Buffalo Bills (5-9), Saturday, Dec 24, 1:02 PM
 
 Arizona Cardinals (7-7) at Cincinnati Bengals (8-6), Saturday, Dec 24, 1:02 PM
 
@@ -23,19 +21,13 @@ Tampa Bay Buccaneers (4-10) at Carolina Panthers (5-9), Saturday, Dec 24, 1:04 P
 
 Minnesota Vikings (2-12) at Washington Redskins (5-9), Saturday, Dec 24, 1:05 PM
 
-
-
-San Diego Chargers (7-7) at Detroit Lions (9-5), Saturday, Dec 24, 4:05 PM
+<br/>San Diego Chargers (7-7) at Detroit Lions (9-5), Saturday, Dec 24, 4:05 PM
 
 Philadelphia Eagles (6-8) at Dallas Cowboys (8-6), Saturday, Dec 24, 4:15 PM
 
 San Francisco 49ers (11-3) at Seattle Seahawks (7-7), Saturday, Dec 24, 4:16 PM
 
+<br/>Chicago Bears (7-7) at Green Bay Packers (13-1), Sunday, Dec 25, 8:30 PM
 
-
-Chicago Bears (7-7) at Green Bay Packers (13-1), Sunday, Dec 25, 8:30 PM
-
-
-
-Atlanta Falcons (9-5) at New Orleans Saints (11-3), Monday, Dec 26, 8:40 PM
+<br/>Atlanta Falcons (9-5) at New Orleans Saints (11-3), Monday, Dec 26, 8:40 PM
 

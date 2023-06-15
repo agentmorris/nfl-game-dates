@@ -1,9 +1,7 @@
 ## Game info for 2019 week 15
 New York Jets (5-8) at Baltimore Ravens (11-2), Thursday, Dec 12, 8:20 PM
 
-
-
-Seattle Seahawks (10-3) at Carolina Panthers (5-8), Sunday, Dec 15, 1:00 PM
+<br/>Seattle Seahawks (10-3) at Carolina Panthers (5-8), Sunday, Dec 15, 1:00 PM
 
 New England Patriots (10-3) at Cincinnati Bengals (1-12), Sunday, Dec 15, 1:00 PM
 
@@ -19,9 +17,7 @@ Houston Texans (8-5) at Tennessee Titans (8-5), Sunday, Dec 15, 1:00 PM
 
 Philadelphia Eagles (6-7) at Washington Redskins (3-10), Sunday, Dec 15, 1:00 PM
 
-
-
-Cleveland Browns (6-7) at Arizona Cardinals (3-9-1), Sunday, Dec 15, 4:05 PM
+<br/>Cleveland Browns (6-7) at Arizona Cardinals (3-9-1), Sunday, Dec 15, 4:05 PM
 
 Jacksonville Jaguars (4-9) at Oakland Raiders (6-7), Sunday, Dec 15, 4:05 PM
 
@@ -31,11 +27,7 @@ Los Angeles Rams (8-5) at Dallas Cowboys (6-7), Sunday, Dec 15, 4:25 PM
 
 Atlanta Falcons (4-9) at San Francisco 49ers (11-2), Sunday, Dec 15, 4:25 PM
 
+<br/>Buffalo Bills (9-4) at Pittsburgh Steelers (8-5), Sunday, Dec 15, 8:20 PM
 
-
-Buffalo Bills (9-4) at Pittsburgh Steelers (8-5), Sunday, Dec 15, 8:20 PM
-
-
-
-Indianapolis Colts (6-7) at New Orleans Saints (10-3), Monday, Dec 16, 8:15 PM
+<br/>Indianapolis Colts (6-7) at New Orleans Saints (10-3), Monday, Dec 16, 8:15 PM
 

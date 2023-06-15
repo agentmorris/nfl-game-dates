@@ -541,7 +541,7 @@ def game_list_to_html(games,week,year,output_format='html',
             (game.start_time - previous_game_time > timedelta(hours=1))
         
         if start_new_line:
-            output_html += '\n\n'        
+            output_html += '<br/>'        
         
         previous_game_time = game.start_time
         

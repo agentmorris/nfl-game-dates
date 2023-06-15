@@ -1,9 +1,7 @@
 ## Game info for 2010 week 11
 Chicago Bears (6-3) at Miami Dolphins (5-4), Thursday, Nov 18, 8:29 PM
 
-
-
-Buffalo Bills (1-8) at Cincinnati Bengals (2-7), Sunday, Nov 21, 1:02 PM (	:green_circle: good game)
+<br/>Buffalo Bills (1-8) at Cincinnati Bengals (2-7), Sunday, Nov 21, 1:02 PM (	:green_circle: good game)
 
 Detroit Lions (2-7) at Dallas Cowboys (2-7), Sunday, Nov 21, 1:02 PM (	:green_circle: good game)
 
@@ -21,9 +19,7 @@ Baltimore Ravens (6-3) at Carolina Panthers (1-8), Sunday, Nov 21, 1:04 PM (	:re
 
 Green Bay Packers (6-3) at Minnesota Vikings (3-6), Sunday, Nov 21, 1:05 PM (	:red_circle: bad game)
 
-
-
-Seattle Seahawks (5-4) at New Orleans Saints (6-3), Sunday, Nov 21, 4:05 PM
+<br/>Seattle Seahawks (5-4) at New Orleans Saints (6-3), Sunday, Nov 21, 4:05 PM
 
 Atlanta Falcons (7-2) at St. Louis Rams (4-5), Sunday, Nov 21, 4:05 PM (	:red_circle: bad game)
 
@@ -31,11 +27,7 @@ Tampa Bay Buccaneers (6-3) at San Francisco 49ers (3-6), Sunday, Nov 21, 4:05 PM
 
 Indianapolis Colts (6-3) at New England Patriots (7-2), Sunday, Nov 21, 4:15 PM (	:green_circle: good game)
 
+<br/>New York Giants (6-3) at Philadelphia Eagles (6-3), Sunday, Nov 21, 8:30 PM
 
-
-New York Giants (6-3) at Philadelphia Eagles (6-3), Sunday, Nov 21, 8:30 PM
-
-
-
-Denver Broncos (3-6) at San Diego Chargers (4-5), Monday, Nov 22, 8:40 PM (	:red_circle: bad game)
+<br/>Denver Broncos (3-6) at San Diego Chargers (4-5), Monday, Nov 22, 8:40 PM (	:red_circle: bad game)
 

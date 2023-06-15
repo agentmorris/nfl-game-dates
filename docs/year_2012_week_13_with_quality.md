@@ -1,9 +1,7 @@
 ## Game info for 2012 week 14
 Denver Broncos (9-3) at Oakland Raiders (3-9), Thursday, Dec 6, 8:30 PM
 
-
-
-St. Louis Rams (5-6-1) at Buffalo Bills (5-7), Sunday, Dec 9, 1:02 PM (	:green_circle: good game)
+<br/>St. Louis Rams (5-6-1) at Buffalo Bills (5-7), Sunday, Dec 9, 1:02 PM (	:green_circle: good game)
 
 Kansas City Chiefs (2-10) at Cleveland Browns (4-8), Sunday, Dec 9, 1:02 PM (	:red_circle: bad game)
 
@@ -23,19 +21,13 @@ Atlanta Falcons (11-1) at Carolina Panthers (3-9), Sunday, Dec 9, 1:04 PM
 
 Chicago Bears (8-4) at Minnesota Vikings (6-6), Sunday, Dec 9, 1:05 PM (	:green_circle: good game)
 
-
-
-Miami Dolphins (5-7) at San Francisco 49ers (8-3-1), Sunday, Dec 9, 4:05 PM
+<br/>Miami Dolphins (5-7) at San Francisco 49ers (8-3-1), Sunday, Dec 9, 4:05 PM
 
 New Orleans Saints (5-7) at New York Giants (7-5), Sunday, Dec 9, 4:26 PM (	:red_circle: bad game)
 
 Arizona Cardinals (4-8) at Seattle Seahawks (7-5), Sunday, Dec 9, 4:26 PM (	:red_circle: bad game)
 
+<br/>Detroit Lions (4-8) at Green Bay Packers (8-4), Sunday, Dec 9, 8:30 PM (	:green_circle: good game)
 
-
-Detroit Lions (4-8) at Green Bay Packers (8-4), Sunday, Dec 9, 8:30 PM (	:green_circle: good game)
-
-
-
-Houston Texans (11-1) at New England Patriots (9-3), Monday, Dec 10, 8:40 PM (	:red_circle: bad game)
+<br/>Houston Texans (11-1) at New England Patriots (9-3), Monday, Dec 10, 8:40 PM (	:red_circle: bad game)
 

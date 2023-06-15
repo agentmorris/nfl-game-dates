@@ -1,9 +1,7 @@
 ## Game info for 2010 week 15
 San Francisco 49ers (5-8) at San Diego Chargers (7-6), Thursday, Dec 16, 8:20 PM (	:red_circle: bad game)
 
-
-
-Kansas City Chiefs (8-5) at St. Louis Rams (6-7), Sunday, Dec 19, 1:00 PM
+<br/>Kansas City Chiefs (8-5) at St. Louis Rams (6-7), Sunday, Dec 19, 1:00 PM
 
 Cleveland Browns (5-8) at Cincinnati Bengals (2-11), Sunday, Dec 19, 1:02 PM (	:green_circle: good game)
 
@@ -23,19 +21,13 @@ Detroit Lions (3-10) at Tampa Bay Buccaneers (8-5), Sunday, Dec 19, 1:03 PM (	:g
 
 Arizona Cardinals (4-9) at Carolina Panthers (1-12), Sunday, Dec 19, 1:04 PM (	:green_circle: good game)
 
-
-
-Atlanta Falcons (11-2) at Seattle Seahawks (6-7), Sunday, Dec 19, 4:06 PM
+<br/>Atlanta Falcons (11-2) at Seattle Seahawks (6-7), Sunday, Dec 19, 4:06 PM
 
 New York Jets (9-4) at Pittsburgh Steelers (10-3), Sunday, Dec 19, 4:15 PM (	:green_circle: good game)
 
 Denver Broncos (3-10) at Oakland Raiders (6-7), Sunday, Dec 19, 4:15 PM (	:green_circle: good game)
 
+<br/>Green Bay Packers (8-5) at New England Patriots (11-2), Sunday, Dec 19, 8:30 PM (	:green_circle: good game)
 
-
-Green Bay Packers (8-5) at New England Patriots (11-2), Sunday, Dec 19, 8:30 PM (	:green_circle: good game)
-
-
-
-Chicago Bears (9-4) at Minnesota Vikings (5-8), Monday, Dec 20, 8:40 PM (	:red_circle: bad game)
+<br/>Chicago Bears (9-4) at Minnesota Vikings (5-8), Monday, Dec 20, 8:40 PM (	:red_circle: bad game)
 

@@ -17,9 +17,7 @@ New Orleans Saints (13-2) at Carolina Panthers (7-8), Sunday, Jan 3, 1:04 PM
 
 New York Giants (8-7) at Minnesota Vikings (11-4), Sunday, Jan 3, 1:05 PM
 
-
-
-Green Bay Packers (10-5) at Arizona Cardinals (10-5), Sunday, Jan 3, 4:15 PM
+<br/>Green Bay Packers (10-5) at Arizona Cardinals (10-5), Sunday, Jan 3, 4:15 PM
 
 Philadelphia Eagles (11-4) at Dallas Cowboys (10-5), Sunday, Jan 3, 4:15 PM
 
@@ -31,7 +29,5 @@ Washington Redskins (4-11) at San Diego Chargers (12-3), Sunday, Jan 3, 4:15 PM
 
 Tennessee Titans (7-8) at Seattle Seahawks (5-10), Sunday, Jan 3, 4:16 PM
 
-
-
-Cincinnati Bengals (10-5) at New York Jets (8-7), Sunday, Jan 3, 8:31 PM
+<br/>Cincinnati Bengals (10-5) at New York Jets (8-7), Sunday, Jan 3, 8:31 PM
 

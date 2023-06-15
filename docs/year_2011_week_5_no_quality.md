@@ -13,9 +13,7 @@ San Francisco 49ers (4-1) at Detroit Lions (5-0), Sunday, Oct 16, 1:03 PM
 
 Philadelphia Eagles (1-4) at Washington Redskins (3-1), Sunday, Oct 16, 1:05 PM
 
-
-
-Cleveland Browns (2-2) at Oakland Raiders (3-2), Sunday, Oct 16, 4:05 PM
+<br/>Cleveland Browns (2-2) at Oakland Raiders (3-2), Sunday, Oct 16, 4:05 PM
 
 Houston Texans (3-2) at Baltimore Ravens (3-1), Sunday, Oct 16, 4:06 PM
 
@@ -23,11 +21,7 @@ Dallas Cowboys (2-2) at New England Patriots (4-1), Sunday, Oct 16, 4:15 PM
 
 New Orleans Saints (4-1) at Tampa Bay Buccaneers (3-2), Sunday, Oct 16, 4:15 PM
 
+<br/>Minnesota Vikings (1-4) at Chicago Bears (2-3), Sunday, Oct 16, 8:30 PM
 
-
-Minnesota Vikings (1-4) at Chicago Bears (2-3), Sunday, Oct 16, 8:30 PM
-
-
-
-Miami Dolphins (0-4) at New York Jets (2-3), Monday, Oct 17, 8:40 PM
+<br/>Miami Dolphins (0-4) at New York Jets (2-3), Monday, Oct 17, 8:40 PM
 

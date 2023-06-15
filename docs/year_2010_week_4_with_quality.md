@@ -17,19 +17,13 @@ Kansas City Chiefs (3-0) at Indianapolis Colts (2-2), Sunday, Oct 10, 1:03 PM
 
 New York Giants (2-2) at Houston Texans (3-1), Sunday, Oct 10, 1:03 PM (	:red_circle: bad game)
 
-
-
-New Orleans Saints (3-1) at Arizona Cardinals (2-2), Sunday, Oct 10, 4:05 PM (	:green_circle: good game)
+<br/>New Orleans Saints (3-1) at Arizona Cardinals (2-2), Sunday, Oct 10, 4:05 PM (	:green_circle: good game)
 
 San Diego Chargers (2-2) at Oakland Raiders (1-3), Sunday, Oct 10, 4:15 PM (	:green_circle: good game)
 
 Tennessee Titans (2-2) at Dallas Cowboys (1-2), Sunday, Oct 10, 4:16 PM (	:green_circle: good game)
 
+<br/>Philadelphia Eagles (2-2) at San Francisco 49ers (0-4), Sunday, Oct 10, 8:30 PM (	:green_circle: good game)
 
-
-Philadelphia Eagles (2-2) at San Francisco 49ers (0-4), Sunday, Oct 10, 8:30 PM (	:green_circle: good game)
-
-
-
-Minnesota Vikings (1-2) at New York Jets (3-1), Monday, Oct 11, 9:15 PM
+<br/>Minnesota Vikings (1-2) at New York Jets (3-1), Monday, Oct 11, 9:15 PM
 

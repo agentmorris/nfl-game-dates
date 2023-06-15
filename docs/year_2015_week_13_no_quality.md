@@ -1,9 +1,7 @@
 ## Game info for 2015 week 14
 Minnesota Vikings (8-4) at Arizona Cardinals (10-2), Thursday, Dec 10, 8:25 PM
 
-
-
-Buffalo Bills (6-6) at Philadelphia Eagles (5-7), Sunday, Dec 13, 1:01 PM
+<br/>Buffalo Bills (6-6) at Philadelphia Eagles (5-7), Sunday, Dec 13, 1:01 PM
 
 Washington Redskins (5-7) at Chicago Bears (5-7), Sunday, Dec 13, 1:02 PM
 
@@ -25,17 +23,11 @@ Atlanta Falcons (6-6) at Carolina Panthers (12-0), Sunday, Dec 13, 1:03 PM
 
 San Diego Chargers (3-9) at Kansas City Chiefs (7-5), Sunday, Dec 13, 1:03 PM
 
-
-
-Oakland Raiders (5-7) at Denver Broncos (10-2), Sunday, Dec 13, 4:05 PM
+<br/>Oakland Raiders (5-7) at Denver Broncos (10-2), Sunday, Dec 13, 4:05 PM
 
 Dallas Cowboys (4-8) at Green Bay Packers (8-4), Sunday, Dec 13, 4:25 PM
 
+<br/>New England Patriots (10-2) at Houston Texans (6-6), Sunday, Dec 13, 8:31 PM
 
-
-New England Patriots (10-2) at Houston Texans (6-6), Sunday, Dec 13, 8:31 PM
-
-
-
-New York Giants (5-7) at Miami Dolphins (5-7), Monday, Dec 14, 8:30 PM
+<br/>New York Giants (5-7) at Miami Dolphins (5-7), Monday, Dec 14, 8:30 PM
 

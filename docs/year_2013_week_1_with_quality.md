@@ -1,9 +1,7 @@
 ## Game info for 2013 week 2
 New York Jets (1-0) at New England Patriots (1-0), Thursday, Sep 12, 8:29 PM (	:green_circle: good game)
 
-
-
-Carolina Panthers (0-1) at Buffalo Bills (0-1), Sunday, Sep 15, 1:02 PM (	:green_circle: good game)
+<br/>Carolina Panthers (0-1) at Buffalo Bills (0-1), Sunday, Sep 15, 1:02 PM (	:green_circle: good game)
 
 Miami Dolphins (1-0) at Indianapolis Colts (1-0), Sunday, Sep 15, 1:02 PM (	:green_circle: good game)
 
@@ -21,9 +19,7 @@ Minnesota Vikings (0-1) at Chicago Bears (1-0), Sunday, Sep 15, 1:03 PM (	:green
 
 Tennessee Titans (1-0) at Houston Texans (1-0), Sunday, Sep 15, 1:03 PM (	:green_circle: good game)
 
-
-
-Detroit Lions (1-0) at Arizona Cardinals (0-1), Sunday, Sep 15, 4:05 PM (	:green_circle: good game)
+<br/>Detroit Lions (1-0) at Arizona Cardinals (0-1), Sunday, Sep 15, 4:05 PM (	:green_circle: good game)
 
 New Orleans Saints (1-0) at Tampa Bay Buccaneers (0-1), Sunday, Sep 15, 4:05 PM (	:green_circle: good game)
 
@@ -31,11 +27,7 @@ Denver Broncos (1-0) at New York Giants (0-1), Sunday, Sep 15, 4:25 PM (	:red_ci
 
 Jacksonville Jaguars (0-1) at Oakland Raiders (0-1), Sunday, Sep 15, 4:25 PM
 
+<br/>San Francisco 49ers (1-0) at Seattle Seahawks (1-0), Sunday, Sep 15, 8:31 PM (	:red_circle: bad game)
 
-
-San Francisco 49ers (1-0) at Seattle Seahawks (1-0), Sunday, Sep 15, 8:31 PM (	:red_circle: bad game)
-
-
-
-Pittsburgh Steelers (0-1) at Cincinnati Bengals (0-1), Monday, Sep 16, 8:41 PM
+<br/>Pittsburgh Steelers (0-1) at Cincinnati Bengals (0-1), Monday, Sep 16, 8:41 PM
 

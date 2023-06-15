@@ -1,9 +1,7 @@
 ## Game info for 2022 week 17
 Dallas Cowboys (11-4) at Tennessee Titans (7-8), Thursday, Dec 29, 8:15 PM
 
-
-
-Arizona Cardinals (4-11) at Atlanta Falcons (5-10), Sunday, Jan 1, 1:00 PM (	:green_circle: good game)
+<br/>Arizona Cardinals (4-11) at Atlanta Falcons (5-10), Sunday, Jan 1, 1:00 PM (	:green_circle: good game)
 
 Chicago Bears (3-12) at Detroit Lions (7-8), Sunday, Jan 1, 1:00 PM (	:red_circle: bad game)
 
@@ -21,9 +19,7 @@ Carolina Panthers (6-9) at Tampa Bay Buccaneers (7-8), Sunday, Jan 1, 1:00 PM (	
 
 Cleveland Browns (6-9) at Washington Commanders (7-7-1), Sunday, Jan 1, 1:00 PM (	:green_circle: good game)
 
-
-
-San Francisco 49ers (11-4) at Las Vegas Raiders (6-9), Sunday, Jan 1, 4:05 PM (	:green_circle: good game)
+<br/>San Francisco 49ers (11-4) at Las Vegas Raiders (6-9), Sunday, Jan 1, 4:05 PM (	:green_circle: good game)
 
 New York Jets (7-8) at Seattle Seahawks (7-8), Sunday, Jan 1, 4:05 PM (	:red_circle: bad game)
 
@@ -31,7 +27,5 @@ Minnesota Vikings (12-3) at Green Bay Packers (7-8), Sunday, Jan 1, 4:25 PM (	:r
 
 Los Angeles Rams (5-10) at Los Angeles Chargers (9-6), Sunday, Jan 1, 4:25 PM (	:red_circle: bad game)
 
-
-
-Pittsburgh Steelers (7-8) at Baltimore Ravens (10-5), Sunday, Jan 1, 8:20 PM (	:green_circle: good game)
+<br/>Pittsburgh Steelers (7-8) at Baltimore Ravens (10-5), Sunday, Jan 1, 8:20 PM (	:green_circle: good game)
 

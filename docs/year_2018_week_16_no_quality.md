@@ -13,9 +13,7 @@ Dallas Cowboys (9-6) at New York Giants (5-10), Sunday, Dec 30, 1:00 PM
 
 Atlanta Falcons (6-9) at Tampa Bay Buccaneers (5-10), Sunday, Dec 30, 1:00 PM
 
-
-
-Los Angeles Chargers (11-4) at Denver Broncos (6-9), Sunday, Dec 30, 4:25 PM
+<br/>Los Angeles Chargers (11-4) at Denver Broncos (6-9), Sunday, Dec 30, 4:25 PM
 
 Oakland Raiders (4-11) at Kansas City Chiefs (11-4), Sunday, Dec 30, 4:25 PM
 
@@ -31,7 +29,5 @@ Arizona Cardinals (3-12) at Seattle Seahawks (9-6), Sunday, Dec 30, 4:25 PM
 
 Philadelphia Eagles (8-7) at Washington Redskins (7-8), Sunday, Dec 30, 4:25 PM
 
-
-
-Indianapolis Colts (9-6) at Tennessee Titans (9-6), Sunday, Dec 30, 8:20 PM
+<br/>Indianapolis Colts (9-6) at Tennessee Titans (9-6), Sunday, Dec 30, 8:20 PM
 
