@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: NFL simulated-real-time schedules, 2009-present
-description:
+description: Tools for choosing old football games to watch without seeing spoilers.
+plugins:
+  - jemoji
