@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 13
----
+## Game info for 2016 week 13
 Dallas Cowboys (10-1) at Minnesota Vikings (6-5), Thursday, Dec 1, 7:25 PM (	:green_circle: good game)
 
 

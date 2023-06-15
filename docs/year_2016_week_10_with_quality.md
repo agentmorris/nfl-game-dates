@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 11
----
+## Game info for 2016 week 11
 New Orleans Saints (4-5) at Carolina Panthers (3-6), Thursday, Nov 17, 8:25 PM (	:green_circle: good game)
 
 

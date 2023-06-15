@@ -1,6 +1,4 @@
----
-title: Game info for 2015 week 1
----
+## Game info for 2015 week 1
 Pittsburgh Steelers (0-0) at New England Patriots (0-0), Thursday, Sep 10, 8:40 PM
 
 

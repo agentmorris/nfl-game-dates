@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 14
----
+## Game info for 2011 week 14
 Cleveland Browns (4-8) at Pittsburgh Steelers (9-3), Thursday, Dec 8, 8:28 PM
 
 

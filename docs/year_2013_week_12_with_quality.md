@@ -1,6 +1,4 @@
----
-title: Game info for 2013 week 13
----
+## Game info for 2013 week 13
 Green Bay Packers (5-5-1) at Detroit Lions (6-5), Thursday, Nov 28, 12:36 PM (	:red_circle: bad game)
 
 

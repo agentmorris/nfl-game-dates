@@ -1,6 +1,4 @@
----
-title: Game info for 2015 week 12
----
+## Game info for 2015 week 12
 Philadelphia Eagles (4-6) at Detroit Lions (3-7), Thursday, Nov 26, 12:35 PM (	:red_circle: bad game)
 
 

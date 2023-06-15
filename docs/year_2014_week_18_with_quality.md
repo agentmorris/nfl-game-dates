@@ -1,6 +1,4 @@
----
-title: Game info for 2014 divisional
----
+## Game info for 2014 divisional
 Baltimore Ravens at New England Patriots, Saturday, Jan 10, 4:35 PM
 
 

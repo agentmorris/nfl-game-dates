@@ -1,6 +1,4 @@
----
-title: Game info for 2018 divisional
----
+## Game info for 2018 divisional
 Indianapolis Colts at Kansas City Chiefs, Saturday, Jan 12, 4:35 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 17
----
+## Game info for 2016 week 17
 Baltimore Ravens (8-7) at Cincinnati Bengals (5-9-1), Sunday, Jan 1, 1:00 PM
 
 Jacksonville Jaguars (3-12) at Indianapolis Colts (7-8), Sunday, Jan 1, 1:00 PM

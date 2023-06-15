@@ -1,6 +1,6 @@
-# Game info for the 2016 season
+## Game info for the 2016 season
 
-## Records only
+### Records only
 * [Week 1](year_2016_week_0_no_quality.md)
 * [Week 2](year_2016_week_1_no_quality.md)
 * [Week 3](year_2016_week_2_no_quality.md)
@@ -22,7 +22,7 @@
 * [Divisional](year_2016_week_18_no_quality.md)
 * [Championship](year_2016_week_19_no_quality.md)
 * [Super Bowl](year_2016_week_20_no_quality.md)
-## With quality indicators
+### With quality indicators
 * [Week 1](year_2016_week_0_with_quality.md)
 * [Week 2](year_2016_week_1_with_quality.md)
 * [Week 3](year_2016_week_2_with_quality.md)

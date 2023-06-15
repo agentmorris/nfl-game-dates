@@ -1,6 +1,4 @@
----
-title: Game info for 2017 week 11
----
+## Game info for 2017 week 11
 Tennessee Titans (6-3) at Pittsburgh Steelers (7-2), Thursday, Nov 16, 8:25 PM
 
 

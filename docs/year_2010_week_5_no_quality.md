@@ -1,6 +1,4 @@
----
-title: Game info for 2010 week 6
----
+## Game info for 2010 week 6
 San Diego Chargers (2-3) at St. Louis Rams (2-3), Sunday, Oct 17, 1:00 PM
 
 Seattle Seahawks (2-2) at Chicago Bears (4-1), Sunday, Oct 17, 1:02 PM

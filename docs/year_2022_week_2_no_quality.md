@@ -1,6 +1,4 @@
----
-title: Game info for 2022 week 3
----
+## Game info for 2022 week 3
 Pittsburgh Steelers (1-1) at Cleveland Browns (1-1), Thursday, Sep 22, 8:15 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 4
----
+## Game info for 2018 week 4
 Minnesota Vikings (1-1-1) at Los Angeles Rams (3-0), Thursday, Sep 27, 8:20 PM
 
 

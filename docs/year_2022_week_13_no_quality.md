@@ -1,6 +1,4 @@
----
-title: Game info for 2022 week 14
----
+## Game info for 2022 week 14
 Las Vegas Raiders (5-7) at Los Angeles Rams (3-9), Thursday, Dec 8, 8:15 PM
 
 

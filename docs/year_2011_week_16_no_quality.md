@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 17
----
+## Game info for 2011 week 17
 San Francisco 49ers (12-3) at St. Louis Rams (2-13), Sunday, Jan 1, 1:00 PM
 
 Detroit Lions (10-5) at Green Bay Packers (14-1), Sunday, Jan 1, 1:02 PM

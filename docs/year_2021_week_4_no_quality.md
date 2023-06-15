@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 5
----
+## Game info for 2021 week 5
 Los Angeles Rams (3-1) at Seattle Seahawks (2-2), Thursday, Oct 7, 8:20 PM
 
 

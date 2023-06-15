@@ -1,6 +1,4 @@
----
-title: Game info for 2012 wild card
----
+## Game info for 2012 wild card
 Cincinnati Bengals at Houston Texans, Saturday, Jan 5, 4:35 PM
 
 

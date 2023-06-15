@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 9
----
+## Game info for 2014 week 9
 New Orleans Saints (3-4) at Carolina Panthers (3-4-1), Thursday, Oct 30, 8:30 PM
 
 

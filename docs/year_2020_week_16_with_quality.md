@@ -1,6 +1,4 @@
----
-title: Game info for 2020 week 17
----
+## Game info for 2020 week 17
 Miami Dolphins (10-5) at Buffalo Bills (12-3), Sunday, Jan 3, 1:00 PM (	:red_circle: bad game)
 
 Baltimore Ravens (10-5) at Cincinnati Bengals (4-10-1), Sunday, Jan 3, 1:00 PM (	:red_circle: bad game)

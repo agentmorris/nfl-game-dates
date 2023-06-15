@@ -1,6 +1,4 @@
----
-title: Game info for 2019 week 9
----
+## Game info for 2019 week 9
 San Francisco 49ers (7-0) at Arizona Cardinals (3-4-1), Thursday, Oct 31, 8:20 PM
 
 

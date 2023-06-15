@@ -1,6 +1,4 @@
----
-title: Game info for 2012 divisional
----
+## Game info for 2012 divisional
 Baltimore Ravens at Denver Broncos, Saturday, Jan 12, 4:36 PM
 
 

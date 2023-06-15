@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 14
----
+## Game info for 2021 week 14
 Pittsburgh Steelers (6-5-1) at Minnesota Vikings (5-7), Thursday, Dec 9, 8:20 PM
 
 

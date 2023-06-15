@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 7
----
+## Game info for 2016 week 7
 Chicago Bears (1-5) at Green Bay Packers (3-2), Thursday, Oct 20, 8:26 PM
 
 

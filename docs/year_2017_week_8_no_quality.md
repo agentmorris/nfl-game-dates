@@ -1,6 +1,4 @@
----
-title: Game info for 2017 week 9
----
+## Game info for 2017 week 9
 Buffalo Bills (5-2) at New York Jets (3-5), Thursday, Nov 2, 8:25 PM
 
 

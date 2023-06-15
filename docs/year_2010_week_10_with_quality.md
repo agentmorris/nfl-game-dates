@@ -1,6 +1,4 @@
----
-title: Game info for 2010 week 11
----
+## Game info for 2010 week 11
 Chicago Bears (6-3) at Miami Dolphins (5-4), Thursday, Nov 18, 8:29 PM
 
 

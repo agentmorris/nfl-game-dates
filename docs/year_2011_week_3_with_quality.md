@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 4
----
+## Game info for 2011 week 4
 Washington Redskins (2-1) at St. Louis Rams (0-3), Sunday, Oct 2, 1:00 PM (	:green_circle: good game)
 
 Detroit Lions (3-0) at Dallas Cowboys (2-1), Sunday, Oct 2, 1:02 PM (	:green_circle: good game)

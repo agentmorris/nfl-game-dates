@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 17
----
+## Game info for 2014 week 17
 New York Jets (3-12) at Miami Dolphins (8-7), Sunday, Dec 28, 1:02 PM (	:green_circle: good game)
 
 Chicago Bears (5-10) at Minnesota Vikings (6-9), Sunday, Dec 28, 1:02 PM (	:green_circle: good game)

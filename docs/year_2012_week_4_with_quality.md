@@ -1,6 +1,4 @@
----
-title: Game info for 2012 week 5
----
+## Game info for 2012 week 5
 Arizona Cardinals (4-0) at St. Louis Rams (2-2), Thursday, Oct 4, 8:20 PM
 
 

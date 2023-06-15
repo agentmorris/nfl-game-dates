@@ -1,6 +1,4 @@
----
-title: Game info for 2015 divisional
----
+## Game info for 2015 divisional
 Kansas City Chiefs at New England Patriots, Saturday, Jan 16, 4:35 PM
 
 

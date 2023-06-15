@@ -1,6 +1,4 @@
----
-title: Game info for 2017 divisional
----
+## Game info for 2017 divisional
 Atlanta Falcons at Philadelphia Eagles, Saturday, Jan 13, 4:35 PM
 
 

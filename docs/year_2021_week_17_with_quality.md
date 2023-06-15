@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 18
----
+## Game info for 2021 week 18
 Kansas City Chiefs (11-5) at Denver Broncos (7-9), Saturday, Jan 8, 4:30 PM (	:green_circle: good game)
 
 

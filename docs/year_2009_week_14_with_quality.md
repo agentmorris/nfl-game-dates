@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 15
----
+## Game info for 2009 week 15
 Indianapolis Colts (13-0) at Jacksonville Jaguars (7-6), Thursday, Dec 17, 8:21 PM (	:green_circle: good game)
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 3
----
+## Game info for 2014 week 3
 Tampa Bay Buccaneers (0-2) at Atlanta Falcons (1-1), Thursday, Sep 18, 8:26 PM (	:red_circle: bad game)
 
 

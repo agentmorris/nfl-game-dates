@@ -1,6 +1,4 @@
----
-title: Game info for 2013 week 14
----
+## Game info for 2013 week 14
 Houston Texans (2-10) at Jacksonville Jaguars (3-9), Thursday, Dec 5, 8:29 PM
 
 

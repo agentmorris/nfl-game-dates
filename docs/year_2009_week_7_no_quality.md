@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 8
----
+## Game info for 2009 week 8
 Cleveland Browns (1-6) at Chicago Bears (3-3), Sunday, Nov 1, 1:00 PM
 
 Houston Texans (4-3) at Buffalo Bills (3-4), Sunday, Nov 1, 1:02 PM

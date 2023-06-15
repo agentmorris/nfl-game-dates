@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 15
----
+## Game info for 2016 week 15
 Los Angeles Rams (4-9) at Seattle Seahawks (8-4-1), Thursday, Dec 15, 8:25 PM (	:red_circle: bad game)
 
 

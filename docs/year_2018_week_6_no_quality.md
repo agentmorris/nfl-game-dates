@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 7
----
+## Game info for 2018 week 7
 Denver Broncos (2-4) at Arizona Cardinals (1-5), Thursday, Oct 18, 8:20 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 16
----
+## Game info for 2009 week 16
 San Diego Chargers (11-3) at Tennessee Titans (7-7), Friday, Dec 25, 7:34 PM
 
 

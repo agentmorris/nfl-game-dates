@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 15
----
+## Game info for 2011 week 15
 Jacksonville Jaguars (4-9) at Atlanta Falcons (8-5), Thursday, Dec 15, 8:29 PM (	:red_circle: bad game)
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 1
----
+## Game info for 2014 week 1
 Green Bay Packers (0-0) at Seattle Seahawks (0-0), Thursday, Sep 4, 8:42 PM (	:red_circle: bad game)
 
 

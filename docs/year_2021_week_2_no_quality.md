@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 3
----
+## Game info for 2021 week 3
 Carolina Panthers (2-0) at Houston Texans (1-1), Thursday, Sep 23, 8:20 PM
 
 

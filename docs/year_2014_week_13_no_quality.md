@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 14
----
+## Game info for 2014 week 14
 Dallas Cowboys (8-4) at Chicago Bears (5-7), Thursday, Dec 4, 8:26 PM
 
 

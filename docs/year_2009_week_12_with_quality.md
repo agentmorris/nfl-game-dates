@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 13
----
+## Game info for 2009 week 13
 New York Jets (5-6) at Buffalo Bills (4-7), Thursday, Dec 3, 8:20 PM (	:green_circle: good game)
 
 

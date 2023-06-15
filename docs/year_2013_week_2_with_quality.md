@@ -1,6 +1,4 @@
----
-title: Game info for 2013 week 3
----
+## Game info for 2013 week 3
 Kansas City Chiefs (2-0) at Philadelphia Eagles (1-1), Thursday, Sep 19, 8:29 PM
 
 

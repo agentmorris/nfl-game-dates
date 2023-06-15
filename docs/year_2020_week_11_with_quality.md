@@ -1,6 +1,4 @@
----
-title: Game info for 2020 week 12
----
+## Game info for 2020 week 12
 Houston Texans (3-7) at Detroit Lions (4-6), Thursday, Nov 26, 12:30 PM (	:green_circle: good game)
 
 

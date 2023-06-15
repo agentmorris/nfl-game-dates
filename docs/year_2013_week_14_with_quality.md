@@ -1,6 +1,4 @@
----
-title: Game info for 2013 week 15
----
+## Game info for 2013 week 15
 San Diego Chargers (6-7) at Denver Broncos (11-2), Thursday, Dec 12, 8:29 PM (	:green_circle: good game)
 
 

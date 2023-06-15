@@ -1,6 +1,4 @@
----
-title: Game info for 2017 week 4
----
+## Game info for 2017 week 4
 Chicago Bears (1-2) at Green Bay Packers (2-1), Thursday, Sep 28, 8:25 PM
 
 

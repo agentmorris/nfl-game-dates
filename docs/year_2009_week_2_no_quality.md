@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 3
----
+## Game info for 2009 week 3
 Green Bay Packers (1-1) at St. Louis Rams (0-2), Sunday, Sep 27, 1:00 PM
 
 New York Giants (2-0) at Tampa Bay Buccaneers (0-2), Sunday, Sep 27, 1:00 PM

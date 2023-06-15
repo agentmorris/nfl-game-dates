@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 9
----
+## Game info for 2018 week 9
 Oakland Raiders (1-6) at San Francisco 49ers (1-7), Thursday, Nov 1, 8:20 PM (	:red_circle: bad game)
 
 

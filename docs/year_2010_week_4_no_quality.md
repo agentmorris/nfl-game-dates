@@ -1,6 +1,4 @@
----
-title: Game info for 2010 week 5
----
+## Game info for 2010 week 5
 St. Louis Rams (2-2) at Detroit Lions (0-4), Sunday, Oct 10, 12:56 PM
 
 Jacksonville Jaguars (2-2) at Buffalo Bills (0-4), Sunday, Oct 10, 1:02 PM

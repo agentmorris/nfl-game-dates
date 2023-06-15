@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 1
----
+## Game info for 2009 week 1
 Tennessee Titans (0-0) at Pittsburgh Steelers (0-0), Thursday, Sep 10, 8:41 PM
 
 

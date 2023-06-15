@@ -1,6 +1,4 @@
----
-title: Game info for 2016 divisional
----
+## Game info for 2016 divisional
 Seattle Seahawks at Atlanta Falcons, Saturday, Jan 14, 4:35 PM
 
 

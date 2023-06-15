@@ -1,6 +1,4 @@
----
-title: Game info for 2020 week 11
----
+## Game info for 2020 week 11
 Arizona Cardinals (6-3) at Seattle Seahawks (6-3), Thursday, Nov 19, 8:20 PM
 
 

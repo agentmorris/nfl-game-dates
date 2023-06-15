@@ -1,6 +1,4 @@
----
-title: Game info for 2017 week 8
----
+## Game info for 2017 week 8
 Miami Dolphins (4-2) at Baltimore Ravens (3-4), Thursday, Oct 26, 8:25 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 15
----
+## Game info for 2014 week 15
 Arizona Cardinals (10-3) at St. Louis Rams (6-7), Thursday, Dec 11, 8:25 PM (	:green_circle: good game)
 
 

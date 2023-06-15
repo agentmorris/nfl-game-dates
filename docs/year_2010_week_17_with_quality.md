@@ -1,6 +1,4 @@
----
-title: Game info for 2010 wild card
----
+## Game info for 2010 wild card
 New Orleans Saints at Seattle Seahawks, Saturday, Jan 8, 4:35 PM
 
 

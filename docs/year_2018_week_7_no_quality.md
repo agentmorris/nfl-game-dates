@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 8
----
+## Game info for 2018 week 8
 Miami Dolphins (4-3) at Houston Texans (4-3), Thursday, Oct 25, 8:20 PM
 
 

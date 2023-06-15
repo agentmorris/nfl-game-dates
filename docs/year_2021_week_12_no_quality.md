@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 13
----
+## Game info for 2021 week 13
 Dallas Cowboys (7-4) at New Orleans Saints (5-6), Thursday, Dec 2, 8:20 PM
 
 

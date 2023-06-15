@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 6
----
+## Game info for 2011 week 6
 Carolina Panthers (1-4) at Atlanta Falcons (2-3), Sunday, Oct 16, 1:02 PM
 
 Indianapolis Colts (0-5) at Cincinnati Bengals (3-2), Sunday, Oct 16, 1:02 PM

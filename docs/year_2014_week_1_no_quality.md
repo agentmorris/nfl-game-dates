@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 2
----
+## Game info for 2014 week 2
 Pittsburgh Steelers (1-0) at Baltimore Ravens (0-1), Thursday, Sep 11, 8:28 PM
 
 

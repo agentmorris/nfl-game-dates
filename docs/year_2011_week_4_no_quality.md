@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 5
----
+## Game info for 2011 week 5
 Kansas City Chiefs (1-3) at Indianapolis Colts (0-4), Sunday, Oct 9, 1:02 PM
 
 Oakland Raiders (2-2) at Houston Texans (3-1), Sunday, Oct 9, 1:02 PM

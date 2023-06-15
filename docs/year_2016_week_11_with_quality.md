@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 12
----
+## Game info for 2016 week 12
 Minnesota Vikings (6-4) at Detroit Lions (6-4), Thursday, Nov 24, 12:30 PM (	:green_circle: good game)
 
 

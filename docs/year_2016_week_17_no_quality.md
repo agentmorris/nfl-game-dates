@@ -1,6 +1,4 @@
----
-title: Game info for 2016 wild card
----
+## Game info for 2016 wild card
 Oakland Raiders at Houston Texans, Saturday, Jan 7, 4:35 PM
 
 

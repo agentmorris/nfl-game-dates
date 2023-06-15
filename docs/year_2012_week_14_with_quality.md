@@ -1,6 +1,4 @@
----
-title: Game info for 2012 week 15
----
+## Game info for 2012 week 15
 Cincinnati Bengals (7-6) at Philadelphia Eagles (4-9), Thursday, Dec 13, 8:30 PM (	:green_circle: good game)
 
 

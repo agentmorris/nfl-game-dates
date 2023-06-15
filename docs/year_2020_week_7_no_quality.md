@@ -1,6 +1,4 @@
----
-title: Game info for 2020 week 8
----
+## Game info for 2020 week 8
 Atlanta Falcons (1-6) at Carolina Panthers (3-4), Thursday, Oct 29, 8:20 PM
 
 

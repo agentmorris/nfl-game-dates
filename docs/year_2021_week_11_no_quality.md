@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 12
----
+## Game info for 2021 week 12
 Chicago Bears (3-7) at Detroit Lions (0-9-1), Thursday, Nov 25, 12:30 PM
 
 

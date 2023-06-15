@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 11
----
+## Game info for 2014 week 11
 Buffalo Bills (5-4) at Miami Dolphins (5-4), Thursday, Nov 13, 8:26 PM
 
 

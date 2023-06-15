@@ -1,6 +1,4 @@
----
-title: Game info for 2022 divisional
----
+## Game info for 2022 divisional
 Jacksonville Jaguars at Kansas City Chiefs, Saturday, Jan 21, 4:30 PM
 
 

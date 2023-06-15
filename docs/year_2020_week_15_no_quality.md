@@ -1,6 +1,4 @@
----
-title: Game info for 2020 week 16
----
+## Game info for 2020 week 16
 Minnesota Vikings (6-8) at New Orleans Saints (10-4), Friday, Dec 25, 4:30 PM
 
 

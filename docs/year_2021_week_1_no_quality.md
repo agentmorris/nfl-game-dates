@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 2
----
+## Game info for 2021 week 2
 New York Giants (0-1) at Washington Football Team (0-1), Thursday, Sep 16, 8:20 PM
 
 

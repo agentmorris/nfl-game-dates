@@ -1,6 +1,4 @@
----
-title: Game info for 2021 week 9
----
+## Game info for 2021 week 9
 New York Jets (2-5) at Indianapolis Colts (3-5), Thursday, Nov 4, 8:20 PM (	:green_circle: good game)
 
 

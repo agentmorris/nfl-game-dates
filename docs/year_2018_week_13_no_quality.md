@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 14
----
+## Game info for 2018 week 14
 Jacksonville Jaguars (4-8) at Tennessee Titans (6-6), Thursday, Dec 6, 8:20 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2022 week 16
----
+## Game info for 2022 week 16
 Jacksonville Jaguars (6-8) at New York Jets (7-7), Thursday, Dec 22, 8:15 PM
 
 

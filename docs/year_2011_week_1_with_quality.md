@@ -1,6 +1,4 @@
----
-title: Game info for 2011 week 2
----
+## Game info for 2011 week 2
 Green Bay Packers (1-0) at Carolina Panthers (0-1), Sunday, Sep 18, 1:02 PM (	:green_circle: good game)
 
 Cleveland Browns (0-1) at Indianapolis Colts (0-1), Sunday, Sep 18, 1:02 PM (	:green_circle: good game)

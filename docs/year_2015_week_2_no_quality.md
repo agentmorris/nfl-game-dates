@@ -1,6 +1,4 @@
----
-title: Game info for 2015 week 3
----
+## Game info for 2015 week 3
 Washington Redskins (1-1) at New York Giants (0-2), Thursday, Sep 24, 8:26 PM
 
 

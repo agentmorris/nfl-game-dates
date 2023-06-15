@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 13
----
+## Game info for 2018 week 13
 New Orleans Saints (10-1) at Dallas Cowboys (6-5), Thursday, Nov 29, 8:20 PM
 
 

@@ -1,3 +1,7 @@
+---
+title: NFL simulated-real-time schedules 
+---
+
 ...with only mild spoilers, and only if you want them.
 
 ### Why did I make this page?

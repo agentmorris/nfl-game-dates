@@ -1,6 +1,4 @@
----
-title: Game info for 2013 week 10
----
+## Game info for 2013 week 10
 Washington Redskins (3-5) at Minnesota Vikings (1-7), Thursday, Nov 7, 8:35 PM (	:green_circle: good game)
 
 

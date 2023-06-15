@@ -1,6 +1,4 @@
----
-title: Game info for 2013 week 5
----
+## Game info for 2013 week 5
 Buffalo Bills (2-2) at Cleveland Browns (2-2), Thursday, Oct 3, 8:29 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2019 week 1
----
+## Game info for 2019 week 1
 Green Bay Packers (0-0) at Chicago Bears (0-0), Thursday, Sep 5, 8:20 PM (	:green_circle: good game)
 
 

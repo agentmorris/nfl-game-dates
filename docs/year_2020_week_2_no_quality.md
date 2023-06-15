@@ -1,6 +1,4 @@
----
-title: Game info for 2020 week 3
----
+## Game info for 2020 week 3
 Miami Dolphins (0-2) at Jacksonville Jaguars (1-1), Thursday, Sep 24, 8:20 PM
 
 

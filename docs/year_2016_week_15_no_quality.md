@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 16
----
+## Game info for 2016 week 16
 New York Giants (10-4) at Philadelphia Eagles (5-9), Thursday, Dec 22, 8:25 PM
 
 

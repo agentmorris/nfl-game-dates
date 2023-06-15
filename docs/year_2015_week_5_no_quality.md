@@ -1,6 +1,4 @@
----
-title: Game info for 2015 week 6
----
+## Game info for 2015 week 6
 Atlanta Falcons (5-0) at New Orleans Saints (1-4), Thursday, Oct 15, 8:26 PM
 
 

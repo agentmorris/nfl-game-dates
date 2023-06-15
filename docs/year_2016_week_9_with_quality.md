@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 10
----
+## Game info for 2016 week 10
 Cleveland Browns (0-9) at Baltimore Ravens (4-4), Thursday, Nov 10, 8:25 PM (	:green_circle: good game)
 
 

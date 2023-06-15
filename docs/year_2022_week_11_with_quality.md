@@ -1,6 +1,4 @@
----
-title: Game info for 2022 week 12
----
+## Game info for 2022 week 12
 Buffalo Bills (7-3) at Detroit Lions (4-6), Thursday, Nov 24, 12:30 PM (	:green_circle: good game)
 
 

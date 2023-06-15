@@ -1,6 +1,4 @@
----
-title: Game info for 2009 week 11
----
+## Game info for 2009 week 11
 Miami Dolphins (4-5) at Carolina Panthers (4-5), Thursday, Nov 19, 8:20 PM
 
 

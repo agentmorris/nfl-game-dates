@@ -1,6 +1,4 @@
----
-title: Game info for 2018 week 1
----
+## Game info for 2018 week 1
 Atlanta Falcons (0-0) at Philadelphia Eagles (0-0), Thursday, Sep 6, 8:20 PM
 
 

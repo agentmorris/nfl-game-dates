@@ -1,6 +1,4 @@
----
-title: Game info for 2013 wild card
----
+## Game info for 2013 wild card
 Kansas City Chiefs at Indianapolis Colts, Saturday, Jan 4, 4:35 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2015 week 13
----
+## Game info for 2015 week 13
 Green Bay Packers (7-4) at Detroit Lions (4-7), Thursday, Dec 3, 8:26 PM
 
 

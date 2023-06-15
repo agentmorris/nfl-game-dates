@@ -1,6 +1,4 @@
----
-title: Game info for 2014 week 5
----
+## Game info for 2014 week 5
 Minnesota Vikings (2-2) at Green Bay Packers (2-2), Thursday, Oct 2, 8:26 PM (	:red_circle: bad game)
 
 

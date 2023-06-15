@@ -1,6 +1,4 @@
----
-title: Game info for 2010 week 14
----
+## Game info for 2010 week 14
 Indianapolis Colts (6-6) at Tennessee Titans (5-7), Thursday, Dec 9, 8:29 PM
 
 

@@ -1,6 +1,4 @@
----
-title: Game info for 2012 week 8
----
+## Game info for 2012 week 8
 Tampa Bay Buccaneers (2-4) at Minnesota Vikings (5-2), Thursday, Oct 25, 8:29 PM
 
 

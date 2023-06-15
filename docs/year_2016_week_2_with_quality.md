@@ -1,6 +1,4 @@
----
-title: Game info for 2016 week 3
----
+## Game info for 2016 week 3
 Houston Texans (2-0) at New England Patriots (2-0), Thursday, Sep 22, 8:26 PM (	:red_circle: bad game)
 
 
