@@ -3,6 +3,11 @@ title: NFL simulated-real-time schedules, 2009-present
 description: "...with only mild spoilers, and only if you want them."
 ---
 
+# tl;dr
+
+For every week of NFL season going back to 2009, there's a page showing you each team's record going *into* that week, so you can choose games the way you would during the current season (no spoilers).  For each week, there's also a parallel page that has that same information, plus an indication of whether a game is "good", "bad", or (usually) neither of the above, based on some "very scientific" heuristics.
+
+
 # Why did I make this page?
 
 I am [totally dependent](http://rockicon.net/wp/2019/10/22/the-doctor-of-rocks-tfip-total-football-immersion-program/) on football for my fitness, in that I don't inherently like exercising, but I really f'ing love football.  So, I build my world around watching football on the treadmill (and only on the treadmill).  I'm never watching games live, always on NFL Game Pass (or NFL+, or whatever it's called now).

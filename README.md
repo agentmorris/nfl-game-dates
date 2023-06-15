@@ -1,6 +1,8 @@
 ## nfl-game-dates
 
-Python script (and hopefully soon a Web app) to retrieve a chronologically sorted list of NFL games for any week, historical or scheduled, from pro-football-reference.com.
+Python script to retrieve a chronologically sorted list of NFL games for any week, historical or scheduled, from pro-football-reference.com.
+
+Maybe more importantly, a set of pages that show records going *into* each NFL week since 2009, so you can look at games for a particular week and decide which games are good, without spoilers.  Optionally also view heuristic indicators of which games are likely "good", "bad", or "neither".  This set of pages lives [here](https://agentmorris.github.io/nfl-game-dates/).
 
 
 ### But why?
