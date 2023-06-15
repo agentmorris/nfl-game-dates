@@ -694,13 +694,13 @@ if False:
     
     #%% Generate markdown for every week
     
-    output_folder = r'C:\git\nfl-game-dates\nfl-game-ranks'
+    output_folder = r'C:\git\nfl-game-dates\docs'
     years = sorted(list(year_to_games.keys()))
     
-    markdown_folder = os.path.join(output_folder,'games')
+    markdown_folder = output_folder # os.path.join(output_folder,'games')
     os.makedirs(markdown_folder,exist_ok=True)
         
-    header_file = os.path.join(output_folder,'header.txt')    
+    header_file = os.path.join(output_folder,'../header.txt')    
     with open(header_file,'r') as f:
         header_lines = f.readlines()
         
@@ -709,7 +709,7 @@ if False:
     for year in years:
         main_s += '* [{}](season_{}.md)\n'.format(year,year)
                 
-    trailer_file = os.path.join(output_folder,'trailer.txt')    
+    trailer_file = os.path.join(output_folder,'../trailer.txt')    
     with open(trailer_file,'r') as f:
         trailer_lines = f.readlines()
     main_s += '\n' + ''.join(trailer_lines) + '\n'
@@ -726,13 +726,12 @@ if False:
         n_regular_season_weeks = get_number_of_weeks_in_season(year)
         assert n_regular_season_weeks == len(weeks) - 4
         
-        #%%
-                
         # Parse team names
         team_names = set()
-        for game in weeks[0]:
-            team_names.add(game.team_home)
-            team_names.add(game.team_away)
+        for week in weeks:
+            for game in week:
+                team_names.add(game.team_home)
+                team_names.add(game.team_away)
         assert len(team_names) == 32
         
         # Parse team records, also mark games as good and bad
@@ -833,11 +832,12 @@ if False:
         # Make sure records add up to the number of weeks in the season (plus one bye)
         for team_name in team_names:
             record = team_to_record_so_far[team_name]
-            assert record['wins'] + record['losses'] + record['ties'] == n_regular_season_weeks - 1
+            if year == 2022 and (team_name == 'Buffalo Bills' or team_name == 'Cincinnati Bengals'):
+                pass
+            else:
+                assert record['wins'] + record['losses'] + record['ties'] == n_regular_season_weeks - 1
             
             
-        #%%
-                
         no_quality_links = []
         with_quality_links = []
         
@@ -874,9 +874,8 @@ if False:
                 f.write(md_with_quality_string)                
                     
         # ...for each week
-        
-        
-        #%% Write the year page
+                
+        # Write the year page
         
         year_s = ''        
         year_s += '# Game info for the {} season\n\n'.format(year)
