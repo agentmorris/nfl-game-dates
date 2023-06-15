@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 5
+# Game info for 2012 week 5
+
 Arizona Cardinals (4-0) at St. Louis Rams (2-2), Thursday, Oct 4, 8:20 PM
 
 <br/>Baltimore Ravens (3-1) at Kansas City Chiefs (1-3), Sunday, Oct 7, 1:02 PM

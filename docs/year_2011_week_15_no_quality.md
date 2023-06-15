@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2011 week 16
+# Game info for 2011 week 16
+
 Houston Texans (10-4) at Indianapolis Colts (1-13), Thursday, Dec 22, 8:29 PM
 
 <br/>Denver Broncos (8-6) at Buffalo Bills (5-9), Saturday, Dec 24, 1:02 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 10
+# Game info for 2018 week 10
+
 Carolina Panthers (6-2) at Pittsburgh Steelers (5-2-1), Thursday, Nov 8, 8:20 PM
 
 <br/>Detroit Lions (3-5) at Chicago Bears (5-3), Sunday, Nov 11, 1:00 PM

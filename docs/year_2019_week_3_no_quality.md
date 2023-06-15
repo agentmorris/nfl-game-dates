@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 4
+# Game info for 2019 week 4
+
 Philadelphia Eagles (1-2) at Green Bay Packers (3-0), Thursday, Sep 26, 8:20 PM
 
 <br/>Tennessee Titans (1-2) at Atlanta Falcons (1-2), Sunday, Sep 29, 1:00 PM

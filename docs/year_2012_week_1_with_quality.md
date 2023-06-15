@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 2
+# Game info for 2012 week 2
+
 Chicago Bears (1-0) at Green Bay Packers (0-1), Thursday, Sep 13, 8:29 PM
 
 <br/>Kansas City Chiefs (0-1) at Buffalo Bills (0-1), Sunday, Sep 16, 1:02 PM (	:red_circle: bad game)

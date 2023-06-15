@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 14
+# Game info for 2010 week 14
+
 Indianapolis Colts (6-6) at Tennessee Titans (5-7), Thursday, Dec 9, 8:29 PM (	:green_circle: good game)
 
 <br/>Cleveland Browns (5-7) at Buffalo Bills (2-10), Sunday, Dec 12, 1:02 PM (	:green_circle: good game)

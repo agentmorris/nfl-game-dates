@@ -857,7 +857,7 @@ if False:
             md_header += 'description: " "\n'
             md_header += '---\n\n'
             
-            md_header += '## Game info for {} {}\n'.format(year,week_index_to_name(i_week,year))
+            md_header += '# Game info for {} {}\n\n'.format(year,week_index_to_name(i_week,year))
             
             md_no_quality = game_list_to_html(games,i_week,year,output_format=output_format,
                                               include_quality_info=False,team_records=team_records)

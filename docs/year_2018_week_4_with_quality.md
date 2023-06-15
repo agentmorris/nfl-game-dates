@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 5
+# Game info for 2018 week 5
+
 Indianapolis Colts (1-3) at New England Patriots (2-2), Thursday, Oct 4, 8:20 PM (	:green_circle: good game)
 
 <br/>Tennessee Titans (3-1) at Buffalo Bills (1-3), Sunday, Oct 7, 1:00 PM (	:green_circle: good game)

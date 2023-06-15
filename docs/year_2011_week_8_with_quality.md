@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2011 week 9
+# Game info for 2011 week 9
+
 Atlanta Falcons (4-3) at Indianapolis Colts (0-8), Sunday, Nov 6, 1:02 PM (	:red_circle: bad game)
 
 Seattle Seahawks (2-5) at Dallas Cowboys (3-4), Sunday, Nov 6, 1:02 PM

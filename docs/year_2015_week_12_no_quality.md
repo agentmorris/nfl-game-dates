@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 13
+# Game info for 2015 week 13
+
 Green Bay Packers (7-4) at Detroit Lions (4-7), Thursday, Dec 3, 8:26 PM
 
 <br/>Arizona Cardinals (9-2) at St. Louis Rams (4-7), Sunday, Dec 6, 1:00 PM

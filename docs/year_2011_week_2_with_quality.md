@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2011 week 3
+# Game info for 2011 week 3
+
 Jacksonville Jaguars (1-1) at Carolina Panthers (0-2), Sunday, Sep 25, 1:02 PM (	:green_circle: good game)
 
 San Francisco 49ers (1-1) at Cincinnati Bengals (1-1), Sunday, Sep 25, 1:02 PM (	:green_circle: good game)

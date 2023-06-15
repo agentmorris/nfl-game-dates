@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 16
+# Game info for 2022 week 16
+
 Jacksonville Jaguars (6-8) at New York Jets (7-7), Thursday, Dec 22, 8:15 PM
 
 <br/>Detroit Lions (7-7) at Carolina Panthers (5-9), Saturday, Dec 24, 1:00 PM

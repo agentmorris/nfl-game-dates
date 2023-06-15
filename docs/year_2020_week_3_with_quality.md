@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 week 4
+# Game info for 2020 week 4
+
 Denver Broncos (0-3) at New York Jets (0-3), Thursday, Oct 1, 8:20 PM (	:green_circle: good game)
 
 <br/>Arizona Cardinals (2-1) at Carolina Panthers (1-2), Sunday, Oct 4, 1:00 PM

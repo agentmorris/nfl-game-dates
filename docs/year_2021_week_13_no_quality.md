@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 14
+# Game info for 2021 week 14
+
 Pittsburgh Steelers (6-5-1) at Minnesota Vikings (5-7), Thursday, Dec 9, 8:20 PM
 
 <br/>Atlanta Falcons (5-7) at Carolina Panthers (5-7), Sunday, Dec 12, 1:00 PM

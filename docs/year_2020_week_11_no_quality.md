@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 week 12
+# Game info for 2020 week 12
+
 Houston Texans (3-7) at Detroit Lions (4-6), Thursday, Nov 26, 12:30 PM
 
 <br/>Washington Football Team (3-7) at Dallas Cowboys (3-7), Thursday, Nov 26, 4:30 PM

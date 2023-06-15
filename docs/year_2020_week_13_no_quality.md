@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 week 14
+# Game info for 2020 week 14
+
 New England Patriots (6-6) at Los Angeles Rams (8-4), Thursday, Dec 10, 8:20 PM
 
 <br/>Denver Broncos (4-8) at Carolina Panthers (4-8), Sunday, Dec 13, 1:00 PM

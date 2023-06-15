@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 2
+# Game info for 2015 week 2
+
 Denver Broncos (1-0) at Kansas City Chiefs (1-0), Thursday, Sep 17, 8:29 PM
 
 <br/>Arizona Cardinals (1-0) at Chicago Bears (0-1), Sunday, Sep 20, 1:00 PM

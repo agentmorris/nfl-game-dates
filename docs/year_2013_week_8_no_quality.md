@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 9
+# Game info for 2013 week 9
+
 Cincinnati Bengals (6-2) at Miami Dolphins (3-4), Thursday, Oct 31, 8:29 PM
 
 <br/>Tennessee Titans (3-4) at St. Louis Rams (3-5), Sunday, Nov 3, 1:00 PM

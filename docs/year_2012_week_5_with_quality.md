@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 6
+# Game info for 2012 week 6
+
 Pittsburgh Steelers (2-2) at Tennessee Titans (1-4), Thursday, Oct 11, 8:29 PM (	:green_circle: good game)
 
 <br/>St. Louis Rams (3-2) at Miami Dolphins (2-3), Sunday, Oct 14, 1:00 PM (	:green_circle: good game)

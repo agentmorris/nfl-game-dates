@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 6
+# Game info for 2018 week 6
+
 Philadelphia Eagles (2-3) at New York Giants (1-4), Thursday, Oct 11, 8:20 PM (	:red_circle: bad game)
 
 <br/>Tampa Bay Buccaneers (2-2) at Atlanta Falcons (1-4), Sunday, Oct 14, 1:00 PM (	:green_circle: good game)

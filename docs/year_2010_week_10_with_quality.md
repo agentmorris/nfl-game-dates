@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 11
+# Game info for 2010 week 11
+
 Chicago Bears (6-3) at Miami Dolphins (5-4), Thursday, Nov 18, 8:29 PM
 
 <br/>Buffalo Bills (1-8) at Cincinnati Bengals (2-7), Sunday, Nov 21, 1:02 PM (	:green_circle: good game)

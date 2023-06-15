@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 8
+# Game info for 2018 week 8
+
 Miami Dolphins (4-3) at Houston Texans (4-3), Thursday, Oct 25, 8:20 PM (	:red_circle: bad game)
 
 <br/>Philadelphia Eagles (3-4) at Jacksonville Jaguars (3-4), Sunday, Oct 28, 9:30 AM (	:green_circle: good game)

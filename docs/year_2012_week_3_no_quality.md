@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 4
+# Game info for 2012 week 4
+
 Cleveland Browns (0-3) at Baltimore Ravens (2-1), Thursday, Sep 27, 8:30 PM
 
 <br/>Seattle Seahawks (2-1) at St. Louis Rams (1-2), Sunday, Sep 30, 1:00 PM

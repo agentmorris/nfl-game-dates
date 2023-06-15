@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 wild card
+# Game info for 2018 wild card
+
 Indianapolis Colts at Houston Texans, Saturday, Jan 5, 4:35 PM
 
 <br/>Seattle Seahawks at Dallas Cowboys, Saturday, Jan 5, 8:15 PM

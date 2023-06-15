@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2011 week 12
+# Game info for 2011 week 12
+
 Green Bay Packers (10-0) at Detroit Lions (7-3), Thursday, Nov 24, 12:35 PM
 
 <br/>Miami Dolphins (3-7) at Dallas Cowboys (6-4), Thursday, Nov 24, 4:16 PM

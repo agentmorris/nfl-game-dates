@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 15
+# Game info for 2017 week 15
+
 Denver Broncos (4-9) at Indianapolis Colts (3-10), Thursday, Dec 14, 8:25 PM (	:green_circle: good game)
 
 <br/>Chicago Bears (4-9) at Detroit Lions (7-6), Saturday, Dec 16, 4:30 PM

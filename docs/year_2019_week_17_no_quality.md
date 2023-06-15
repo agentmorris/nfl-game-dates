@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 wild card
+# Game info for 2019 wild card
+
 Buffalo Bills at Houston Texans, Saturday, Jan 4, 4:35 PM
 
 <br/>Tennessee Titans at New England Patriots, Saturday, Jan 4, 8:15 PM

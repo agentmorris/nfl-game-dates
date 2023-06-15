@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 15
+# Game info for 2013 week 15
+
 San Diego Chargers (6-7) at Denver Broncos (11-2), Thursday, Dec 12, 8:29 PM (	:green_circle: good game)
 
 <br/>Houston Texans (2-11) at Indianapolis Colts (8-5), Sunday, Dec 15, 1:02 PM (	:red_circle: bad game)

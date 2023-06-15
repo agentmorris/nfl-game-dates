@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 3
+# Game info for 2013 week 3
+
 Kansas City Chiefs (2-0) at Philadelphia Eagles (1-1), Thursday, Sep 19, 8:29 PM
 
 <br/>St. Louis Rams (1-1) at Dallas Cowboys (1-1), Sunday, Sep 22, 1:02 PM (	:red_circle: bad game)

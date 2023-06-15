@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 12
+# Game info for 2021 week 12
+
 Chicago Bears (3-7) at Detroit Lions (0-9-1), Thursday, Nov 25, 12:30 PM (	:green_circle: good game)
 
 <br/>Las Vegas Raiders (5-5) at Dallas Cowboys (7-3), Thursday, Nov 25, 4:30 PM (	:green_circle: good game)

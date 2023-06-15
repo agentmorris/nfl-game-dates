@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 17
+# Game info for 2018 week 17
+
 Miami Dolphins (7-8) at Buffalo Bills (5-10), Sunday, Dec 30, 1:00 PM
 
 Detroit Lions (5-10) at Green Bay Packers (6-8-1), Sunday, Dec 30, 1:00 PM

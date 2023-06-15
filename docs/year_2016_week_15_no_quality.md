@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 16
+# Game info for 2016 week 16
+
 New York Giants (10-4) at Philadelphia Eagles (5-9), Thursday, Dec 22, 8:25 PM
 
 <br/>Miami Dolphins (9-5) at Buffalo Bills (7-7), Saturday, Dec 24, 1:00 PM

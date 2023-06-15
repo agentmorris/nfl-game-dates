@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2014 week 11
+# Game info for 2014 week 11
+
 Buffalo Bills (5-4) at Miami Dolphins (5-4), Thursday, Nov 13, 8:26 PM (	:green_circle: good game)
 
 <br/>Denver Broncos (7-2) at St. Louis Rams (3-6), Sunday, Nov 16, 1:00 PM

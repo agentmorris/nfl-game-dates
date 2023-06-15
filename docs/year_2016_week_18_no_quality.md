@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 divisional
+# Game info for 2016 divisional
+
 Seattle Seahawks at Atlanta Falcons, Saturday, Jan 14, 4:35 PM
 
 <br/>Houston Texans at New England Patriots, Saturday, Jan 14, 8:15 PM

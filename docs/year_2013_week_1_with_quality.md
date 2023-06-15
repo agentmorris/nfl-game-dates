@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 2
+# Game info for 2013 week 2
+
 New York Jets (1-0) at New England Patriots (1-0), Thursday, Sep 12, 8:29 PM (	:green_circle: good game)
 
 <br/>Carolina Panthers (0-1) at Buffalo Bills (0-1), Sunday, Sep 15, 1:02 PM (	:green_circle: good game)

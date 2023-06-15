@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2009 week 6
+# Game info for 2009 week 6
+
 Carolina Panthers (1-3) at Tampa Bay Buccaneers (0-5), Sunday, Oct 18, 1:00 PM (	:green_circle: good game)
 
 Cleveland Browns (1-4) at Pittsburgh Steelers (3-2), Sunday, Oct 18, 1:01 PM

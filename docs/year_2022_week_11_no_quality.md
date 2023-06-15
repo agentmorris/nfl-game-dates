@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 12
+# Game info for 2022 week 12
+
 Buffalo Bills (7-3) at Detroit Lions (4-6), Thursday, Nov 24, 12:30 PM
 
 <br/>New York Giants (7-3) at Dallas Cowboys (7-3), Thursday, Nov 24, 4:30 PM

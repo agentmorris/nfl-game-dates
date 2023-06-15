@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 6
+# Game info for 2022 week 6
+
 Washington Commanders (1-4) at Chicago Bears (2-3), Thursday, Oct 13, 8:15 PM
 
 <br/>San Francisco 49ers (3-2) at Atlanta Falcons (2-3), Sunday, Oct 16, 1:00 PM

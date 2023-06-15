@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2014 week 1
+# Game info for 2014 week 1
+
 Green Bay Packers (0-0) at Seattle Seahawks (0-0), Thursday, Sep 4, 8:42 PM
 
 <br/>Buffalo Bills (0-0) at Chicago Bears (0-0), Sunday, Sep 7, 1:00 PM

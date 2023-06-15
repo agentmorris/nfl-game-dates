@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 3
+# Game info for 2015 week 3
+
 Washington Redskins (1-1) at New York Giants (0-2), Thursday, Sep 24, 8:26 PM
 
 <br/>Pittsburgh Steelers (1-1) at St. Louis Rams (1-1), Sunday, Sep 27, 1:00 PM (	:green_circle: good game)

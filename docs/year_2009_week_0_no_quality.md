@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2009 week 1
+# Game info for 2009 week 1
+
 Tennessee Titans (0-0) at Pittsburgh Steelers (0-0), Thursday, Sep 10, 8:41 PM
 
 <br/>Denver Broncos (0-0) at Cincinnati Bengals (0-0), Sunday, Sep 13, 1:02 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 6
+# Game info for 2016 week 6
+
 Denver Broncos (4-1) at San Diego Chargers (1-4), Thursday, Oct 13, 8:25 PM
 
 <br/>San Francisco 49ers (1-4) at Buffalo Bills (3-2), Sunday, Oct 16, 1:02 PM

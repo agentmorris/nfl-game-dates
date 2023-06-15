@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 7
+# Game info for 2013 week 7
+
 Seattle Seahawks (5-1) at Arizona Cardinals (3-3), Thursday, Oct 17, 8:25 PM
 
 <br/>Tampa Bay Buccaneers (0-5) at Atlanta Falcons (1-4), Sunday, Oct 20, 1:02 PM

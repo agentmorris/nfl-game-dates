@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 week 1
+# Game info for 2020 week 1
+
 Houston Texans (0-0) at Kansas City Chiefs (0-0), Thursday, Sep 10, 8:20 PM
 
 <br/>Seattle Seahawks (0-0) at Atlanta Falcons (0-0), Sunday, Sep 13, 1:00 PM

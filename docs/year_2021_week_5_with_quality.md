@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 6
+# Game info for 2021 week 6
+
 Tampa Bay Buccaneers (4-1) at Philadelphia Eagles (2-3), Thursday, Oct 14, 8:20 PM (	:green_circle: good game)
 
 <br/>Miami Dolphins (1-4) at Jacksonville Jaguars (0-5), Sunday, Oct 17, 9:30 AM (	:green_circle: good game)

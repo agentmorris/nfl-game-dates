@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 1
+# Game info for 2022 week 1
+
 Buffalo Bills (0-0) at Los Angeles Rams (0-0), Thursday, Sep 8, 8:20 PM
 
 <br/>New Orleans Saints (0-0) at Atlanta Falcons (0-0), Sunday, Sep 11, 1:00 PM

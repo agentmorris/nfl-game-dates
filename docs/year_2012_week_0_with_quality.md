@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 1
+# Game info for 2012 week 1
+
 Dallas Cowboys (0-0) at New York Giants (0-0), Wednesday, Sep 5, 8:41 PM (	:green_circle: good game)
 
 <br/>Indianapolis Colts (0-0) at Chicago Bears (0-0), Sunday, Sep 9, 1:02 PM (	:red_circle: bad game)

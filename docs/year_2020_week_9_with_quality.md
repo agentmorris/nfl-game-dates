@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 week 10
+# Game info for 2020 week 10
+
 Indianapolis Colts (5-3) at Tennessee Titans (6-2), Thursday, Nov 12, 8:20 PM (	:green_circle: good game)
 
 <br/>Tampa Bay Buccaneers (6-3) at Carolina Panthers (3-6), Sunday, Nov 15, 1:00 PM

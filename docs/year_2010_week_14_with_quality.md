@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 15
+# Game info for 2010 week 15
+
 San Francisco 49ers (5-8) at San Diego Chargers (7-6), Thursday, Dec 16, 8:20 PM (	:red_circle: bad game)
 
 <br/>Kansas City Chiefs (8-5) at St. Louis Rams (6-7), Sunday, Dec 19, 1:00 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 8
+# Game info for 2013 week 8
+
 Carolina Panthers (3-3) at Tampa Bay Buccaneers (0-6), Thursday, Oct 24, 8:29 PM (	:red_circle: bad game)
 
 <br/>Cleveland Browns (3-4) at Kansas City Chiefs (7-0), Sunday, Oct 27, 1:02 PM (	:green_circle: good game)

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2014 week 6
+# Game info for 2014 week 6
+
 Indianapolis Colts (3-2) at Houston Texans (3-2), Thursday, Oct 9, 8:26 PM
 
 <br/>New England Patriots (3-2) at Buffalo Bills (3-2), Sunday, Oct 12, 1:02 PM

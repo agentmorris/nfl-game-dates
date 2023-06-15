@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 12
+# Game info for 2016 week 12
+
 Minnesota Vikings (6-4) at Detroit Lions (6-4), Thursday, Nov 24, 12:30 PM (	:green_circle: good game)
 
 <br/>Washington Redskins (6-3-1) at Dallas Cowboys (9-1), Thursday, Nov 24, 4:30 PM (	:green_circle: good game)

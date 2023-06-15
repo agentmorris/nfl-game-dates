@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 15
+# Game info for 2016 week 15
+
 Los Angeles Rams (4-9) at Seattle Seahawks (8-4-1), Thursday, Dec 15, 8:25 PM (	:red_circle: bad game)
 
 <br/>Miami Dolphins (8-5) at New York Jets (4-9), Saturday, Dec 17, 8:25 PM (	:red_circle: bad game)

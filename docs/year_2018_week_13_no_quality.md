@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 14
+# Game info for 2018 week 14
+
 Jacksonville Jaguars (4-8) at Tennessee Titans (6-6), Thursday, Dec 6, 8:20 PM
 
 <br/>New York Jets (3-9) at Buffalo Bills (4-8), Sunday, Dec 9, 1:00 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 6
+# Game info for 2015 week 6
+
 Atlanta Falcons (5-0) at New Orleans Saints (1-4), Thursday, Oct 15, 8:26 PM
 
 <br/>Cincinnati Bengals (5-0) at Buffalo Bills (3-2), Sunday, Oct 18, 1:02 PM

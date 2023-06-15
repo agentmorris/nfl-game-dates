@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 3
+# Game info for 2017 week 3
+
 Los Angeles Rams (1-1) at San Francisco 49ers (0-2), Thursday, Sep 21, 8:25 PM (	:green_circle: good game)
 
 <br/>Baltimore Ravens (2-0) at Jacksonville Jaguars (1-1), Sunday, Sep 24, 9:30 AM (	:red_circle: bad game)

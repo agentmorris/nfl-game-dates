@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 10
+# Game info for 2015 week 10
+
 Buffalo Bills (4-4) at New York Jets (5-3), Thursday, Nov 12, 8:26 PM
 
 <br/>Chicago Bears (3-5) at St. Louis Rams (4-4), Sunday, Nov 15, 1:00 PM

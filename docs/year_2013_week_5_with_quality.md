@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 6
+# Game info for 2013 week 6
+
 New York Giants (0-5) at Chicago Bears (3-2), Thursday, Oct 10, 8:29 PM (	:green_circle: good game)
 
 <br/>Cincinnati Bengals (3-2) at Buffalo Bills (2-3), Sunday, Oct 13, 1:02 PM (	:green_circle: good game)

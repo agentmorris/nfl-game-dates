@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 4
+# Game info for 2021 week 4
+
 Jacksonville Jaguars (0-3) at Cincinnati Bengals (2-1), Thursday, Sep 30, 8:20 PM
 
 <br/>Washington Football Team (1-2) at Atlanta Falcons (1-2), Sunday, Oct 3, 1:00 PM

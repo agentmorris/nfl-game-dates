@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 10
+# Game info for 2012 week 10
+
 Indianapolis Colts (5-3) at Jacksonville Jaguars (1-7), Thursday, Nov 8, 8:30 PM (	:red_circle: bad game)
 
 <br/>Denver Broncos (5-3) at Carolina Panthers (2-6), Sunday, Nov 11, 1:02 PM (	:red_circle: bad game)

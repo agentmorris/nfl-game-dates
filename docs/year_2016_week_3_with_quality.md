@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 4
+# Game info for 2016 week 4
+
 Miami Dolphins (1-2) at Cincinnati Bengals (1-2), Thursday, Sep 29, 8:26 PM
 
 <br/>Indianapolis Colts (1-2) at Jacksonville Jaguars (0-3), Sunday, Oct 2, 9:35 AM (	:green_circle: good game)

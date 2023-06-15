@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 15
+# Game info for 2022 week 15
+
 San Francisco 49ers (9-4) at Seattle Seahawks (7-6), Thursday, Dec 15, 8:15 PM
 
 <br/>Indianapolis Colts (4-8-1) at Minnesota Vikings (10-3), Saturday, Dec 17, 1:00 PM

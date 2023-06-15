@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 15
+# Game info for 2021 week 15
+
 Kansas City Chiefs (9-4) at Los Angeles Chargers (8-5), Thursday, Dec 16, 8:20 PM (	:green_circle: good game)
 
 <br/>New England Patriots (9-4) at Indianapolis Colts (7-6), Saturday, Dec 18, 8:20 PM

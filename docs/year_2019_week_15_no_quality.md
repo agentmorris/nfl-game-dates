@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 16
+# Game info for 2019 week 16
+
 Houston Texans (9-5) at Tampa Bay Buccaneers (7-7), Saturday, Dec 21, 1:00 PM
 
 <br/>Buffalo Bills (10-4) at New England Patriots (11-3), Saturday, Dec 21, 4:30 PM

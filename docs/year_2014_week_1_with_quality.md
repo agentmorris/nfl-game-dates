@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2014 week 2
+# Game info for 2014 week 2
+
 Pittsburgh Steelers (1-0) at Baltimore Ravens (0-1), Thursday, Sep 11, 8:28 PM (	:red_circle: bad game)
 
 <br/>Miami Dolphins (1-0) at Buffalo Bills (1-0), Sunday, Sep 14, 1:02 PM (	:red_circle: bad game)

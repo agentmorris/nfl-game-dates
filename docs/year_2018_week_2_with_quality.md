@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 3
+# Game info for 2018 week 3
+
 New York Jets (1-1) at Cleveland Browns (0-1-1), Thursday, Sep 20, 8:20 PM (	:green_circle: good game)
 
 <br/>New Orleans Saints (1-1) at Atlanta Falcons (1-1), Sunday, Sep 23, 1:00 PM (	:green_circle: good game)

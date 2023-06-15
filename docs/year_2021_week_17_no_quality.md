@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 18
+# Game info for 2021 week 18
+
 Kansas City Chiefs (11-5) at Denver Broncos (7-9), Saturday, Jan 8, 4:30 PM
 
 <br/>Dallas Cowboys (11-5) at Philadelphia Eagles (9-7), Saturday, Jan 8, 8:15 PM

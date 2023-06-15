@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 16
+# Game info for 2018 week 16
+
 Washington Redskins (7-7) at Tennessee Titans (8-6), Saturday, Dec 22, 4:30 PM (	:green_circle: good game)
 
 <br/>Baltimore Ravens (8-6) at Los Angeles Chargers (11-3), Saturday, Dec 22, 8:20 PM

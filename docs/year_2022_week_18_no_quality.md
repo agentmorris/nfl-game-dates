@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 wild card
+# Game info for 2022 wild card
+
 Seattle Seahawks at San Francisco 49ers, Saturday, Jan 14, 4:30 PM
 
 <br/>Los Angeles Chargers at Jacksonville Jaguars, Saturday, Jan 14, 8:15 PM

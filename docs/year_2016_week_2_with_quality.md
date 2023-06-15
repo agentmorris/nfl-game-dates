@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 3
+# Game info for 2016 week 3
+
 Houston Texans (2-0) at New England Patriots (2-0), Thursday, Sep 22, 8:26 PM (	:red_circle: bad game)
 
 <br/>Arizona Cardinals (1-1) at Buffalo Bills (0-2), Sunday, Sep 25, 1:02 PM

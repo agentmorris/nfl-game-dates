@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 7
+# Game info for 2015 week 7
+
 Seattle Seahawks (2-4) at San Francisco 49ers (2-4), Thursday, Oct 22, 8:26 PM (	:red_circle: bad game)
 
 <br/>Buffalo Bills (3-3) at Jacksonville Jaguars (1-5), Sunday, Oct 25, 8:35 AM (	:green_circle: good game)

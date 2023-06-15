@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 6
+# Game info for 2019 week 6
+
 New York Giants (2-3) at New England Patriots (5-0), Thursday, Oct 10, 8:20 PM
 
 <br/>Carolina Panthers (3-2) at Tampa Bay Buccaneers (2-3), Sunday, Oct 13, 9:30 AM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 9
+# Game info for 2017 week 9
+
 Buffalo Bills (5-2) at New York Jets (3-5), Thursday, Nov 2, 8:25 PM
 
 <br/>Atlanta Falcons (4-3) at Carolina Panthers (5-3), Sunday, Nov 5, 1:00 PM (	:green_circle: good game)

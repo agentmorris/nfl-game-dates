@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 5
+# Game info for 2016 week 5
+
 Arizona Cardinals (1-3) at San Francisco 49ers (1-3), Thursday, Oct 6, 8:27 PM
 
 <br/>New England Patriots (3-1) at Cleveland Browns (0-4), Sunday, Oct 9, 1:02 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 2
+# Game info for 2022 week 2
+
 Los Angeles Chargers (1-0) at Kansas City Chiefs (1-0), Thursday, Sep 15, 8:15 PM
 
 <br/>New York Jets (0-1) at Cleveland Browns (1-0), Sunday, Sep 18, 1:00 PM

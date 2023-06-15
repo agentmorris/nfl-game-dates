@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 7
+# Game info for 2019 week 7
+
 Kansas City Chiefs (4-2) at Denver Broncos (2-4), Thursday, Oct 17, 8:20 PM (	:red_circle: bad game)
 
 <br/>Los Angeles Rams (3-3) at Atlanta Falcons (1-5), Sunday, Oct 20, 1:00 PM (	:red_circle: bad game)

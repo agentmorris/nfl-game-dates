@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 7
+# Game info for 2021 week 7
+
 Denver Broncos (3-3) at Cleveland Browns (3-3), Thursday, Oct 21, 8:20 PM
 
 <br/>Washington Football Team (2-4) at Green Bay Packers (5-1), Sunday, Oct 24, 1:00 PM

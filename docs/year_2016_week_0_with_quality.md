@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 1
+# Game info for 2016 week 1
+
 Carolina Panthers (0-0) at Denver Broncos (0-0), Thursday, Sep 8, 8:40 PM (	:green_circle: good game)
 
 <br/>Green Bay Packers (0-0) at Jacksonville Jaguars (0-0), Sunday, Sep 11, 1:04 PM (	:green_circle: good game)

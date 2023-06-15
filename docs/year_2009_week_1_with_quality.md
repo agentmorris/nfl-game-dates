@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2009 week 2
+# Game info for 2009 week 2
+
 Oakland Raiders (0-1) at Kansas City Chiefs (0-1), Sunday, Sep 20, 1:00 PM (	:green_circle: good game)
 
 Carolina Panthers (0-1) at Atlanta Falcons (1-0), Sunday, Sep 20, 1:02 PM (	:green_circle: good game)

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 13
+# Game info for 2019 week 13
+
 Chicago Bears (5-6) at Detroit Lions (3-7-1), Thursday, Nov 28, 12:30 PM
 
 <br/>Buffalo Bills (8-3) at Dallas Cowboys (6-5), Thursday, Nov 28, 4:30 PM

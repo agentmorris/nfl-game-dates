@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 16
+# Game info for 2010 week 16
+
 Carolina Panthers (2-12) at Pittsburgh Steelers (10-4), Thursday, Dec 23, 8:29 PM
 
 <br/>Dallas Cowboys (5-9) at Arizona Cardinals (4-10), Saturday, Dec 25, 7:30 PM

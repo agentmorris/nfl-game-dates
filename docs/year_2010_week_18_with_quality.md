@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 divisional
+# Game info for 2010 divisional
+
 Baltimore Ravens at Pittsburgh Steelers, Saturday, Jan 15, 4:35 PM
 
 <br/>Green Bay Packers at Atlanta Falcons, Saturday, Jan 15, 8:15 PM

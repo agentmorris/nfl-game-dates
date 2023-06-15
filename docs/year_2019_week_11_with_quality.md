@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 12
+# Game info for 2019 week 12
+
 Indianapolis Colts (6-4) at Houston Texans (6-4), Thursday, Nov 21, 8:20 PM (	:green_circle: good game)
 
 <br/>Tampa Bay Buccaneers (3-7) at Atlanta Falcons (3-7), Sunday, Nov 24, 1:00 PM

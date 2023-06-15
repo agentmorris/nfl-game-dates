@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 9
+# Game info for 2021 week 9
+
 New York Jets (2-5) at Indianapolis Colts (3-5), Thursday, Nov 4, 8:20 PM
 
 <br/>New England Patriots (4-4) at Carolina Panthers (4-4), Sunday, Nov 7, 1:00 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 15
+# Game info for 2018 week 15
+
 Los Angeles Chargers (10-3) at Kansas City Chiefs (11-2), Thursday, Dec 13, 8:20 PM (	:green_circle: good game)
 
 <br/>Houston Texans (9-4) at New York Jets (4-9), Saturday, Dec 15, 4:30 PM (	:green_circle: good game)

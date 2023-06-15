@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2019 week 9
+# Game info for 2019 week 9
+
 San Francisco 49ers (7-0) at Arizona Cardinals (3-4-1), Thursday, Oct 31, 8:20 PM (	:green_circle: good game)
 
 <br/>Houston Texans (5-3) at Jacksonville Jaguars (4-4), Sunday, Nov 3, 9:30 AM (	:red_circle: bad game)

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 13
+# Game info for 2016 week 13
+
 Dallas Cowboys (10-1) at Minnesota Vikings (6-5), Thursday, Dec 1, 7:25 PM (	:green_circle: good game)
 
 <br/>Kansas City Chiefs (8-3) at Atlanta Falcons (7-4), Sunday, Dec 4, 1:00 PM (	:green_circle: good game)

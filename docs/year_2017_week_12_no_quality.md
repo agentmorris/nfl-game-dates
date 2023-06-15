@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 13
+# Game info for 2017 week 13
+
 Washington Redskins (5-6) at Dallas Cowboys (5-6), Thursday, Nov 30, 8:25 PM
 
 <br/>Minnesota Vikings (9-2) at Atlanta Falcons (7-4), Sunday, Dec 3, 1:00 PM

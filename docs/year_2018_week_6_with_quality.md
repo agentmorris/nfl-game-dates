@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 7
+# Game info for 2018 week 7
+
 Denver Broncos (2-4) at Arizona Cardinals (1-5), Thursday, Oct 18, 8:20 PM (	:red_circle: bad game)
 
 <br/>Tennessee Titans (3-3) at Los Angeles Chargers (4-2), Sunday, Oct 21, 9:30 AM (	:green_circle: good game)

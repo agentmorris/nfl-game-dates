@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 5
+# Game info for 2017 week 5
+
 New England Patriots (2-2) at Tampa Bay Buccaneers (2-1), Thursday, Oct 5, 8:25 PM (	:green_circle: good game)
 
 <br/>Buffalo Bills (3-1) at Cincinnati Bengals (1-3), Sunday, Oct 8, 1:00 PM (	:green_circle: good game)

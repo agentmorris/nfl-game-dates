@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 11
+# Game info for 2017 week 11
+
 Tennessee Titans (6-3) at Pittsburgh Steelers (7-2), Thursday, Nov 16, 8:25 PM
 
 <br/>Detroit Lions (5-4) at Chicago Bears (3-6), Sunday, Nov 19, 1:00 PM

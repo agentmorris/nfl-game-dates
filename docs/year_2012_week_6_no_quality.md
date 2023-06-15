@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 7
+# Game info for 2012 week 7
+
 Seattle Seahawks (4-2) at San Francisco 49ers (4-2), Thursday, Oct 18, 8:29 PM
 
 <br/>Green Bay Packers (3-3) at St. Louis Rams (3-3), Sunday, Oct 21, 1:00 PM

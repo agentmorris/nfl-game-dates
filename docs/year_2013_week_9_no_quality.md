@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 10
+# Game info for 2013 week 10
+
 Washington Redskins (3-5) at Minnesota Vikings (1-7), Thursday, Nov 7, 8:35 PM
 
 <br/>Philadelphia Eagles (4-5) at Green Bay Packers (5-3), Sunday, Nov 10, 1:02 PM

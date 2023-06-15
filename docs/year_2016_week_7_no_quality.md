@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2016 week 8
+# Game info for 2016 week 8
+
 Jacksonville Jaguars (2-4) at Tennessee Titans (3-4), Thursday, Oct 27, 8:26 PM
 
 <br/>Washington Redskins (4-3) at Cincinnati Bengals (3-4), Sunday, Oct 30, 8:36 AM

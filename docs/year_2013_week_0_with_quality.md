@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2013 week 1
+# Game info for 2013 week 1
+
 Baltimore Ravens (0-0) at Denver Broncos (0-0), Thursday, Sep 5, 9:13 PM (	:green_circle: good game)
 
 <br/>New England Patriots (0-0) at Buffalo Bills (0-0), Sunday, Sep 8, 1:02 PM (	:green_circle: good game)

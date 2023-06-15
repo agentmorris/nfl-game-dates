@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 divisional
+# Game info for 2018 divisional
+
 Indianapolis Colts at Kansas City Chiefs, Saturday, Jan 12, 4:35 PM
 
 <br/>Dallas Cowboys at Los Angeles Rams, Saturday, Jan 12, 8:15 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 15
+# Game info for 2012 week 15
+
 Cincinnati Bengals (7-6) at Philadelphia Eagles (4-9), Thursday, Dec 13, 8:30 PM
 
 <br/>Minnesota Vikings (7-6) at St. Louis Rams (6-6-1), Sunday, Dec 16, 1:00 PM

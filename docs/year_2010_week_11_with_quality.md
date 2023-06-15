@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 12
+# Game info for 2010 week 12
+
 New England Patriots (8-2) at Detroit Lions (2-8), Thursday, Nov 25, 12:38 PM (	:green_circle: good game)
 
 <br/>New Orleans Saints (7-3) at Dallas Cowboys (3-7), Thursday, Nov 25, 4:36 PM (	:green_circle: good game)

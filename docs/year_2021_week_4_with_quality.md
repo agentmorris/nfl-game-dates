@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 5
+# Game info for 2021 week 5
+
 Los Angeles Rams (3-1) at Seattle Seahawks (2-2), Thursday, Oct 7, 8:20 PM (	:green_circle: good game)
 
 <br/>New York Jets (1-3) at Atlanta Falcons (1-3), Sunday, Oct 10, 9:30 AM (	:green_circle: good game)

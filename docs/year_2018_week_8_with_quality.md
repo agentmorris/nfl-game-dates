@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2018 week 9
+# Game info for 2018 week 9
+
 Oakland Raiders (1-6) at San Francisco 49ers (1-7), Thursday, Nov 1, 8:20 PM (	:red_circle: bad game)
 
 <br/>Chicago Bears (4-3) at Buffalo Bills (2-6), Sunday, Nov 4, 1:00 PM (	:red_circle: bad game)

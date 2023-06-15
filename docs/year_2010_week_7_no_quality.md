@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 8
+# Game info for 2010 week 8
+
 Carolina Panthers (1-5) at St. Louis Rams (3-4), Sunday, Oct 31, 1:00 PM
 
 Washington Redskins (4-3) at Detroit Lions (1-5), Sunday, Oct 31, 1:02 PM

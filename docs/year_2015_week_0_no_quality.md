@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2015 week 1
+# Game info for 2015 week 1
+
 Pittsburgh Steelers (0-0) at New England Patriots (0-0), Thursday, Sep 10, 8:40 PM
 
 <br/>Green Bay Packers (0-0) at Chicago Bears (0-0), Sunday, Sep 13, 1:00 PM

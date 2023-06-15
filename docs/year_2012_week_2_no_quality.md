@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 3
+# Game info for 2012 week 3
+
 New York Giants (1-1) at Carolina Panthers (1-1), Thursday, Sep 20, 8:20 PM
 
 <br/>Buffalo Bills (1-1) at Cleveland Browns (0-2), Sunday, Sep 23, 1:02 PM

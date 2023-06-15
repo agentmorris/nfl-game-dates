@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2010 week 10
+# Game info for 2010 week 10
+
 Baltimore Ravens (6-2) at Atlanta Falcons (6-2), Thursday, Nov 11, 8:31 PM
 
 <br/>Detroit Lions (2-6) at Buffalo Bills (0-8), Sunday, Nov 14, 1:02 PM

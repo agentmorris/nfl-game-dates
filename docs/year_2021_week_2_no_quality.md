@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2021 week 3
+# Game info for 2021 week 3
+
 Carolina Panthers (2-0) at Houston Texans (1-1), Thursday, Sep 23, 8:20 PM
 
 <br/>Washington Football Team (1-1) at Buffalo Bills (1-1), Sunday, Sep 26, 1:00 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2009 week 4
+# Game info for 2009 week 4
+
 New York Giants (3-0) at Kansas City Chiefs (0-3), Sunday, Oct 4, 1:00 PM
 
 Tampa Bay Buccaneers (0-3) at Washington Redskins (1-2), Sunday, Oct 4, 1:00 PM

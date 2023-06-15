@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 divisional
+# Game info for 2020 divisional
+
 Los Angeles Rams at Green Bay Packers, Saturday, Jan 16, 4:35 PM
 
 <br/>Baltimore Ravens at Buffalo Bills, Saturday, Jan 16, 8:15 PM

@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 5
+# Game info for 2022 week 5
+
 Indianapolis Colts (1-2-1) at Denver Broncos (2-2), Thursday, Oct 6, 8:15 PM
 
 <br/>New York Giants (3-1) at Green Bay Packers (3-1), Sunday, Oct 9, 9:30 AM

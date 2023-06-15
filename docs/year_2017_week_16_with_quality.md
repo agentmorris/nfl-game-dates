@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2017 week 17
+# Game info for 2017 week 17
+
 Houston Texans (4-11) at Indianapolis Colts (3-12), Sunday, Dec 31, 1:00 PM (	:green_circle: good game)
 
 Green Bay Packers (7-8) at Detroit Lions (8-7), Sunday, Dec 31, 1:00 PM (	:red_circle: bad game)

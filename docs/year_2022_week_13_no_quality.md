@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2022 week 14
+# Game info for 2022 week 14
+
 Las Vegas Raiders (5-7) at Los Angeles Rams (3-9), Thursday, Dec 8, 8:15 PM
 
 <br/>New York Jets (7-5) at Buffalo Bills (9-3), Sunday, Dec 11, 1:00 PM

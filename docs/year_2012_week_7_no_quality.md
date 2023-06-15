@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2012 week 8
+# Game info for 2012 week 8
+
 Tampa Bay Buccaneers (2-4) at Minnesota Vikings (5-2), Thursday, Oct 25, 8:29 PM
 
 <br/>Washington Redskins (3-4) at Pittsburgh Steelers (3-3), Sunday, Oct 28, 1:02 PM

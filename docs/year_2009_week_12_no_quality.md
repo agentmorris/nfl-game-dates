@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2009 week 13
+# Game info for 2009 week 13
+
 New York Jets (5-6) at Buffalo Bills (4-7), Thursday, Dec 3, 8:20 PM
 
 <br/>Denver Broncos (7-4) at Kansas City Chiefs (3-8), Sunday, Dec 6, 1:00 PM

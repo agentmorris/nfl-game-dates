@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2014 week 13
+# Game info for 2014 week 13
+
 Chicago Bears (5-6) at Detroit Lions (7-4), Thursday, Nov 27, 12:39 PM
 
 <br/>Philadelphia Eagles (8-3) at Dallas Cowboys (8-3), Thursday, Nov 27, 4:36 PM

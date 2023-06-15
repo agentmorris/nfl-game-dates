@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2020 week 6
+# Game info for 2020 week 6
+
 Chicago Bears (4-1) at Carolina Panthers (3-2), Sunday, Oct 18, 1:00 PM (	:green_circle: good game)
 
 Cincinnati Bengals (1-3-1) at Indianapolis Colts (3-2), Sunday, Oct 18, 1:00 PM (	:green_circle: good game)

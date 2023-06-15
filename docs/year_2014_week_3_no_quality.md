@@ -3,7 +3,8 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-## Game info for 2014 week 4
+# Game info for 2014 week 4
+
 New York Giants (1-2) at Washington Redskins (1-2), Thursday, Sep 25, 8:26 PM
 
 <br/>Green Bay Packers (1-2) at Chicago Bears (2-1), Sunday, Sep 28, 1:02 PM
