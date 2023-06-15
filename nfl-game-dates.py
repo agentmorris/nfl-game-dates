@@ -878,13 +878,13 @@ if False:
         # Write the year page
         
         year_s = ''        
-        year_s += '## Game info for the {} season\n\n'.format(year)
+        year_s += '# Game info for the {} season\n\n'.format(year)
         
-        year_s += '### Records only\n'        
+        year_s += '## Records only\n'        
         for i_week in range(0,len(weeks)):
             year_s += '* [{}]({})\n'.format(week_index_to_name(i_week,year).title(),no_quality_links[i_week])
         
-        year_s += '### With quality indicators\n'        
+        year_s += '## With quality indicators\n'        
         for i_week in range(0,len(weeks)):
             year_s += '* [{}]({})\n'.format(week_index_to_name(i_week,year).title(),with_quality_links[i_week])
             
