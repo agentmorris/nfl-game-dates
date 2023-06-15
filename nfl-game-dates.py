@@ -715,7 +715,7 @@ if False:
         trailer_lines = f.readlines()
     main_s += '\n' + ''.join(trailer_lines) + '\n'
     
-    main_file = os.path.join(markdown_folder,'README.md')
+    main_file = os.path.join(markdown_folder,'index.md')
     with open(main_file,'w') as f:
         f.write(main_s)        
     
