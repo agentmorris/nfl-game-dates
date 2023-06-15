@@ -1,6 +1,6 @@
 ---
 title: NFL simulated-real-time schedules, 2009-present
-description: 
+description:
 ---
 
 ## Game info for the 2009 season
