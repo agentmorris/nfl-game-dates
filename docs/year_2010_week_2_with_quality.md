@@ -18,7 +18,6 @@ San Francisco 49ers (0-2) at Kansas City Chiefs (2-0), Sunday, Sep 26, 1:04 PM (
 Detroit Lions (0-2) at Minnesota Vikings (0-2), Sunday, Sep 26, 1:05 PM
 
 
-<br/>
 
 Philadelphia Eagles (1-1) at Jacksonville Jaguars (1-1), Sunday, Sep 26, 4:05 PM (	:red_circle: bad game)
 
@@ -31,12 +30,10 @@ Indianapolis Colts (1-1) at Denver Broncos (1-1), Sunday, Sep 26, 4:16 PM
 San Diego Chargers (1-1) at Seattle Seahawks (1-1), Sunday, Sep 26, 4:16 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Jets (1-1) at Miami Dolphins (2-0), Sunday, Sep 26, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 Green Bay Packers (2-0) at Chicago Bears (2-0), Monday, Sep 27, 8:40 PM (	:green_circle: good game)
 

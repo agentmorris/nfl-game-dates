@@ -2,7 +2,6 @@
 New York Giants (1-1) at Carolina Panthers (1-1), Thursday, Sep 20, 8:20 PM
 
 
-<br/>
 
 Buffalo Bills (1-1) at Cleveland Browns (0-2), Sunday, Sep 23, 1:02 PM
 
@@ -23,7 +22,6 @@ Tampa Bay Buccaneers (1-1) at Dallas Cowboys (1-1), Sunday, Sep 23, 1:05 PM
 San Francisco 49ers (2-0) at Minnesota Vikings (1-1), Sunday, Sep 23, 1:05 PM
 
 
-<br/>
 
 Philadelphia Eagles (2-0) at Arizona Cardinals (2-0), Sunday, Sep 23, 4:05 PM
 
@@ -34,12 +32,10 @@ Houston Texans (2-0) at Denver Broncos (1-1), Sunday, Sep 23, 4:25 PM
 Pittsburgh Steelers (1-1) at Oakland Raiders (0-2), Sunday, Sep 23, 4:25 PM
 
 
-<br/>
 
 New England Patriots (1-1) at Baltimore Ravens (1-1), Sunday, Sep 23, 8:31 PM
 
 
-<br/>
 
 Green Bay Packers (1-1) at Seattle Seahawks (1-1), Monday, Sep 24, 8:41 PM
 

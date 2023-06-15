@@ -2,7 +2,6 @@
 Atlanta Falcons (12-2) at Detroit Lions (4-10), Saturday, Dec 22, 8:40 PM
 
 
-<br/>
 
 New Orleans Saints (6-8) at Dallas Cowboys (8-6), Sunday, Dec 23, 1:02 PM (	:green_circle: good game)
 
@@ -27,7 +26,6 @@ St. Louis Rams (6-7-1) at Tampa Bay Buccaneers (6-8), Sunday, Dec 23, 1:03 PM
 Oakland Raiders (4-10) at Carolina Panthers (5-9), Sunday, Dec 23, 1:04 PM
 
 
-<br/>
 
 Cleveland Browns (5-9) at Denver Broncos (11-3), Sunday, Dec 23, 4:05 PM (	:red_circle: bad game)
 
@@ -36,7 +34,6 @@ Chicago Bears (8-6) at Arizona Cardinals (5-9), Sunday, Dec 23, 4:25 PM
 New York Giants (8-6) at Baltimore Ravens (9-5), Sunday, Dec 23, 4:25 PM (	:red_circle: bad game)
 
 
-<br/>
 
 San Francisco 49ers (10-3-1) at Seattle Seahawks (9-5), Sunday, Dec 23, 8:31 PM (	:red_circle: bad game)
 

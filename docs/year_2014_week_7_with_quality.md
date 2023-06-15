@@ -2,12 +2,10 @@
 San Diego Chargers (5-2) at Denver Broncos (5-1), Thursday, Oct 23, 8:26 PM
 
 
-<br/>
 
 Detroit Lions (5-2) at Atlanta Falcons (2-5), Sunday, Oct 26, 9:37 AM (	:green_circle: good game)
 
 
-<br/>
 
 Baltimore Ravens (5-2) at Cincinnati Bengals (3-2-1), Sunday, Oct 26, 1:02 PM (	:green_circle: good game)
 
@@ -26,7 +24,6 @@ Seattle Seahawks (3-3) at Carolina Panthers (3-3-1), Sunday, Oct 26, 1:04 PM (	:
 St. Louis Rams (2-4) at Kansas City Chiefs (3-3), Sunday, Oct 26, 1:04 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Philadelphia Eagles (5-1) at Arizona Cardinals (5-1), Sunday, Oct 26, 4:05 PM (	:green_circle: good game)
 
@@ -35,12 +32,10 @@ Oakland Raiders (0-6) at Cleveland Browns (3-3), Sunday, Oct 26, 4:25 PM
 Indianapolis Colts (5-2) at Pittsburgh Steelers (4-3), Sunday, Oct 26, 4:25 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Green Bay Packers (5-2) at New Orleans Saints (2-4), Sunday, Oct 26, 8:30 PM
 
 
-<br/>
 
 Washington Redskins (2-5) at Dallas Cowboys (6-1), Monday, Oct 27, 8:30 PM (	:green_circle: good game)
 

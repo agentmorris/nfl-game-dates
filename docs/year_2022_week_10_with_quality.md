@@ -2,7 +2,6 @@
 Tennessee Titans (6-3) at Green Bay Packers (4-6), Thursday, Nov 17, 8:15 PM
 
 
-<br/>
 
 Chicago Bears (3-7) at Atlanta Falcons (4-6), Sunday, Nov 20, 1:00 PM (	:green_circle: good game)
 
@@ -21,7 +20,6 @@ Detroit Lions (3-6) at New York Giants (7-2), Sunday, Nov 20, 1:00 PM
 Carolina Panthers (3-7) at Baltimore Ravens (6-3), Sunday, Nov 20, 1:00 PM
 
 
-<br/>
 
 Las Vegas Raiders (2-7) at Denver Broncos (3-6), Sunday, Nov 20, 4:05 PM (	:green_circle: good game)
 
@@ -30,12 +28,10 @@ Dallas Cowboys (6-3) at Minnesota Vikings (8-1), Sunday, Nov 20, 4:25 PM (	:red_
 Cincinnati Bengals (5-4) at Pittsburgh Steelers (3-6), Sunday, Nov 20, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Kansas City Chiefs (7-2) at Los Angeles Chargers (5-4), Sunday, Nov 20, 8:20 PM (	:green_circle: good game)
 
 
-<br/>
 
 San Francisco 49ers (5-4) at Arizona Cardinals (4-6), Monday, Nov 21, 8:15 PM (	:red_circle: bad game)
 

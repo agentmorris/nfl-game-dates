@@ -2,17 +2,14 @@
 Chicago Bears (5-6) at Detroit Lions (3-7-1), Thursday, Nov 28, 12:30 PM
 
 
-<br/>
 
 Buffalo Bills (8-3) at Dallas Cowboys (6-5), Thursday, Nov 28, 4:30 PM
 
 
-<br/>
 
 New Orleans Saints (9-2) at Atlanta Falcons (3-8), Thursday, Nov 28, 8:20 PM
 
 
-<br/>
 
 Washington Redskins (2-9) at Carolina Panthers (5-6), Sunday, Dec 1, 1:00 PM
 
@@ -31,7 +28,6 @@ Cleveland Browns (5-6) at Pittsburgh Steelers (6-5), Sunday, Dec 1, 1:00 PM
 San Francisco 49ers (10-1) at Baltimore Ravens (9-2), Sunday, Dec 1, 1:00 PM
 
 
-<br/>
 
 Los Angeles Rams (6-5) at Arizona Cardinals (3-7-1), Sunday, Dec 1, 4:05 PM
 
@@ -40,12 +36,10 @@ Los Angeles Chargers (4-7) at Denver Broncos (3-8), Sunday, Dec 1, 4:25 PM
 Oakland Raiders (6-5) at Kansas City Chiefs (7-4), Sunday, Dec 1, 4:25 PM
 
 
-<br/>
 
 New England Patriots (10-1) at Houston Texans (7-4), Sunday, Dec 1, 8:20 PM
 
 
-<br/>
 
 Minnesota Vikings (8-3) at Seattle Seahawks (9-2), Monday, Dec 2, 8:15 PM
 

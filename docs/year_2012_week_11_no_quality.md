@@ -2,17 +2,14 @@
 Houston Texans (9-1) at Detroit Lions (4-6), Thursday, Nov 22, 12:39 PM
 
 
-<br/>
 
 Washington Redskins (4-6) at Dallas Cowboys (5-5), Thursday, Nov 22, 4:41 PM
 
 
-<br/>
 
 New England Patriots (7-3) at New York Jets (4-6), Thursday, Nov 22, 8:31 PM
 
 
-<br/>
 
 Minnesota Vikings (6-4) at Chicago Bears (7-3), Sunday, Nov 25, 1:00 PM
 
@@ -31,7 +28,6 @@ Denver Broncos (7-3) at Kansas City Chiefs (1-9), Sunday, Nov 25, 1:03 PM
 Seattle Seahawks (6-4) at Miami Dolphins (4-6), Sunday, Nov 25, 1:03 PM
 
 
-<br/>
 
 Baltimore Ravens (8-2) at San Diego Chargers (4-6), Sunday, Nov 25, 4:05 PM
 
@@ -40,12 +36,10 @@ St. Louis Rams (3-6-1) at Arizona Cardinals (4-6), Sunday, Nov 25, 4:25 PM
 San Francisco 49ers (7-2-1) at New Orleans Saints (5-5), Sunday, Nov 25, 4:25 PM
 
 
-<br/>
 
 Green Bay Packers (7-3) at New York Giants (6-4), Sunday, Nov 25, 8:30 PM
 
 
-<br/>
 
 Carolina Panthers (2-8) at Philadelphia Eagles (3-7), Monday, Nov 26, 8:32 PM
 

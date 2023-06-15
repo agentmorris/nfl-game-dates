@@ -16,7 +16,6 @@ Minnesota Vikings (6-9) at Detroit Lions (5-10), Sunday, Jan 2, 1:03 PM (	:green
 Buffalo Bills (4-11) at New York Jets (10-5), Sunday, Jan 2, 1:03 PM (	:red_circle: bad game)
 
 
-<br/>
 
 San Diego Chargers (8-7) at Denver Broncos (4-11), Sunday, Jan 2, 4:15 PM (	:green_circle: good game)
 
@@ -33,7 +32,6 @@ Tennessee Titans (6-9) at Indianapolis Colts (9-6), Sunday, Jan 2, 4:16 PM (	:gr
 New York Giants (9-6) at Washington Redskins (6-9), Sunday, Jan 2, 4:16 PM (	:green_circle: good game)
 
 
-<br/>
 
 St. Louis Rams (7-8) at Seattle Seahawks (6-9), Sunday, Jan 2, 8:31 PM
 

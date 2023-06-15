@@ -2,7 +2,6 @@
 Indianapolis Colts (5-3) at Tennessee Titans (6-2), Thursday, Nov 12, 8:20 PM
 
 
-<br/>
 
 Tampa Bay Buccaneers (6-3) at Carolina Panthers (3-6), Sunday, Nov 15, 1:00 PM
 
@@ -15,7 +14,6 @@ Jacksonville Jaguars (1-7) at Green Bay Packers (6-2), Sunday, Nov 15, 1:00 PM
 Philadelphia Eagles (3-4-1) at New York Giants (2-7), Sunday, Nov 15, 1:00 PM
 
 
-<br/>
 
 Buffalo Bills (7-2) at Arizona Cardinals (5-3), Sunday, Nov 15, 4:05 PM
 
@@ -30,12 +28,10 @@ Cincinnati Bengals (2-5-1) at Pittsburgh Steelers (8-0), Sunday, Nov 15, 4:25 PM
 Seattle Seahawks (6-2) at Los Angeles Rams (5-3), Sunday, Nov 15, 4:25 PM
 
 
-<br/>
 
 Baltimore Ravens (6-2) at New England Patriots (3-5), Sunday, Nov 15, 8:20 PM
 
 
-<br/>
 
 Minnesota Vikings (3-5) at Chicago Bears (5-4), Monday, Nov 16, 8:15 PM
 

@@ -16,7 +16,6 @@ Kansas City Chiefs (0-5) at Washington Redskins (2-3), Sunday, Oct 18, 1:03 PM (
 Baltimore Ravens (3-2) at Minnesota Vikings (5-0), Sunday, Oct 18, 1:05 PM (	:green_circle: good game)
 
 
-<br/>
 
 Philadelphia Eagles (3-1) at Oakland Raiders (1-4), Sunday, Oct 18, 4:05 PM (	:green_circle: good game)
 
@@ -27,12 +26,10 @@ Tennessee Titans (0-5) at New England Patriots (3-2), Sunday, Oct 18, 4:15 PM (	
 Buffalo Bills (1-4) at New York Jets (3-2), Sunday, Oct 18, 4:15 PM (	:green_circle: good game)
 
 
-<br/>
 
 Chicago Bears (3-1) at Atlanta Falcons (3-1), Sunday, Oct 18, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 Denver Broncos (5-0) at San Diego Chargers (2-2), Monday, Oct 19, 8:40 PM (	:green_circle: good game)
 

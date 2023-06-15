@@ -2,7 +2,6 @@
 Green Bay Packers (0-0) at Seattle Seahawks (0-0), Thursday, Sep 4, 8:42 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Buffalo Bills (0-0) at Chicago Bears (0-0), Sunday, Sep 7, 1:00 PM (	:green_circle: good game)
 
@@ -25,24 +24,20 @@ Washington Redskins (0-0) at Houston Texans (0-0), Sunday, Sep 7, 1:03 PM
 New England Patriots (0-0) at Miami Dolphins (0-0), Sunday, Sep 7, 1:03 PM (	:green_circle: good game)
 
 
-<br/>
 
 San Francisco 49ers (0-0) at Dallas Cowboys (0-0), Sunday, Sep 7, 4:25 PM
 
 Carolina Panthers (0-0) at Tampa Bay Buccaneers (0-0), Sunday, Sep 7, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Indianapolis Colts (0-0) at Denver Broncos (0-0), Sunday, Sep 7, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Giants (0-0) at Detroit Lions (0-0), Monday, Sep 8, 7:11 PM (	:red_circle: bad game)
 
 
-<br/>
 
 San Diego Chargers (0-0) at Arizona Cardinals (0-0), Monday, Sep 8, 9:20 PM (	:green_circle: good game)
 

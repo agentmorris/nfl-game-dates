@@ -18,7 +18,6 @@ Chicago Bears (1-0) at Dallas Cowboys (0-1), Sunday, Sep 19, 1:05 PM (	:green_ci
 Miami Dolphins (1-0) at Minnesota Vikings (0-1), Sunday, Sep 19, 1:05 PM (	:green_circle: good game)
 
 
-<br/>
 
 St. Louis Rams (0-1) at Oakland Raiders (0-1), Sunday, Sep 19, 4:05 PM (	:green_circle: good game)
 
@@ -31,12 +30,10 @@ Houston Texans (1-0) at Washington Redskins (1-0), Sunday, Sep 19, 4:15 PM (	:gr
 New England Patriots (1-0) at New York Jets (0-1), Sunday, Sep 19, 4:16 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Giants (1-0) at Indianapolis Colts (0-1), Sunday, Sep 19, 8:31 PM (	:red_circle: bad game)
 
 
-<br/>
 
 New Orleans Saints (1-0) at San Francisco 49ers (0-1), Monday, Sep 20, 8:36 PM (	:green_circle: good game)
 

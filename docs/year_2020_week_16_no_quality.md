@@ -14,7 +14,6 @@ Dallas Cowboys (6-9) at New York Giants (5-10), Sunday, Jan 3, 1:00 PM
 Atlanta Falcons (4-11) at Tampa Bay Buccaneers (10-5), Sunday, Jan 3, 1:00 PM
 
 
-<br/>
 
 New Orleans Saints (11-4) at Carolina Panthers (5-10), Sunday, Jan 3, 4:25 PM
 
@@ -33,7 +32,6 @@ Arizona Cardinals (8-7) at Los Angeles Rams (9-6), Sunday, Jan 3, 4:25 PM
 Seattle Seahawks (11-4) at San Francisco 49ers (6-9), Sunday, Jan 3, 4:25 PM
 
 
-<br/>
 
 Washington Football Team (6-9) at Philadelphia Eagles (4-10-1), Sunday, Jan 3, 8:20 PM
 

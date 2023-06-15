@@ -2,7 +2,6 @@
 Seattle Seahawks (5-3) at Arizona Cardinals (4-4), Thursday, Nov 9, 8:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 New Orleans Saints (6-2) at Buffalo Bills (5-3), Sunday, Nov 12, 1:00 PM (	:red_circle: bad game)
 
@@ -21,7 +20,6 @@ New York Jets (4-5) at Tampa Bay Buccaneers (2-6), Sunday, Nov 12, 1:00 PM (	:gr
 Minnesota Vikings (6-2) at Washington Redskins (4-4), Sunday, Nov 12, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 Houston Texans (3-5) at Los Angeles Rams (6-2), Sunday, Nov 12, 4:05 PM (	:red_circle: bad game)
 
@@ -30,12 +28,10 @@ Dallas Cowboys (5-3) at Atlanta Falcons (4-4), Sunday, Nov 12, 4:25 PM (	:red_ci
 New York Giants (1-7) at San Francisco 49ers (0-9), Sunday, Nov 12, 4:25 PM
 
 
-<br/>
 
 New England Patriots (6-2) at Denver Broncos (3-5), Sunday, Nov 12, 8:30 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Miami Dolphins (4-4) at Carolina Panthers (6-3), Monday, Nov 13, 8:30 PM (	:red_circle: bad game)
 

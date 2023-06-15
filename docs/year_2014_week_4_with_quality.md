@@ -2,7 +2,6 @@
 Minnesota Vikings (2-2) at Green Bay Packers (2-2), Thursday, Oct 2, 8:26 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Pittsburgh Steelers (2-2) at Jacksonville Jaguars (0-4), Sunday, Oct 5, 1:02 PM (	:green_circle: good game)
 
@@ -23,7 +22,6 @@ Tampa Bay Buccaneers (1-3) at New Orleans Saints (1-3), Sunday, Oct 5, 1:03 PM (
 Atlanta Falcons (2-2) at New York Giants (2-2), Sunday, Oct 5, 1:03 PM (	:green_circle: good game)
 
 
-<br/>
 
 Arizona Cardinals (3-0) at Denver Broncos (2-1), Sunday, Oct 5, 4:05 PM (	:red_circle: bad game)
 
@@ -32,12 +30,10 @@ New York Jets (1-3) at San Diego Chargers (3-1), Sunday, Oct 5, 4:25 PM (	:red_c
 Kansas City Chiefs (2-2) at San Francisco 49ers (2-2), Sunday, Oct 5, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Cincinnati Bengals (3-0) at New England Patriots (2-2), Sunday, Oct 5, 8:43 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Seattle Seahawks (2-1) at Washington Redskins (1-3), Monday, Oct 6, 8:30 PM
 

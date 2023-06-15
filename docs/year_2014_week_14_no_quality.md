@@ -2,7 +2,6 @@
 Arizona Cardinals (10-3) at St. Louis Rams (6-7), Thursday, Dec 11, 8:25 PM
 
 
-<br/>
 
 Pittsburgh Steelers (8-5) at Atlanta Falcons (5-8), Sunday, Dec 14, 1:02 PM
 
@@ -23,7 +22,6 @@ Tampa Bay Buccaneers (2-11) at Carolina Panthers (4-8-1), Sunday, Dec 14, 1:03 P
 Oakland Raiders (2-11) at Kansas City Chiefs (7-6), Sunday, Dec 14, 1:03 PM
 
 
-<br/>
 
 New York Jets (2-11) at Tennessee Titans (2-11), Sunday, Dec 14, 4:05 PM
 
@@ -34,12 +32,10 @@ Minnesota Vikings (6-7) at Detroit Lions (9-4), Sunday, Dec 14, 4:25 PM
 San Francisco 49ers (7-6) at Seattle Seahawks (9-4), Sunday, Dec 14, 4:26 PM
 
 
-<br/>
 
 Dallas Cowboys (9-4) at Philadelphia Eagles (9-4), Sunday, Dec 14, 8:35 PM
 
 
-<br/>
 
 New Orleans Saints (5-8) at Chicago Bears (5-8), Monday, Dec 15, 8:30 PM
 

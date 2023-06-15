@@ -2,7 +2,6 @@
 New Orleans Saints (3-4) at Carolina Panthers (3-4-1), Thursday, Oct 30, 8:30 PM
 
 
-<br/>
 
 Jacksonville Jaguars (1-7) at Cincinnati Bengals (4-2-1), Sunday, Nov 2, 1:02 PM
 
@@ -19,7 +18,6 @@ Washington Redskins (3-5) at Minnesota Vikings (3-5), Sunday, Nov 2, 1:03 PM
 Arizona Cardinals (6-1) at Dallas Cowboys (6-2), Sunday, Nov 2, 1:04 PM
 
 
-<br/>
 
 St. Louis Rams (2-5) at San Francisco 49ers (4-3), Sunday, Nov 2, 4:05 PM
 
@@ -28,12 +26,10 @@ Denver Broncos (6-1) at New England Patriots (6-2), Sunday, Nov 2, 4:25 PM
 Oakland Raiders (0-7) at Seattle Seahawks (4-3), Sunday, Nov 2, 4:26 PM
 
 
-<br/>
 
 Baltimore Ravens (5-3) at Pittsburgh Steelers (5-3), Sunday, Nov 2, 8:30 PM
 
 
-<br/>
 
 Indianapolis Colts (5-3) at New York Giants (3-4), Monday, Nov 3, 8:31 PM
 

@@ -18,7 +18,6 @@ Dallas Cowboys (7-7) at Washington Redskins (3-11), Sunday, Dec 22, 1:03 PM
 New Orleans Saints (10-4) at Carolina Panthers (10-4), Sunday, Dec 22, 1:04 PM
 
 
-<br/>
 
 New York Giants (5-9) at Detroit Lions (7-7), Sunday, Dec 22, 4:05 PM
 
@@ -31,12 +30,10 @@ New England Patriots (10-4) at Baltimore Ravens (8-6), Sunday, Dec 22, 4:25 PM
 Oakland Raiders (4-10) at San Diego Chargers (7-7), Sunday, Dec 22, 4:25 PM
 
 
-<br/>
 
 Chicago Bears (8-6) at Philadelphia Eagles (8-6), Sunday, Dec 22, 8:30 PM
 
 
-<br/>
 
 Atlanta Falcons (4-10) at San Francisco 49ers (10-4), Monday, Dec 23, 8:40 PM
 

@@ -2,7 +2,6 @@
 Cleveland Browns (0-3) at Baltimore Ravens (2-1), Thursday, Sep 27, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 Seattle Seahawks (2-1) at St. Louis Rams (1-2), Sunday, Sep 30, 1:00 PM (	:green_circle: good game)
 
@@ -19,7 +18,6 @@ San Diego Chargers (2-1) at Kansas City Chiefs (1-2), Sunday, Sep 30, 1:03 PM (	
 San Francisco 49ers (2-1) at New York Jets (2-1), Sunday, Sep 30, 1:03 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Miami Dolphins (1-2) at Arizona Cardinals (3-0), Sunday, Sep 30, 4:05 PM (	:green_circle: good game)
 
@@ -32,12 +30,10 @@ New Orleans Saints (0-3) at Green Bay Packers (1-2), Sunday, Sep 30, 4:25 PM (	:
 Washington Redskins (1-2) at Tampa Bay Buccaneers (1-2), Sunday, Sep 30, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Giants (2-1) at Philadelphia Eagles (2-1), Sunday, Sep 30, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 Chicago Bears (2-1) at Dallas Cowboys (2-1), Monday, Oct 1, 8:40 PM
 

@@ -2,7 +2,6 @@
 Pittsburgh Steelers (1-0) at Baltimore Ravens (0-1), Thursday, Sep 11, 8:28 PM
 
 
-<br/>
 
 Miami Dolphins (1-0) at Buffalo Bills (1-0), Sunday, Sep 14, 1:02 PM
 
@@ -21,7 +20,6 @@ New England Patriots (0-1) at Minnesota Vikings (1-0), Sunday, Sep 14, 1:05 PM
 Jacksonville Jaguars (0-1) at Washington Redskins (0-1), Sunday, Sep 14, 1:05 PM
 
 
-<br/>
 
 Seattle Seahawks (1-0) at San Diego Chargers (0-1), Sunday, Sep 14, 4:05 PM
 
@@ -34,12 +32,10 @@ New York Jets (1-0) at Green Bay Packers (0-1), Sunday, Sep 14, 4:25 PM
 Houston Texans (1-0) at Oakland Raiders (0-1), Sunday, Sep 14, 4:25 PM
 
 
-<br/>
 
 Chicago Bears (0-1) at San Francisco 49ers (1-0), Sunday, Sep 14, 8:31 PM
 
 
-<br/>
 
 Philadelphia Eagles (1-0) at Indianapolis Colts (0-1), Monday, Sep 15, 8:31 PM
 

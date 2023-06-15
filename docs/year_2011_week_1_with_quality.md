@@ -20,7 +20,6 @@ Arizona Cardinals (1-0) at Washington Redskins (1-0), Sunday, Sep 18, 1:03 PM (	
 Tampa Bay Buccaneers (0-1) at Minnesota Vikings (0-1), Sunday, Sep 18, 1:05 PM (	:green_circle: good game)
 
 
-<br/>
 
 Dallas Cowboys (0-1) at San Francisco 49ers (1-0), Sunday, Sep 18, 4:05 PM (	:green_circle: good game)
 
@@ -31,12 +30,10 @@ Houston Texans (1-0) at Miami Dolphins (0-1), Sunday, Sep 18, 4:15 PM
 San Diego Chargers (1-0) at New England Patriots (1-0), Sunday, Sep 18, 4:15 PM
 
 
-<br/>
 
 Philadelphia Eagles (1-0) at Atlanta Falcons (0-1), Sunday, Sep 18, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 St. Louis Rams (0-1) at New York Giants (0-1), Monday, Sep 19, 8:40 PM
 

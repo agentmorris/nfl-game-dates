@@ -2,7 +2,6 @@
 Houston Texans (2-0) at New England Patriots (2-0), Thursday, Sep 22, 8:26 PM
 
 
-<br/>
 
 Arizona Cardinals (1-1) at Buffalo Bills (0-2), Sunday, Sep 25, 1:02 PM
 
@@ -21,7 +20,6 @@ Washington Redskins (0-2) at New York Giants (2-0), Sunday, Sep 25, 1:02 PM
 Oakland Raiders (1-1) at Tennessee Titans (1-1), Sunday, Sep 25, 1:02 PM
 
 
-<br/>
 
 San Francisco 49ers (1-1) at Seattle Seahawks (1-1), Sunday, Sep 25, 4:05 PM
 
@@ -34,12 +32,10 @@ Pittsburgh Steelers (2-0) at Philadelphia Eagles (2-0), Sunday, Sep 25, 4:25 PM
 New York Jets (1-1) at Kansas City Chiefs (1-1), Sunday, Sep 25, 4:26 PM
 
 
-<br/>
 
 Chicago Bears (0-2) at Dallas Cowboys (1-1), Sunday, Sep 25, 8:31 PM
 
 
-<br/>
 
 Atlanta Falcons (1-1) at New Orleans Saints (0-2), Monday, Sep 26, 8:30 PM
 

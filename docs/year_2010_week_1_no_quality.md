@@ -18,7 +18,6 @@ Chicago Bears (1-0) at Dallas Cowboys (0-1), Sunday, Sep 19, 1:05 PM
 Miami Dolphins (1-0) at Minnesota Vikings (0-1), Sunday, Sep 19, 1:05 PM
 
 
-<br/>
 
 St. Louis Rams (0-1) at Oakland Raiders (0-1), Sunday, Sep 19, 4:05 PM
 
@@ -31,12 +30,10 @@ Houston Texans (1-0) at Washington Redskins (1-0), Sunday, Sep 19, 4:15 PM
 New England Patriots (1-0) at New York Jets (0-1), Sunday, Sep 19, 4:16 PM
 
 
-<br/>
 
 New York Giants (1-0) at Indianapolis Colts (0-1), Sunday, Sep 19, 8:31 PM
 
 
-<br/>
 
 New Orleans Saints (1-0) at San Francisco 49ers (0-1), Monday, Sep 20, 8:36 PM
 

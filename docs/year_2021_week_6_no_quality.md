@@ -2,7 +2,6 @@
 Denver Broncos (3-3) at Cleveland Browns (3-3), Thursday, Oct 21, 8:20 PM
 
 
-<br/>
 
 Washington Football Team (2-4) at Green Bay Packers (5-1), Sunday, Oct 24, 1:00 PM
 
@@ -17,7 +16,6 @@ Kansas City Chiefs (3-3) at Tennessee Titans (4-2), Sunday, Oct 24, 1:00 PM
 Cincinnati Bengals (4-2) at Baltimore Ravens (5-1), Sunday, Oct 24, 1:00 PM
 
 
-<br/>
 
 Philadelphia Eagles (2-4) at Las Vegas Raiders (4-2), Sunday, Oct 24, 4:05 PM
 
@@ -28,12 +26,10 @@ Houston Texans (1-5) at Arizona Cardinals (6-0), Sunday, Oct 24, 4:25 PM
 Chicago Bears (3-3) at Tampa Bay Buccaneers (5-1), Sunday, Oct 24, 4:25 PM
 
 
-<br/>
 
 Indianapolis Colts (2-4) at San Francisco 49ers (2-3), Sunday, Oct 24, 8:20 PM
 
 
-<br/>
 
 New Orleans Saints (3-2) at Seattle Seahawks (2-4), Monday, Oct 25, 8:15 PM
 

@@ -2,7 +2,6 @@
 Minnesota Vikings (8-4) at Arizona Cardinals (10-2), Thursday, Dec 10, 8:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Buffalo Bills (6-6) at Philadelphia Eagles (5-7), Sunday, Dec 13, 1:01 PM (	:green_circle: good game)
 
@@ -27,19 +26,16 @@ Atlanta Falcons (6-6) at Carolina Panthers (12-0), Sunday, Dec 13, 1:03 PM (	:re
 San Diego Chargers (3-9) at Kansas City Chiefs (7-5), Sunday, Dec 13, 1:03 PM (	:green_circle: good game)
 
 
-<br/>
 
 Oakland Raiders (5-7) at Denver Broncos (10-2), Sunday, Dec 13, 4:05 PM (	:green_circle: good game)
 
 Dallas Cowboys (4-8) at Green Bay Packers (8-4), Sunday, Dec 13, 4:25 PM (	:red_circle: bad game)
 
 
-<br/>
 
 New England Patriots (10-2) at Houston Texans (6-6), Sunday, Dec 13, 8:31 PM (	:red_circle: bad game)
 
 
-<br/>
 
 New York Giants (5-7) at Miami Dolphins (5-7), Monday, Dec 14, 8:30 PM (	:green_circle: good game)
 

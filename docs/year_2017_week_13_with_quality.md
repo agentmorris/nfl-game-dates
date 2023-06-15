@@ -2,7 +2,6 @@
 New Orleans Saints (9-3) at Atlanta Falcons (7-5), Thursday, Dec 7, 8:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Indianapolis Colts (3-9) at Buffalo Bills (6-6), Sunday, Dec 10, 1:00 PM (	:green_circle: good game)
 
@@ -21,7 +20,6 @@ Dallas Cowboys (6-6) at New York Giants (2-10), Sunday, Dec 10, 1:00 PM
 Detroit Lions (6-6) at Tampa Bay Buccaneers (4-8), Sunday, Dec 10, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 Tennessee Titans (8-4) at Arizona Cardinals (5-7), Sunday, Dec 10, 4:05 PM (	:green_circle: good game)
 
@@ -34,12 +32,10 @@ Seattle Seahawks (8-4) at Jacksonville Jaguars (8-4), Sunday, Dec 10, 4:25 PM (	
 Philadelphia Eagles (10-2) at Los Angeles Rams (9-3), Sunday, Dec 10, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Baltimore Ravens (7-5) at Pittsburgh Steelers (10-2), Sunday, Dec 10, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 New England Patriots (10-2) at Miami Dolphins (5-7), Monday, Dec 11, 8:30 PM (	:green_circle: good game)
 

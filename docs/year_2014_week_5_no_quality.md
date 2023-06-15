@@ -2,7 +2,6 @@
 Indianapolis Colts (3-2) at Houston Texans (3-2), Thursday, Oct 9, 8:26 PM
 
 
-<br/>
 
 New England Patriots (3-2) at Buffalo Bills (3-2), Sunday, Oct 12, 1:02 PM
 
@@ -21,7 +20,6 @@ Baltimore Ravens (3-2) at Tampa Bay Buccaneers (1-4), Sunday, Oct 12, 1:02 PM
 Carolina Panthers (3-2) at Cincinnati Bengals (3-1), Sunday, Oct 12, 1:03 PM
 
 
-<br/>
 
 San Diego Chargers (4-1) at Oakland Raiders (0-4), Sunday, Oct 12, 4:05 PM
 
@@ -32,12 +30,10 @@ Washington Redskins (1-4) at Arizona Cardinals (3-1), Sunday, Oct 12, 4:25 PM
 Dallas Cowboys (4-1) at Seattle Seahawks (3-1), Sunday, Oct 12, 4:26 PM
 
 
-<br/>
 
 New York Giants (3-2) at Philadelphia Eagles (4-1), Sunday, Oct 12, 8:41 PM
 
 
-<br/>
 
 San Francisco 49ers (3-2) at St. Louis Rams (1-3), Monday, Oct 13, 8:30 PM
 

@@ -16,7 +16,6 @@ New Orleans Saints (5-3) at Carolina Panthers (1-6), Sunday, Nov 7, 1:04 PM (	:r
 Arizona Cardinals (3-4) at Minnesota Vikings (2-5), Sunday, Nov 7, 1:05 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Giants (5-2) at Seattle Seahawks (4-3), Sunday, Nov 7, 4:05 PM (	:red_circle: bad game)
 
@@ -25,12 +24,10 @@ Kansas City Chiefs (5-2) at Oakland Raiders (4-4), Sunday, Nov 7, 4:15 PM (	:gre
 Indianapolis Colts (5-2) at Philadelphia Eagles (4-3), Sunday, Nov 7, 4:16 PM (	:green_circle: good game)
 
 
-<br/>
 
 Dallas Cowboys (1-6) at Green Bay Packers (5-3), Sunday, Nov 7, 8:30 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Pittsburgh Steelers (5-2) at Cincinnati Bengals (2-5), Monday, Nov 8, 8:40 PM (	:green_circle: good game)
 

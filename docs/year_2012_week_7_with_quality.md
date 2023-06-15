@@ -2,7 +2,6 @@
 Tampa Bay Buccaneers (2-4) at Minnesota Vikings (5-2), Thursday, Oct 25, 8:29 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Washington Redskins (3-4) at Pittsburgh Steelers (3-3), Sunday, Oct 28, 1:02 PM
 
@@ -23,19 +22,16 @@ Indianapolis Colts (3-3) at Tennessee Titans (3-4), Sunday, Oct 28, 1:06 PM (	:g
 New England Patriots (4-3) at St. Louis Rams (3-4), Sunday, Oct 28, 1:06 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Oakland Raiders (2-4) at Kansas City Chiefs (1-5), Sunday, Oct 28, 4:06 PM
 
 New York Giants (5-2) at Dallas Cowboys (3-3), Sunday, Oct 28, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 New Orleans Saints (2-4) at Denver Broncos (3-3), Sunday, Oct 28, 8:30 PM (	:red_circle: bad game)
 
 
-<br/>
 
 San Francisco 49ers (5-2) at Arizona Cardinals (4-3), Monday, Oct 29, 8:40 PM (	:red_circle: bad game)
 

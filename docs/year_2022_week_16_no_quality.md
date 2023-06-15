@@ -2,7 +2,6 @@
 Dallas Cowboys (11-4) at Tennessee Titans (7-8), Thursday, Dec 29, 8:15 PM
 
 
-<br/>
 
 Arizona Cardinals (4-11) at Atlanta Falcons (5-10), Sunday, Jan 1, 1:00 PM
 
@@ -23,7 +22,6 @@ Carolina Panthers (6-9) at Tampa Bay Buccaneers (7-8), Sunday, Jan 1, 1:00 PM
 Cleveland Browns (6-9) at Washington Commanders (7-7-1), Sunday, Jan 1, 1:00 PM
 
 
-<br/>
 
 San Francisco 49ers (11-4) at Las Vegas Raiders (6-9), Sunday, Jan 1, 4:05 PM
 
@@ -34,7 +32,6 @@ Minnesota Vikings (12-3) at Green Bay Packers (7-8), Sunday, Jan 1, 4:25 PM
 Los Angeles Rams (5-10) at Los Angeles Chargers (9-6), Sunday, Jan 1, 4:25 PM
 
 
-<br/>
 
 Pittsburgh Steelers (7-8) at Baltimore Ravens (10-5), Sunday, Jan 1, 8:20 PM
 

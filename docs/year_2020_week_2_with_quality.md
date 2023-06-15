@@ -2,7 +2,6 @@
 Miami Dolphins (0-2) at Jacksonville Jaguars (1-1), Thursday, Sep 24, 8:20 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Chicago Bears (2-0) at Atlanta Falcons (0-2), Sunday, Sep 27, 1:00 PM (	:green_circle: good game)
 
@@ -21,7 +20,6 @@ Cincinnati Bengals (0-2) at Philadelphia Eagles (0-2), Sunday, Sep 27, 1:00 PM (
 Houston Texans (0-2) at Pittsburgh Steelers (2-0), Sunday, Sep 27, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Jets (0-2) at Indianapolis Colts (1-1), Sunday, Sep 27, 4:05 PM (	:red_circle: bad game)
 
@@ -34,12 +32,10 @@ Tampa Bay Buccaneers (1-1) at Denver Broncos (0-2), Sunday, Sep 27, 4:25 PM (	:r
 Dallas Cowboys (1-1) at Seattle Seahawks (2-0), Sunday, Sep 27, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Green Bay Packers (2-0) at New Orleans Saints (1-1), Sunday, Sep 27, 8:20 PM (	:green_circle: good game)
 
 
-<br/>
 
 Kansas City Chiefs (2-0) at Baltimore Ravens (2-0), Monday, Sep 28, 8:15 PM
 

@@ -2,7 +2,6 @@
 Green Bay Packers (7-4) at Detroit Lions (4-7), Thursday, Dec 3, 8:26 PM
 
 
-<br/>
 
 Arizona Cardinals (9-2) at St. Louis Rams (4-7), Sunday, Dec 6, 1:00 PM
 
@@ -23,7 +22,6 @@ New York Jets (6-5) at New York Giants (5-6), Sunday, Dec 6, 1:03 PM
 Atlanta Falcons (6-5) at Tampa Bay Buccaneers (5-6), Sunday, Dec 6, 1:03 PM
 
 
-<br/>
 
 Kansas City Chiefs (6-5) at Oakland Raiders (5-6), Sunday, Dec 6, 4:05 PM
 
@@ -34,12 +32,10 @@ Carolina Panthers (11-0) at New Orleans Saints (4-7), Sunday, Dec 6, 4:25 PM
 Philadelphia Eagles (4-7) at New England Patriots (10-1), Sunday, Dec 6, 4:25 PM
 
 
-<br/>
 
 Indianapolis Colts (6-5) at Pittsburgh Steelers (6-5), Sunday, Dec 6, 8:30 PM
 
 
-<br/>
 
 Dallas Cowboys (3-8) at Washington Redskins (5-6), Monday, Dec 7, 8:31 PM
 

@@ -16,7 +16,6 @@ New York Giants (1-1) at Philadelphia Eagles (1-1), Sunday, Sep 25, 1:03 PM
 Detroit Lions (2-0) at Minnesota Vikings (0-2), Sunday, Sep 25, 1:05 PM
 
 
-<br/>
 
 New York Jets (2-0) at Oakland Raiders (1-1), Sunday, Sep 25, 4:04 PM
 
@@ -31,12 +30,10 @@ Arizona Cardinals (1-1) at Seattle Seahawks (0-2), Sunday, Sep 25, 4:15 PM
 Atlanta Falcons (1-1) at Tampa Bay Buccaneers (1-1), Sunday, Sep 25, 4:16 PM
 
 
-<br/>
 
 Pittsburgh Steelers (1-1) at Indianapolis Colts (0-2), Sunday, Sep 25, 8:30 PM
 
 
-<br/>
 
 Washington Redskins (2-0) at Dallas Cowboys (1-1), Monday, Sep 26, 8:41 PM
 

@@ -2,17 +2,14 @@
 Green Bay Packers (10-0) at Detroit Lions (7-3), Thursday, Nov 24, 12:35 PM
 
 
-<br/>
 
 Miami Dolphins (3-7) at Dallas Cowboys (6-4), Thursday, Nov 24, 4:16 PM
 
 
-<br/>
 
 San Francisco 49ers (9-1) at Baltimore Ravens (7-3), Thursday, Nov 24, 8:29 PM
 
 
-<br/>
 
 Arizona Cardinals (3-7) at St. Louis Rams (2-8), Sunday, Nov 27, 1:00 PM
 
@@ -29,7 +26,6 @@ Carolina Panthers (2-8) at Indianapolis Colts (0-10), Sunday, Nov 27, 1:03 PM
 Houston Texans (7-3) at Jacksonville Jaguars (3-7), Sunday, Nov 27, 1:03 PM
 
 
-<br/>
 
 Chicago Bears (7-3) at Oakland Raiders (6-4), Sunday, Nov 27, 4:05 PM
 
@@ -40,12 +36,10 @@ New England Patriots (7-3) at Philadelphia Eagles (4-6), Sunday, Nov 27, 4:15 PM
 Denver Broncos (5-5) at San Diego Chargers (4-6), Sunday, Nov 27, 4:15 PM
 
 
-<br/>
 
 Pittsburgh Steelers (7-3) at Kansas City Chiefs (4-6), Sunday, Nov 27, 8:31 PM
 
 
-<br/>
 
 New York Giants (6-4) at New Orleans Saints (7-3), Monday, Nov 28, 8:40 PM
 

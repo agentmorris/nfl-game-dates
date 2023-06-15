@@ -2,7 +2,6 @@
 Houston Texans (2-10) at Jacksonville Jaguars (3-9), Thursday, Dec 5, 8:29 PM
 
 
-<br/>
 
 Indianapolis Colts (8-4) at Cincinnati Bengals (8-4), Sunday, Dec 8, 1:02 PM
 
@@ -23,7 +22,6 @@ Minnesota Vikings (3-8-1) at Baltimore Ravens (6-6), Sunday, Dec 8, 1:03 PM
 Kansas City Chiefs (9-3) at Washington Redskins (3-9), Sunday, Dec 8, 1:03 PM
 
 
-<br/>
 
 Tennessee Titans (5-7) at Denver Broncos (10-2), Sunday, Dec 8, 4:05 PM
 
@@ -34,12 +32,10 @@ New York Giants (5-7) at San Diego Chargers (5-7), Sunday, Dec 8, 4:25 PM
 Seattle Seahawks (11-1) at San Francisco 49ers (8-4), Sunday, Dec 8, 4:26 PM
 
 
-<br/>
 
 Carolina Panthers (9-3) at New Orleans Saints (9-3), Sunday, Dec 8, 8:30 PM
 
 
-<br/>
 
 Dallas Cowboys (7-5) at Chicago Bears (6-6), Monday, Dec 9, 8:40 PM
 

@@ -18,7 +18,6 @@ Carolina Panthers (6-9) at New Orleans Saints (7-8), Sunday, Dec 30, 1:03 PM (	:
 Philadelphia Eagles (4-11) at New York Giants (8-7), Sunday, Dec 30, 1:04 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Oakland Raiders (4-11) at San Diego Chargers (6-9), Sunday, Dec 30, 4:21 PM (	:green_circle: good game)
 
@@ -33,7 +32,6 @@ Arizona Cardinals (5-10) at San Francisco 49ers (10-4-1), Sunday, Dec 30, 4:25 P
 St. Louis Rams (7-7-1) at Seattle Seahawks (10-5), Sunday, Dec 30, 4:26 PM (	:green_circle: good game)
 
 
-<br/>
 
 Dallas Cowboys (8-7) at Washington Redskins (9-6), Sunday, Dec 30, 8:31 PM
 

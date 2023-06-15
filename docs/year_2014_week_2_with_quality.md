@@ -2,7 +2,6 @@
 Tampa Bay Buccaneers (0-2) at Atlanta Falcons (1-1), Thursday, Sep 18, 8:26 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Dallas Cowboys (1-1) at St. Louis Rams (1-1), Sunday, Sep 21, 1:00 PM (	:green_circle: good game)
 
@@ -25,7 +24,6 @@ Washington Redskins (1-1) at Philadelphia Eagles (2-0), Sunday, Sep 21, 1:02 PM 
 Minnesota Vikings (1-1) at New Orleans Saints (0-2), Sunday, Sep 21, 1:03 PM
 
 
-<br/>
 
 San Francisco 49ers (1-1) at Arizona Cardinals (2-0), Sunday, Sep 21, 4:05 PM (	:green_circle: good game)
 
@@ -34,12 +32,10 @@ Kansas City Chiefs (0-2) at Miami Dolphins (1-1), Sunday, Sep 21, 4:25 PM (	:red
 Denver Broncos (2-0) at Seattle Seahawks (1-1), Sunday, Sep 21, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Pittsburgh Steelers (1-1) at Carolina Panthers (2-0), Sunday, Sep 21, 8:31 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Chicago Bears (1-1) at New York Jets (1-1), Monday, Sep 22, 8:30 PM (	:green_circle: good game)
 

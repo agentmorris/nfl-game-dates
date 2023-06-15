@@ -2,7 +2,6 @@
 Carolina Panthers (2-0) at Houston Texans (1-1), Thursday, Sep 23, 8:20 PM
 
 
-<br/>
 
 Washington Football Team (1-1) at Buffalo Bills (1-1), Sunday, Sep 26, 1:00 PM (	:red_circle: bad game)
 
@@ -23,7 +22,6 @@ Indianapolis Colts (0-2) at Tennessee Titans (1-1), Sunday, Sep 26, 1:00 PM
 Cincinnati Bengals (1-1) at Pittsburgh Steelers (1-1), Sunday, Sep 26, 1:00 PM
 
 
-<br/>
 
 New York Jets (0-2) at Denver Broncos (2-0), Sunday, Sep 26, 4:05 PM (	:red_circle: bad game)
 
@@ -34,12 +32,10 @@ Seattle Seahawks (1-1) at Minnesota Vikings (0-2), Sunday, Sep 26, 4:25 PM
 Tampa Bay Buccaneers (2-0) at Los Angeles Rams (2-0), Sunday, Sep 26, 4:25 PM
 
 
-<br/>
 
 Green Bay Packers (1-1) at San Francisco 49ers (2-0), Sunday, Sep 26, 8:20 PM (	:green_circle: good game)
 
 
-<br/>
 
 Philadelphia Eagles (1-1) at Dallas Cowboys (1-1), Monday, Sep 27, 8:15 PM (	:red_circle: bad game)
 

@@ -2,7 +2,6 @@
 Baltimore Ravens (6-2) at Atlanta Falcons (6-2), Thursday, Nov 11, 8:31 PM (	:green_circle: good game)
 
 
-<br/>
 
 Detroit Lions (2-6) at Buffalo Bills (0-8), Sunday, Nov 14, 1:02 PM (	:green_circle: good game)
 
@@ -19,7 +18,6 @@ Carolina Panthers (1-7) at Tampa Bay Buccaneers (5-3), Sunday, Nov 14, 1:02 PM
 Houston Texans (4-4) at Jacksonville Jaguars (4-4), Sunday, Nov 14, 1:04 PM (	:green_circle: good game)
 
 
-<br/>
 
 Kansas City Chiefs (5-3) at Denver Broncos (2-6), Sunday, Nov 14, 4:05 PM (	:red_circle: bad game)
 
@@ -30,12 +28,10 @@ Dallas Cowboys (1-7) at New York Giants (6-2), Sunday, Nov 14, 4:15 PM
 St. Louis Rams (4-4) at San Francisco 49ers (2-6), Sunday, Nov 14, 4:15 PM (	:green_circle: good game)
 
 
-<br/>
 
 New England Patriots (6-2) at Pittsburgh Steelers (6-2), Sunday, Nov 14, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 Philadelphia Eagles (5-3) at Washington Redskins (4-4), Monday, Nov 15, 8:40 PM (	:red_circle: bad game)
 

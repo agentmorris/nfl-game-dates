@@ -2,7 +2,6 @@
 Washington Commanders (1-4) at Chicago Bears (2-3), Thursday, Oct 13, 8:15 PM (	:green_circle: good game)
 
 
-<br/>
 
 San Francisco 49ers (3-2) at Atlanta Falcons (2-3), Sunday, Oct 16, 1:00 PM
 
@@ -21,7 +20,6 @@ Baltimore Ravens (3-2) at New York Giants (4-1), Sunday, Oct 16, 1:00 PM (	:gree
 Tampa Bay Buccaneers (3-2) at Pittsburgh Steelers (1-4), Sunday, Oct 16, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 Carolina Panthers (1-4) at Los Angeles Rams (2-3), Sunday, Oct 16, 4:05 PM (	:green_circle: good game)
 
@@ -30,12 +28,10 @@ Arizona Cardinals (2-3) at Seattle Seahawks (2-3), Sunday, Oct 16, 4:05 PM
 Buffalo Bills (4-1) at Kansas City Chiefs (4-1), Sunday, Oct 16, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Dallas Cowboys (4-1) at Philadelphia Eagles (5-0), Sunday, Oct 16, 8:20 PM
 
 
-<br/>
 
 Denver Broncos (2-3) at Los Angeles Chargers (3-2), Monday, Oct 17, 8:15 PM (	:green_circle: good game)
 

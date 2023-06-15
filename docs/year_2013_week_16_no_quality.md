@@ -16,7 +16,6 @@ Carolina Panthers (11-4) at Atlanta Falcons (4-11), Sunday, Dec 29, 1:05 PM
 Detroit Lions (7-8) at Minnesota Vikings (4-10-1), Sunday, Dec 29, 1:05 PM
 
 
-<br/>
 
 Green Bay Packers (7-7-1) at Chicago Bears (8-7), Sunday, Dec 29, 4:25 PM
 
@@ -33,7 +32,6 @@ Kansas City Chiefs (11-4) at San Diego Chargers (8-7), Sunday, Dec 29, 4:26 PM
 St. Louis Rams (7-8) at Seattle Seahawks (12-3), Sunday, Dec 29, 4:26 PM
 
 
-<br/>
 
 Philadelphia Eagles (9-6) at Dallas Cowboys (8-7), Sunday, Dec 29, 8:30 PM
 

@@ -2,7 +2,6 @@
 Cleveland Browns (0-9) at Baltimore Ravens (4-4), Thursday, Nov 10, 8:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Kansas City Chiefs (6-2) at Carolina Panthers (3-5), Sunday, Nov 13, 1:00 PM (	:green_circle: good game)
 
@@ -21,7 +20,6 @@ Chicago Bears (2-6) at Tampa Bay Buccaneers (3-5), Sunday, Nov 13, 1:00 PM (	:re
 Minnesota Vikings (5-3) at Washington Redskins (4-3-1), Sunday, Nov 13, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 Miami Dolphins (4-4) at San Diego Chargers (4-5), Sunday, Nov 13, 4:05 PM (	:green_circle: good game)
 
@@ -30,12 +28,10 @@ San Francisco 49ers (1-7) at Arizona Cardinals (3-4-1), Sunday, Nov 13, 4:25 PM 
 Dallas Cowboys (7-1) at Pittsburgh Steelers (4-4), Sunday, Nov 13, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Seattle Seahawks (5-2-1) at New England Patriots (7-1), Sunday, Nov 13, 8:30 PM (	:green_circle: good game)
 
 
-<br/>
 
 Cincinnati Bengals (3-4-1) at New York Giants (5-3), Monday, Nov 14, 8:30 PM (	:green_circle: good game)
 

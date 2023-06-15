@@ -16,7 +16,6 @@ St. Louis Rams (0-7) at Detroit Lions (1-5), Sunday, Nov 1, 1:03 PM (	:green_cir
 New York Giants (5-2) at Philadelphia Eagles (4-2), Sunday, Nov 1, 1:03 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Jacksonville Jaguars (3-3) at Tennessee Titans (0-6), Sunday, Nov 1, 4:05 PM (	:red_circle: bad game)
 
@@ -27,7 +26,6 @@ Carolina Panthers (2-4) at Arizona Cardinals (4-2), Sunday, Nov 1, 4:15 PM
 Minnesota Vikings (6-1) at Green Bay Packers (4-2), Sunday, Nov 1, 4:15 PM (	:green_circle: good game)
 
 
-<br/>
 
 Atlanta Falcons (4-2) at New Orleans Saints (6-0), Monday, Nov 2, 8:40 PM (	:green_circle: good game)
 

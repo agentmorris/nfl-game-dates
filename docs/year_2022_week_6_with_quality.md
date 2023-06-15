@@ -2,7 +2,6 @@
 New Orleans Saints (2-4) at Arizona Cardinals (2-4), Thursday, Oct 20, 8:15 PM (	:green_circle: good game)
 
 
-<br/>
 
 Tampa Bay Buccaneers (3-3) at Carolina Panthers (1-5), Sunday, Oct 23, 1:00 PM (	:red_circle: bad game)
 
@@ -19,7 +18,6 @@ Cleveland Browns (2-4) at Baltimore Ravens (3-3), Sunday, Oct 23, 1:00 PM (	:gre
 Green Bay Packers (3-3) at Washington Commanders (2-4), Sunday, Oct 23, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 New York Jets (4-2) at Denver Broncos (2-4), Sunday, Oct 23, 4:05 PM (	:green_circle: good game)
 
@@ -30,12 +28,10 @@ Seattle Seahawks (3-3) at Los Angeles Chargers (4-2), Sunday, Oct 23, 4:25 PM
 Kansas City Chiefs (4-2) at San Francisco 49ers (3-3), Sunday, Oct 23, 4:25 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Pittsburgh Steelers (2-4) at Miami Dolphins (3-3), Sunday, Oct 23, 8:20 PM (	:green_circle: good game)
 
 
-<br/>
 
 Chicago Bears (2-4) at New England Patriots (3-3), Monday, Oct 24, 8:15 PM (	:red_circle: bad game)
 

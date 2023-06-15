@@ -14,7 +14,6 @@ Dallas Cowboys (8-7) at Philadelphia Eagles (13-2), Sunday, Dec 31, 1:00 PM
 Cleveland Browns (0-15) at Pittsburgh Steelers (12-3), Sunday, Dec 31, 1:00 PM
 
 
-<br/>
 
 Carolina Panthers (11-4) at Atlanta Falcons (9-6), Sunday, Dec 31, 4:25 PM
 

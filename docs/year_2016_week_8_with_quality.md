@@ -2,7 +2,6 @@
 Atlanta Falcons (5-3) at Tampa Bay Buccaneers (3-4), Thursday, Nov 3, 8:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Dallas Cowboys (6-1) at Cleveland Browns (0-8), Sunday, Nov 6, 1:00 PM (	:red_circle: bad game)
 
@@ -17,7 +16,6 @@ Philadelphia Eagles (4-3) at New York Giants (4-3), Sunday, Nov 6, 1:00 PM (	:gr
 Pittsburgh Steelers (4-3) at Baltimore Ravens (3-4), Sunday, Nov 6, 1:00 PM (	:green_circle: good game)
 
 
-<br/>
 
 Carolina Panthers (2-5) at Los Angeles Rams (3-4), Sunday, Nov 6, 4:05 PM (	:green_circle: good game)
 
@@ -28,12 +26,10 @@ Indianapolis Colts (3-5) at Green Bay Packers (4-3), Sunday, Nov 6, 4:25 PM (	:g
 Tennessee Titans (4-4) at San Diego Chargers (3-5), Sunday, Nov 6, 4:25 PM (	:green_circle: good game)
 
 
-<br/>
 
 Denver Broncos (6-2) at Oakland Raiders (6-2), Sunday, Nov 6, 8:30 PM
 
 
-<br/>
 
 Buffalo Bills (4-4) at Seattle Seahawks (4-2-1), Monday, Nov 7, 8:30 PM (	:green_circle: good game)
 

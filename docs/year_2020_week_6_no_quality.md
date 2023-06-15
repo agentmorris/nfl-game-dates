@@ -2,7 +2,6 @@
 New York Giants (1-5) at Philadelphia Eagles (1-4-1), Thursday, Oct 22, 8:20 PM
 
 
-<br/>
 
 Detroit Lions (2-3) at Atlanta Falcons (1-5), Sunday, Oct 25, 1:00 PM
 
@@ -19,7 +18,6 @@ Pittsburgh Steelers (5-0) at Tennessee Titans (5-0), Sunday, Oct 25, 1:00 PM
 Dallas Cowboys (2-4) at Washington Football Team (1-5), Sunday, Oct 25, 1:00 PM
 
 
-<br/>
 
 Tampa Bay Buccaneers (4-2) at Las Vegas Raiders (3-2), Sunday, Oct 25, 4:05 PM
 
@@ -30,12 +28,10 @@ San Francisco 49ers (3-3) at New England Patriots (2-3), Sunday, Oct 25, 4:25 PM
 Jacksonville Jaguars (1-5) at Los Angeles Chargers (1-4), Sunday, Oct 25, 4:25 PM
 
 
-<br/>
 
 Seattle Seahawks (5-0) at Arizona Cardinals (4-2), Sunday, Oct 25, 8:20 PM
 
 
-<br/>
 
 Chicago Bears (5-1) at Los Angeles Rams (4-2), Monday, Oct 26, 8:15 PM
 

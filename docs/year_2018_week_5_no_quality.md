@@ -2,7 +2,6 @@
 Philadelphia Eagles (2-3) at New York Giants (1-4), Thursday, Oct 11, 8:20 PM
 
 
-<br/>
 
 Tampa Bay Buccaneers (2-2) at Atlanta Falcons (1-4), Sunday, Oct 14, 1:00 PM
 
@@ -23,7 +22,6 @@ Seattle Seahawks (2-3) at Oakland Raiders (1-4), Sunday, Oct 14, 1:00 PM
 Carolina Panthers (3-1) at Washington Redskins (2-2), Sunday, Oct 14, 1:00 PM
 
 
-<br/>
 
 Los Angeles Rams (5-0) at Denver Broncos (2-3), Sunday, Oct 14, 4:05 PM
 
@@ -32,12 +30,10 @@ Jacksonville Jaguars (3-2) at Dallas Cowboys (2-3), Sunday, Oct 14, 4:25 PM
 Baltimore Ravens (3-2) at Tennessee Titans (3-2), Sunday, Oct 14, 4:25 PM
 
 
-<br/>
 
 Kansas City Chiefs (5-0) at New England Patriots (3-2), Sunday, Oct 14, 8:20 PM
 
 
-<br/>
 
 San Francisco 49ers (1-4) at Green Bay Packers (2-2-1), Monday, Oct 15, 8:15 PM
 

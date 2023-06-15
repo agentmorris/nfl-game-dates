@@ -2,7 +2,6 @@
 Washington Redskins (1-6) at Minnesota Vikings (5-2), Thursday, Oct 24, 8:20 PM
 
 
-<br/>
 
 Seattle Seahawks (5-2) at Atlanta Falcons (1-6), Sunday, Oct 27, 1:00 PM (	:green_circle: good game)
 
@@ -23,7 +22,6 @@ Tampa Bay Buccaneers (2-4) at Tennessee Titans (3-4), Sunday, Oct 27, 1:00 PM (	
 Cincinnati Bengals (0-7) at Los Angeles Rams (4-3), Sunday, Oct 27, 1:00 PM
 
 
-<br/>
 
 Carolina Panthers (4-2) at San Francisco 49ers (6-0), Sunday, Oct 27, 4:05 PM (	:red_circle: bad game)
 
@@ -32,12 +30,10 @@ Oakland Raiders (3-3) at Houston Texans (4-3), Sunday, Oct 27, 4:25 PM (	:green_
 Cleveland Browns (2-4) at New England Patriots (7-0), Sunday, Oct 27, 4:25 PM
 
 
-<br/>
 
 Green Bay Packers (6-1) at Kansas City Chiefs (5-2), Sunday, Oct 27, 8:20 PM (	:green_circle: good game)
 
 
-<br/>
 
 Miami Dolphins (0-6) at Pittsburgh Steelers (2-4), Monday, Oct 28, 8:15 PM (	:green_circle: good game)
 

@@ -16,7 +16,6 @@ Cincinnati Bengals (3-1) at Baltimore Ravens (3-1), Sunday, Oct 11, 1:02 PM
 Washington Redskins (2-2) at Carolina Panthers (0-3), Sunday, Oct 11, 1:04 PM
 
 
-<br/>
 
 Atlanta Falcons (2-1) at San Francisco 49ers (3-1), Sunday, Oct 11, 4:05 PM
 
@@ -27,12 +26,10 @@ New England Patriots (3-1) at Denver Broncos (4-0), Sunday, Oct 11, 4:16 PM
 Jacksonville Jaguars (2-2) at Seattle Seahawks (1-3), Sunday, Oct 11, 4:16 PM
 
 
-<br/>
 
 Indianapolis Colts (4-0) at Tennessee Titans (0-4), Sunday, Oct 11, 8:30 PM
 
 
-<br/>
 
 New York Jets (3-1) at Miami Dolphins (1-3), Monday, Oct 12, 8:38 PM
 

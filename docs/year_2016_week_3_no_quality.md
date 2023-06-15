@@ -2,12 +2,10 @@
 Miami Dolphins (1-2) at Cincinnati Bengals (1-2), Thursday, Sep 29, 8:26 PM
 
 
-<br/>
 
 Indianapolis Colts (1-2) at Jacksonville Jaguars (0-3), Sunday, Oct 2, 9:35 AM
 
 
-<br/>
 
 Detroit Lions (1-2) at Chicago Bears (0-3), Sunday, Oct 2, 1:00 PM
 
@@ -24,7 +22,6 @@ Carolina Panthers (1-2) at Atlanta Falcons (2-1), Sunday, Oct 2, 1:04 PM
 Cleveland Browns (0-3) at Washington Redskins (1-2), Sunday, Oct 2, 1:05 PM
 
 
-<br/>
 
 Denver Broncos (3-0) at Tampa Bay Buccaneers (1-2), Sunday, Oct 2, 4:05 PM
 
@@ -35,12 +32,10 @@ New Orleans Saints (0-3) at San Diego Chargers (1-2), Sunday, Oct 2, 4:25 PM
 Dallas Cowboys (2-1) at San Francisco 49ers (1-2), Sunday, Oct 2, 4:25 PM
 
 
-<br/>
 
 Kansas City Chiefs (2-1) at Pittsburgh Steelers (2-1), Sunday, Oct 2, 8:30 PM
 
 
-<br/>
 
 New York Giants (2-1) at Minnesota Vikings (3-0), Monday, Oct 3, 8:35 PM
 

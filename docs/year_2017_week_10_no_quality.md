@@ -2,7 +2,6 @@
 Tennessee Titans (6-3) at Pittsburgh Steelers (7-2), Thursday, Nov 16, 8:25 PM
 
 
-<br/>
 
 Detroit Lions (5-4) at Chicago Bears (3-6), Sunday, Nov 19, 1:00 PM
 
@@ -21,7 +20,6 @@ Washington Redskins (4-5) at New Orleans Saints (7-2), Sunday, Nov 19, 1:00 PM
 Kansas City Chiefs (6-3) at New York Giants (1-8), Sunday, Nov 19, 1:00 PM
 
 
-<br/>
 
 Buffalo Bills (5-4) at Los Angeles Chargers (3-6), Sunday, Nov 19, 4:05 PM
 
@@ -30,12 +28,10 @@ Cincinnati Bengals (3-6) at Denver Broncos (3-6), Sunday, Nov 19, 4:25 PM
 New England Patriots (7-2) at Oakland Raiders (4-5), Sunday, Nov 19, 4:25 PM
 
 
-<br/>
 
 Philadelphia Eagles (8-1) at Dallas Cowboys (5-4), Sunday, Nov 19, 8:30 PM
 
 
-<br/>
 
 Atlanta Falcons (5-4) at Seattle Seahawks (6-3), Monday, Nov 20, 8:30 PM
 

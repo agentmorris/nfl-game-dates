@@ -18,7 +18,6 @@ Carolina Panthers (6-9) at New Orleans Saints (12-3), Sunday, Jan 1, 1:03 PM (	:
 Chicago Bears (7-8) at Minnesota Vikings (3-12), Sunday, Jan 1, 1:05 PM (	:green_circle: good game)
 
 
-<br/>
 
 Seattle Seahawks (7-8) at Arizona Cardinals (7-8), Sunday, Jan 1, 4:15 PM (	:green_circle: good game)
 
@@ -33,7 +32,6 @@ Kansas City Chiefs (6-9) at Denver Broncos (8-7), Sunday, Jan 1, 4:16 PM (	:gree
 Tampa Bay Buccaneers (4-11) at Atlanta Falcons (9-6), Sunday, Jan 1, 4:17 PM (	:red_circle: bad game)
 
 
-<br/>
 
 Dallas Cowboys (8-7) at New York Giants (8-7), Sunday, Jan 1, 8:31 PM (	:red_circle: bad game)
 

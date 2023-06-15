@@ -12,7 +12,6 @@ San Francisco 49ers (3-2) at Houston Texans (3-3), Sunday, Oct 25, 1:04 PM
 New England Patriots (4-2) at Tampa Bay Buccaneers (0-6), Sunday, Oct 25, 1:06 PM
 
 
-<br/>
 
 Buffalo Bills (2-4) at Carolina Panthers (2-3), Sunday, Oct 25, 4:05 PM
 
@@ -25,12 +24,10 @@ New Orleans Saints (5-0) at Miami Dolphins (2-3), Sunday, Oct 25, 4:15 PM
 Chicago Bears (3-2) at Cincinnati Bengals (4-2), Sunday, Oct 25, 4:16 PM
 
 
-<br/>
 
 Arizona Cardinals (3-2) at New York Giants (5-1), Sunday, Oct 25, 8:30 PM
 
 
-<br/>
 
 Philadelphia Eagles (3-2) at Washington Redskins (2-4), Monday, Oct 26, 8:41 PM
 
