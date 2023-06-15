@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: ...with only mild spoilers, and only if you want them.
+---
+
 # Why did I make this page?
 
 I am [totally dependent](http://rockicon.net/wp/2019/10/22/the-doctor-of-rocks-tfip-total-football-immersion-program/) on football for my fitness, in that I don't inherently like exercising, but I really f'ing love football.  So, I build my world around watching football on the treadmill (and only on the treadmill).  I'm never watching games live, always on NFL Game Pass (or NFL+, or whatever it's called now).
