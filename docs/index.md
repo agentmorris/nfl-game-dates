@@ -5,7 +5,7 @@ description: "...with only mild spoilers, and only if you want them."
 
 # tl;dr
 
-For every week of NFL season going back to 2009, there's a page showing you each team's record going *into* that week, so you can choose games the way you would during the current season (no spoilers).  For each week, there's also a parallel page that has that same information, plus an indication of whether a game is "good", "bad", or (usually) neither of the above, based on some "very scientific" heuristics.
+For every week of NFL season going back to 2009, this site includes a page that lists games, with each team's record going *into* that week, so you can choose games the way you would during the current season (no spoilers).  For each week, there's also a parallel page that has that same information, plus an indication of whether a game is "good", "bad", or (usually) neither of the above, based on some "very scientific" heuristics.
 
 
 # Why did I make this page?
