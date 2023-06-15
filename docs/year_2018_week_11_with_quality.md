@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2018 week 12
 Chicago Bears (7-3) at Detroit Lions (4-6), Thursday, Nov 22, 12:30 PM (	:green_circle: good game)
 

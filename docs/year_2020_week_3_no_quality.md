@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2020 week 4
 Denver Broncos (0-3) at New York Jets (0-3), Thursday, Oct 1, 8:20 PM
 

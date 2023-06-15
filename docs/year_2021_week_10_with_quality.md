@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2021 week 11
 New England Patriots (6-4) at Atlanta Falcons (4-5), Thursday, Nov 18, 8:20 PM (	:red_circle: bad game)
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2014 week 13
 Chicago Bears (5-6) at Detroit Lions (7-4), Thursday, Nov 27, 12:39 PM
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2020 week 1
 Houston Texans (0-0) at Kansas City Chiefs (0-0), Thursday, Sep 10, 8:20 PM
 

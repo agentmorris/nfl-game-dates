@@ -852,7 +852,12 @@ if False:
             if i_week < n_regular_season_weeks:
                 team_records = team_records_by_week[i_week]
                 
-            md_header = '## Game info for {} {}\n'.format(year,week_index_to_name(i_week,year))
+            md_header = '---\n'
+            md_header += 'title: NFL simulated-real-time schedules, 2009-present\n'
+            md_header += 'description: " "\n'
+            md_header += '---\n\n'
+            
+            md_header += '## Game info for {} {}\n'.format(year,week_index_to_name(i_week,year))
             
             md_no_quality = game_list_to_html(games,i_week,year,output_format=output_format,
                                               include_quality_info=False,team_records=team_records)
@@ -877,7 +882,11 @@ if False:
                 
         # Write the year page
         
-        year_s = ''        
+        year_s = '---\n'
+        year_s += 'title: NFL simulated-real-time schedules, 2009-present\n'
+        year_s += 'description: " "\n'
+        year_s += '---\n\n'
+
         year_s += '# Game info for the {} season\n\n'.format(year)
         
         year_s += '## Records only\n\n'        

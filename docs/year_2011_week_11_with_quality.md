@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2011 week 12
 Green Bay Packers (10-0) at Detroit Lions (7-3), Thursday, Nov 24, 12:35 PM
 

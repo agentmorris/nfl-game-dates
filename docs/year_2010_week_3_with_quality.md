@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2010 week 4
 Seattle Seahawks (2-1) at St. Louis Rams (1-2), Sunday, Oct 3, 1:00 PM (	:red_circle: bad game)
 

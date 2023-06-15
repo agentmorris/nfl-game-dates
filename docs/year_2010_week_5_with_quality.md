@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2010 week 6
 San Diego Chargers (2-3) at St. Louis Rams (2-3), Sunday, Oct 17, 1:00 PM (	:green_circle: good game)
 

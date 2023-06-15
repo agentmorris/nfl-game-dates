@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2017 week 10
 Seattle Seahawks (5-3) at Arizona Cardinals (4-4), Thursday, Nov 9, 8:25 PM (	:green_circle: good game)
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2017 week 4
 Chicago Bears (1-2) at Green Bay Packers (2-1), Thursday, Sep 28, 8:25 PM
 

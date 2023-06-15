@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2017 week 12
 Minnesota Vikings (8-2) at Detroit Lions (6-4), Thursday, Nov 23, 12:30 PM
 

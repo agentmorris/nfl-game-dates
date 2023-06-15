@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2021 week 8
 Green Bay Packers (6-1) at Arizona Cardinals (7-0), Thursday, Oct 28, 8:20 PM (	:green_circle: good game)
 

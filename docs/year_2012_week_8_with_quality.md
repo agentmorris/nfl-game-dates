@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2012 week 9
 Kansas City Chiefs (1-6) at San Diego Chargers (3-4), Thursday, Nov 1, 8:27 PM (	:red_circle: bad game)
 

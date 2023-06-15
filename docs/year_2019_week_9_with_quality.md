@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2019 week 10
 Los Angeles Chargers (4-5) at Oakland Raiders (4-4), Thursday, Nov 7, 8:20 PM (	:green_circle: good game)
 

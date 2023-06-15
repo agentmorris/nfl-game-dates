@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2020 week 10
 Indianapolis Colts (5-3) at Tennessee Titans (6-2), Thursday, Nov 12, 8:20 PM (	:green_circle: good game)
 

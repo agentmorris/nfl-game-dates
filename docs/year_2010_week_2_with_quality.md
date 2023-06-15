@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2010 week 3
 Cincinnati Bengals (1-1) at Carolina Panthers (0-2), Sunday, Sep 26, 1:02 PM
 

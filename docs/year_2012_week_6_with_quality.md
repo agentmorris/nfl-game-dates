@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2012 week 7
 Seattle Seahawks (4-2) at San Francisco 49ers (4-2), Thursday, Oct 18, 8:29 PM (	:green_circle: good game)
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2015 week 12
 Philadelphia Eagles (4-6) at Detroit Lions (3-7), Thursday, Nov 26, 12:35 PM
 

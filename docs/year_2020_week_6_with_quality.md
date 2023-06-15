@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2020 week 7
 New York Giants (1-5) at Philadelphia Eagles (1-4-1), Thursday, Oct 22, 8:20 PM (	:green_circle: good game)
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2018 week 7
 Denver Broncos (2-4) at Arizona Cardinals (1-5), Thursday, Oct 18, 8:20 PM (	:red_circle: bad game)
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2019 week 8
 Washington Redskins (1-6) at Minnesota Vikings (5-2), Thursday, Oct 24, 8:20 PM
 

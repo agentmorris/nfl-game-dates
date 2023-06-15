@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2022 week 9
 Philadelphia Eagles (7-0) at Houston Texans (1-5-1), Thursday, Nov 3, 8:15 PM
 

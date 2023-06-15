@@ -1,6 +1,12 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 # Game info for the 2015 season
 
 ## Records only
+
 * [Week 1](year_2015_week_0_no_quality.md)
 * [Week 2](year_2015_week_1_no_quality.md)
 * [Week 3](year_2015_week_2_no_quality.md)
@@ -22,7 +28,9 @@
 * [Divisional](year_2015_week_18_no_quality.md)
 * [Championship](year_2015_week_19_no_quality.md)
 * [Super Bowl](year_2015_week_20_no_quality.md)
+
 ## With quality indicators
+
 * [Week 1](year_2015_week_0_with_quality.md)
 * [Week 2](year_2015_week_1_with_quality.md)
 * [Week 3](year_2015_week_2_with_quality.md)

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2017 week 1
 Kansas City Chiefs (0-0) at New England Patriots (0-0), Thursday, Sep 7, 8:30 PM
 

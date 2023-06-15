@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2012 week 12
 Houston Texans (9-1) at Detroit Lions (4-6), Thursday, Nov 22, 12:39 PM (	:green_circle: good game)
 

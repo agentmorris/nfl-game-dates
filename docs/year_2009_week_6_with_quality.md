@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2009 week 7
 San Diego Chargers (2-3) at Kansas City Chiefs (1-5), Sunday, Oct 25, 1:00 PM (	:red_circle: bad game)
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2020 week 11
 Arizona Cardinals (6-3) at Seattle Seahawks (6-3), Thursday, Nov 19, 8:20 PM (	:green_circle: good game)
 

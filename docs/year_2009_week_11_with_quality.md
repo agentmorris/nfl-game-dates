@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2009 week 12
 Green Bay Packers (6-4) at Detroit Lions (2-8), Thursday, Nov 26, 12:35 PM (	:red_circle: bad game)
 

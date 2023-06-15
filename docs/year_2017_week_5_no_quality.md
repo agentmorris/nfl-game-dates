@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2017 week 6
 Philadelphia Eagles (4-1) at Carolina Panthers (4-1), Thursday, Oct 12, 8:25 PM
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2017 divisional
 Atlanta Falcons at Philadelphia Eagles, Saturday, Jan 13, 4:35 PM
 

@@ -1,3 +1,8 @@
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: " "
+---
+
 ## Game info for 2018 week 4
 Minnesota Vikings (1-1-1) at Los Angeles Rams (3-0), Thursday, Sep 27, 8:20 PM (	:green_circle: good game)
 
