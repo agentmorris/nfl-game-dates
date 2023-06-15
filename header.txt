@@ -1,4 +1,7 @@
-...with only mild spoilers, and only if you want them.
+---
+title: NFL simulated-real-time schedules, 2009-present
+description: "...with only mild spoilers, and only if you want them."
+---
 
 # Why did I make this page?
 
