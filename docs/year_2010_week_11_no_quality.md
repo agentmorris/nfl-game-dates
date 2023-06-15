@@ -1,5 +1,6 @@
-# Game info for 2010 week 12
-
+---
+title: Game info for 2010 week 12
+---
 New England Patriots (8-2) at Detroit Lions (2-8), Thursday, Nov 25, 12:38 PM
 
 

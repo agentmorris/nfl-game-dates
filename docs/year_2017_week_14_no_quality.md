@@ -1,5 +1,6 @@
-# Game info for 2017 week 15
-
+---
+title: Game info for 2017 week 15
+---
 Denver Broncos (4-9) at Indianapolis Colts (3-10), Thursday, Dec 14, 8:25 PM
 
 

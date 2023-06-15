@@ -1,5 +1,6 @@
-# Game info for 2019 week 8
-
+---
+title: Game info for 2019 week 8
+---
 Washington Redskins (1-6) at Minnesota Vikings (5-2), Thursday, Oct 24, 8:20 PM
 
 

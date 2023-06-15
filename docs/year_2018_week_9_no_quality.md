@@ -1,5 +1,6 @@
-# Game info for 2018 week 10
-
+---
+title: Game info for 2018 week 10
+---
 Carolina Panthers (6-2) at Pittsburgh Steelers (5-2-1), Thursday, Nov 8, 8:20 PM
 
 

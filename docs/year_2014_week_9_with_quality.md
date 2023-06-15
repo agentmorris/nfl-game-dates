@@ -1,5 +1,6 @@
-# Game info for 2014 week 10
-
+---
+title: Game info for 2014 week 10
+---
 Cleveland Browns (5-3) at Cincinnati Bengals (5-2-1), Thursday, Nov 6, 8:29 PM (	:red_circle: bad game)
 
 

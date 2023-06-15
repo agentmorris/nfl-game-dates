@@ -1,5 +1,6 @@
-# Game info for 2014 week 16
-
+---
+title: Game info for 2014 week 16
+---
 Tennessee Titans (2-12) at Jacksonville Jaguars (2-12), Thursday, Dec 18, 8:26 PM (	:green_circle: good game)
 
 

@@ -1,5 +1,6 @@
-# Game info for 2012 week 3
-
+---
+title: Game info for 2012 week 3
+---
 New York Giants (1-1) at Carolina Panthers (1-1), Thursday, Sep 20, 8:20 PM
 
 

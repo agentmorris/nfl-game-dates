@@ -1,5 +1,6 @@
-# Game info for 2011 week 13
-
+---
+title: Game info for 2011 week 13
+---
 Philadelphia Eagles (4-7) at Seattle Seahawks (4-7), Thursday, Dec 1, 8:29 PM
 
 

@@ -1,5 +1,6 @@
-# Game info for 2014 week 13
-
+---
+title: Game info for 2014 week 13
+---
 Chicago Bears (5-6) at Detroit Lions (7-4), Thursday, Nov 27, 12:39 PM (	:red_circle: bad game)
 
 

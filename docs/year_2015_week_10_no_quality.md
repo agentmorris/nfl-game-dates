@@ -1,5 +1,6 @@
-# Game info for 2015 week 11
-
+---
+title: Game info for 2015 week 11
+---
 Tennessee Titans (2-7) at Jacksonville Jaguars (3-6), Thursday, Nov 19, 8:26 PM
 
 

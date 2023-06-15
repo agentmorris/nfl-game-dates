@@ -1,5 +1,6 @@
-# Game info for 2017 wild card
-
+---
+title: Game info for 2017 wild card
+---
 Tennessee Titans at Kansas City Chiefs, Saturday, Jan 6, 4:35 PM
 
 

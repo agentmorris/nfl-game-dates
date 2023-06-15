@@ -1,5 +1,6 @@
-# Game info for 2022 week 8
-
+---
+title: Game info for 2022 week 8
+---
 Baltimore Ravens (4-3) at Tampa Bay Buccaneers (3-4), Thursday, Oct 27, 8:15 PM
 
 

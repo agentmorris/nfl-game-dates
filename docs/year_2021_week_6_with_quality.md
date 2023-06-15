@@ -1,5 +1,6 @@
-# Game info for 2021 week 7
-
+---
+title: Game info for 2021 week 7
+---
 Denver Broncos (3-3) at Cleveland Browns (3-3), Thursday, Oct 21, 8:20 PM (	:green_circle: good game)
 
 

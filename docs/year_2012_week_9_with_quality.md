@@ -1,5 +1,6 @@
-# Game info for 2012 week 10
-
+---
+title: Game info for 2012 week 10
+---
 Indianapolis Colts (5-3) at Jacksonville Jaguars (1-7), Thursday, Nov 8, 8:30 PM (	:red_circle: bad game)
 
 

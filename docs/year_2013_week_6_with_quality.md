@@ -1,5 +1,6 @@
-# Game info for 2013 week 7
-
+---
+title: Game info for 2013 week 7
+---
 Seattle Seahawks (5-1) at Arizona Cardinals (3-3), Thursday, Oct 17, 8:25 PM
 
 

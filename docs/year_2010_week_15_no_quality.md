@@ -1,5 +1,6 @@
-# Game info for 2010 week 16
-
+---
+title: Game info for 2010 week 16
+---
 Carolina Panthers (2-12) at Pittsburgh Steelers (10-4), Thursday, Dec 23, 8:29 PM
 
 

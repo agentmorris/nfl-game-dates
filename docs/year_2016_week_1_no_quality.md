@@ -1,5 +1,6 @@
-# Game info for 2016 week 2
-
+---
+title: Game info for 2016 week 2
+---
 New York Jets (0-1) at Buffalo Bills (0-1), Thursday, Sep 15, 8:26 PM
 
 

@@ -1,5 +1,6 @@
-# Game info for 2009 week 10
-
+---
+title: Game info for 2009 week 10
+---
 Chicago Bears (4-4) at San Francisco 49ers (3-5), Thursday, Nov 12, 8:20 PM (	:green_circle: good game)
 
 

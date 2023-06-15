@@ -1,5 +1,6 @@
-# Game info for 2010 week 9
-
+---
+title: Game info for 2010 week 9
+---
 Tampa Bay Buccaneers (5-2) at Atlanta Falcons (5-2), Sunday, Nov 7, 1:02 PM
 
 Chicago Bears (4-3) at Buffalo Bills (0-7), Sunday, Nov 7, 1:02 PM

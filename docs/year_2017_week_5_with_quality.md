@@ -1,5 +1,6 @@
-# Game info for 2017 week 6
-
+---
+title: Game info for 2017 week 6
+---
 Philadelphia Eagles (4-1) at Carolina Panthers (4-1), Thursday, Oct 12, 8:25 PM (	:green_circle: good game)
 
 

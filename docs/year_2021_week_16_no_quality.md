@@ -1,5 +1,6 @@
-# Game info for 2021 week 17
-
+---
+title: Game info for 2021 week 17
+---
 Atlanta Falcons (7-8) at Buffalo Bills (9-6), Sunday, Jan 2, 1:00 PM
 
 New York Giants (4-11) at Chicago Bears (5-10), Sunday, Jan 2, 1:00 PM

@@ -1,5 +1,6 @@
-# Game info for 2017 week 12
-
+---
+title: Game info for 2017 week 12
+---
 Minnesota Vikings (8-2) at Detroit Lions (6-4), Thursday, Nov 23, 12:30 PM (	:green_circle: good game)
 
 

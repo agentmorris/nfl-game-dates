@@ -1,5 +1,6 @@
-# Game info for 2018 week 6
-
+---
+title: Game info for 2018 week 6
+---
 Philadelphia Eagles (2-3) at New York Giants (1-4), Thursday, Oct 11, 8:20 PM (	:red_circle: bad game)
 
 

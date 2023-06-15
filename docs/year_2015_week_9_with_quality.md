@@ -1,5 +1,6 @@
-# Game info for 2015 week 10
-
+---
+title: Game info for 2015 week 10
+---
 Buffalo Bills (4-4) at New York Jets (5-3), Thursday, Nov 12, 8:26 PM (	:green_circle: good game)
 
 

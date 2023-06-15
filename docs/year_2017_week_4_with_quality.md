@@ -1,5 +1,6 @@
-# Game info for 2017 week 5
-
+---
+title: Game info for 2017 week 5
+---
 New England Patriots (2-2) at Tampa Bay Buccaneers (2-1), Thursday, Oct 5, 8:25 PM (	:green_circle: good game)
 
 

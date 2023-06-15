@@ -1,5 +1,6 @@
-# Game info for 2016 championship
-
+---
+title: Game info for 2016 championship
+---
 Green Bay Packers at Atlanta Falcons, Sunday, Jan 22, 3:05 PM
 
 

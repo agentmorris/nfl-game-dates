@@ -1,5 +1,6 @@
-# Game info for 2010 week 2
-
+---
+title: Game info for 2010 week 2
+---
 Baltimore Ravens (1-0) at Cincinnati Bengals (0-1), Sunday, Sep 19, 1:02 PM (	:green_circle: good game)
 
 Kansas City Chiefs (1-0) at Cleveland Browns (0-1), Sunday, Sep 19, 1:02 PM (	:green_circle: good game)

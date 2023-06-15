@@ -1,5 +1,6 @@
-# Game info for 2012 week 6
-
+---
+title: Game info for 2012 week 6
+---
 Pittsburgh Steelers (2-2) at Tennessee Titans (1-4), Thursday, Oct 11, 8:29 PM (	:green_circle: good game)
 
 

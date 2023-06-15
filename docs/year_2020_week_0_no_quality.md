@@ -1,5 +1,6 @@
-# Game info for 2020 week 1
-
+---
+title: Game info for 2020 week 1
+---
 Houston Texans (0-0) at Kansas City Chiefs (0-0), Thursday, Sep 10, 8:20 PM
 
 

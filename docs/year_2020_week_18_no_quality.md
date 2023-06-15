@@ -1,5 +1,6 @@
-# Game info for 2020 divisional
-
+---
+title: Game info for 2020 divisional
+---
 Los Angeles Rams at Green Bay Packers, Saturday, Jan 16, 4:35 PM
 
 

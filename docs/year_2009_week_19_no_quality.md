@@ -1,5 +1,6 @@
-# Game info for 2009 championship
-
+---
+title: Game info for 2009 championship
+---
 New York Jets at Indianapolis Colts, Sunday, Jan 24, 3:05 PM
 
 

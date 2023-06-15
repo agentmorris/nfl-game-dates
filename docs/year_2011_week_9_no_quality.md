@@ -1,5 +1,6 @@
-# Game info for 2011 week 10
-
+---
+title: Game info for 2011 week 10
+---
 Oakland Raiders (4-4) at San Diego Chargers (4-4), Thursday, Nov 10, 8:29 PM
 
 

@@ -1,5 +1,6 @@
-# Game info for 2018 week 5
-
+---
+title: Game info for 2018 week 5
+---
 Indianapolis Colts (1-3) at New England Patriots (2-2), Thursday, Oct 4, 8:20 PM
 
 

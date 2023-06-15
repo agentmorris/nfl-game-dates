@@ -1,5 +1,6 @@
-# Game info for 2019 week 13
-
+---
+title: Game info for 2019 week 13
+---
 Chicago Bears (5-6) at Detroit Lions (3-7-1), Thursday, Nov 28, 12:30 PM (	:green_circle: good game)
 
 

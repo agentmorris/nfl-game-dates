@@ -1,5 +1,6 @@
-# Game info for 2015 week 7
-
+---
+title: Game info for 2015 week 7
+---
 Seattle Seahawks (2-4) at San Francisco 49ers (2-4), Thursday, Oct 22, 8:26 PM
 
 

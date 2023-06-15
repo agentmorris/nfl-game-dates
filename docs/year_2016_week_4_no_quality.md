@@ -1,5 +1,6 @@
-# Game info for 2016 week 5
-
+---
+title: Game info for 2016 week 5
+---
 Arizona Cardinals (1-3) at San Francisco 49ers (1-3), Thursday, Oct 6, 8:27 PM
 
 

@@ -1,5 +1,6 @@
-# Game info for 2009 week 12
-
+---
+title: Game info for 2009 week 12
+---
 Green Bay Packers (6-4) at Detroit Lions (2-8), Thursday, Nov 26, 12:35 PM
 
 

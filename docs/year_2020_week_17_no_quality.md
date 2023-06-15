@@ -1,5 +1,6 @@
-# Game info for 2020 wild card
-
+---
+title: Game info for 2020 wild card
+---
 Indianapolis Colts at Buffalo Bills, Saturday, Jan 9, 1:05 PM
 
 

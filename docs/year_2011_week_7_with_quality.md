@@ -1,5 +1,6 @@
-# Game info for 2011 week 8
-
+---
+title: Game info for 2011 week 8
+---
 New Orleans Saints (5-2) at St. Louis Rams (0-6), Sunday, Oct 30, 1:00 PM
 
 Jacksonville Jaguars (2-5) at Houston Texans (4-3), Sunday, Oct 30, 1:02 PM

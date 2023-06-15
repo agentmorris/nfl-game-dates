@@ -1,5 +1,6 @@
-# Game info for 2022 week 13
-
+---
+title: Game info for 2022 week 13
+---
 Buffalo Bills (8-3) at New England Patriots (6-5), Thursday, Dec 1, 8:15 PM
 
 

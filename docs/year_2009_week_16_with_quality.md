@@ -1,5 +1,6 @@
-# Game info for 2009 week 17
-
+---
+title: Game info for 2009 week 17
+---
 San Francisco 49ers (7-8) at St. Louis Rams (1-14), Sunday, Jan 3, 1:00 PM (	:green_circle: good game)
 
 Indianapolis Colts (14-1) at Buffalo Bills (5-10), Sunday, Jan 3, 1:02 PM (	:red_circle: bad game)

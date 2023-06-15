@@ -1,5 +1,6 @@
-# Game info for 2009 week 2
-
+---
+title: Game info for 2009 week 2
+---
 Oakland Raiders (0-1) at Kansas City Chiefs (0-1), Sunday, Sep 20, 1:00 PM
 
 Carolina Panthers (0-1) at Atlanta Falcons (1-0), Sunday, Sep 20, 1:02 PM

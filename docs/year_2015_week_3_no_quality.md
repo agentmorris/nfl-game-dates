@@ -1,5 +1,6 @@
-# Game info for 2015 week 4
-
+---
+title: Game info for 2015 week 4
+---
 Baltimore Ravens (0-3) at Pittsburgh Steelers (2-1), Thursday, Oct 1, 8:26 PM
 
 

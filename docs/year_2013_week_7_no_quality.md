@@ -1,5 +1,6 @@
-# Game info for 2013 week 8
-
+---
+title: Game info for 2013 week 8
+---
 Carolina Panthers (3-3) at Tampa Bay Buccaneers (0-6), Thursday, Oct 24, 8:29 PM
 
 

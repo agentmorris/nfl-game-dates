@@ -1,5 +1,6 @@
-# Game info for 2018 week 3
-
+---
+title: Game info for 2018 week 3
+---
 New York Jets (1-1) at Cleveland Browns (0-1-1), Thursday, Sep 20, 8:20 PM (	:green_circle: good game)
 
 

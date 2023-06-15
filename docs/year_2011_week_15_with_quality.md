@@ -1,5 +1,6 @@
-# Game info for 2011 week 16
-
+---
+title: Game info for 2011 week 16
+---
 Houston Texans (10-4) at Indianapolis Colts (1-13), Thursday, Dec 22, 8:29 PM (	:green_circle: good game)
 
 

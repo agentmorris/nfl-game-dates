@@ -1,5 +1,6 @@
-# Game info for 2011 week 11
-
+---
+title: Game info for 2011 week 11
+---
 New York Jets (5-4) at Denver Broncos (4-5), Thursday, Nov 17, 8:30 PM
 
 

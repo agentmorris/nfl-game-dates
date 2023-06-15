@@ -1,5 +1,6 @@
-# Game info for 2015 week 14
-
+---
+title: Game info for 2015 week 14
+---
 Minnesota Vikings (8-4) at Arizona Cardinals (10-2), Thursday, Dec 10, 8:25 PM (	:green_circle: good game)
 
 

@@ -1,5 +1,6 @@
-# Game info for 2022 week 11
-
+---
+title: Game info for 2022 week 11
+---
 Tennessee Titans (6-3) at Green Bay Packers (4-6), Thursday, Nov 17, 8:15 PM
 
 

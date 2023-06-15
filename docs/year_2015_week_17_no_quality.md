@@ -1,5 +1,6 @@
-# Game info for 2015 wild card
-
+---
+title: Game info for 2015 wild card
+---
 Kansas City Chiefs at Houston Texans, Saturday, Jan 9, 4:35 PM
 
 

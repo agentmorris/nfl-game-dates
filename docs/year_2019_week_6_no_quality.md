@@ -1,5 +1,6 @@
-# Game info for 2019 week 7
-
+---
+title: Game info for 2019 week 7
+---
 Kansas City Chiefs (4-2) at Denver Broncos (2-4), Thursday, Oct 17, 8:20 PM
 
 

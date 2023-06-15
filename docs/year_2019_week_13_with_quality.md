@@ -1,5 +1,6 @@
-# Game info for 2019 week 14
-
+---
+title: Game info for 2019 week 14
+---
 Dallas Cowboys (6-6) at Chicago Bears (6-6), Thursday, Dec 5, 8:20 PM (	:green_circle: good game)
 
 

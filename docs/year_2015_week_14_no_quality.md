@@ -1,5 +1,6 @@
-# Game info for 2015 week 15
-
+---
+title: Game info for 2015 week 15
+---
 Tampa Bay Buccaneers (6-7) at St. Louis Rams (5-8), Thursday, Dec 17, 8:25 PM
 
 

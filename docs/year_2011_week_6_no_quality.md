@@ -1,5 +1,6 @@
-# Game info for 2011 week 7
-
+---
+title: Game info for 2011 week 7
+---
 Denver Broncos (1-4) at Miami Dolphins (0-5), Sunday, Oct 23, 1:02 PM
 
 Houston Texans (3-3) at Tennessee Titans (3-2), Sunday, Oct 23, 1:02 PM

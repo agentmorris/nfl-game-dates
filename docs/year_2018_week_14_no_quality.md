@@ -1,5 +1,6 @@
-# Game info for 2018 week 15
-
+---
+title: Game info for 2018 week 15
+---
 Los Angeles Chargers (10-3) at Kansas City Chiefs (11-2), Thursday, Dec 13, 8:20 PM
 
 

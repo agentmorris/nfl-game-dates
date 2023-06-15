@@ -1,5 +1,6 @@
-# Game info for 2017 week 13
-
+---
+title: Game info for 2017 week 13
+---
 Washington Redskins (5-6) at Dallas Cowboys (5-6), Thursday, Nov 30, 8:25 PM
 
 

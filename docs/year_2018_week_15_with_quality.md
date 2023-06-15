@@ -1,5 +1,6 @@
-# Game info for 2018 week 16
-
+---
+title: Game info for 2018 week 16
+---
 Washington Redskins (7-7) at Tennessee Titans (8-6), Saturday, Dec 22, 4:30 PM (	:green_circle: good game)
 
 

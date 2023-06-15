@@ -1,5 +1,6 @@
-# Game info for 2019 week 3
-
+---
+title: Game info for 2019 week 3
+---
 Tennessee Titans (1-1) at Jacksonville Jaguars (0-2), Thursday, Sep 19, 8:20 PM
 
 

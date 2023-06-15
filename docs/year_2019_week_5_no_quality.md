@@ -1,5 +1,6 @@
-# Game info for 2019 week 6
-
+---
+title: Game info for 2019 week 6
+---
 New York Giants (2-3) at New England Patriots (5-0), Thursday, Oct 10, 8:20 PM
 
 

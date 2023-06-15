@@ -1,5 +1,6 @@
-# Game info for 2011 week 9
-
+---
+title: Game info for 2011 week 9
+---
 Atlanta Falcons (4-3) at Indianapolis Colts (0-8), Sunday, Nov 6, 1:02 PM
 
 Seattle Seahawks (2-5) at Dallas Cowboys (3-4), Sunday, Nov 6, 1:02 PM

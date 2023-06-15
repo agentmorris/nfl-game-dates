@@ -1,5 +1,6 @@
-# Game info for 2022 week 18
-
+---
+title: Game info for 2022 week 18
+---
 Kansas City Chiefs (13-3) at Las Vegas Raiders (6-10), Saturday, Jan 7, 4:30 PM (	:red_circle: bad game)
 
 

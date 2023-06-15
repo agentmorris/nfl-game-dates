@@ -1,5 +1,6 @@
-# Game info for 2022 week 15
-
+---
+title: Game info for 2022 week 15
+---
 San Francisco 49ers (9-4) at Seattle Seahawks (7-6), Thursday, Dec 15, 8:15 PM (	:green_circle: good game)
 
 

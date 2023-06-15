@@ -1,5 +1,6 @@
-# Game info for 2021 week 6
-
+---
+title: Game info for 2021 week 6
+---
 Tampa Bay Buccaneers (4-1) at Philadelphia Eagles (2-3), Thursday, Oct 14, 8:20 PM
 
 

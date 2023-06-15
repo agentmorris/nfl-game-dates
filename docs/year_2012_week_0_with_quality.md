@@ -1,5 +1,6 @@
-# Game info for 2012 week 1
-
+---
+title: Game info for 2012 week 1
+---
 Dallas Cowboys (0-0) at New York Giants (0-0), Wednesday, Sep 5, 8:41 PM (	:green_circle: good game)
 
 

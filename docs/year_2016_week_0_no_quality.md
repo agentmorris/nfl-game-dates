@@ -1,5 +1,6 @@
-# Game info for 2016 week 1
-
+---
+title: Game info for 2016 week 1
+---
 Carolina Panthers (0-0) at Denver Broncos (0-0), Thursday, Sep 8, 8:40 PM
 
 

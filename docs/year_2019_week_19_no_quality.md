@@ -1,5 +1,6 @@
-# Game info for 2019 championship
-
+---
+title: Game info for 2019 championship
+---
 Tennessee Titans at Kansas City Chiefs, Sunday, Jan 19, 3:05 PM
 
 

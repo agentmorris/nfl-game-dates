@@ -1,5 +1,6 @@
-# Game info for 2014 wild card
-
+---
+title: Game info for 2014 wild card
+---
 Arizona Cardinals at Carolina Panthers, Saturday, Jan 3, 4:20 PM
 
 

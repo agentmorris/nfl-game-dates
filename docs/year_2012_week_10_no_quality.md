@@ -1,5 +1,6 @@
-# Game info for 2012 week 11
-
+---
+title: Game info for 2012 week 11
+---
 Miami Dolphins (4-5) at Buffalo Bills (3-6), Thursday, Nov 15, 8:29 PM
 
 

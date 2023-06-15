@@ -1,5 +1,6 @@
-# Game info for 2019 week 2
-
+---
+title: Game info for 2019 week 2
+---
 Tampa Bay Buccaneers (0-1) at Carolina Panthers (0-1), Thursday, Sep 12, 8:20 PM
 
 

@@ -1,5 +1,6 @@
-# Game info for 2011 wild card
-
+---
+title: Game info for 2011 wild card
+---
 Cincinnati Bengals at Houston Texans, Saturday, Jan 7, 4:35 PM
 
 

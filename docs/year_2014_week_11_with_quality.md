@@ -1,5 +1,6 @@
-# Game info for 2014 week 12
-
+---
+title: Game info for 2014 week 12
+---
 Kansas City Chiefs (7-3) at Oakland Raiders (0-10), Thursday, Nov 20, 8:26 PM (	:green_circle: good game)
 
 

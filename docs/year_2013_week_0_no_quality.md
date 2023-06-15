@@ -1,5 +1,6 @@
-# Game info for 2013 week 1
-
+---
+title: Game info for 2013 week 1
+---
 Baltimore Ravens (0-0) at Denver Broncos (0-0), Thursday, Sep 5, 9:13 PM
 
 

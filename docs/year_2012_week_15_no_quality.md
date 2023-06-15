@@ -1,5 +1,6 @@
-# Game info for 2012 week 16
-
+---
+title: Game info for 2012 week 16
+---
 Atlanta Falcons (12-2) at Detroit Lions (4-10), Saturday, Dec 22, 8:40 PM
 
 

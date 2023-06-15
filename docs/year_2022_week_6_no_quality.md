@@ -1,5 +1,6 @@
-# Game info for 2022 week 7
-
+---
+title: Game info for 2022 week 7
+---
 New Orleans Saints (2-4) at Arizona Cardinals (2-4), Thursday, Oct 20, 8:15 PM
 
 

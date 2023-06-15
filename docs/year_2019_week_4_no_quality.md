@@ -1,5 +1,6 @@
-# Game info for 2019 week 5
-
+---
+title: Game info for 2019 week 5
+---
 Los Angeles Rams (3-1) at Seattle Seahawks (3-1), Thursday, Oct 3, 8:20 PM
 
 

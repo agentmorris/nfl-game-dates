@@ -1,5 +1,6 @@
-# Game info for 2022 wild card
-
+---
+title: Game info for 2022 wild card
+---
 Seattle Seahawks at San Francisco 49ers, Saturday, Jan 14, 4:30 PM
 
 

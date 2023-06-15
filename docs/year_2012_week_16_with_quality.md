@@ -1,5 +1,6 @@
-# Game info for 2012 week 17
-
+---
+title: Game info for 2012 week 17
+---
 Tampa Bay Buccaneers (6-9) at Atlanta Falcons (13-2), Sunday, Dec 30, 1:02 PM (	:green_circle: good game)
 
 New York Jets (6-9) at Buffalo Bills (5-10), Sunday, Dec 30, 1:02 PM (	:red_circle: bad game)

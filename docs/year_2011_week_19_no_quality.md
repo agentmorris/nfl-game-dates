@@ -1,5 +1,6 @@
-# Game info for 2011 championship
-
+---
+title: Game info for 2011 championship
+---
 Baltimore Ravens at New England Patriots, Sunday, Jan 22, 3:05 PM
 
 

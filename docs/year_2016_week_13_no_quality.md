@@ -1,5 +1,6 @@
-# Game info for 2016 week 14
-
+---
+title: Game info for 2016 week 14
+---
 Oakland Raiders (10-2) at Kansas City Chiefs (9-3), Thursday, Dec 8, 8:25 PM
 
 

@@ -1,5 +1,6 @@
-# Game info for 2015 week 2
-
+---
+title: Game info for 2015 week 2
+---
 Denver Broncos (1-0) at Kansas City Chiefs (1-0), Thursday, Sep 17, 8:29 PM (	:green_circle: good game)
 
 

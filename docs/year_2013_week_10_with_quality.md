@@ -1,5 +1,6 @@
-# Game info for 2013 week 11
-
+---
+title: Game info for 2013 week 11
+---
 Indianapolis Colts (6-3) at Tennessee Titans (4-5), Thursday, Nov 14, 8:29 PM (	:green_circle: good game)
 
 

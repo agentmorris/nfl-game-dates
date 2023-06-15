@@ -1,5 +1,6 @@
-# Game info for 2014 week 8
-
+---
+title: Game info for 2014 week 8
+---
 San Diego Chargers (5-2) at Denver Broncos (5-1), Thursday, Oct 23, 8:26 PM
 
 

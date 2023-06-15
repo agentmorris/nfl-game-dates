@@ -1,5 +1,6 @@
-# Game info for 2010 week 3
-
+---
+title: Game info for 2010 week 3
+---
 Cincinnati Bengals (1-1) at Carolina Panthers (0-2), Sunday, Sep 26, 1:02 PM
 
 Dallas Cowboys (0-2) at Houston Texans (2-0), Sunday, Sep 26, 1:02 PM

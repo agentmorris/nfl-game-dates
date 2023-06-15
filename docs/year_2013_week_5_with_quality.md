@@ -1,5 +1,6 @@
-# Game info for 2013 week 6
-
+---
+title: Game info for 2013 week 6
+---
 New York Giants (0-5) at Chicago Bears (3-2), Thursday, Oct 10, 8:29 PM (	:green_circle: good game)
 
 

@@ -1,5 +1,6 @@
-# Game info for 2021 week 8
-
+---
+title: Game info for 2021 week 8
+---
 Green Bay Packers (6-1) at Arizona Cardinals (7-0), Thursday, Oct 28, 8:20 PM
 
 

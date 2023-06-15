@@ -1,5 +1,6 @@
-# Game info for 2011 week 3
-
+---
+title: Game info for 2011 week 3
+---
 Jacksonville Jaguars (1-1) at Carolina Panthers (0-2), Sunday, Sep 25, 1:02 PM
 
 San Francisco 49ers (1-1) at Cincinnati Bengals (1-1), Sunday, Sep 25, 1:02 PM

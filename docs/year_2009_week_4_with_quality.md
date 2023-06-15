@@ -1,5 +1,6 @@
-# Game info for 2009 week 5
-
+---
+title: Game info for 2009 week 5
+---
 Dallas Cowboys (2-2) at Kansas City Chiefs (0-4), Sunday, Oct 11, 1:00 PM (	:green_circle: good game)
 
 Minnesota Vikings (4-0) at St. Louis Rams (0-4), Sunday, Oct 11, 1:00 PM (	:red_circle: bad game)

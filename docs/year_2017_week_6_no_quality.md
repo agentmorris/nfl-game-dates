@@ -1,5 +1,6 @@
-# Game info for 2017 week 7
-
+---
+title: Game info for 2017 week 7
+---
 Kansas City Chiefs (5-1) at Oakland Raiders (2-4), Thursday, Oct 19, 8:25 PM
 
 
