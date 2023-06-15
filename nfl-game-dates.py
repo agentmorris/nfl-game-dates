@@ -520,13 +520,14 @@ def game_list_to_html(games,week,year,output_format='html',
                 if 'bad' in game.game_tags:
                     
                     quality_string = \
-                        ' (	:red_circle: bad game)'
+                        ' (:red_circle: bad game)'
                     #     ' ![bad game](https://img.shields.io/badge/-bad_game-aa4444)'
                         
                 else:
                     assert 'good' in game.game_tags
                     quality_string = \
-                        ' (	:green_circle: good game)'
+                        ' (:football: good game)'
+                        # ' (	:green_circle: good game)'
                     #    ' ![good game](https://img.shields.io/badge/-good_game-44aa44)'
                         
             

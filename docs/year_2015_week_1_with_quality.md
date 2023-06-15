@@ -5,31 +5,31 @@ description: " "
 
 # Game info for 2015 week 2
 
-Denver Broncos (1-0) at Kansas City Chiefs (1-0), Thursday, Sep 17, 8:29 PM (	:green_circle: good game)
+Denver Broncos (1-0) at Kansas City Chiefs (1-0), Thursday, Sep 17, 8:29 PM (:football: good game)
 
-<br/>Arizona Cardinals (1-0) at Chicago Bears (0-1), Sunday, Sep 20, 1:00 PM (	:red_circle: bad game)
+<br/>Arizona Cardinals (1-0) at Chicago Bears (0-1), Sunday, Sep 20, 1:00 PM (:red_circle: bad game)
 
-New England Patriots (1-0) at Buffalo Bills (1-0), Sunday, Sep 20, 1:02 PM (	:green_circle: good game)
+New England Patriots (1-0) at Buffalo Bills (1-0), Sunday, Sep 20, 1:02 PM (:football: good game)
 
-Houston Texans (0-1) at Carolina Panthers (1-0), Sunday, Sep 20, 1:02 PM (	:green_circle: good game)
+Houston Texans (0-1) at Carolina Panthers (1-0), Sunday, Sep 20, 1:02 PM (:football: good game)
 
 Tennessee Titans (1-0) at Cleveland Browns (0-1), Sunday, Sep 20, 1:02 PM
 
-Tampa Bay Buccaneers (0-1) at New Orleans Saints (0-1), Sunday, Sep 20, 1:02 PM (	:green_circle: good game)
+Tampa Bay Buccaneers (0-1) at New Orleans Saints (0-1), Sunday, Sep 20, 1:02 PM (:football: good game)
 
-Atlanta Falcons (1-0) at New York Giants (0-1), Sunday, Sep 20, 1:02 PM (	:green_circle: good game)
+Atlanta Falcons (1-0) at New York Giants (0-1), Sunday, Sep 20, 1:02 PM (:football: good game)
 
-San Francisco 49ers (1-0) at Pittsburgh Steelers (0-1), Sunday, Sep 20, 1:02 PM (	:red_circle: bad game)
+San Francisco 49ers (1-0) at Pittsburgh Steelers (0-1), Sunday, Sep 20, 1:02 PM (:red_circle: bad game)
 
-San Diego Chargers (1-0) at Cincinnati Bengals (1-0), Sunday, Sep 20, 1:03 PM (	:green_circle: good game)
+San Diego Chargers (1-0) at Cincinnati Bengals (1-0), Sunday, Sep 20, 1:03 PM (:football: good game)
 
 Detroit Lions (0-1) at Minnesota Vikings (0-1), Sunday, Sep 20, 1:03 PM
 
 St. Louis Rams (1-0) at Washington Redskins (0-1), Sunday, Sep 20, 1:03 PM
 
-<br/>Miami Dolphins (1-0) at Jacksonville Jaguars (0-1), Sunday, Sep 20, 4:05 PM (	:green_circle: good game)
+<br/>Miami Dolphins (1-0) at Jacksonville Jaguars (0-1), Sunday, Sep 20, 4:05 PM (:football: good game)
 
-Baltimore Ravens (0-1) at Oakland Raiders (0-1), Sunday, Sep 20, 4:05 PM (	:green_circle: good game)
+Baltimore Ravens (0-1) at Oakland Raiders (0-1), Sunday, Sep 20, 4:05 PM (:football: good game)
 
 Dallas Cowboys (1-0) at Philadelphia Eagles (0-1), Sunday, Sep 20, 4:25 PM
 

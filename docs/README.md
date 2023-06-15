@@ -1,6 +1,6 @@
 ...with only mild spoilers, and only if you want them.
 
-### Why did I make this page?
+# Why did I make this page?
 
 I am [totally dependent](http://rockicon.net/wp/2019/10/22/the-doctor-of-rocks-tfip-total-football-immersion-program/) on football for my fitness, in that I don't inherently like exercising, but I really f'ing love football.  So, I build my world around watching football on the treadmill (and only on the treadmill).  I'm never watching games live, always on NFL Game Pass (or NFL+, or whatever it's called now).
 
@@ -10,7 +10,7 @@ But during the offseason, this is tricky.  I started by watching the playoffs go
 
 Enter this page... 
 
-### What's on this page?
+# What's on this page?
 
 For every week of NFL season going back to 2009, there's a page showing you each team's record going *into* that week, along with game time information.  This is enough to do for historical seasons what I typically do in real-time.
 
@@ -25,7 +25,7 @@ I'm still going to only watch games that seemed worth watching based on team rec
 Idea for other heuristics are welcome!
 
 
-### NFL seasons from 2009-present
+# NFL seasons from 2009-present
     
 Each of these links will take you to a page for the season, where each week will have a link that shows you the team records going *into* that week, and a link that also includes "good game" indicators for that week.
 
@@ -44,7 +44,7 @@ Each of these links will take you to a page for the season, where each week will
 * [2021](season_2021.md)
 * [2022](season_2022.md)
 
-## Todo
+# Todo
 
 One thing I don't capture well is late-season games that are de facto playoff games: two losing teams might still be in contention for a playoff spot.  I'd like to track this better.  It's relatively easy to determine from the season history, it's just a bunch of code I haven't written.
 
