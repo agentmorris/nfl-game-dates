@@ -20,6 +20,7 @@ import time
 import pickle
 import copy
 
+from tqdm import tqdm
 from dateutil import parser as dateparser
 from datetime import timedelta
 from bs4 import BeautifulSoup
@@ -33,7 +34,7 @@ klembord.init()
 
 # Will sleep this many seconds after every request for either a whole page or an
 # individual box score.
-sleep_after_request_time = 0
+sleep_after_request_time = 1.0
 
 
 #%% Classes
@@ -173,7 +174,11 @@ def is_super_bowl(week,year):
     return week == get_number_of_weeks_in_season(year) + playoff_round_to_offset('superbowl',year)
         
 
-def parse_game_from_boxscore_html(boxscore_html):
+def parse_game_from_boxscore_html(boxscore_html,url=None):
+    """
+    The URL is just used for debugging here; by the time we get here, the URL has
+    already been fetched.
+    """
     
     game_soup = BeautifulSoup(boxscore_html,'html.parser')
     
@@ -211,9 +216,8 @@ def parse_game_from_boxscore_html(boxscore_html):
     scorebox = scorebox[0]
     score_divs = scorebox.find_all('div','score')
     assert len(score_divs) == 2
-    away_final_score = int(score_divs[0].text)
-    home_final_score = int(score_divs[1].text)
-            
+    
+    # Parse records
     scorebox_inner_divs = scorebox.find_all('div')
     team_record_strings = []
     for div in scorebox_inner_divs:
@@ -222,72 +226,86 @@ def parse_game_from_boxscore_html(boxscore_html):
     assert len(team_record_strings) == 2
     away_record = team_record_strings[0]
     home_record = team_record_strings[1]
-            
-    # Get scores
-    linescores = game_soup.find_all('table','linescore')
-    assert len(linescores) == 1
-    linescore_table = linescores[0]
-    linescore_table_body = linescore_table.find('tbody')
-    linescore_table_rows = linescore_table_body.find_all('tr')
-    
-    assert len(linescore_table_rows) == 2
-    
+                
+    # Parse scores for past games
     home_scores = None
     away_scores = None
     
-    for i_row,row in enumerate(linescore_table_rows):
-        cols = row.find_all('td')
+    if (len(score_divs[0].text) == 0) or (len(score_divs[1].text) == 0):
         
-        # This depends on whether the game went into OT
-        # 
-        # 7 cols == logo,name,q1,q2,q3,q4,final
-        # 8 cols == logo,name,q1,q2,q3,q4,ot,final
-        # 9 cols == logo,name,q1,q2,q3,q4,ot,ot2,final
-        assert len(cols) >= 7
+        pass
+        # print('Warning: no scores available for URL {}'.format(url))
+
+    else:
         
-        # team_logo_col = cols[0]
-        team_name_col = str(cols[1])
-        if i_row == 0:
-            assert team_away in team_name_col
-        else:
-            assert team_home in team_name_col
+        away_final_score = int(score_divs[0].text)
+        home_final_score = int(score_divs[1].text)
+                
+        # Get scores
+        linescores = game_soup.find_all('table','linescore')
+        assert len(linescores) == 1
+        linescore_table = linescores[0]
+        linescore_table_body = linescore_table.find('tbody')
+        linescore_table_rows = linescore_table_body.find_all('tr')
         
-        # Team score by quarter, then overtime, then final
-        #
-        # In the (rare) case of a 2OT game, column 4 will be a comma-separated string.
-        team_scores = [0] * 6            
-        team_scores[0] = int(cols[2].text)
-        team_scores[1] = int(cols[3].text)            
-        team_scores[2] = int(cols[4].text)            
-        team_scores[3] = int(cols[5].text)
+        assert len(linescore_table_rows) == 2
         
-        # If there was no overtime
-        if len(cols) == 7:        
-            team_scores[4] = 0
-            team_scores[5] = int(cols[6].text)
-        else:
-            assert len(cols) == 8 or len(cols) == 9
-            if len(cols) == 8:
-                team_scores[4] = int(cols[6].text)
-                team_scores[5] = int(cols[7].text)
+        for i_row,row in enumerate(linescore_table_rows):
+            
+            cols = row.find_all('td')
+            
+            # This depends on whether the game went into OT
+            # 
+            # 7 cols == logo,name,q1,q2,q3,q4,final
+            # 8 cols == logo,name,q1,q2,q3,q4,ot,final
+            # 9 cols == logo,name,q1,q2,q3,q4,ot,ot2,final
+            assert len(cols) >= 7
+            
+            # team_logo_col = cols[0]
+            team_name_col = str(cols[1])
+            if i_row == 0:
+                assert team_away in team_name_col
             else:
-                assert len(cols) == 9
-                team_scores[4] = cols[6].text.strip() + ',' + cols[7].text
-                team_scores[5] = int(cols[8].text)
-                    
-        if i_row == 0:
-            away_scores = team_scores
-        else:
-            home_scores = team_scores
-    
-    # ...for each row in the two-row scoring table
-    
-    if away_final_score != away_scores[-1]:
-        assert away_final_score == home_scores[-1]
-        print('Warning: game {} has the home/away scores reversed'.format(title_raw))        
-    if home_final_score != home_scores[-1]:
-        assert home_final_score == away_scores[-1]
-        print('Warning: game {} has the away/home scores reversed'.format(title_raw))        
+                assert team_home in team_name_col
+            
+            # Team score by quarter, then overtime, then final
+            #
+            # In the (rare) case of a 2OT game, column 4 will be a comma-separated string.
+            team_scores = [0] * 6            
+            team_scores[0] = int(cols[2].text)
+            team_scores[1] = int(cols[3].text)            
+            team_scores[2] = int(cols[4].text)            
+            team_scores[3] = int(cols[5].text)
+            
+            # If there was no overtime
+            if len(cols) == 7:        
+                team_scores[4] = 0
+                team_scores[5] = int(cols[6].text)
+            else:
+                assert len(cols) == 8 or len(cols) == 9
+                if len(cols) == 8:
+                    team_scores[4] = int(cols[6].text)
+                    team_scores[5] = int(cols[7].text)
+                else:
+                    assert len(cols) == 9
+                    team_scores[4] = cols[6].text.strip() + ',' + cols[7].text
+                    team_scores[5] = int(cols[8].text)
+                        
+            if i_row == 0:
+                away_scores = team_scores
+            else:
+                home_scores = team_scores
+        
+        # ...for each row in the two-row scoring table
+        
+        if away_final_score != away_scores[-1]:
+            assert away_final_score == home_scores[-1]
+            print('Warning: game {} has the home/away scores reversed'.format(title_raw))        
+        if home_final_score != home_scores[-1]:
+            assert home_final_score == away_scores[-1]
+            print('Warning: game {} has the away/home scores reversed'.format(title_raw))        
+            
+    # ...parsing scores for completed games
     
     # Get date/time
     # The scorebox meta information looks like this:
@@ -343,6 +361,9 @@ def load_game_times_from_url(url,week,year):
     
     if 'access denied' in html_text.lower():
         raise ValueError('Access denied')
+    if 'rate limited' in html_text.lower():
+        raise ValueError('Rate limited')
+        
     week_soup = BeautifulSoup(html_text,'html.parser')
     game_tables = week_soup.find_all('table', {'class':'teams'})
     
@@ -384,7 +405,7 @@ def load_game_times_from_url(url,week,year):
     games = []
     
     # i_game = 0; game_table = game_tables[i_game]
-    for i_game,game_table in enumerate(game_tables):
+    for i_game,game_table in tqdm(enumerate(game_tables),total=len(game_tables)):
         
         game_links = game_table.find_all('a')
         boxscore_links = [s for s in game_links if 'boxscores' in str(s)]
@@ -398,7 +419,7 @@ def load_game_times_from_url(url,week,year):
         boxscore_html = requests.get(boxscore_url).text
         time.sleep(sleep_after_request_time)
         
-        game = parse_game_from_boxscore_html(boxscore_html)
+        game = parse_game_from_boxscore_html(boxscore_html,url=boxscore_url)
         game.boxscore_url = boxscore_url        
         games.append(game)
     
@@ -465,7 +486,7 @@ def game_list_to_html(games,week,year,output_format='html',
     
     if output_format == 'html':
         output_html += '<html><body>\n'
-        p_open -= '<p>'
+        p_open = '<p>'
         p_close = '</p>'
     
     year,week = week_to_numeric(year,week)
@@ -912,8 +933,8 @@ if False:
     #%%
     
     # https://www.pro-football-reference.com/years/2009/week_1.htm
-    year = 2009
-    week = 1        
+    year = 2023
+    week = 18     
     games = load_game_times(year,week)
     for s in games:
         print(s)
