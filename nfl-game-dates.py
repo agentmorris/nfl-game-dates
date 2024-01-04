@@ -20,6 +20,7 @@ import time
 import pickle
 import copy
 
+from collections import defaultdict
 from tqdm import tqdm
 from dateutil import parser as dateparser
 from datetime import timedelta
@@ -34,7 +35,7 @@ klembord.init()
 
 # Will sleep this many seconds after every request for either a whole page or an
 # individual box score.
-sleep_after_request_time = 1.0
+sleep_after_request_time = 3.0
 
 
 #%% Classes
@@ -472,7 +473,7 @@ def team_name_from_team_string(team_string):
 def game_list_to_html(games,week,year,output_format='html',
                       include_quality_info=False,
                       team_records=None,
-                      include_gamepass_links=False):
+                      include_gamepass_links=True):
     """
     Given a list of games (created by load_game_times()), generate the nice HTML content
     we did all this work for.
@@ -567,9 +568,9 @@ def game_list_to_html(games,week,year,output_format='html',
         
         previous_game_time = game.start_time
         
-        # E.g. New Orleans Saints at Green Bay Packers
-        visiting_team = game.team_away
-        home_team = game.team_home
+        # Turn "New Orleans Saints" into "saints"
+        visiting_team = team_name_from_team_string(game.team_away).lower()
+        home_team = team_name_from_team_string(game.team_home).lower()
         
         assert gamepass_base_url.endswith('/')
         gamepass_url = gamepass_base_url + visiting_team + '-at-' + home_team + '-' + \
@@ -626,9 +627,6 @@ if False:
     
     min_year = 2009
     max_year = 2022
-    
-    from collections import defaultdict
-    from tqdm import tqdm
     
     year_to_games = defaultdict(list)
     
@@ -965,8 +963,8 @@ if False:
         
     #%%
     
-    year = 2022
-    week = 12
+    year = 2023
+    week = 18
     games = load_game_times(year,week)
     for s in games:
         print(s)
