@@ -224,10 +224,16 @@ def parse_game_from_boxscore_html(boxscore_html,url=None):
     for div in scorebox_inner_divs:
         if len(div.text) < 10 and '-' in div.text:
             team_record_strings.append(div.text)
-    assert len(team_record_strings) == 2
-    away_record = team_record_strings[0]
-    home_record = team_record_strings[1]
-                
+    assert len(team_record_strings) in (2,0), \
+        'Illegal team record strings: {}'.format(team_record_strings)
+        
+    if len(team_record_strings) > 0:
+        away_record = team_record_strings[0]
+        home_record = team_record_strings[1]
+    else:
+        away_record = '0-0'
+        home_record = '0-0'
+        
     # Parse scores for past games
     home_scores = None
     away_scores = None
@@ -930,9 +936,8 @@ if False:
 
     #%%
     
-    # https://www.pro-football-reference.com/years/2009/week_1.htm
-    year = 2023
-    week = 18     
+    year = 2024
+    week = 1   
     games = load_game_times(year,week)
     for s in games:
         print(s)
