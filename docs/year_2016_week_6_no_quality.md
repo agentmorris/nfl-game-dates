@@ -3,35 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 week 7
+# Game info for 2016 week 6
 
-Chicago Bears (1-5) at Green Bay Packers (3-2), Thursday, Oct 20, 8:26 PM
+Denver Broncos (4-1) at San Diego Chargers (1-4), Thursday, Oct 13, 8:25 PM
 
-<br/>New York Giants (3-3) at Los Angeles Rams (3-3), Sunday, Oct 23, 9:31 AM
+<br/>San Francisco 49ers (1-4) at Buffalo Bills (3-2), Sunday, Oct 16, 1:02 PM
 
-<br/>Cleveland Browns (0-6) at Cincinnati Bengals (2-4), Sunday, Oct 23, 1:02 PM
+Jacksonville Jaguars (1-3) at Chicago Bears (1-4), Sunday, Oct 16, 1:02 PM
 
-Washington Redskins (4-2) at Detroit Lions (3-3), Sunday, Oct 23, 1:02 PM
+Los Angeles Rams (3-2) at Detroit Lions (2-3), Sunday, Oct 16, 1:02 PM
 
-Oakland Raiders (4-2) at Jacksonville Jaguars (2-3), Sunday, Oct 23, 1:02 PM
+Pittsburgh Steelers (4-1) at Miami Dolphins (1-4), Sunday, Oct 16, 1:02 PM
 
-Buffalo Bills (4-2) at Miami Dolphins (2-4), Sunday, Oct 23, 1:02 PM
+Cincinnati Bengals (2-3) at New England Patriots (4-1), Sunday, Oct 16, 1:02 PM
 
-Indianapolis Colts (2-4) at Tennessee Titans (3-3), Sunday, Oct 23, 1:02 PM
+Baltimore Ravens (3-2) at New York Giants (2-3), Sunday, Oct 16, 1:02 PM
 
-Minnesota Vikings (5-0) at Philadelphia Eagles (3-2), Sunday, Oct 23, 1:02 PM
+Cleveland Browns (0-5) at Tennessee Titans (2-3), Sunday, Oct 16, 1:02 PM
 
-New Orleans Saints (2-3) at Kansas City Chiefs (3-2), Sunday, Oct 23, 1:03 PM
+Carolina Panthers (1-4) at New Orleans Saints (1-3), Sunday, Oct 16, 1:03 PM
 
-Baltimore Ravens (3-3) at New York Jets (1-5), Sunday, Oct 23, 1:04 PM
+Philadelphia Eagles (3-1) at Washington Redskins (3-2), Sunday, Oct 16, 1:03 PM
 
-<br/>San Diego Chargers (2-4) at Atlanta Falcons (4-2), Sunday, Oct 23, 4:05 PM
+<br/>Kansas City Chiefs (2-2) at Oakland Raiders (4-1), Sunday, Oct 16, 4:05 PM
 
-Tampa Bay Buccaneers (2-3) at San Francisco 49ers (1-5), Sunday, Oct 23, 4:05 PM
+Dallas Cowboys (4-1) at Green Bay Packers (3-1), Sunday, Oct 16, 4:25 PM
 
-New England Patriots (5-1) at Pittsburgh Steelers (4-2), Sunday, Oct 23, 4:25 PM
+Atlanta Falcons (4-1) at Seattle Seahawks (3-1), Sunday, Oct 16, 4:26 PM
 
-<br/>Seattle Seahawks (4-1) at Arizona Cardinals (3-3), Sunday, Oct 23, 8:30 PM
+<br/>Indianapolis Colts (2-3) at Houston Texans (3-2), Sunday, Oct 16, 8:32 PM
 
-<br/>Houston Texans (4-2) at Denver Broncos (4-2), Monday, Oct 24, 8:30 PM
+<br/>New York Jets (1-4) at Arizona Cardinals (2-3), Monday, Oct 17, 8:30 PM
 

@@ -3,12 +3,16 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 divisional
+# Game info for 2023 wild card
 
-Houston Texans at Baltimore Ravens, Saturday, Jan 20, 4:30 PM
+Cleveland Browns at Houston Texans, Saturday, Jan 13, 4:30 PM (:red_circle: bad game)
 
-<br/>Green Bay Packers at San Francisco 49ers, Saturday, Jan 20, 8:15 PM (:football: good game)
+<br/>Miami Dolphins at Kansas City Chiefs, Saturday, Jan 13, 8:00 PM (:red_circle: bad game)
 
-<br/>Tampa Bay Buccaneers at Detroit Lions, Sunday, Jan 21, 3:00 PM (:football: good game)
+<br/>Green Bay Packers at Dallas Cowboys, Sunday, Jan 14, 4:30 PM (:football: good game)
 
-<br/>Kansas City Chiefs at Buffalo Bills, Sunday, Jan 21, 6:30 PM (:football: good game)
+<br/>Los Angeles Rams at Detroit Lions, Sunday, Jan 14, 8:00 PM (:football: good game)
+
+<br/>Pittsburgh Steelers at Buffalo Bills, Monday, Jan 15, 4:30 PM
+
+<br/>Philadelphia Eagles at Tampa Bay Buccaneers, Monday, Jan 15, 8:00 PM (:red_circle: bad game)

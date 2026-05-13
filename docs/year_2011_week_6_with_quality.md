@@ -3,31 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2011 week 7
+# Game info for 2011 week 6
 
-Denver Broncos (1-4) at Miami Dolphins (0-5), Sunday, Oct 23, 1:02 PM (:football: good game)
+Carolina Panthers (1-4) at Atlanta Falcons (2-3), Sunday, Oct 16, 1:02 PM
 
-Houston Texans (3-3) at Tennessee Titans (3-2), Sunday, Oct 23, 1:02 PM (:red_circle: bad game)
+Indianapolis Colts (0-5) at Cincinnati Bengals (3-2), Sunday, Oct 16, 1:02 PM
 
-San Diego Chargers (4-1) at New York Jets (3-3), Sunday, Oct 23, 1:03 PM (:football: good game)
+St. Louis Rams (0-4) at Green Bay Packers (5-0), Sunday, Oct 16, 1:02 PM (:red_circle: bad game)
 
-Washington Redskins (3-2) at Carolina Panthers (1-5), Sunday, Oct 23, 1:05 PM
+Buffalo Bills (4-1) at New York Giants (3-2), Sunday, Oct 16, 1:02 PM (:football: good game)
 
-Seattle Seahawks (2-3) at Cleveland Browns (2-3), Sunday, Oct 23, 1:05 PM (:football: good game)
+Jacksonville Jaguars (1-4) at Pittsburgh Steelers (3-2), Sunday, Oct 16, 1:02 PM (:football: good game)
 
-Atlanta Falcons (3-3) at Detroit Lions (5-1), Sunday, Oct 23, 1:05 PM (:football: good game)
+San Francisco 49ers (4-1) at Detroit Lions (5-0), Sunday, Oct 16, 1:03 PM (:football: good game)
 
-Chicago Bears (3-3) at Tampa Bay Buccaneers (4-2), Sunday, Oct 23, 1:05 PM (:football: good game)
+Philadelphia Eagles (1-4) at Washington Redskins (3-1), Sunday, Oct 16, 1:05 PM (:football: good game)
 
-<br/>Pittsburgh Steelers (4-2) at Arizona Cardinals (1-4), Sunday, Oct 23, 4:05 PM
+<br/>Cleveland Browns (2-2) at Oakland Raiders (3-2), Sunday, Oct 16, 4:05 PM (:football: good game)
 
-St. Louis Rams (0-5) at Dallas Cowboys (2-3), Sunday, Oct 23, 4:15 PM (:red_circle: bad game)
+Houston Texans (3-2) at Baltimore Ravens (3-1), Sunday, Oct 16, 4:06 PM
 
-Green Bay Packers (6-0) at Minnesota Vikings (1-5), Sunday, Oct 23, 4:15 PM (:football: good game)
+Dallas Cowboys (2-2) at New England Patriots (4-1), Sunday, Oct 16, 4:15 PM (:football: good game)
 
-<br/>Kansas City Chiefs (2-3) at Oakland Raiders (4-2), Sunday, Oct 23, 7:05 PM (:red_circle: bad game)
+New Orleans Saints (4-1) at Tampa Bay Buccaneers (3-2), Sunday, Oct 16, 4:15 PM (:football: good game)
 
-<br/>Indianapolis Colts (0-6) at New Orleans Saints (4-2), Sunday, Oct 23, 8:30 PM (:red_circle: bad game)
+<br/>Minnesota Vikings (1-4) at Chicago Bears (2-3), Sunday, Oct 16, 8:30 PM (:red_circle: bad game)
 
-<br/>Baltimore Ravens (4-1) at Jacksonville Jaguars (1-5), Monday, Oct 24, 8:40 PM (:football: good game)
+<br/>Miami Dolphins (0-4) at New York Jets (2-3), Monday, Oct 17, 8:40 PM (:red_circle: bad game)
 

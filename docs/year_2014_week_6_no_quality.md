@@ -3,35 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2014 week 7
+# Game info for 2014 week 6
 
-New York Jets (1-5) at New England Patriots (4-2), Thursday, Oct 16, 8:25 PM
+Indianapolis Colts (3-2) at Houston Texans (3-2), Thursday, Oct 9, 8:26 PM
 
-<br/>Miami Dolphins (2-3) at Chicago Bears (3-3), Sunday, Oct 19, 1:00 PM
+<br/>New England Patriots (3-2) at Buffalo Bills (3-2), Sunday, Oct 12, 1:02 PM
 
-Seattle Seahawks (3-2) at St. Louis Rams (1-4), Sunday, Oct 19, 1:00 PM
+Pittsburgh Steelers (3-2) at Cleveland Browns (2-2), Sunday, Oct 12, 1:02 PM
 
-Minnesota Vikings (2-4) at Buffalo Bills (3-3), Sunday, Oct 19, 1:02 PM
+Green Bay Packers (3-2) at Miami Dolphins (2-2), Sunday, Oct 12, 1:02 PM
 
-Cincinnati Bengals (3-1-1) at Indianapolis Colts (4-2), Sunday, Oct 19, 1:02 PM
+Detroit Lions (3-2) at Minnesota Vikings (2-3), Sunday, Oct 12, 1:02 PM
 
-New Orleans Saints (2-3) at Detroit Lions (4-2), Sunday, Oct 19, 1:02 PM
+Denver Broncos (3-1) at New York Jets (1-4), Sunday, Oct 12, 1:02 PM
 
-Carolina Panthers (3-2-1) at Green Bay Packers (4-2), Sunday, Oct 19, 1:02 PM
+Jacksonville Jaguars (0-5) at Tennessee Titans (1-4), Sunday, Oct 12, 1:02 PM
 
-Cleveland Browns (3-2) at Jacksonville Jaguars (0-6), Sunday, Oct 19, 1:02 PM
+Baltimore Ravens (3-2) at Tampa Bay Buccaneers (1-4), Sunday, Oct 12, 1:02 PM
 
-Atlanta Falcons (2-4) at Baltimore Ravens (4-2), Sunday, Oct 19, 1:02 PM
+Carolina Panthers (3-2) at Cincinnati Bengals (3-1), Sunday, Oct 12, 1:03 PM
 
-Tennessee Titans (2-4) at Washington Redskins (1-5), Sunday, Oct 19, 1:02 PM
+<br/>San Diego Chargers (4-1) at Oakland Raiders (0-4), Sunday, Oct 12, 4:05 PM
 
-<br/>Kansas City Chiefs (2-3) at San Diego Chargers (5-1), Sunday, Oct 19, 4:05 PM
+Chicago Bears (2-3) at Atlanta Falcons (2-3), Sunday, Oct 12, 4:25 PM
 
-New York Giants (3-3) at Dallas Cowboys (5-1), Sunday, Oct 19, 4:25 PM
+Washington Redskins (1-4) at Arizona Cardinals (3-1), Sunday, Oct 12, 4:25 PM
 
-Arizona Cardinals (4-1) at Oakland Raiders (0-5), Sunday, Oct 19, 4:25 PM
+Dallas Cowboys (4-1) at Seattle Seahawks (3-1), Sunday, Oct 12, 4:26 PM
 
-<br/>San Francisco 49ers (4-2) at Denver Broncos (4-1), Sunday, Oct 19, 8:30 PM
+<br/>New York Giants (3-2) at Philadelphia Eagles (4-1), Sunday, Oct 12, 8:41 PM
 
-<br/>Houston Texans (3-3) at Pittsburgh Steelers (3-3), Monday, Oct 20, 8:30 PM
+<br/>San Francisco 49ers (3-2) at St. Louis Rams (1-3), Monday, Oct 13, 8:30 PM
 

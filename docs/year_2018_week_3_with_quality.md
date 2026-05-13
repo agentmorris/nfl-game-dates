@@ -3,35 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 week 4
+# Game info for 2018 week 3
 
-Minnesota Vikings (1-1-1) at Los Angeles Rams (3-0), Thursday, Sep 27, 8:20 PM (:football: good game)
+New York Jets (1-1) at Cleveland Browns (0-1-1), Thursday, Sep 20, 8:20 PM (:football: good game)
 
-<br/>Cincinnati Bengals (2-1) at Atlanta Falcons (1-2), Sunday, Sep 30, 1:00 PM (:football: good game)
+<br/>New Orleans Saints (1-1) at Atlanta Falcons (1-1), Sunday, Sep 23, 1:00 PM (:football: good game)
 
-Tampa Bay Buccaneers (2-1) at Chicago Bears (2-1), Sunday, Sep 30, 1:00 PM (:red_circle: bad game)
+Cincinnati Bengals (2-0) at Carolina Panthers (1-1), Sunday, Sep 23, 1:00 PM
 
-Houston Texans (0-3) at Indianapolis Colts (1-2), Sunday, Sep 30, 1:00 PM (:football: good game)
+New York Giants (0-2) at Houston Texans (0-2), Sunday, Sep 23, 1:00 PM (:football: good game)
 
-Detroit Lions (1-2) at Dallas Cowboys (1-2), Sunday, Sep 30, 1:00 PM (:football: good game)
+Tennessee Titans (1-1) at Jacksonville Jaguars (2-0), Sunday, Sep 23, 1:00 PM (:football: good game)
 
-Buffalo Bills (1-2) at Green Bay Packers (1-1-1), Sunday, Sep 30, 1:00 PM (:red_circle: bad game)
+San Francisco 49ers (1-1) at Kansas City Chiefs (2-0), Sunday, Sep 23, 1:00 PM (:football: good game)
 
-New York Jets (1-2) at Jacksonville Jaguars (2-1), Sunday, Sep 30, 1:00 PM (:red_circle: bad game)
+Oakland Raiders (0-2) at Miami Dolphins (2-0), Sunday, Sep 23, 1:00 PM (:football: good game)
 
-Miami Dolphins (3-0) at New England Patriots (1-2), Sunday, Sep 30, 1:00 PM (:red_circle: bad game)
+Buffalo Bills (0-2) at Minnesota Vikings (1-0-1), Sunday, Sep 23, 1:00 PM (:red_circle: bad game)
 
-Philadelphia Eagles (2-1) at Tennessee Titans (2-1), Sunday, Sep 30, 1:00 PM (:football: good game)
+Indianapolis Colts (1-1) at Philadelphia Eagles (1-1), Sunday, Sep 23, 1:00 PM (:football: good game)
 
-<br/>Seattle Seahawks (1-2) at Arizona Cardinals (0-3), Sunday, Sep 30, 4:05 PM (:football: good game)
+Denver Broncos (2-0) at Baltimore Ravens (1-1), Sunday, Sep 23, 1:00 PM
 
-Cleveland Browns (1-1-1) at Oakland Raiders (0-3), Sunday, Sep 30, 4:05 PM (:football: good game)
+Green Bay Packers (1-0-1) at Washington Redskins (1-1), Sunday, Sep 23, 1:00 PM
 
-New Orleans Saints (2-1) at New York Giants (1-2), Sunday, Sep 30, 4:25 PM
+<br/>Los Angeles Chargers (1-1) at Los Angeles Rams (2-0), Sunday, Sep 23, 4:05 PM
 
-San Francisco 49ers (1-2) at Los Angeles Chargers (1-2), Sunday, Sep 30, 4:25 PM (:football: good game)
+Chicago Bears (1-1) at Arizona Cardinals (0-2), Sunday, Sep 23, 4:25 PM (:football: good game)
 
-<br/>Baltimore Ravens (2-1) at Pittsburgh Steelers (1-1-1), Sunday, Sep 30, 8:20 PM
+Dallas Cowboys (1-1) at Seattle Seahawks (0-2), Sunday, Sep 23, 4:25 PM
 
-<br/>Kansas City Chiefs (3-0) at Denver Broncos (2-1), Monday, Oct 1, 8:15 PM (:football: good game)
+<br/>New England Patriots (1-1) at Detroit Lions (0-2), Sunday, Sep 23, 8:20 PM
+
+<br/>Pittsburgh Steelers (0-1-1) at Tampa Bay Buccaneers (2-0), Monday, Sep 24, 8:15 PM (:football: good game)
 

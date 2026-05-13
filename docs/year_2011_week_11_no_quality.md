@@ -3,37 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2011 week 12
+# Game info for 2011 week 11
 
-Green Bay Packers (10-0) at Detroit Lions (7-3), Thursday, Nov 24, 12:35 PM
+New York Jets (5-4) at Denver Broncos (4-5), Thursday, Nov 17, 8:30 PM
 
-<br/>Miami Dolphins (3-7) at Dallas Cowboys (6-4), Thursday, Nov 24, 4:16 PM
+<br/>Jacksonville Jaguars (3-6) at Cleveland Browns (3-6), Sunday, Nov 20, 1:02 PM
 
-<br/>San Francisco 49ers (9-1) at Baltimore Ravens (7-3), Thursday, Nov 24, 8:29 PM
+Carolina Panthers (2-7) at Detroit Lions (6-3), Sunday, Nov 20, 1:02 PM
 
-<br/>Arizona Cardinals (3-7) at St. Louis Rams (2-8), Sunday, Nov 27, 1:00 PM
+Tampa Bay Buccaneers (4-5) at Green Bay Packers (9-0), Sunday, Nov 20, 1:02 PM
 
-Minnesota Vikings (2-8) at Atlanta Falcons (6-4), Sunday, Nov 27, 1:02 PM
+Buffalo Bills (5-4) at Miami Dolphins (2-7), Sunday, Nov 20, 1:02 PM
 
-Cleveland Browns (4-6) at Cincinnati Bengals (6-4), Sunday, Nov 27, 1:02 PM
+Cincinnati Bengals (6-3) at Baltimore Ravens (6-3), Sunday, Nov 20, 1:02 PM
 
-Buffalo Bills (5-5) at New York Jets (5-5), Sunday, Nov 27, 1:02 PM
+Dallas Cowboys (5-4) at Washington Redskins (3-6), Sunday, Nov 20, 1:03 PM
 
-Tampa Bay Buccaneers (4-6) at Tennessee Titans (5-5), Sunday, Nov 27, 1:02 PM
+Oakland Raiders (5-4) at Minnesota Vikings (2-7), Sunday, Nov 20, 1:05 PM
 
-Carolina Panthers (2-8) at Indianapolis Colts (0-10), Sunday, Nov 27, 1:03 PM
+<br/>Seattle Seahawks (3-6) at St. Louis Rams (2-7), Sunday, Nov 20, 4:05 PM
 
-Houston Texans (7-3) at Jacksonville Jaguars (3-7), Sunday, Nov 27, 1:03 PM
+Arizona Cardinals (3-6) at San Francisco 49ers (8-1), Sunday, Nov 20, 4:05 PM
 
-<br/>Chicago Bears (7-3) at Oakland Raiders (6-4), Sunday, Nov 27, 4:05 PM
+Tennessee Titans (5-4) at Atlanta Falcons (5-4), Sunday, Nov 20, 4:15 PM
 
-Washington Redskins (3-7) at Seattle Seahawks (4-6), Sunday, Nov 27, 4:07 PM
+San Diego Chargers (4-5) at Chicago Bears (6-3), Sunday, Nov 20, 4:16 PM
 
-New England Patriots (7-3) at Philadelphia Eagles (4-6), Sunday, Nov 27, 4:15 PM
+<br/>Philadelphia Eagles (3-6) at New York Giants (6-3), Sunday, Nov 20, 8:32 PM
 
-Denver Broncos (5-5) at San Diego Chargers (4-6), Sunday, Nov 27, 4:15 PM
-
-<br/>Pittsburgh Steelers (7-3) at Kansas City Chiefs (4-6), Sunday, Nov 27, 8:31 PM
-
-<br/>New York Giants (6-4) at New Orleans Saints (7-3), Monday, Nov 28, 8:40 PM
+<br/>Kansas City Chiefs (4-5) at New England Patriots (6-3), Monday, Nov 21, 8:40 PM
 

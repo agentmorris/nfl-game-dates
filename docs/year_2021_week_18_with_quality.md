@@ -3,17 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 wild card
+# Game info for 2021 week 18
 
-Las Vegas Raiders at Cincinnati Bengals, Saturday, Jan 15, 4:30 PM
+Kansas City Chiefs (11-5) at Denver Broncos (7-9, eliminated), Saturday, Jan 8, 4:30 PM (:football: good game)
 
-<br/>New England Patriots at Buffalo Bills, Saturday, Jan 15, 8:15 PM
+<br/>Dallas Cowboys (11-5) at Philadelphia Eagles (9-7), Saturday, Jan 8, 8:15 PM (:red_circle: bad game)
 
-<br/>Philadelphia Eagles at Tampa Bay Buccaneers, Sunday, Jan 16, 1:00 PM
+<br/>New Orleans Saints (8-8) at Atlanta Falcons (7-9, eliminated), Sunday, Jan 9, 1:00 PM
 
-<br/>San Francisco 49ers at Dallas Cowboys, Sunday, Jan 16, 4:40 PM
+Cincinnati Bengals (10-6) at Cleveland Browns (7-9, eliminated), Sunday, Jan 9, 1:00 PM (:football: good game)
 
-<br/>Pittsburgh Steelers at Kansas City Chiefs, Sunday, Jan 16, 8:15 PM
+Green Bay Packers (13-3) at Detroit Lions (2-13-1, eliminated), Sunday, Jan 9, 1:00 PM (:football: good game)
 
-<br/>Arizona Cardinals at Los Angeles Rams, Monday, Jan 17, 8:15 PM
+Tennessee Titans (11-5) at Houston Texans (4-12, eliminated), Sunday, Jan 9, 1:00 PM (:football: good game)
+
+Indianapolis Colts (9-7) at Jacksonville Jaguars (2-14, eliminated), Sunday, Jan 9, 1:00 PM
+
+New England Patriots (10-6) at Miami Dolphins (8-8, eliminated), Sunday, Jan 9, 1:00 PM
+
+Chicago Bears (6-10, eliminated) at Minnesota Vikings (7-9, eliminated), Sunday, Jan 9, 1:00 PM (:football: good game)
+
+Washington Football Team (6-10, eliminated) at New York Giants (4-12, eliminated), Sunday, Jan 9, 1:00 PM
+
+Pittsburgh Steelers (8-7-1) at Baltimore Ravens (8-8, eliminated), Sunday, Jan 9, 1:00 PM (:football: good game)
+
+Carolina Panthers (5-11, eliminated) at Tampa Bay Buccaneers (12-4), Sunday, Jan 9, 1:00 PM (:red_circle: bad game)
+
+<br/>New York Jets (4-12, eliminated) at Buffalo Bills (10-6), Sunday, Jan 9, 4:25 PM (:red_circle: bad game)
+
+Seattle Seahawks (6-10, eliminated) at Arizona Cardinals (11-5), Sunday, Jan 9, 4:25 PM (:football: good game)
+
+San Francisco 49ers (9-7) at Los Angeles Rams (12-4), Sunday, Jan 9, 4:25 PM (:football: good game)
+
+<br/>Los Angeles Chargers (9-7) at Las Vegas Raiders (9-7), Sunday, Jan 9, 8:25 PM (:football: good game)
 

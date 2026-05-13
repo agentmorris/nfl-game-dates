@@ -3,33 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 week 5
+# Game info for 2016 week 4
 
-Arizona Cardinals (1-3) at San Francisco 49ers (1-3), Thursday, Oct 6, 8:27 PM
+Miami Dolphins (1-2) at Cincinnati Bengals (1-2), Thursday, Sep 29, 8:26 PM
 
-<br/>New England Patriots (3-1) at Cleveland Browns (0-4), Sunday, Oct 9, 1:02 PM
+<br/>Indianapolis Colts (1-2) at Jacksonville Jaguars (0-3), Sunday, Oct 2, 9:35 AM
 
-Chicago Bears (1-3) at Indianapolis Colts (1-3), Sunday, Oct 9, 1:02 PM
+<br/>Detroit Lions (1-2) at Chicago Bears (0-3), Sunday, Oct 2, 1:00 PM
 
-Philadelphia Eagles (3-0) at Detroit Lions (1-3), Sunday, Oct 9, 1:02 PM
+Tennessee Titans (1-2) at Houston Texans (2-1), Sunday, Oct 2, 1:02 PM
 
-Tennessee Titans (1-3) at Miami Dolphins (1-3), Sunday, Oct 9, 1:02 PM
+Buffalo Bills (1-2) at New England Patriots (3-0), Sunday, Oct 2, 1:02 PM
 
-New York Jets (1-3) at Pittsburgh Steelers (3-1), Sunday, Oct 9, 1:02 PM
+Oakland Raiders (2-1) at Baltimore Ravens (3-0), Sunday, Oct 2, 1:02 PM
 
-Washington Redskins (2-2) at Baltimore Ravens (3-1), Sunday, Oct 9, 1:03 PM
+Seattle Seahawks (2-1) at New York Jets (1-2), Sunday, Oct 2, 1:03 PM
 
-Houston Texans (3-1) at Minnesota Vikings (4-0), Sunday, Oct 9, 1:05 PM
+Carolina Panthers (1-2) at Atlanta Falcons (2-1), Sunday, Oct 2, 1:04 PM
 
-<br/>Atlanta Falcons (3-1) at Denver Broncos (4-0), Sunday, Oct 9, 4:05 PM
+Cleveland Browns (0-3) at Washington Redskins (1-2), Sunday, Oct 2, 1:05 PM
 
-Cincinnati Bengals (2-2) at Dallas Cowboys (3-1), Sunday, Oct 9, 4:25 PM
+<br/>Denver Broncos (3-0) at Tampa Bay Buccaneers (1-2), Sunday, Oct 2, 4:05 PM
 
-San Diego Chargers (1-3) at Oakland Raiders (3-1), Sunday, Oct 9, 4:25 PM
+Los Angeles Rams (2-1) at Arizona Cardinals (1-2), Sunday, Oct 2, 4:25 PM
 
-Buffalo Bills (2-2) at Los Angeles Rams (3-1), Sunday, Oct 9, 4:25 PM
+New Orleans Saints (0-3) at San Diego Chargers (1-2), Sunday, Oct 2, 4:25 PM
 
-<br/>New York Giants (2-2) at Green Bay Packers (2-1), Sunday, Oct 9, 8:30 PM
+Dallas Cowboys (2-1) at San Francisco 49ers (1-2), Sunday, Oct 2, 4:25 PM
 
-<br/>Tampa Bay Buccaneers (1-3) at Carolina Panthers (1-3), Monday, Oct 10, 8:04 PM
+<br/>Kansas City Chiefs (2-1) at Pittsburgh Steelers (2-1), Sunday, Oct 2, 8:30 PM
+
+<br/>New York Giants (2-1) at Minnesota Vikings (3-0), Monday, Oct 3, 8:35 PM
 

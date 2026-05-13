@@ -3,30 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 week 13
+# Game info for 2023 week 12
 
-Seattle Seahawks (6-5) at Dallas Cowboys (8-3), Thursday, Nov 30, 8:15 PM (:football: good game)
+Green Bay Packers (4-6) at Detroit Lions (8-2), Thursday, Nov 23, 12:30 PM (:football: good game)
 
-<br/>Denver Broncos (6-5) at Houston Texans (6-5), Sunday, Dec 3, 1:00 PM (:football: good game)
+<br/>Washington Commanders (4-7) at Dallas Cowboys (7-3), Thursday, Nov 23, 4:30 PM (:red_circle: bad game)
 
-Los Angeles Chargers (4-7) at New England Patriots (2-9), Sunday, Dec 3, 1:00 PM (:football: good game)
+<br/>San Francisco 49ers (7-3) at Seattle Seahawks (6-4), Thursday, Nov 23, 8:20 PM (:red_circle: bad game)
 
-Detroit Lions (8-3) at New Orleans Saints (5-6), Sunday, Dec 3, 1:00 PM (:football: good game)
+<br/>Miami Dolphins (7-3) at New York Jets (4-6), Friday, Nov 24, 3:00 PM (:red_circle: bad game)
 
-Atlanta Falcons (5-6) at New York Jets (4-7), Sunday, Dec 3, 1:00 PM (:football: good game)
+<br/>New Orleans Saints (5-5) at Atlanta Falcons (4-6), Sunday, Nov 26, 1:00 PM
 
-Arizona Cardinals (2-10) at Pittsburgh Steelers (7-4), Sunday, Dec 3, 1:00 PM
+Pittsburgh Steelers (6-4) at Cincinnati Bengals (5-5), Sunday, Nov 26, 1:00 PM (:football: good game)
 
-Indianapolis Colts (6-5) at Tennessee Titans (4-7), Sunday, Dec 3, 1:00 PM (:football: good game)
+Jacksonville Jaguars (7-3) at Houston Texans (6-4), Sunday, Nov 26, 1:00 PM (:football: good game)
 
-Miami Dolphins (8-3) at Washington Commanders (4-8), Sunday, Dec 3, 1:00 PM (:red_circle: bad game)
+Tampa Bay Buccaneers (4-6) at Indianapolis Colts (5-5), Sunday, Nov 26, 1:00 PM (:football: good game)
 
-<br/>Carolina Panthers (1-10) at Tampa Bay Buccaneers (4-7), Sunday, Dec 3, 4:05 PM (:football: good game)
+New England Patriots (2-8) at New York Giants (3-8), Sunday, Nov 26, 1:00 PM (:football: good game)
 
-Cleveland Browns (7-4) at Los Angeles Rams (5-6), Sunday, Dec 3, 4:25 PM (:red_circle: bad game)
+Carolina Panthers (1-9) at Tennessee Titans (3-7), Sunday, Nov 26, 1:00 PM (:football: good game)
 
-San Francisco 49ers (8-3) at Philadelphia Eagles (10-1), Sunday, Dec 3, 4:25 PM (:red_circle: bad game)
+<br/>Los Angeles Rams (4-6) at Arizona Cardinals (2-9), Sunday, Nov 26, 4:05 PM (:red_circle: bad game)
 
-<br/>Kansas City Chiefs (8-3) at Green Bay Packers (5-6), Sunday, Dec 3, 8:20 PM (:football: good game)
+Cleveland Browns (7-3) at Denver Broncos (5-5), Sunday, Nov 26, 4:05 PM (:red_circle: bad game)
 
-<br/>Cincinnati Bengals (5-6) at Jacksonville Jaguars (8-3), Monday, Dec 4, 8:15 PM (:football: good game)
+Kansas City Chiefs (7-3) at Las Vegas Raiders (5-6), Sunday, Nov 26, 4:25 PM
+
+Buffalo Bills (6-5) at Philadelphia Eagles (9-1), Sunday, Nov 26, 4:25 PM (:football: good game)
+
+<br/>Baltimore Ravens (8-3) at Los Angeles Chargers (4-6), Sunday, Nov 26, 8:20 PM
+
+<br/>Chicago Bears (3-8) at Minnesota Vikings (6-5), Monday, Nov 27, 8:15 PM (:football: good game)

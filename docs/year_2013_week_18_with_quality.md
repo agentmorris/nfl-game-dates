@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2013 divisional
+# Game info for 2013 wild card
 
-New Orleans Saints at Seattle Seahawks, Saturday, Jan 11, 4:36 PM
+Kansas City Chiefs at Indianapolis Colts, Saturday, Jan 4, 4:35 PM
 
-<br/>Indianapolis Colts at New England Patriots, Saturday, Jan 11, 8:15 PM
+<br/>New Orleans Saints at Philadelphia Eagles, Saturday, Jan 4, 8:14 PM
 
-<br/>San Francisco 49ers at Carolina Panthers, Sunday, Jan 12, 1:05 PM
+<br/>San Diego Chargers at Cincinnati Bengals, Sunday, Jan 5, 1:06 PM
 
-<br/>San Diego Chargers at Denver Broncos, Sunday, Jan 12, 4:40 PM
+<br/>San Francisco 49ers at Green Bay Packers, Sunday, Jan 5, 4:40 PM
 

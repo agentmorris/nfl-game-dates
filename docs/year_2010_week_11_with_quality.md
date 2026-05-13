@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2010 week 12
+# Game info for 2010 week 11
 
-New England Patriots (8-2) at Detroit Lions (2-8, eliminated), Thursday, Nov 25, 12:38 PM (:football: good game)
+Chicago Bears (6-3) at Miami Dolphins (5-4), Thursday, Nov 18, 8:29 PM
 
-<br/>New Orleans Saints (7-3) at Dallas Cowboys (3-7), Thursday, Nov 25, 4:36 PM (:football: good game)
+<br/>Buffalo Bills (1-8) at Cincinnati Bengals (2-7), Sunday, Nov 21, 1:02 PM (:football: good game)
 
-<br/>Cincinnati Bengals (2-8) at New York Jets (8-2), Thursday, Nov 25, 8:30 PM (:football: good game)
+Detroit Lions (2-7) at Dallas Cowboys (2-7), Sunday, Nov 21, 1:02 PM (:football: good game)
 
-<br/>Green Bay Packers (7-3) at Atlanta Falcons (8-2), Sunday, Nov 28, 1:02 PM (:football: good game)
+Oakland Raiders (5-4) at Pittsburgh Steelers (6-3), Sunday, Nov 21, 1:02 PM (:red_circle: bad game)
 
-Pittsburgh Steelers (7-3) at Buffalo Bills (2-8), Sunday, Nov 28, 1:02 PM (:football: good game)
+Cleveland Browns (3-6) at Jacksonville Jaguars (5-4), Sunday, Nov 21, 1:03 PM (:football: good game)
 
-Tennessee Titans (5-5) at Houston Texans (4-6), Sunday, Nov 28, 1:02 PM (:red_circle: bad game)
+Arizona Cardinals (3-6) at Kansas City Chiefs (5-4), Sunday, Nov 21, 1:03 PM (:red_circle: bad game)
 
-Jacksonville Jaguars (6-4) at New York Giants (6-4), Sunday, Nov 28, 1:02 PM (:football: good game)
+Houston Texans (4-5) at New York Jets (7-2), Sunday, Nov 21, 1:03 PM (:football: good game)
 
-Minnesota Vikings (3-7) at Washington Redskins (5-5), Sunday, Nov 28, 1:02 PM (:football: good game)
+Washington Redskins (4-5) at Tennessee Titans (5-4), Sunday, Nov 21, 1:03 PM (:football: good game)
 
-Carolina Panthers (1-9, eliminated) at Cleveland Browns (3-7), Sunday, Nov 28, 1:03 PM (:football: good game)
+Baltimore Ravens (6-3) at Carolina Panthers (1-8, eliminated), Sunday, Nov 21, 1:04 PM (:red_circle: bad game)
 
-<br/>Miami Dolphins (5-5) at Oakland Raiders (5-5), Sunday, Nov 28, 4:05 PM (:football: good game)
+Green Bay Packers (6-3) at Minnesota Vikings (3-6), Sunday, Nov 21, 1:05 PM (:red_circle: bad game)
 
-Kansas City Chiefs (6-4) at Seattle Seahawks (5-5), Sunday, Nov 28, 4:06 PM (:red_circle: bad game)
+<br/>Seattle Seahawks (5-4) at New Orleans Saints (6-3), Sunday, Nov 21, 4:05 PM
 
-Philadelphia Eagles (7-3) at Chicago Bears (7-3), Sunday, Nov 28, 4:15 PM (:football: good game)
+Atlanta Falcons (7-2) at St. Louis Rams (4-5), Sunday, Nov 21, 4:05 PM (:red_circle: bad game)
 
-Tampa Bay Buccaneers (7-3) at Baltimore Ravens (7-3), Sunday, Nov 28, 4:15 PM (:football: good game)
+Tampa Bay Buccaneers (6-3) at San Francisco 49ers (3-6), Sunday, Nov 21, 4:05 PM (:red_circle: bad game)
 
-St. Louis Rams (4-6) at Denver Broncos (3-7), Sunday, Nov 28, 4:16 PM (:football: good game)
+Indianapolis Colts (6-3) at New England Patriots (7-2), Sunday, Nov 21, 4:15 PM (:football: good game)
 
-<br/>San Diego Chargers (5-5) at Indianapolis Colts (6-4), Sunday, Nov 28, 8:30 PM (:red_circle: bad game)
+<br/>New York Giants (6-3) at Philadelphia Eagles (6-3), Sunday, Nov 21, 8:30 PM
 
-<br/>San Francisco 49ers (3-7) at Arizona Cardinals (3-7), Monday, Nov 29, 8:40 PM (:red_circle: bad game)
+<br/>Denver Broncos (3-6) at San Diego Chargers (4-5), Monday, Nov 22, 8:40 PM (:red_circle: bad game)
 

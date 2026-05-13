@@ -3,31 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 week 9
+# Game info for 2022 week 8
 
-Philadelphia Eagles (7-0) at Houston Texans (1-5-1), Thursday, Nov 3, 8:15 PM
+Baltimore Ravens (4-3) at Tampa Bay Buccaneers (3-4), Thursday, Oct 27, 8:15 PM (:football: good game)
 
-<br/>Los Angeles Chargers (4-3) at Atlanta Falcons (4-4), Sunday, Nov 6, 1:00 PM (:football: good game)
+<br/>Denver Broncos (2-5) at Jacksonville Jaguars (2-5), Sunday, Oct 30, 9:30 AM (:football: good game)
 
-Miami Dolphins (5-3) at Chicago Bears (3-5), Sunday, Nov 6, 1:00 PM (:football: good game)
+<br/>Carolina Panthers (2-5) at Atlanta Falcons (3-4), Sunday, Oct 30, 1:00 PM (:football: good game)
 
-Carolina Panthers (2-6) at Cincinnati Bengals (4-4), Sunday, Nov 6, 1:00 PM (:red_circle: bad game)
+Chicago Bears (3-4) at Dallas Cowboys (5-2), Sunday, Oct 30, 1:00 PM (:red_circle: bad game)
 
-Green Bay Packers (3-5) at Detroit Lions (1-6), Sunday, Nov 6, 1:00 PM (:football: good game)
+Miami Dolphins (4-3) at Detroit Lions (1-5), Sunday, Oct 30, 1:00 PM (:football: good game)
 
-Las Vegas Raiders (2-5) at Jacksonville Jaguars (2-6), Sunday, Nov 6, 1:00 PM (:football: good game)
+Arizona Cardinals (3-4) at Minnesota Vikings (5-1), Sunday, Oct 30, 1:00 PM (:football: good game)
 
-Indianapolis Colts (3-4-1) at New England Patriots (4-4), Sunday, Nov 6, 1:00 PM (:red_circle: bad game)
+Las Vegas Raiders (2-4) at New Orleans Saints (2-5), Sunday, Oct 30, 1:00 PM (:red_circle: bad game)
 
-Buffalo Bills (6-1) at New York Jets (5-3), Sunday, Nov 6, 1:00 PM (:football: good game)
+New England Patriots (3-4) at New York Jets (5-2), Sunday, Oct 30, 1:00 PM (:football: good game)
 
-Minnesota Vikings (6-1) at Washington Commanders (4-4), Sunday, Nov 6, 1:00 PM (:football: good game)
+Pittsburgh Steelers (2-5) at Philadelphia Eagles (6-0), Sunday, Oct 30, 1:00 PM (:red_circle: bad game)
 
-<br/>Seattle Seahawks (5-3) at Arizona Cardinals (3-5), Sunday, Nov 6, 4:05 PM
+<br/>Tennessee Titans (4-2) at Houston Texans (1-4-1), Sunday, Oct 30, 4:05 PM (:football: good game)
 
-Los Angeles Rams (3-4) at Tampa Bay Buccaneers (3-5), Sunday, Nov 6, 4:25 PM (:football: good game)
+Washington Commanders (3-4) at Indianapolis Colts (3-3-1), Sunday, Oct 30, 4:25 PM (:football: good game)
 
-<br/>Tennessee Titans (5-2) at Kansas City Chiefs (5-2), Sunday, Nov 6, 8:20 PM (:football: good game)
+San Francisco 49ers (3-4) at Los Angeles Rams (3-3), Sunday, Oct 30, 4:25 PM (:football: good game)
 
-<br/>Baltimore Ravens (5-3) at New Orleans Saints (3-5), Monday, Nov 7, 8:15 PM
+New York Giants (6-1) at Seattle Seahawks (4-3), Sunday, Oct 30, 4:25 PM
+
+<br/>Green Bay Packers (3-4) at Buffalo Bills (5-1), Sunday, Oct 30, 8:20 PM
+
+<br/>Cincinnati Bengals (4-3) at Cleveland Browns (2-5), Monday, Oct 31, 8:15 PM (:red_circle: bad game)
 

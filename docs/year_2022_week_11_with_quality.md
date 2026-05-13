@@ -3,37 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 week 12
+# Game info for 2022 week 11
 
-Buffalo Bills (7-3) at Detroit Lions (4-6), Thursday, Nov 24, 12:30 PM (:football: good game)
+Tennessee Titans (6-3) at Green Bay Packers (4-6), Thursday, Nov 17, 8:15 PM
 
-<br/>New York Giants (7-3) at Dallas Cowboys (7-3), Thursday, Nov 24, 4:30 PM (:football: good game)
+<br/>Chicago Bears (3-7) at Atlanta Falcons (4-6), Sunday, Nov 20, 1:00 PM (:football: good game)
 
-<br/>New England Patriots (6-4) at Minnesota Vikings (8-2), Thursday, Nov 24, 8:20 PM (:football: good game)
+Cleveland Browns (3-6) at Buffalo Bills (6-3), Sunday, Nov 20, 1:00 PM (:football: good game)
 
-<br/>Denver Broncos (3-7) at Carolina Panthers (3-8), Sunday, Nov 27, 1:00 PM
+Philadelphia Eagles (8-1) at Indianapolis Colts (4-5-1), Sunday, Nov 20, 1:00 PM (:football: good game)
 
-Tampa Bay Buccaneers (5-5) at Cleveland Browns (3-7), Sunday, Nov 27, 1:00 PM (:football: good game)
+Washington Commanders (5-5) at Houston Texans (1-7-1), Sunday, Nov 20, 1:00 PM
 
-Baltimore Ravens (7-3) at Jacksonville Jaguars (3-7), Sunday, Nov 27, 1:00 PM (:football: good game)
+Los Angeles Rams (3-6) at New Orleans Saints (3-7), Sunday, Nov 20, 1:00 PM (:football: good game)
 
-Houston Texans (1-8-1) at Miami Dolphins (7-3), Sunday, Nov 27, 1:00 PM
+New York Jets (6-3) at New England Patriots (5-4), Sunday, Nov 20, 1:00 PM (:football: good game)
 
-Chicago Bears (3-8) at New York Jets (6-4), Sunday, Nov 27, 1:00 PM (:red_circle: bad game)
+Detroit Lions (3-6) at New York Giants (7-2), Sunday, Nov 20, 1:00 PM
 
-Cincinnati Bengals (6-4) at Tennessee Titans (7-3), Sunday, Nov 27, 1:00 PM (:football: good game)
+Carolina Panthers (3-7) at Baltimore Ravens (6-3), Sunday, Nov 20, 1:00 PM
 
-Atlanta Falcons (5-6) at Washington Commanders (6-5), Sunday, Nov 27, 1:00 PM (:football: good game)
+<br/>Las Vegas Raiders (2-7) at Denver Broncos (3-6), Sunday, Nov 20, 4:05 PM (:football: good game)
 
-<br/>Los Angeles Chargers (5-5) at Arizona Cardinals (4-7), Sunday, Nov 27, 4:05 PM (:football: good game)
+Dallas Cowboys (6-3) at Minnesota Vikings (8-1), Sunday, Nov 20, 4:25 PM (:red_circle: bad game)
 
-Las Vegas Raiders (3-7) at Seattle Seahawks (6-4), Sunday, Nov 27, 4:05 PM (:football: good game)
+Cincinnati Bengals (5-4) at Pittsburgh Steelers (3-6), Sunday, Nov 20, 4:25 PM (:football: good game)
 
-Los Angeles Rams (3-7) at Kansas City Chiefs (8-2), Sunday, Nov 27, 4:25 PM
+<br/>Kansas City Chiefs (7-2) at Los Angeles Chargers (5-4), Sunday, Nov 20, 8:20 PM (:football: good game)
 
-New Orleans Saints (4-7) at San Francisco 49ers (6-4), Sunday, Nov 27, 4:25 PM
-
-<br/>Green Bay Packers (4-7) at Philadelphia Eagles (9-1), Sunday, Nov 27, 8:20 PM (:football: good game)
-
-<br/>Pittsburgh Steelers (3-7) at Indianapolis Colts (4-6-1), Monday, Nov 28, 8:15 PM (:football: good game)
+<br/>San Francisco 49ers (5-4) at Arizona Cardinals (4-6), Monday, Nov 21, 8:15 PM (:red_circle: bad game)
 

@@ -3,17 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 wild card
+# Game info for 2022 week 18
 
-Seattle Seahawks at San Francisco 49ers, Saturday, Jan 14, 4:30 PM
+Kansas City Chiefs (13-3) at Las Vegas Raiders (6-10), Saturday, Jan 7, 4:30 PM
 
-<br/>Los Angeles Chargers at Jacksonville Jaguars, Saturday, Jan 14, 8:15 PM
+<br/>Tennessee Titans (7-9) at Jacksonville Jaguars (8-8), Saturday, Jan 7, 8:15 PM
 
-<br/>Miami Dolphins at Buffalo Bills, Sunday, Jan 15, 1:00 PM
+<br/>Tampa Bay Buccaneers (8-8) at Atlanta Falcons (6-10), Sunday, Jan 8, 1:00 PM
 
-<br/>New York Giants at Minnesota Vikings, Sunday, Jan 15, 4:30 PM
+New England Patriots (8-8) at Buffalo Bills (12-3), Sunday, Jan 8, 1:00 PM
 
-<br/>Baltimore Ravens at Cincinnati Bengals, Sunday, Jan 15, 8:15 PM
+Minnesota Vikings (12-4) at Chicago Bears (3-13), Sunday, Jan 8, 1:00 PM
 
-<br/>Dallas Cowboys at Tampa Bay Buccaneers, Monday, Jan 16, 8:15 PM
+Baltimore Ravens (10-6) at Cincinnati Bengals (11-4), Sunday, Jan 8, 1:00 PM
+
+Houston Texans (2-13-1) at Indianapolis Colts (4-11-1), Sunday, Jan 8, 1:00 PM
+
+New York Jets (7-9) at Miami Dolphins (8-8), Sunday, Jan 8, 1:00 PM
+
+Carolina Panthers (6-10) at New Orleans Saints (7-9), Sunday, Jan 8, 1:00 PM
+
+Cleveland Browns (7-9) at Pittsburgh Steelers (8-8), Sunday, Jan 8, 1:00 PM
+
+<br/>Los Angeles Chargers (10-6) at Denver Broncos (4-12), Sunday, Jan 8, 4:25 PM
+
+New York Giants (9-6-1) at Philadelphia Eagles (13-3), Sunday, Jan 8, 4:25 PM
+
+Los Angeles Rams (5-11) at Seattle Seahawks (8-8), Sunday, Jan 8, 4:25 PM
+
+Arizona Cardinals (4-12) at San Francisco 49ers (12-4), Sunday, Jan 8, 4:25 PM
+
+Dallas Cowboys (12-4) at Washington Commanders (7-8-1), Sunday, Jan 8, 4:25 PM
+
+<br/>Detroit Lions (8-8) at Green Bay Packers (8-8), Sunday, Jan 8, 8:20 PM
 

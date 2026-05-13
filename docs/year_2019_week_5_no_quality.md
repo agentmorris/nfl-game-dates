@@ -3,33 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2019 week 6
+# Game info for 2019 week 5
 
-New York Giants (2-3) at New England Patriots (5-0), Thursday, Oct 10, 8:20 PM
+Los Angeles Rams (3-1) at Seattle Seahawks (3-1), Thursday, Oct 3, 8:20 PM
 
-<br/>Carolina Panthers (3-2) at Tampa Bay Buccaneers (2-3), Sunday, Oct 13, 9:30 AM
+<br/>Jacksonville Jaguars (2-2) at Carolina Panthers (2-2), Sunday, Oct 6, 1:00 PM
 
-<br/>Seattle Seahawks (4-1) at Cleveland Browns (2-3), Sunday, Oct 13, 1:00 PM
+Arizona Cardinals (0-3-1) at Cincinnati Bengals (0-4), Sunday, Oct 6, 1:00 PM
 
-New Orleans Saints (4-1) at Jacksonville Jaguars (2-3), Sunday, Oct 13, 1:00 PM
+Atlanta Falcons (1-3) at Houston Texans (2-2), Sunday, Oct 6, 1:00 PM
 
-Houston Texans (3-2) at Kansas City Chiefs (4-1), Sunday, Oct 13, 1:00 PM
+Tampa Bay Buccaneers (2-2) at New Orleans Saints (3-1), Sunday, Oct 6, 1:00 PM
 
-Washington Redskins (0-5) at Miami Dolphins (0-4), Sunday, Oct 13, 1:00 PM
+Minnesota Vikings (2-2) at New York Giants (2-2), Sunday, Oct 6, 1:00 PM
 
-Philadelphia Eagles (3-2) at Minnesota Vikings (3-2), Sunday, Oct 13, 1:00 PM
+Buffalo Bills (3-1) at Tennessee Titans (2-2), Sunday, Oct 6, 1:00 PM
 
-Cincinnati Bengals (0-5) at Baltimore Ravens (3-2), Sunday, Oct 13, 1:00 PM
+New York Jets (0-3) at Philadelphia Eagles (2-2), Sunday, Oct 6, 1:00 PM
 
-<br/>Atlanta Falcons (1-4) at Arizona Cardinals (1-3-1), Sunday, Oct 13, 4:05 PM
+Baltimore Ravens (2-2) at Pittsburgh Steelers (1-3), Sunday, Oct 6, 1:00 PM
 
-San Francisco 49ers (4-0) at Los Angeles Rams (3-2), Sunday, Oct 13, 4:05 PM
+Chicago Bears (3-1) at Oakland Raiders (2-2), Sunday, Oct 6, 1:00 PM
 
-Tennessee Titans (2-3) at Denver Broncos (1-4), Sunday, Oct 13, 4:25 PM
+New England Patriots (4-0) at Washington Redskins (0-4), Sunday, Oct 6, 1:00 PM
 
-Dallas Cowboys (3-2) at New York Jets (0-4), Sunday, Oct 13, 4:25 PM
+<br/>Denver Broncos (0-4) at Los Angeles Chargers (2-2), Sunday, Oct 6, 4:05 PM
 
-<br/>Pittsburgh Steelers (1-4) at Los Angeles Chargers (2-3), Sunday, Oct 13, 8:20 PM
+Green Bay Packers (3-1) at Dallas Cowboys (3-1), Sunday, Oct 6, 4:25 PM
 
-<br/>Detroit Lions (2-1-1) at Green Bay Packers (4-1), Monday, Oct 14, 8:15 PM
+<br/>Indianapolis Colts (2-2) at Kansas City Chiefs (4-0), Sunday, Oct 6, 8:20 PM
+
+<br/>Cleveland Browns (2-2) at San Francisco 49ers (3-0), Monday, Oct 7, 8:15 PM
 

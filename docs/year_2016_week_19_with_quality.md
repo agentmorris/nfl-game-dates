@@ -3,9 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 championship
+# Game info for 2016 divisional
 
-Green Bay Packers at Atlanta Falcons, Sunday, Jan 22, 3:05 PM
+Seattle Seahawks at Atlanta Falcons, Saturday, Jan 14, 4:35 PM
 
-<br/>Pittsburgh Steelers at New England Patriots, Sunday, Jan 22, 6:40 PM
+<br/>Houston Texans at New England Patriots, Saturday, Jan 14, 8:15 PM
+
+<br/>Green Bay Packers at Dallas Cowboys, Sunday, Jan 15, 4:40 PM
+
+<br/>Pittsburgh Steelers at Kansas City Chiefs, Sunday, Jan 15, 8:20 PM
 

@@ -3,34 +3,32 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 week 6
+# Game info for 2023 week 5
 
-Denver Broncos (1-4) at Kansas City Chiefs (4-1), Thursday, Oct 12, 8:15 PM
+Chicago Bears (0-4) at Washington Commanders (2-2), Thursday, Oct 5, 8:15 PM
 
-<br/>Baltimore Ravens (3-2) at Tennessee Titans (2-3), Sunday, Oct 15, 9:30 AM
+<br/>Jacksonville Jaguars (2-2) at Buffalo Bills (3-1), Sunday, Oct 8, 9:30 AM
 
-<br/>Washington Commanders (2-3) at Atlanta Falcons (3-2), Sunday, Oct 15, 1:00 PM
+<br/>Houston Texans (2-2) at Atlanta Falcons (2-2), Sunday, Oct 8, 1:00 PM
 
-Minnesota Vikings (1-4) at Chicago Bears (1-4), Sunday, Oct 15, 1:00 PM
+Carolina Panthers (0-4) at Detroit Lions (3-1), Sunday, Oct 8, 1:00 PM
 
-Seattle Seahawks (3-1) at Cincinnati Bengals (2-3), Sunday, Oct 15, 1:00 PM
+Tennessee Titans (2-2) at Indianapolis Colts (2-2), Sunday, Oct 8, 1:00 PM
 
-San Francisco 49ers (5-0) at Cleveland Browns (2-2), Sunday, Oct 15, 1:00 PM
+New York Giants (1-3) at Miami Dolphins (3-1), Sunday, Oct 8, 1:00 PM
 
-New Orleans Saints (3-2) at Houston Texans (2-3), Sunday, Oct 15, 1:00 PM
+New Orleans Saints (2-2) at New England Patriots (1-3), Sunday, Oct 8, 1:00 PM
 
-Indianapolis Colts (3-2) at Jacksonville Jaguars (3-2), Sunday, Oct 15, 1:00 PM
+Baltimore Ravens (3-1) at Pittsburgh Steelers (2-2), Sunday, Oct 8, 1:00 PM
 
-Carolina Panthers (0-5) at Miami Dolphins (4-1), Sunday, Oct 15, 1:00 PM
+<br/>Cincinnati Bengals (1-3) at Arizona Cardinals (1-3), Sunday, Oct 8, 4:05 PM
 
-<br/>New England Patriots (1-4) at Las Vegas Raiders (2-3), Sunday, Oct 15, 4:05 PM
+Philadelphia Eagles (4-0) at Los Angeles Rams (2-2), Sunday, Oct 8, 4:05 PM
 
-Arizona Cardinals (1-4) at Los Angeles Rams (2-3), Sunday, Oct 15, 4:25 PM
+New York Jets (1-3) at Denver Broncos (1-3), Sunday, Oct 8, 4:25 PM
 
-Philadelphia Eagles (5-0) at New York Jets (2-3), Sunday, Oct 15, 4:25 PM
+Kansas City Chiefs (3-1) at Minnesota Vikings (1-3), Sunday, Oct 8, 4:25 PM
 
-Detroit Lions (4-1) at Tampa Bay Buccaneers (3-1), Sunday, Oct 15, 4:25 PM
+<br/>Dallas Cowboys (3-1) at San Francisco 49ers (4-0), Sunday, Oct 8, 8:20 PM
 
-<br/>New York Giants (1-4) at Buffalo Bills (3-2), Sunday, Oct 15, 8:20 PM
-
-<br/>Dallas Cowboys (3-2) at Los Angeles Chargers (2-2), Monday, Oct 16, 8:15 PM
+<br/>Green Bay Packers (2-2) at Las Vegas Raiders (1-3), Monday, Oct 9, 8:15 PM

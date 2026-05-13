@@ -3,31 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2009 week 9
+# Game info for 2009 week 8
 
-Baltimore Ravens (4-3) at Cincinnati Bengals (5-2), Sunday, Nov 8, 1:02 PM
+Cleveland Browns (1-6) at Chicago Bears (3-3), Sunday, Nov 1, 1:00 PM
 
-Houston Texans (5-3) at Indianapolis Colts (7-0), Sunday, Nov 8, 1:02 PM
+Houston Texans (4-3) at Buffalo Bills (3-4), Sunday, Nov 1, 1:02 PM
 
-Miami Dolphins (3-4) at New England Patriots (5-2), Sunday, Nov 8, 1:02 PM
+Miami Dolphins (2-4) at New York Jets (4-3), Sunday, Nov 1, 1:02 PM
 
-Washington Redskins (2-5) at Atlanta Falcons (4-3), Sunday, Nov 8, 1:03 PM
+Denver Broncos (6-0) at Baltimore Ravens (3-3), Sunday, Nov 1, 1:02 PM
 
-Arizona Cardinals (4-3) at Chicago Bears (4-3), Sunday, Nov 8, 1:03 PM
+San Francisco 49ers (3-3) at Indianapolis Colts (6-0), Sunday, Nov 1, 1:03 PM
 
-Kansas City Chiefs (1-6) at Jacksonville Jaguars (3-4), Sunday, Nov 8, 1:03 PM
+Seattle Seahawks (2-4) at Dallas Cowboys (4-2), Sunday, Nov 1, 1:03 PM
 
-Green Bay Packers (4-3) at Tampa Bay Buccaneers (0-7), Sunday, Nov 8, 1:03 PM
+St. Louis Rams (0-7) at Detroit Lions (1-5), Sunday, Nov 1, 1:03 PM
 
-<br/>Carolina Panthers (3-4) at New Orleans Saints (7-0), Sunday, Nov 8, 4:05 PM
+New York Giants (5-2) at Philadelphia Eagles (4-2), Sunday, Nov 1, 1:03 PM
 
-Detroit Lions (1-6) at Seattle Seahawks (2-5), Sunday, Nov 8, 4:06 PM
+<br/>Jacksonville Jaguars (3-3) at Tennessee Titans (0-6), Sunday, Nov 1, 4:05 PM
 
-San Diego Chargers (4-3) at New York Giants (5-3), Sunday, Nov 8, 4:15 PM
+Oakland Raiders (2-5) at San Diego Chargers (3-3), Sunday, Nov 1, 4:05 PM
 
-Tennessee Titans (1-6) at San Francisco 49ers (3-4), Sunday, Nov 8, 4:15 PM
+Carolina Panthers (2-4) at Arizona Cardinals (4-2), Sunday, Nov 1, 4:15 PM
 
-<br/>Dallas Cowboys (5-2) at Philadelphia Eagles (5-2), Sunday, Nov 8, 8:31 PM
+Minnesota Vikings (6-1) at Green Bay Packers (4-2), Sunday, Nov 1, 4:15 PM
 
-<br/>Pittsburgh Steelers (5-2) at Denver Broncos (6-1), Monday, Nov 9, 8:41 PM
+<br/>Atlanta Falcons (4-2) at New Orleans Saints (6-0), Monday, Nov 2, 8:40 PM
 

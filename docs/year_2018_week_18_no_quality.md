@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 divisional
+# Game info for 2018 wild card
 
-Indianapolis Colts at Kansas City Chiefs, Saturday, Jan 12, 4:35 PM
+Indianapolis Colts at Houston Texans, Saturday, Jan 5, 4:35 PM
 
-<br/>Dallas Cowboys at Los Angeles Rams, Saturday, Jan 12, 8:15 PM
+<br/>Seattle Seahawks at Dallas Cowboys, Saturday, Jan 5, 8:15 PM
 
-<br/>Los Angeles Chargers at New England Patriots, Sunday, Jan 13, 1:05 PM
+<br/>Los Angeles Chargers at Baltimore Ravens, Sunday, Jan 6, 1:05 PM
 
-<br/>Philadelphia Eagles at New Orleans Saints, Sunday, Jan 13, 4:40 PM
+<br/>Philadelphia Eagles at Chicago Bears, Sunday, Jan 6, 4:40 PM
 

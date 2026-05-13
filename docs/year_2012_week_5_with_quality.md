@@ -3,33 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 week 6
+# Game info for 2012 week 5
 
-Pittsburgh Steelers (2-2) at Tennessee Titans (1-4), Thursday, Oct 11, 8:29 PM (:football: good game)
+Arizona Cardinals (4-0) at St. Louis Rams (2-2), Thursday, Oct 4, 8:20 PM
 
-<br/>St. Louis Rams (3-2) at Miami Dolphins (2-3), Sunday, Oct 14, 1:00 PM (:football: good game)
+<br/>Baltimore Ravens (3-1) at Kansas City Chiefs (1-3), Sunday, Oct 7, 1:02 PM (:football: good game)
 
-Kansas City Chiefs (1-4) at Tampa Bay Buccaneers (1-3), Sunday, Oct 14, 1:00 PM (:red_circle: bad game)
+Cleveland Browns (0-4) at New York Giants (2-2), Sunday, Oct 7, 1:02 PM (:football: good game)
 
-Oakland Raiders (1-3) at Atlanta Falcons (5-0), Sunday, Oct 14, 1:01 PM (:football: good game)
+Philadelphia Eagles (3-1) at Pittsburgh Steelers (1-2), Sunday, Oct 7, 1:02 PM (:football: good game)
 
-Cincinnati Bengals (3-2) at Cleveland Browns (0-5), Sunday, Oct 14, 1:02 PM (:football: good game)
+Miami Dolphins (1-3) at Cincinnati Bengals (3-1), Sunday, Oct 7, 1:03 PM (:football: good game)
 
-Indianapolis Colts (2-2) at New York Jets (2-3), Sunday, Oct 14, 1:02 PM (:red_circle: bad game)
+Green Bay Packers (2-2) at Indianapolis Colts (1-2), Sunday, Oct 7, 1:03 PM (:football: good game)
 
-Dallas Cowboys (2-2) at Baltimore Ravens (4-1), Sunday, Oct 14, 1:02 PM (:football: good game)
+Atlanta Falcons (4-0) at Washington Redskins (2-2), Sunday, Oct 7, 1:04 PM (:football: good game)
 
-Detroit Lions (1-3) at Philadelphia Eagles (3-2), Sunday, Oct 14, 1:03 PM (:football: good game)
+<br/>Seattle Seahawks (2-2) at Carolina Panthers (1-3), Sunday, Oct 7, 4:04 PM (:football: good game)
 
-<br/>New England Patriots (3-2) at Seattle Seahawks (3-2), Sunday, Oct 14, 4:04 PM (:football: good game)
+Chicago Bears (3-1) at Jacksonville Jaguars (1-3), Sunday, Oct 7, 4:05 PM
 
-Buffalo Bills (2-3) at Arizona Cardinals (4-1), Sunday, Oct 14, 4:05 PM (:football: good game)
+Tennessee Titans (1-3) at Minnesota Vikings (3-1), Sunday, Oct 7, 4:15 PM (:red_circle: bad game)
 
-New York Giants (3-2) at San Francisco 49ers (4-1), Sunday, Oct 14, 4:23 PM (:red_circle: bad game)
+Denver Broncos (2-2) at New England Patriots (2-2), Sunday, Oct 7, 4:25 PM
 
-Minnesota Vikings (4-1) at Washington Redskins (2-3), Sunday, Oct 14, 4:24 PM (:football: good game)
+Buffalo Bills (2-2) at San Francisco 49ers (3-1), Sunday, Oct 7, 4:25 PM (:red_circle: bad game)
 
-<br/>Green Bay Packers (2-3) at Houston Texans (5-0), Sunday, Oct 14, 8:30 PM (:red_circle: bad game)
+<br/>San Diego Chargers (3-1) at New Orleans Saints (0-4), Sunday, Oct 7, 8:31 PM (:football: good game)
 
-<br/>Denver Broncos (2-3) at San Diego Chargers (3-2), Monday, Oct 15, 8:40 PM (:football: good game)
+<br/>Houston Texans (4-0) at New York Jets (2-2), Monday, Oct 8, 8:40 PM (:football: good game)
 

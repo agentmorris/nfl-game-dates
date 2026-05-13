@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2009 divisional
+# Game info for 2009 wild card
 
-Arizona Cardinals at New Orleans Saints, Saturday, Jan 16, 4:34 PM
+New York Jets at Cincinnati Bengals, Saturday, Jan 9, 4:36 PM
 
-<br/>Baltimore Ravens at Indianapolis Colts, Saturday, Jan 16, 8:15 PM
+<br/>Philadelphia Eagles at Dallas Cowboys, Saturday, Jan 9, 8:05 PM
 
-<br/>Dallas Cowboys at Minnesota Vikings, Sunday, Jan 17, 1:05 PM
+<br/>Baltimore Ravens at New England Patriots, Sunday, Jan 10, 1:03 PM
 
-<br/>New York Jets at San Diego Chargers, Sunday, Jan 17, 4:40 PM
+<br/>Green Bay Packers at Arizona Cardinals, Sunday, Jan 10, 4:30 PM
 

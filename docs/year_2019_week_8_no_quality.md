@@ -3,33 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2019 week 9
+# Game info for 2019 week 8
 
-San Francisco 49ers (7-0) at Arizona Cardinals (3-4-1), Thursday, Oct 31, 8:20 PM
+Washington Redskins (1-6) at Minnesota Vikings (5-2), Thursday, Oct 24, 8:20 PM
 
-<br/>Houston Texans (5-3) at Jacksonville Jaguars (4-4), Sunday, Nov 3, 9:30 AM
+<br/>Seattle Seahawks (5-2) at Atlanta Falcons (1-6), Sunday, Oct 27, 1:00 PM
 
-<br/>Washington Redskins (1-7) at Buffalo Bills (5-2), Sunday, Nov 3, 1:00 PM
+Philadelphia Eagles (3-4) at Buffalo Bills (5-1), Sunday, Oct 27, 1:00 PM
 
-Tennessee Titans (4-4) at Carolina Panthers (4-3), Sunday, Nov 3, 1:00 PM
+Los Angeles Chargers (2-5) at Chicago Bears (3-3), Sunday, Oct 27, 1:00 PM
 
-Minnesota Vikings (6-2) at Kansas City Chiefs (5-3), Sunday, Nov 3, 1:00 PM
+Denver Broncos (2-5) at Indianapolis Colts (4-2), Sunday, Oct 27, 1:00 PM
 
-New York Jets (1-6) at Miami Dolphins (0-7), Sunday, Nov 3, 1:00 PM
+New York Giants (2-5) at Detroit Lions (2-3-1), Sunday, Oct 27, 1:00 PM
 
-Chicago Bears (3-4) at Philadelphia Eagles (4-4), Sunday, Nov 3, 1:00 PM
+New York Jets (1-5) at Jacksonville Jaguars (3-4), Sunday, Oct 27, 1:00 PM
 
-Indianapolis Colts (5-2) at Pittsburgh Steelers (3-4), Sunday, Nov 3, 1:00 PM
+Arizona Cardinals (3-3-1) at New Orleans Saints (6-1), Sunday, Oct 27, 1:00 PM
 
-<br/>Detroit Lions (3-3-1) at Oakland Raiders (3-4), Sunday, Nov 3, 4:05 PM
+Tampa Bay Buccaneers (2-4) at Tennessee Titans (3-4), Sunday, Oct 27, 1:00 PM
 
-Tampa Bay Buccaneers (2-5) at Seattle Seahawks (6-2), Sunday, Nov 3, 4:05 PM
+Cincinnati Bengals (0-7) at Los Angeles Rams (4-3), Sunday, Oct 27, 1:00 PM
 
-Cleveland Browns (2-5) at Denver Broncos (2-6), Sunday, Nov 3, 4:25 PM
+<br/>Carolina Panthers (4-2) at San Francisco 49ers (6-0), Sunday, Oct 27, 4:05 PM
 
-Green Bay Packers (7-1) at Los Angeles Chargers (3-5), Sunday, Nov 3, 4:25 PM
+Oakland Raiders (3-3) at Houston Texans (4-3), Sunday, Oct 27, 4:25 PM
 
-<br/>New England Patriots (8-0) at Baltimore Ravens (5-2), Sunday, Nov 3, 8:20 PM
+Cleveland Browns (2-4) at New England Patriots (7-0), Sunday, Oct 27, 4:25 PM
 
-<br/>Dallas Cowboys (4-3) at New York Giants (2-6), Monday, Nov 4, 8:15 PM
+<br/>Green Bay Packers (6-1) at Kansas City Chiefs (5-2), Sunday, Oct 27, 8:20 PM
+
+<br/>Miami Dolphins (0-6) at Pittsburgh Steelers (2-4), Monday, Oct 28, 8:15 PM
 

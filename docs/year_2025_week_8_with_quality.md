@@ -3,32 +3,30 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2025 week 9
+# Game info for 2025 week 8
 
-Baltimore Ravens (2-5) at Miami Dolphins (2-6), Thursday, Oct 30, 8:15 PM (:red_circle: bad game)
+Minnesota Vikings (3-3) at Los Angeles Chargers (4-3), Thursday, Oct 23, 8:15 PM (:red_circle: bad game)
 
-<br/>Chicago Bears (4-3) at Cincinnati Bengals (3-5), Sunday, Nov 2, 1:00 PM (:football: good game)
+<br/>Miami Dolphins (1-6) at Atlanta Falcons (3-3), Sunday, Oct 26, 1:00 PM (:red_circle: bad game)
 
-Minnesota Vikings (3-4) at Detroit Lions (5-2), Sunday, Nov 2, 1:00 PM (:football: good game)
+Chicago Bears (4-2) at Baltimore Ravens (1-5), Sunday, Oct 26, 1:00 PM
 
-Carolina Panthers (4-4) at Green Bay Packers (5-1-1), Sunday, Nov 2, 1:00 PM (:football: good game)
+Buffalo Bills (4-2) at Carolina Panthers (4-3), Sunday, Oct 26, 1:00 PM (:red_circle: bad game)
 
-Denver Broncos (6-2) at Houston Texans (3-4), Sunday, Nov 2, 1:00 PM (:football: good game)
+New York Jets (0-7) at Cincinnati Bengals (3-4), Sunday, Oct 26, 1:00 PM (:football: good game)
 
-Atlanta Falcons (3-4) at New England Patriots (6-2), Sunday, Nov 2, 1:00 PM (:football: good game)
+San Francisco 49ers (5-2) at Houston Texans (2-4), Sunday, Oct 26, 1:00 PM
 
-San Francisco 49ers (5-3) at New York Giants (2-6), Sunday, Nov 2, 1:00 PM
+Cleveland Browns (2-5) at New England Patriots (5-2), Sunday, Oct 26, 1:00 PM (:red_circle: bad game)
 
-Indianapolis Colts (7-1) at Pittsburgh Steelers (4-3), Sunday, Nov 2, 1:00 PM (:football: good game)
+New York Giants (2-5) at Philadelphia Eagles (5-2), Sunday, Oct 26, 1:00 PM (:red_circle: bad game)
 
-Los Angeles Chargers (5-3) at Tennessee Titans (1-7), Sunday, Nov 2, 1:00 PM (:football: good game)
+<br/>Tampa Bay Buccaneers (5-2) at New Orleans Saints (1-6), Sunday, Oct 26, 4:05 PM (:red_circle: bad game)
 
-<br/>New Orleans Saints (1-7) at Los Angeles Rams (5-2), Sunday, Nov 2, 4:05 PM (:red_circle: bad game)
+Dallas Cowboys (3-3-1) at Denver Broncos (5-2), Sunday, Oct 26, 4:25 PM (:red_circle: bad game)
 
-Jacksonville Jaguars (4-3) at Las Vegas Raiders (2-5), Sunday, Nov 2, 4:05 PM (:football: good game)
+Tennessee Titans (1-6) at Indianapolis Colts (6-1), Sunday, Oct 26, 4:25 PM (:red_circle: bad game)
 
-Kansas City Chiefs (5-3) at Buffalo Bills (5-2), Sunday, Nov 2, 4:25 PM (:football: good game)
+<br/>Green Bay Packers (4-1-1) at Pittsburgh Steelers (4-2), Sunday, Oct 26, 8:20 PM (:football: good game)
 
-<br/>Seattle Seahawks (5-2) at Washington Commanders (3-5), Sunday, Nov 2, 8:20 PM (:red_circle: bad game)
-
-<br/>Arizona Cardinals (2-5) at Dallas Cowboys (3-4-1), Monday, Nov 3, 8:15 PM
+<br/>Washington Commanders (3-4) at Kansas City Chiefs (4-3), Monday, Oct 27, 8:15 PM

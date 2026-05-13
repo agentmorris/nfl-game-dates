@@ -441,25 +441,114 @@ def load_game_times_from_url(url,week,year):
 def load_game_times(year,week):
     """
     Load all games from the specified week, return as a list of Game objects.
-    
+
     Year refers to the year of week 1, i.e. the 2012 Super Bowl took place in 2013.
-    
+
     Week can be a 1-indexed integer from 1 to 22 (19, 21, or 22 would be the Super Bowl, depending
     on the year), or it can be a string from playoff_game_names.
-    
-    Only seasons >= 1961 are supported.
-    
-    Processes a single URL per call, e.g.:
-        
-    https://www.pro-football-reference.com/years/2009/week_1.htm
+
+    Uses nflverse-hosted game data on GitHub. The pro-football-reference path
+    in load_game_times_from_url() is retained for reference, but PFR now sits
+    behind Cloudflare and is no longer reachable via plain HTTP.
     """
-    
+
     year,week = week_to_numeric(year,week)
-    
-    url = base_url + '/years/' + str(year) + '/week_' + str(week) + '.htm'
-    # os.startfile(url) 
-    
-    return load_game_times_from_url(url,week,year)
+    return _load_game_times_from_nflverse(year,week)
+
+
+_NFLVERSE_GAMES_URL = (
+    'https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv'
+)
+_NFLVERSE_ABBR = {
+    'ARI': 'Arizona Cardinals', 'ATL': 'Atlanta Falcons',
+    'BAL': 'Baltimore Ravens',  'BUF': 'Buffalo Bills',
+    'CAR': 'Carolina Panthers', 'CHI': 'Chicago Bears',
+    'CIN': 'Cincinnati Bengals','CLE': 'Cleveland Browns',
+    'DAL': 'Dallas Cowboys',    'DEN': 'Denver Broncos',
+    'DET': 'Detroit Lions',     'GB':  'Green Bay Packers',
+    'HOU': 'Houston Texans',    'IND': 'Indianapolis Colts',
+    'JAX': 'Jacksonville Jaguars','KC': 'Kansas City Chiefs',
+    'LA':  'Los Angeles Rams',  'LAR': 'Los Angeles Rams',
+    'STL': 'St. Louis Rams',
+    'LAC': 'Los Angeles Chargers','SD': 'San Diego Chargers',
+    'LV':  'Las Vegas Raiders', 'OAK': 'Oakland Raiders',
+    'MIA': 'Miami Dolphins',    'MIN': 'Minnesota Vikings',
+    'NE':  'New England Patriots','NO': 'New Orleans Saints',
+    'NYG': 'New York Giants',   'NYJ': 'New York Jets',
+    'PHI': 'Philadelphia Eagles','PIT': 'Pittsburgh Steelers',
+    'SEA': 'Seattle Seahawks',  'SF':  'San Francisco 49ers',
+    'TB':  'Tampa Bay Buccaneers','TEN': 'Tennessee Titans',
+    'WAS': 'Washington Commanders',
+}
+
+
+def _load_game_times_from_nflverse(year, week):
+    """
+    Fetch the nflverse games.csv (cached on disk under TMP if available),
+    filter to (year, week), and return a list of GameInfo objects sorted by
+    start time. Future games (no score yet) come back with away_scores /
+    home_scores = None.
+    """
+    import csv
+    import tempfile
+    cache_path = os.path.join(tempfile.gettempdir(), 'nflverse_games.csv')
+
+    # Refresh if older than 1 hour or missing
+    needs_refresh = True
+    if os.path.exists(cache_path):
+        age = time.time() - os.path.getmtime(cache_path)
+        if age < 3600:
+            needs_refresh = False
+    if needs_refresh:
+        resp = requests.get(_NFLVERSE_GAMES_URL, timeout=120)
+        resp.raise_for_status()
+        with open(cache_path, 'w', encoding='utf-8', newline='') as f:
+            f.write(resp.text)
+
+    with open(cache_path, 'r', encoding='utf-8', newline='') as f:
+        rows = list(csv.DictReader(f))
+
+    games = []
+    for row in rows:
+        try:
+            if int(row['season']) != year:
+                continue
+            if int(row['week']) != week:
+                continue
+        except (KeyError, ValueError):
+            continue
+        away = _NFLVERSE_ABBR.get(row['away_team'], row['away_team'])
+        home = _NFLVERSE_ABBR.get(row['home_team'], row['home_team'])
+        gd = row.get('gameday') or ''
+        gt = row.get('gametime') or ''
+        if gd and gt:
+            try:
+                start = dateparser.parse('{} {}'.format(gd, gt))
+            except Exception:
+                start = dateparser.parse(gd) if gd else None
+        elif gd:
+            try:
+                start = dateparser.parse(gd)
+            except Exception:
+                start = None
+        else:
+            start = None
+
+        away_score_s = row.get('away_score') or ''
+        home_score_s = row.get('home_score') or ''
+        away_scores = home_scores = None
+        if away_score_s and home_score_s:
+            try:
+                away_scores = [None, None, None, None, None, int(away_score_s)]
+                home_scores = [None, None, None, None, None, int(home_score_s)]
+            except ValueError:
+                pass
+
+        game = GameInfo(away, home, start, away_scores, home_scores, '', '')
+        games.append(game)
+
+    games.sort(key=lambda g: g.start_time or dateparser.parse('9999-12-31'))
+    return games
 
 
 def team_name_from_team_string(team_string):
@@ -730,12 +819,7 @@ if False:
     
     for year in years:
         main_s += '* [{}](season_{}.md)\n'.format(year,year)
-                
-    trailer_file = os.path.join(output_folder,'../trailer.txt')    
-    with open(trailer_file,'r') as f:
-        trailer_lines = f.readlines()
-    main_s += '\n' + ''.join(trailer_lines) + '\n'
-    
+
     main_file = os.path.join(markdown_folder,'index.md')
     with open(main_file,'w') as f:
         f.write(main_s)        
@@ -889,8 +973,8 @@ if False:
             md_no_quality_string = md_header + md_no_quality
             md_with_quality_string = md_header + md_with_quality
             
-            md_no_quality_file = 'year_{}_week_{}_no_quality.md'.format(year,i_week)
-            md_with_quality_file = 'year_{}_week_{}_with_quality.md'.format(year,i_week)
+            md_no_quality_file = 'year_{}_week_{}_no_quality.md'.format(year,i_week+1)
+            md_with_quality_file = 'year_{}_week_{}_with_quality.md'.format(year,i_week+1)
             
             no_quality_links.append(md_no_quality_file)
             with_quality_links.append(md_with_quality_file)

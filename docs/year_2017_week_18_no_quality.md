@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2017 divisional
+# Game info for 2017 wild card
 
-Atlanta Falcons at Philadelphia Eagles, Saturday, Jan 13, 4:35 PM
+Tennessee Titans at Kansas City Chiefs, Saturday, Jan 6, 4:35 PM
 
-<br/>Tennessee Titans at New England Patriots, Saturday, Jan 13, 8:15 PM
+<br/>Atlanta Falcons at Los Angeles Rams, Saturday, Jan 6, 8:15 PM
 
-<br/>Jacksonville Jaguars at Pittsburgh Steelers, Sunday, Jan 14, 1:05 PM
+<br/>Buffalo Bills at Jacksonville Jaguars, Sunday, Jan 7, 1:05 PM
 
-<br/>New Orleans Saints at Minnesota Vikings, Sunday, Jan 14, 4:40 PM
+<br/>Carolina Panthers at New Orleans Saints, Sunday, Jan 7, 4:40 PM
 

@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2015 divisional
+# Game info for 2015 wild card
 
-Kansas City Chiefs at New England Patriots, Saturday, Jan 16, 4:35 PM
+Kansas City Chiefs at Houston Texans, Saturday, Jan 9, 4:35 PM
 
-<br/>Green Bay Packers at Arizona Cardinals, Saturday, Jan 16, 8:15 PM
+<br/>Pittsburgh Steelers at Cincinnati Bengals, Saturday, Jan 9, 8:15 PM
 
-<br/>Seattle Seahawks at Carolina Panthers, Sunday, Jan 17, 1:06 PM
+<br/>Seattle Seahawks at Minnesota Vikings, Sunday, Jan 10, 1:05 PM
 
-<br/>Pittsburgh Steelers at Denver Broncos, Sunday, Jan 17, 4:40 PM
+<br/>Green Bay Packers at Washington Redskins, Sunday, Jan 10, 4:42 PM
 

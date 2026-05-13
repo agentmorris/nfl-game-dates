@@ -84,7 +84,7 @@ def _reconstruct_season(year, docs_dir=DOCS_DIR):
     games_by_week = {}
     for i_week in range(n_regular):
         p = os.path.join(docs_dir,
-                         'year_{}_week_{}_no_quality.md'.format(year, i_week))
+                         'year_{}_week_{}_no_quality.md'.format(year, i_week + 1))
         if not os.path.exists(p):
             raise FileNotFoundError(p)
         games_by_week[i_week] = _parse_no_quality_md(p)
@@ -186,7 +186,7 @@ def _rewrite_with_quality(year, i_week, eliminated, docs_dir=DOCS_DIR):
     line to inject ", eliminated" into the appropriate team's parens.
     """
     path = os.path.join(docs_dir,
-                        'year_{}_week_{}_with_quality.md'.format(year, i_week))
+                        'year_{}_week_{}_with_quality.md'.format(year, i_week + 1))
     if not os.path.exists(path):
         return False
 

@@ -3,37 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 week 12
+# Game info for 2012 week 11
 
-Houston Texans (9-1) at Detroit Lions (4-6), Thursday, Nov 22, 12:39 PM
+Miami Dolphins (4-5) at Buffalo Bills (3-6), Thursday, Nov 15, 8:29 PM
 
-<br/>Washington Redskins (4-6) at Dallas Cowboys (5-5), Thursday, Nov 22, 4:41 PM
+<br/>New York Jets (3-6) at St. Louis Rams (3-5-1), Sunday, Nov 18, 1:00 PM
 
-<br/>New England Patriots (7-3) at New York Jets (4-6), Thursday, Nov 22, 8:31 PM
+Green Bay Packers (6-3) at Detroit Lions (4-5), Sunday, Nov 18, 1:02 PM
 
-<br/>Minnesota Vikings (6-4) at Chicago Bears (7-3), Sunday, Nov 25, 1:00 PM
+Arizona Cardinals (4-5) at Atlanta Falcons (8-1), Sunday, Nov 18, 1:03 PM
 
-Oakland Raiders (3-7) at Cincinnati Bengals (5-5), Sunday, Nov 25, 1:02 PM
+Jacksonville Jaguars (1-8) at Houston Texans (8-1), Sunday, Nov 18, 1:03 PM
 
-Pittsburgh Steelers (6-4) at Cleveland Browns (2-8), Sunday, Nov 25, 1:02 PM
+Cincinnati Bengals (4-5) at Kansas City Chiefs (1-8), Sunday, Nov 18, 1:03 PM
 
-Atlanta Falcons (9-1) at Tampa Bay Buccaneers (6-4), Sunday, Nov 25, 1:02 PM
+Philadelphia Eagles (3-6) at Washington Redskins (3-6), Sunday, Nov 18, 1:03 PM
 
-Buffalo Bills (4-6) at Indianapolis Colts (6-4), Sunday, Nov 25, 1:03 PM
+Tampa Bay Buccaneers (5-4) at Carolina Panthers (2-7), Sunday, Nov 18, 1:04 PM
 
-Tennessee Titans (4-6) at Jacksonville Jaguars (1-9), Sunday, Nov 25, 1:03 PM
+Cleveland Browns (2-7) at Dallas Cowboys (4-5), Sunday, Nov 18, 1:04 PM
 
-Denver Broncos (7-3) at Kansas City Chiefs (1-9), Sunday, Nov 25, 1:03 PM
+<br/>New Orleans Saints (4-5) at Oakland Raiders (3-6), Sunday, Nov 18, 4:05 PM
 
-Seattle Seahawks (6-4) at Miami Dolphins (4-6), Sunday, Nov 25, 1:03 PM
+San Diego Chargers (4-5) at Denver Broncos (6-3), Sunday, Nov 18, 4:25 PM
 
-<br/>Baltimore Ravens (8-2) at San Diego Chargers (4-6), Sunday, Nov 25, 4:05 PM
+Indianapolis Colts (6-3) at New England Patriots (6-3), Sunday, Nov 18, 4:25 PM
 
-St. Louis Rams (3-6-1) at Arizona Cardinals (4-6), Sunday, Nov 25, 4:25 PM
+<br/>Baltimore Ravens (7-2) at Pittsburgh Steelers (6-3), Sunday, Nov 18, 8:30 PM
 
-San Francisco 49ers (7-2-1) at New Orleans Saints (5-5), Sunday, Nov 25, 4:25 PM
-
-<br/>Green Bay Packers (7-3) at New York Giants (6-4), Sunday, Nov 25, 8:30 PM
-
-<br/>Carolina Panthers (2-8) at Philadelphia Eagles (3-7), Monday, Nov 26, 8:32 PM
+<br/>Chicago Bears (7-2) at San Francisco 49ers (6-2-1), Monday, Nov 19, 8:40 PM
 

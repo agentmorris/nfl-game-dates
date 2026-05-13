@@ -3,9 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2010 championship
+# Game info for 2010 divisional
 
-Green Bay Packers at Chicago Bears, Sunday, Jan 23, 3:05 PM
+Baltimore Ravens at Pittsburgh Steelers, Saturday, Jan 15, 4:35 PM
 
-<br/>New York Jets at Pittsburgh Steelers, Sunday, Jan 23, 6:41 PM
+<br/>Green Bay Packers at Atlanta Falcons, Saturday, Jan 15, 8:15 PM
+
+<br/>Seattle Seahawks at Chicago Bears, Sunday, Jan 16, 1:05 PM
+
+<br/>New York Jets at New England Patriots, Sunday, Jan 16, 4:40 PM
 

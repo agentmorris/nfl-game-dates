@@ -3,7 +3,9 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2011 super bowl
+# Game info for 2011 championship
 
-New York Giants at New England Patriots, Sunday, Feb 5, 6:30 PM
+Baltimore Ravens at New England Patriots, Sunday, Jan 22, 3:05 PM
+
+<br/>New York Giants at San Francisco 49ers, Sunday, Jan 22, 6:41 PM
 

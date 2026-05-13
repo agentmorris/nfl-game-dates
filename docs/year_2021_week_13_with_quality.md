@@ -3,33 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 14
+# Game info for 2021 week 13
 
-Pittsburgh Steelers (6-5-1) at Minnesota Vikings (5-7), Thursday, Dec 9, 8:20 PM (:football: good game)
+Dallas Cowboys (7-4) at New Orleans Saints (5-6), Thursday, Dec 2, 8:20 PM
 
-<br/>Atlanta Falcons (5-7) at Carolina Panthers (5-7), Sunday, Dec 12, 1:00 PM (:football: good game)
+<br/>Tampa Bay Buccaneers (8-3) at Atlanta Falcons (5-6), Sunday, Dec 5, 1:00 PM
 
-San Francisco 49ers (6-6) at Cincinnati Bengals (7-5), Sunday, Dec 12, 1:00 PM (:football: good game)
+Arizona Cardinals (9-2) at Chicago Bears (4-7), Sunday, Dec 5, 1:00 PM
 
-Baltimore Ravens (8-4) at Cleveland Browns (6-6), Sunday, Dec 12, 1:00 PM (:football: good game)
+Los Angeles Chargers (6-5) at Cincinnati Bengals (7-4), Sunday, Dec 5, 1:00 PM (:red_circle: bad game)
 
-Seattle Seahawks (4-8) at Houston Texans (2-10, eliminated), Sunday, Dec 12, 1:00 PM (:red_circle: bad game)
+Minnesota Vikings (5-6) at Detroit Lions (0-10-1), Sunday, Dec 5, 1:00 PM (:football: good game)
 
-Las Vegas Raiders (6-6) at Kansas City Chiefs (8-4), Sunday, Dec 12, 1:00 PM (:red_circle: bad game)
+Indianapolis Colts (6-6) at Houston Texans (2-9), Sunday, Dec 5, 1:00 PM (:red_circle: bad game)
 
-New Orleans Saints (5-7) at New York Jets (3-9), Sunday, Dec 12, 1:00 PM (:red_circle: bad game)
+New York Giants (4-7) at Miami Dolphins (5-7), Sunday, Dec 5, 1:00 PM
 
-Jacksonville Jaguars (2-10) at Tennessee Titans (8-4), Sunday, Dec 12, 1:00 PM (:red_circle: bad game)
+Philadelphia Eagles (5-7) at New York Jets (3-8), Sunday, Dec 5, 1:00 PM
 
-Dallas Cowboys (8-4) at Washington Football Team (6-6), Sunday, Dec 12, 1:00 PM (:football: good game)
+<br/>San Francisco 49ers (6-5) at Seattle Seahawks (3-8), Sunday, Dec 5, 4:00 PM (:football: good game)
 
-<br/>Detroit Lions (1-10-1, eliminated) at Denver Broncos (6-6), Sunday, Dec 12, 4:05 PM (:red_circle: bad game)
+Washington Football Team (5-6) at Las Vegas Raiders (6-5), Sunday, Dec 5, 4:05 PM (:football: good game)
 
-New York Giants (4-8) at Los Angeles Chargers (7-5), Sunday, Dec 12, 4:05 PM
+Baltimore Ravens (8-3) at Pittsburgh Steelers (5-5-1), Sunday, Dec 5, 4:25 PM (:football: good game)
 
-Buffalo Bills (7-5) at Tampa Bay Buccaneers (9-3), Sunday, Dec 12, 4:25 PM (:football: good game)
+Jacksonville Jaguars (2-9) at Los Angeles Rams (7-4), Sunday, Dec 5, 4:25 PM (:red_circle: bad game)
 
-<br/>Chicago Bears (4-8) at Green Bay Packers (9-3), Sunday, Dec 12, 8:20 PM (:football: good game)
+<br/>Denver Broncos (6-5) at Kansas City Chiefs (7-4), Sunday, Dec 5, 8:20 PM
 
-<br/>Los Angeles Rams (8-4) at Arizona Cardinals (10-2), Monday, Dec 13, 8:15 PM (:football: good game)
+<br/>New England Patriots (8-4) at Buffalo Bills (7-4), Monday, Dec 6, 8:15 PM (:football: good game)
 

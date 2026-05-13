@@ -3,31 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 week 9
+# Game info for 2018 week 8
 
-Oakland Raiders (1-6) at San Francisco 49ers (1-7), Thursday, Nov 1, 8:20 PM
+Miami Dolphins (4-3) at Houston Texans (4-3), Thursday, Oct 25, 8:20 PM
 
-<br/>Chicago Bears (4-3) at Buffalo Bills (2-6), Sunday, Nov 4, 1:00 PM
+<br/>Philadelphia Eagles (3-4) at Jacksonville Jaguars (3-4), Sunday, Oct 28, 9:30 AM
 
-Tampa Bay Buccaneers (3-4) at Carolina Panthers (5-2), Sunday, Nov 4, 1:00 PM
+<br/>Baltimore Ravens (4-3) at Carolina Panthers (4-2), Sunday, Oct 28, 1:00 PM
 
-Kansas City Chiefs (7-1) at Cleveland Browns (2-5-1), Sunday, Nov 4, 1:00 PM
+New York Jets (3-4) at Chicago Bears (3-3), Sunday, Oct 28, 1:00 PM
 
-New York Jets (3-5) at Miami Dolphins (4-4), Sunday, Nov 4, 1:00 PM
+Tampa Bay Buccaneers (3-3) at Cincinnati Bengals (4-3), Sunday, Oct 28, 1:00 PM
 
-Detroit Lions (3-4) at Minnesota Vikings (4-3-1), Sunday, Nov 4, 1:00 PM
+Seattle Seahawks (3-3) at Detroit Lions (3-3), Sunday, Oct 28, 1:00 PM
 
-Pittsburgh Steelers (4-2-1) at Baltimore Ravens (4-4), Sunday, Nov 4, 1:00 PM
+Denver Broncos (3-4) at Kansas City Chiefs (6-1), Sunday, Oct 28, 1:00 PM
 
-Atlanta Falcons (3-4) at Washington Redskins (5-2), Sunday, Nov 4, 1:00 PM
+Washington Redskins (4-2) at New York Giants (1-6), Sunday, Oct 28, 1:00 PM
 
-<br/>Houston Texans (5-3) at Denver Broncos (3-5), Sunday, Nov 4, 4:05 PM
+Cleveland Browns (2-4-1) at Pittsburgh Steelers (3-2-1), Sunday, Oct 28, 1:00 PM
 
-Los Angeles Chargers (5-2) at Seattle Seahawks (4-3), Sunday, Nov 4, 4:05 PM
+<br/>Indianapolis Colts (2-5) at Oakland Raiders (1-5), Sunday, Oct 28, 4:05 PM
 
-Los Angeles Rams (8-0) at New Orleans Saints (6-1), Sunday, Nov 4, 4:25 PM
+San Francisco 49ers (1-6) at Arizona Cardinals (1-6), Sunday, Oct 28, 4:25 PM
 
-<br/>Green Bay Packers (3-3-1) at New England Patriots (6-2), Sunday, Nov 4, 8:20 PM
+Green Bay Packers (3-2-1) at Los Angeles Rams (7-0), Sunday, Oct 28, 4:25 PM
 
-<br/>Tennessee Titans (3-4) at Dallas Cowboys (3-4), Monday, Nov 5, 8:15 PM
+<br/>New Orleans Saints (5-1) at Minnesota Vikings (4-2-1), Sunday, Oct 28, 8:20 PM
+
+<br/>New England Patriots (5-2) at Buffalo Bills (2-5), Monday, Oct 29, 8:15 PM
 

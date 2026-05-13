@@ -3,13 +3,17 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 divisional
+# Game info for 2020 wild card
 
-Los Angeles Rams at Green Bay Packers, Saturday, Jan 16, 4:35 PM
+Indianapolis Colts at Buffalo Bills, Saturday, Jan 9, 1:05 PM
 
-<br/>Baltimore Ravens at Buffalo Bills, Saturday, Jan 16, 8:15 PM
+<br/>Los Angeles Rams at Seattle Seahawks, Saturday, Jan 9, 4:40 PM
 
-<br/>Cleveland Browns at Kansas City Chiefs, Sunday, Jan 17, 3:05 PM
+<br/>Tampa Bay Buccaneers at Washington Football Team, Saturday, Jan 9, 8:15 PM
 
-<br/>Tampa Bay Buccaneers at New Orleans Saints, Sunday, Jan 17, 6:40 PM
+<br/>Baltimore Ravens at Tennessee Titans, Sunday, Jan 10, 1:05 PM
+
+<br/>Chicago Bears at New Orleans Saints, Sunday, Jan 10, 4:40 PM
+
+<br/>Cleveland Browns at Pittsburgh Steelers, Sunday, Jan 10, 8:15 PM
 

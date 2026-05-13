@@ -3,31 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2017 week 8
+# Game info for 2017 week 7
 
-Miami Dolphins (4-2) at Baltimore Ravens (3-4), Thursday, Oct 26, 8:25 PM
+Kansas City Chiefs (5-1) at Oakland Raiders (2-4), Thursday, Oct 19, 8:25 PM
 
-<br/>Minnesota Vikings (5-2) at Cleveland Browns (0-7), Sunday, Oct 29, 9:30 AM
+<br/>Tampa Bay Buccaneers (2-3) at Buffalo Bills (3-2), Sunday, Oct 22, 1:00 PM
 
-<br/>Oakland Raiders (3-4) at Buffalo Bills (4-2), Sunday, Oct 29, 1:00 PM
+Carolina Panthers (4-2) at Chicago Bears (2-4), Sunday, Oct 22, 1:00 PM
 
-Indianapolis Colts (2-5) at Cincinnati Bengals (2-4), Sunday, Oct 29, 1:00 PM
+Tennessee Titans (3-3) at Cleveland Browns (0-6), Sunday, Oct 22, 1:00 PM
 
-Chicago Bears (3-4) at New Orleans Saints (4-2), Sunday, Oct 29, 1:00 PM
+Jacksonville Jaguars (3-3) at Indianapolis Colts (2-4), Sunday, Oct 22, 1:00 PM
 
-Los Angeles Chargers (3-4) at New England Patriots (5-2), Sunday, Oct 29, 1:00 PM
+New Orleans Saints (3-2) at Green Bay Packers (4-2), Sunday, Oct 22, 1:00 PM
 
-Atlanta Falcons (3-3) at New York Jets (3-4), Sunday, Oct 29, 1:00 PM
+New York Jets (3-3) at Miami Dolphins (3-2), Sunday, Oct 22, 1:00 PM
 
-San Francisco 49ers (0-7) at Philadelphia Eagles (6-1), Sunday, Oct 29, 1:00 PM
+Baltimore Ravens (3-3) at Minnesota Vikings (4-2), Sunday, Oct 22, 1:00 PM
 
-Carolina Panthers (4-3) at Tampa Bay Buccaneers (2-4), Sunday, Oct 29, 1:00 PM
+Arizona Cardinals (3-3) at Los Angeles Rams (4-2), Sunday, Oct 22, 1:00 PM
 
-<br/>Houston Texans (3-3) at Seattle Seahawks (4-2), Sunday, Oct 29, 4:05 PM
+<br/>Dallas Cowboys (2-3) at San Francisco 49ers (0-6), Sunday, Oct 22, 4:05 PM
 
-Dallas Cowboys (3-3) at Washington Redskins (3-3), Sunday, Oct 29, 4:25 PM
+Seattle Seahawks (3-2) at New York Giants (1-5), Sunday, Oct 22, 4:25 PM
 
-<br/>Pittsburgh Steelers (5-2) at Detroit Lions (3-3), Sunday, Oct 29, 8:30 PM
+Cincinnati Bengals (2-3) at Pittsburgh Steelers (4-2), Sunday, Oct 22, 4:25 PM
 
-<br/>Denver Broncos (3-3) at Kansas City Chiefs (5-2), Monday, Oct 30, 8:30 PM
+Denver Broncos (3-2) at Los Angeles Chargers (2-4), Sunday, Oct 22, 4:25 PM
+
+<br/>Atlanta Falcons (3-2) at New England Patriots (4-2), Sunday, Oct 22, 8:30 PM
+
+<br/>Washington Redskins (3-2) at Philadelphia Eagles (5-1), Monday, Oct 23, 8:30 PM
 

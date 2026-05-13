@@ -3,34 +3,32 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2024 week 7
+# Game info for 2024 week 6
 
-Denver Broncos (3-3) at New Orleans Saints (2-4), Thursday, Oct 17, 8:15 PM
+San Francisco 49ers (2-3) at Seattle Seahawks (3-2), Thursday, Oct 10, 8:15 PM
 
-<br/>New England Patriots (1-5) at Jacksonville Jaguars (1-5), Sunday, Oct 20, 9:30 AM
+<br/>Jacksonville Jaguars (1-4) at Chicago Bears (3-2), Sunday, Oct 13, 9:30 AM
 
-<br/>Seattle Seahawks (3-3) at Atlanta Falcons (4-2), Sunday, Oct 20, 1:00 PM
+<br/>Washington Commanders (4-1) at Baltimore Ravens (3-2), Sunday, Oct 13, 1:00 PM
 
-Tennessee Titans (1-4) at Buffalo Bills (4-2), Sunday, Oct 20, 1:00 PM
+Arizona Cardinals (2-3) at Green Bay Packers (3-2), Sunday, Oct 13, 1:00 PM
 
-Cincinnati Bengals (2-4) at Cleveland Browns (1-5), Sunday, Oct 20, 1:00 PM
+Houston Texans (4-1) at New England Patriots (1-4), Sunday, Oct 13, 1:00 PM
 
-Houston Texans (5-1) at Green Bay Packers (4-2), Sunday, Oct 20, 1:00 PM
+Tampa Bay Buccaneers (3-2) at New Orleans Saints (2-3), Sunday, Oct 13, 1:00 PM
 
-Miami Dolphins (2-3) at Indianapolis Colts (3-3), Sunday, Oct 20, 1:00 PM
+Cleveland Browns (1-4) at Philadelphia Eagles (2-2), Sunday, Oct 13, 1:00 PM
 
-Detroit Lions (4-1) at Minnesota Vikings (5-0), Sunday, Oct 20, 1:00 PM
+Indianapolis Colts (2-3) at Tennessee Titans (1-3), Sunday, Oct 13, 1:00 PM
 
-Philadelphia Eagles (3-2) at New York Giants (2-4), Sunday, Oct 20, 1:00 PM
+<br/>Los Angeles Chargers (2-2) at Denver Broncos (3-2), Sunday, Oct 13, 4:05 PM
 
-<br/>Las Vegas Raiders (2-4) at Los Angeles Rams (1-4), Sunday, Oct 20, 4:05 PM
+Pittsburgh Steelers (3-2) at Las Vegas Raiders (2-3), Sunday, Oct 13, 4:05 PM
 
-Carolina Panthers (1-5) at Washington Commanders (4-2), Sunday, Oct 20, 4:05 PM
+Atlanta Falcons (3-2) at Carolina Panthers (1-4), Sunday, Oct 13, 4:25 PM
 
-Kansas City Chiefs (5-0) at San Francisco 49ers (3-3), Sunday, Oct 20, 4:25 PM
+Detroit Lions (3-1) at Dallas Cowboys (3-2), Sunday, Oct 13, 4:25 PM
 
-<br/>New York Jets (2-4) at Pittsburgh Steelers (4-2), Sunday, Oct 20, 8:20 PM
+<br/>Cincinnati Bengals (1-4) at New York Giants (2-3), Sunday, Oct 13, 8:20 PM
 
-<br/>Baltimore Ravens (4-2) at Tampa Bay Buccaneers (4-2), Monday, Oct 21, 8:15 PM
-
-Los Angeles Chargers (3-2) at Arizona Cardinals (2-4), Monday, Oct 21, 9:00 PM
+<br/>Buffalo Bills (3-2) at New York Jets (2-3), Monday, Oct 14, 8:15 PM

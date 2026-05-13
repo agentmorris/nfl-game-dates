@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 week 2
+# Game info for 2022 week 1
 
-Los Angeles Chargers (1-0) at Kansas City Chiefs (1-0), Thursday, Sep 15, 8:15 PM (:football: good game)
+Buffalo Bills (0-0) at Los Angeles Rams (0-0), Thursday, Sep 8, 8:20 PM
 
-<br/>New York Jets (0-1) at Cleveland Browns (1-0), Sunday, Sep 18, 1:00 PM (:football: good game)
+<br/>New Orleans Saints (0-0) at Atlanta Falcons (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-Washington Commanders (1-0) at Detroit Lions (0-1), Sunday, Sep 18, 1:00 PM (:football: good game)
+Cleveland Browns (0-0) at Carolina Panthers (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-Indianapolis Colts (0-0-1) at Jacksonville Jaguars (0-1), Sunday, Sep 18, 1:00 PM (:red_circle: bad game)
+San Francisco 49ers (0-0) at Chicago Bears (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-Tampa Bay Buccaneers (1-0) at New Orleans Saints (1-0), Sunday, Sep 18, 1:00 PM (:football: good game)
+Pittsburgh Steelers (0-0) at Cincinnati Bengals (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-Carolina Panthers (0-1) at New York Giants (1-0), Sunday, Sep 18, 1:00 PM (:football: good game)
+Philadelphia Eagles (0-0) at Detroit Lions (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-New England Patriots (0-1) at Pittsburgh Steelers (1-0), Sunday, Sep 18, 1:00 PM (:football: good game)
+Indianapolis Colts (0-0) at Houston Texans (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-Miami Dolphins (1-0) at Baltimore Ravens (1-0), Sunday, Sep 18, 1:00 PM (:football: good game)
+New England Patriots (0-0) at Miami Dolphins (0-0), Sunday, Sep 11, 1:00 PM
 
-<br/>Atlanta Falcons (0-1) at Los Angeles Rams (0-1), Sunday, Sep 18, 4:05 PM (:football: good game)
+Baltimore Ravens (0-0) at New York Jets (0-0), Sunday, Sep 11, 1:00 PM
 
-Seattle Seahawks (1-0) at San Francisco 49ers (0-1), Sunday, Sep 18, 4:05 PM (:red_circle: bad game)
+Jacksonville Jaguars (0-0) at Washington Commanders (0-0), Sunday, Sep 11, 1:00 PM (:football: good game)
 
-Cincinnati Bengals (0-1) at Dallas Cowboys (0-1), Sunday, Sep 18, 4:25 PM (:football: good game)
+<br/>Kansas City Chiefs (0-0) at Arizona Cardinals (0-0), Sunday, Sep 11, 4:25 PM (:red_circle: bad game)
 
-Houston Texans (0-0-1) at Denver Broncos (0-1), Sunday, Sep 18, 4:25 PM (:football: good game)
+Green Bay Packers (0-0) at Minnesota Vikings (0-0), Sunday, Sep 11, 4:25 PM
 
-Arizona Cardinals (0-1) at Las Vegas Raiders (0-1), Sunday, Sep 18, 4:25 PM (:football: good game)
+New York Giants (0-0) at Tennessee Titans (0-0), Sunday, Sep 11, 4:25 PM (:football: good game)
 
-<br/>Chicago Bears (1-0) at Green Bay Packers (0-1), Sunday, Sep 18, 8:20 PM (:red_circle: bad game)
+Las Vegas Raiders (0-0) at Los Angeles Chargers (0-0), Sunday, Sep 11, 4:25 PM (:football: good game)
 
-<br/>Tennessee Titans (0-1) at Buffalo Bills (1-0), Monday, Sep 19, 7:15 PM (:red_circle: bad game)
+<br/>Tampa Bay Buccaneers (0-0) at Dallas Cowboys (0-0), Sunday, Sep 11, 8:20 PM
 
-<br/>Minnesota Vikings (1-0) at Philadelphia Eagles (1-0), Monday, Sep 19, 8:30 PM (:red_circle: bad game)
+<br/>Denver Broncos (0-0) at Seattle Seahawks (0-0), Monday, Sep 12, 8:20 PM (:football: good game)
 

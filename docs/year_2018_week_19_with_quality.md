@@ -3,9 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 championship
+# Game info for 2018 divisional
 
-Los Angeles Rams at New Orleans Saints, Sunday, Jan 20, 3:05 PM
+Indianapolis Colts at Kansas City Chiefs, Saturday, Jan 12, 4:35 PM
 
-<br/>New England Patriots at Kansas City Chiefs, Sunday, Jan 20, 6:40 PM
+<br/>Dallas Cowboys at Los Angeles Rams, Saturday, Jan 12, 8:15 PM
+
+<br/>Los Angeles Chargers at New England Patriots, Sunday, Jan 13, 1:05 PM
+
+<br/>Philadelphia Eagles at New Orleans Saints, Sunday, Jan 13, 4:40 PM
 

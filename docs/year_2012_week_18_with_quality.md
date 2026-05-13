@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 divisional
+# Game info for 2012 wild card
 
-Baltimore Ravens at Denver Broncos, Saturday, Jan 12, 4:36 PM
+Cincinnati Bengals at Houston Texans, Saturday, Jan 5, 4:35 PM
 
-<br/>Green Bay Packers at San Francisco 49ers, Saturday, Jan 12, 8:25 PM
+<br/>Minnesota Vikings at Green Bay Packers, Saturday, Jan 5, 8:09 PM
 
-<br/>Seattle Seahawks at Atlanta Falcons, Sunday, Jan 13, 1:05 PM
+<br/>Indianapolis Colts at Baltimore Ravens, Sunday, Jan 6, 1:07 PM
 
-<br/>Houston Texans at New England Patriots, Sunday, Jan 13, 4:40 PM
+<br/>Seattle Seahawks at Washington Redskins, Sunday, Jan 6, 4:40 PM
 

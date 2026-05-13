@@ -3,33 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 13
+# Game info for 2021 week 12
 
-Dallas Cowboys (7-4) at New Orleans Saints (5-6), Thursday, Dec 2, 8:20 PM
+Chicago Bears (3-7) at Detroit Lions (0-9-1), Thursday, Nov 25, 12:30 PM
 
-<br/>Tampa Bay Buccaneers (8-3) at Atlanta Falcons (5-6), Sunday, Dec 5, 1:00 PM
+<br/>Las Vegas Raiders (5-5) at Dallas Cowboys (7-3), Thursday, Nov 25, 4:30 PM
 
-Arizona Cardinals (9-2) at Chicago Bears (4-7), Sunday, Dec 5, 1:00 PM
+<br/>Buffalo Bills (6-4) at New Orleans Saints (5-5), Thursday, Nov 25, 8:20 PM
 
-Los Angeles Chargers (6-5) at Cincinnati Bengals (7-4), Sunday, Dec 5, 1:00 PM
+<br/>Pittsburgh Steelers (5-4-1) at Cincinnati Bengals (6-4), Sunday, Nov 28, 1:00 PM
 
-Minnesota Vikings (5-6) at Detroit Lions (0-10-1), Sunday, Dec 5, 1:00 PM
+Tampa Bay Buccaneers (7-3) at Indianapolis Colts (6-5), Sunday, Nov 28, 1:00 PM
 
-Indianapolis Colts (6-6) at Houston Texans (2-9), Sunday, Dec 5, 1:00 PM
+New York Jets (2-8) at Houston Texans (2-8), Sunday, Nov 28, 1:00 PM
 
-New York Giants (4-7) at Miami Dolphins (5-7), Sunday, Dec 5, 1:00 PM
+Atlanta Falcons (4-6) at Jacksonville Jaguars (2-8), Sunday, Nov 28, 1:00 PM
 
-Philadelphia Eagles (5-7) at New York Jets (3-8), Sunday, Dec 5, 1:00 PM
+Carolina Panthers (5-6) at Miami Dolphins (4-7), Sunday, Nov 28, 1:00 PM
 
-<br/>San Francisco 49ers (6-5) at Seattle Seahawks (3-8), Sunday, Dec 5, 4:00 PM
+Tennessee Titans (8-3) at New England Patriots (7-4), Sunday, Nov 28, 1:00 PM
 
-Washington Football Team (5-6) at Las Vegas Raiders (6-5), Sunday, Dec 5, 4:05 PM
+Philadelphia Eagles (5-6) at New York Giants (3-7), Sunday, Nov 28, 1:00 PM
 
-Baltimore Ravens (8-3) at Pittsburgh Steelers (5-5-1), Sunday, Dec 5, 4:25 PM
+<br/>Los Angeles Chargers (6-4) at Denver Broncos (5-5), Sunday, Nov 28, 4:05 PM
 
-Jacksonville Jaguars (2-9) at Los Angeles Rams (7-4), Sunday, Dec 5, 4:25 PM
+Los Angeles Rams (7-3) at Green Bay Packers (8-3), Sunday, Nov 28, 4:25 PM
 
-<br/>Denver Broncos (6-5) at Kansas City Chiefs (7-4), Sunday, Dec 5, 8:20 PM
+Minnesota Vikings (5-5) at San Francisco 49ers (5-5), Sunday, Nov 28, 4:25 PM
 
-<br/>New England Patriots (8-4) at Buffalo Bills (7-4), Monday, Dec 6, 8:15 PM
+<br/>Cleveland Browns (6-5) at Baltimore Ravens (7-3), Sunday, Nov 28, 8:20 PM
+
+<br/>Seattle Seahawks (3-7) at Washington Football Team (4-6), Monday, Nov 29, 8:15 PM
 

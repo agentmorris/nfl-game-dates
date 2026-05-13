@@ -3,33 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 week 10
+# Game info for 2016 week 9
 
-Cleveland Browns (0-9, eliminated) at Baltimore Ravens (4-4), Thursday, Nov 10, 8:25 PM (:football: good game)
+Atlanta Falcons (5-3) at Tampa Bay Buccaneers (3-4), Thursday, Nov 3, 8:25 PM (:football: good game)
 
-<br/>Kansas City Chiefs (6-2) at Carolina Panthers (3-5), Sunday, Nov 13, 1:00 PM (:football: good game)
+<br/>Dallas Cowboys (6-1) at Cleveland Browns (0-8), Sunday, Nov 6, 1:00 PM (:red_circle: bad game)
 
-Houston Texans (5-3) at Jacksonville Jaguars (2-6), Sunday, Nov 13, 1:00 PM (:football: good game)
+Jacksonville Jaguars (2-5) at Kansas City Chiefs (5-2), Sunday, Nov 6, 1:00 PM (:football: good game)
 
-Denver Broncos (6-3) at New Orleans Saints (4-4), Sunday, Nov 13, 1:00 PM (:football: good game)
+New York Jets (3-5) at Miami Dolphins (3-4), Sunday, Nov 6, 1:00 PM (:football: good game)
 
-Los Angeles Rams (3-5) at New York Jets (3-6), Sunday, Nov 13, 1:00 PM (:football: good game)
+Detroit Lions (4-4) at Minnesota Vikings (5-2), Sunday, Nov 6, 1:00 PM (:football: good game)
 
-Green Bay Packers (4-4) at Tennessee Titans (4-5), Sunday, Nov 13, 1:00 PM (:red_circle: bad game)
+Philadelphia Eagles (4-3) at New York Giants (4-3), Sunday, Nov 6, 1:00 PM (:football: good game)
 
-Atlanta Falcons (6-3) at Philadelphia Eagles (4-4), Sunday, Nov 13, 1:00 PM
+Pittsburgh Steelers (4-3) at Baltimore Ravens (3-4), Sunday, Nov 6, 1:00 PM (:football: good game)
 
-Chicago Bears (2-6) at Tampa Bay Buccaneers (3-5), Sunday, Nov 13, 1:00 PM (:red_circle: bad game)
+<br/>Carolina Panthers (2-5) at Los Angeles Rams (3-4), Sunday, Nov 6, 4:05 PM (:football: good game)
 
-Minnesota Vikings (5-3) at Washington Redskins (4-3-1), Sunday, Nov 13, 1:00 PM (:football: good game)
+New Orleans Saints (3-4) at San Francisco 49ers (1-6), Sunday, Nov 6, 4:05 PM (:red_circle: bad game)
 
-<br/>Miami Dolphins (4-4) at San Diego Chargers (4-5), Sunday, Nov 13, 4:05 PM (:football: good game)
+Indianapolis Colts (3-5) at Green Bay Packers (4-3), Sunday, Nov 6, 4:25 PM (:football: good game)
 
-San Francisco 49ers (1-7) at Arizona Cardinals (3-4-1), Sunday, Nov 13, 4:25 PM (:football: good game)
+Tennessee Titans (4-4) at San Diego Chargers (3-5), Sunday, Nov 6, 4:25 PM (:football: good game)
 
-Dallas Cowboys (7-1) at Pittsburgh Steelers (4-4), Sunday, Nov 13, 4:25 PM (:football: good game)
+<br/>Denver Broncos (6-2) at Oakland Raiders (6-2), Sunday, Nov 6, 8:30 PM
 
-<br/>Seattle Seahawks (5-2-1) at New England Patriots (7-1), Sunday, Nov 13, 8:30 PM (:football: good game)
-
-<br/>Cincinnati Bengals (3-4-1) at New York Giants (5-3), Monday, Nov 14, 8:30 PM (:football: good game)
+<br/>Buffalo Bills (4-4) at Seattle Seahawks (4-2-1), Monday, Nov 7, 8:30 PM (:football: good game)
 

@@ -3,33 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2017 week 6
+# Game info for 2017 week 5
 
-Philadelphia Eagles (4-1) at Carolina Panthers (4-1), Thursday, Oct 12, 8:25 PM
+New England Patriots (2-2) at Tampa Bay Buccaneers (2-1), Thursday, Oct 5, 8:25 PM
 
-<br/>Miami Dolphins (2-2) at Atlanta Falcons (3-1), Sunday, Oct 15, 1:00 PM
+<br/>Buffalo Bills (3-1) at Cincinnati Bengals (1-3), Sunday, Oct 8, 1:00 PM
 
-Cleveland Browns (0-5) at Houston Texans (2-3), Sunday, Oct 15, 1:00 PM
+New York Jets (2-2) at Cleveland Browns (0-4), Sunday, Oct 8, 1:00 PM
 
-Green Bay Packers (4-1) at Minnesota Vikings (3-2), Sunday, Oct 15, 1:00 PM
+San Francisco 49ers (0-4) at Indianapolis Colts (1-3), Sunday, Oct 8, 1:00 PM
 
-Detroit Lions (3-2) at New Orleans Saints (2-2), Sunday, Oct 15, 1:00 PM
+Carolina Panthers (3-1) at Detroit Lions (3-1), Sunday, Oct 8, 1:00 PM
 
-New England Patriots (3-2) at New York Jets (3-2), Sunday, Oct 15, 1:00 PM
+Tennessee Titans (2-2) at Miami Dolphins (1-2), Sunday, Oct 8, 1:00 PM
 
-Chicago Bears (1-4) at Baltimore Ravens (3-2), Sunday, Oct 15, 1:00 PM
+Los Angeles Chargers (0-4) at New York Giants (0-4), Sunday, Oct 8, 1:00 PM
 
-San Francisco 49ers (0-5) at Washington Redskins (2-2), Sunday, Oct 15, 1:00 PM
+Arizona Cardinals (2-2) at Philadelphia Eagles (3-1), Sunday, Oct 8, 1:00 PM
 
-<br/>Tampa Bay Buccaneers (2-2) at Arizona Cardinals (2-3), Sunday, Oct 15, 4:05 PM
+Jacksonville Jaguars (2-2) at Pittsburgh Steelers (3-1), Sunday, Oct 8, 1:00 PM
 
-Los Angeles Rams (3-2) at Jacksonville Jaguars (3-2), Sunday, Oct 15, 4:05 PM
+<br/>Baltimore Ravens (2-2) at Oakland Raiders (2-2), Sunday, Oct 8, 4:05 PM
 
-Pittsburgh Steelers (3-2) at Kansas City Chiefs (5-0), Sunday, Oct 15, 4:25 PM
+Seattle Seahawks (2-2) at Los Angeles Rams (3-1), Sunday, Oct 8, 4:05 PM
 
-Los Angeles Chargers (1-4) at Oakland Raiders (2-3), Sunday, Oct 15, 4:25 PM
+Green Bay Packers (3-1) at Dallas Cowboys (2-2), Sunday, Oct 8, 4:25 PM
 
-<br/>New York Giants (0-5) at Denver Broncos (3-1), Sunday, Oct 15, 8:30 PM
+<br/>Kansas City Chiefs (4-0) at Houston Texans (2-2), Sunday, Oct 8, 8:30 PM
 
-<br/>Indianapolis Colts (2-3) at Tennessee Titans (2-3), Monday, Oct 16, 8:30 PM
+<br/>Minnesota Vikings (2-2) at Chicago Bears (1-3), Monday, Oct 9, 8:30 PM
 

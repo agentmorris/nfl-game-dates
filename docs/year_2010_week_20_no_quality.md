@@ -3,7 +3,9 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2010 super bowl
+# Game info for 2010 championship
 
-Pittsburgh Steelers at Green Bay Packers, Sunday, Feb 6, 6:34 PM
+Green Bay Packers at Chicago Bears, Sunday, Jan 23, 3:05 PM
+
+<br/>New York Jets at Pittsburgh Steelers, Sunday, Jan 23, 6:41 PM
 

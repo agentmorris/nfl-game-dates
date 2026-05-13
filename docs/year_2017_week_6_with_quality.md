@@ -3,35 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2017 week 7
+# Game info for 2017 week 6
 
-Kansas City Chiefs (5-1) at Oakland Raiders (2-4), Thursday, Oct 19, 8:25 PM (:football: good game)
+Philadelphia Eagles (4-1) at Carolina Panthers (4-1), Thursday, Oct 12, 8:25 PM (:football: good game)
 
-<br/>Tampa Bay Buccaneers (2-3) at Buffalo Bills (3-2), Sunday, Oct 22, 1:00 PM (:football: good game)
+<br/>Miami Dolphins (2-2) at Atlanta Falcons (3-1), Sunday, Oct 15, 1:00 PM (:football: good game)
 
-Carolina Panthers (4-2) at Chicago Bears (2-4), Sunday, Oct 22, 1:00 PM
+Cleveland Browns (0-5) at Houston Texans (2-3), Sunday, Oct 15, 1:00 PM
 
-Tennessee Titans (3-3) at Cleveland Browns (0-6), Sunday, Oct 22, 1:00 PM (:football: good game)
+Green Bay Packers (4-1) at Minnesota Vikings (3-2), Sunday, Oct 15, 1:00 PM
 
-Jacksonville Jaguars (3-3) at Indianapolis Colts (2-4), Sunday, Oct 22, 1:00 PM (:red_circle: bad game)
+Detroit Lions (3-2) at New Orleans Saints (2-2), Sunday, Oct 15, 1:00 PM (:football: good game)
 
-New Orleans Saints (3-2) at Green Bay Packers (4-2), Sunday, Oct 22, 1:00 PM (:football: good game)
+New England Patriots (3-2) at New York Jets (3-2), Sunday, Oct 15, 1:00 PM (:football: good game)
 
-New York Jets (3-3) at Miami Dolphins (3-2), Sunday, Oct 22, 1:00 PM (:football: good game)
+Chicago Bears (1-4) at Baltimore Ravens (3-2), Sunday, Oct 15, 1:00 PM (:football: good game)
 
-Baltimore Ravens (3-3) at Minnesota Vikings (4-2), Sunday, Oct 22, 1:00 PM (:football: good game)
+San Francisco 49ers (0-5) at Washington Redskins (2-2), Sunday, Oct 15, 1:00 PM (:football: good game)
 
-Arizona Cardinals (3-3) at Los Angeles Rams (4-2), Sunday, Oct 22, 1:00 PM (:red_circle: bad game)
+<br/>Tampa Bay Buccaneers (2-2) at Arizona Cardinals (2-3), Sunday, Oct 15, 4:05 PM (:football: good game)
 
-<br/>Dallas Cowboys (2-3) at San Francisco 49ers (0-6), Sunday, Oct 22, 4:05 PM (:red_circle: bad game)
+Los Angeles Rams (3-2) at Jacksonville Jaguars (3-2), Sunday, Oct 15, 4:05 PM
 
-Seattle Seahawks (3-2) at New York Giants (1-5), Sunday, Oct 22, 4:25 PM (:football: good game)
+Pittsburgh Steelers (3-2) at Kansas City Chiefs (5-0), Sunday, Oct 15, 4:25 PM (:football: good game)
 
-Cincinnati Bengals (2-3) at Pittsburgh Steelers (4-2), Sunday, Oct 22, 4:25 PM
+Los Angeles Chargers (1-4) at Oakland Raiders (2-3), Sunday, Oct 15, 4:25 PM (:football: good game)
 
-Denver Broncos (3-2) at Los Angeles Chargers (2-4), Sunday, Oct 22, 4:25 PM (:red_circle: bad game)
+<br/>New York Giants (0-5) at Denver Broncos (3-1), Sunday, Oct 15, 8:30 PM
 
-<br/>Atlanta Falcons (3-2) at New England Patriots (4-2), Sunday, Oct 22, 8:30 PM
-
-<br/>Washington Redskins (3-2) at Philadelphia Eagles (5-1), Monday, Oct 23, 8:30 PM
+<br/>Indianapolis Colts (2-3) at Tennessee Titans (2-3), Monday, Oct 16, 8:30 PM (:football: good game)
 

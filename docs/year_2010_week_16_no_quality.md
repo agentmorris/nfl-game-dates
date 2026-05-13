@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2010 week 17
+# Game info for 2010 week 16
 
-Tampa Bay Buccaneers (9-6) at New Orleans Saints (11-4), Sunday, Jan 2, 1:00 PM
+Carolina Panthers (2-12) at Pittsburgh Steelers (10-4), Thursday, Dec 23, 8:29 PM
 
-Pittsburgh Steelers (11-4) at Cleveland Browns (5-10), Sunday, Jan 2, 1:02 PM
+<br/>Dallas Cowboys (5-9) at Arizona Cardinals (4-10), Saturday, Dec 25, 7:30 PM
 
-Oakland Raiders (7-8) at Kansas City Chiefs (10-5), Sunday, Jan 2, 1:02 PM
+<br/>San Francisco 49ers (5-9) at St. Louis Rams (6-8), Sunday, Dec 26, 1:00 PM
 
-Miami Dolphins (7-8) at New England Patriots (13-2), Sunday, Jan 2, 1:02 PM
+New England Patriots (12-2) at Buffalo Bills (4-10), Sunday, Dec 26, 1:02 PM
 
-Cincinnati Bengals (4-11) at Baltimore Ravens (11-4), Sunday, Jan 2, 1:02 PM
+New York Jets (10-4) at Chicago Bears (10-4), Sunday, Dec 26, 1:02 PM
 
-Carolina Panthers (2-13) at Atlanta Falcons (12-3), Sunday, Jan 2, 1:03 PM
+Baltimore Ravens (10-4) at Cleveland Browns (5-9), Sunday, Dec 26, 1:02 PM
 
-Minnesota Vikings (6-9) at Detroit Lions (5-10), Sunday, Jan 2, 1:03 PM
+Washington Redskins (5-9) at Jacksonville Jaguars (8-6), Sunday, Dec 26, 1:03 PM
 
-Buffalo Bills (4-11) at New York Jets (10-5), Sunday, Jan 2, 1:03 PM
+Tennessee Titans (6-8) at Kansas City Chiefs (9-5), Sunday, Dec 26, 1:03 PM
 
-<br/>San Diego Chargers (8-7) at Denver Broncos (4-11), Sunday, Jan 2, 4:15 PM
+Detroit Lions (4-10) at Miami Dolphins (7-7), Sunday, Dec 26, 1:03 PM
 
-Chicago Bears (11-4) at Green Bay Packers (9-6), Sunday, Jan 2, 4:15 PM
+<br/>San Diego Chargers (8-6) at Cincinnati Bengals (3-11), Sunday, Dec 26, 4:05 PM
 
-Jacksonville Jaguars (8-7) at Houston Texans (5-10), Sunday, Jan 2, 4:15 PM
+Indianapolis Colts (8-6) at Oakland Raiders (7-7), Sunday, Dec 26, 4:05 PM
 
-Dallas Cowboys (5-10) at Philadelphia Eagles (10-5), Sunday, Jan 2, 4:15 PM
+Houston Texans (5-9) at Denver Broncos (3-11), Sunday, Dec 26, 4:06 PM
 
-Arizona Cardinals (5-10) at San Francisco 49ers (5-10), Sunday, Jan 2, 4:15 PM
+New York Giants (9-5) at Green Bay Packers (8-6), Sunday, Dec 26, 4:15 PM
 
-Tennessee Titans (6-9) at Indianapolis Colts (9-6), Sunday, Jan 2, 4:16 PM
+Seattle Seahawks (6-8) at Tampa Bay Buccaneers (8-6), Sunday, Dec 26, 4:16 PM
 
-New York Giants (9-6) at Washington Redskins (6-9), Sunday, Jan 2, 4:16 PM
+<br/>New Orleans Saints (10-4) at Atlanta Falcons (12-2), Monday, Dec 27, 8:40 PM
 
-<br/>St. Louis Rams (7-8) at Seattle Seahawks (6-9), Sunday, Jan 2, 8:31 PM
+<br/>Minnesota Vikings (5-9) at Philadelphia Eagles (10-4), Tuesday, Dec 28, 8:06 PM
 

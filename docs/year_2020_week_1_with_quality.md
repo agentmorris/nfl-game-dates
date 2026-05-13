@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 week 2
+# Game info for 2020 week 1
 
-Cincinnati Bengals (0-1) at Cleveland Browns (0-1), Thursday, Sep 17, 8:20 PM (:football: good game)
+Houston Texans (0-0) at Kansas City Chiefs (0-0), Thursday, Sep 10, 8:20 PM
 
-<br/>New York Giants (0-1) at Chicago Bears (1-0), Sunday, Sep 20, 1:00 PM (:football: good game)
+<br/>Seattle Seahawks (0-0) at Atlanta Falcons (0-0), Sunday, Sep 13, 1:00 PM (:football: good game)
 
-Minnesota Vikings (0-1) at Indianapolis Colts (0-1), Sunday, Sep 20, 1:00 PM (:red_circle: bad game)
+New York Jets (0-0) at Buffalo Bills (0-0), Sunday, Sep 13, 1:00 PM
 
-Atlanta Falcons (0-1) at Dallas Cowboys (0-1), Sunday, Sep 20, 1:00 PM (:football: good game)
+Las Vegas Raiders (0-0) at Carolina Panthers (0-0), Sunday, Sep 13, 1:00 PM (:football: good game)
 
-Detroit Lions (0-1) at Green Bay Packers (1-0), Sunday, Sep 20, 1:00 PM (:red_circle: bad game)
+Chicago Bears (0-0) at Detroit Lions (0-0), Sunday, Sep 13, 1:00 PM (:football: good game)
 
-Buffalo Bills (1-0) at Miami Dolphins (0-1), Sunday, Sep 20, 1:00 PM (:football: good game)
+Indianapolis Colts (0-0) at Jacksonville Jaguars (0-0), Sunday, Sep 13, 1:00 PM (:football: good game)
 
-San Francisco 49ers (0-1) at New York Jets (0-1), Sunday, Sep 20, 1:00 PM (:red_circle: bad game)
+Green Bay Packers (0-0) at Minnesota Vikings (0-0), Sunday, Sep 13, 1:00 PM (:football: good game)
 
-Jacksonville Jaguars (1-0) at Tennessee Titans (1-0), Sunday, Sep 20, 1:00 PM (:football: good game)
+Miami Dolphins (0-0) at New England Patriots (0-0), Sunday, Sep 13, 1:00 PM
 
-Los Angeles Rams (1-0) at Philadelphia Eagles (0-1), Sunday, Sep 20, 1:00 PM (:red_circle: bad game)
+Cleveland Browns (0-0) at Baltimore Ravens (0-0), Sunday, Sep 13, 1:00 PM (:red_circle: bad game)
 
-Denver Broncos (0-1) at Pittsburgh Steelers (1-0), Sunday, Sep 20, 1:00 PM (:football: good game)
+Philadelphia Eagles (0-0) at Washington Football Team (0-0), Sunday, Sep 13, 1:00 PM (:football: good game)
 
-Carolina Panthers (0-1) at Tampa Bay Buccaneers (0-1), Sunday, Sep 20, 1:00 PM
+<br/>Los Angeles Chargers (0-0) at Cincinnati Bengals (0-0), Sunday, Sep 13, 4:05 PM (:football: good game)
 
-<br/>Washington Football Team (1-0) at Arizona Cardinals (1-0), Sunday, Sep 20, 4:05 PM
+Tampa Bay Buccaneers (0-0) at New Orleans Saints (0-0), Sunday, Sep 13, 4:25 PM
 
-Baltimore Ravens (1-0) at Houston Texans (0-1), Sunday, Sep 20, 4:25 PM (:red_circle: bad game)
+Arizona Cardinals (0-0) at San Francisco 49ers (0-0), Sunday, Sep 13, 4:25 PM (:football: good game)
 
-Kansas City Chiefs (1-0) at Los Angeles Chargers (1-0), Sunday, Sep 20, 4:25 PM (:football: good game)
+<br/>Dallas Cowboys (0-0) at Los Angeles Rams (0-0), Sunday, Sep 13, 8:20 PM (:football: good game)
 
-<br/>New England Patriots (1-0) at Seattle Seahawks (1-0), Sunday, Sep 20, 8:20 PM (:football: good game)
+<br/>Pittsburgh Steelers (0-0) at New York Giants (0-0), Monday, Sep 14, 7:15 PM
 
-<br/>New Orleans Saints (1-0) at Las Vegas Raiders (1-0), Monday, Sep 21, 8:15 PM
+<br/>Tennessee Titans (0-0) at Denver Broncos (0-0), Monday, Sep 14, 10:10 PM (:football: good game)
 

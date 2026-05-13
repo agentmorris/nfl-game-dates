@@ -3,31 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 week 11
+# Game info for 2018 week 10
 
-Green Bay Packers (4-4-1) at Seattle Seahawks (4-5), Thursday, Nov 15, 8:20 PM
+Carolina Panthers (6-2) at Pittsburgh Steelers (5-2-1), Thursday, Nov 8, 8:20 PM
 
-<br/>Dallas Cowboys (4-5) at Atlanta Falcons (4-5), Sunday, Nov 18, 1:00 PM
+<br/>Detroit Lions (3-5) at Chicago Bears (5-3), Sunday, Nov 11, 1:00 PM
 
-Tennessee Titans (5-4) at Indianapolis Colts (4-5), Sunday, Nov 18, 1:00 PM
+New Orleans Saints (7-1) at Cincinnati Bengals (5-3), Sunday, Nov 11, 1:00 PM
 
-Carolina Panthers (6-3) at Detroit Lions (3-6), Sunday, Nov 18, 1:00 PM
+Atlanta Falcons (4-4) at Cleveland Browns (2-6-1), Sunday, Nov 11, 1:00 PM
 
-Pittsburgh Steelers (6-2-1) at Jacksonville Jaguars (3-6), Sunday, Nov 18, 1:00 PM
+Jacksonville Jaguars (3-5) at Indianapolis Colts (3-5), Sunday, Nov 11, 1:00 PM
 
-Tampa Bay Buccaneers (3-6) at New York Giants (2-7), Sunday, Nov 18, 1:00 PM
+Arizona Cardinals (2-6) at Kansas City Chiefs (8-1), Sunday, Nov 11, 1:00 PM
 
-Cincinnati Bengals (5-4) at Baltimore Ravens (4-5), Sunday, Nov 18, 1:00 PM
+Buffalo Bills (2-7) at New York Jets (3-6), Sunday, Nov 11, 1:00 PM
 
-Houston Texans (6-3) at Washington Redskins (6-3), Sunday, Nov 18, 1:00 PM
+New England Patriots (7-2) at Tennessee Titans (4-4), Sunday, Nov 11, 1:00 PM
 
-<br/>Oakland Raiders (1-8) at Arizona Cardinals (2-7), Sunday, Nov 18, 4:05 PM
+Washington Redskins (5-3) at Tampa Bay Buccaneers (3-5), Sunday, Nov 11, 1:00 PM
 
-Denver Broncos (3-6) at Los Angeles Chargers (7-2), Sunday, Nov 18, 4:05 PM
+<br/>Los Angeles Chargers (6-2) at Oakland Raiders (1-7), Sunday, Nov 11, 4:05 PM
 
-Philadelphia Eagles (4-5) at New Orleans Saints (8-1), Sunday, Nov 18, 4:25 PM
+Miami Dolphins (5-4) at Green Bay Packers (3-4-1), Sunday, Nov 11, 4:25 PM
 
-<br/>Minnesota Vikings (5-3-1) at Chicago Bears (6-3), Sunday, Nov 18, 8:20 PM
+Seattle Seahawks (4-4) at Los Angeles Rams (8-1), Sunday, Nov 11, 4:25 PM
 
-<br/>Kansas City Chiefs (9-1) at Los Angeles Rams (9-1), Monday, Nov 19, 8:15 PM
+<br/>Dallas Cowboys (3-5) at Philadelphia Eagles (4-4), Sunday, Nov 11, 8:20 PM
+
+<br/>New York Giants (1-7) at San Francisco 49ers (2-7), Monday, Nov 12, 8:15 PM
 

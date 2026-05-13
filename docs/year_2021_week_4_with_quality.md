@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 5
+# Game info for 2021 week 4
 
-Los Angeles Rams (3-1) at Seattle Seahawks (2-2), Thursday, Oct 7, 8:20 PM (:football: good game)
+Jacksonville Jaguars (0-3) at Cincinnati Bengals (2-1), Thursday, Sep 30, 8:20 PM (:football: good game)
 
-<br/>New York Jets (1-3) at Atlanta Falcons (1-3), Sunday, Oct 10, 9:30 AM (:football: good game)
+<br/>Washington Football Team (1-2) at Atlanta Falcons (1-2), Sunday, Oct 3, 1:00 PM (:football: good game)
 
-<br/>Philadelphia Eagles (1-3) at Carolina Panthers (3-1), Sunday, Oct 10, 1:00 PM (:football: good game)
+Houston Texans (1-2) at Buffalo Bills (2-1), Sunday, Oct 3, 1:00 PM (:red_circle: bad game)
 
-Green Bay Packers (3-1) at Cincinnati Bengals (3-1), Sunday, Oct 10, 1:00 PM (:football: good game)
+Detroit Lions (0-3) at Chicago Bears (1-2), Sunday, Oct 3, 1:00 PM
 
-New England Patriots (1-3) at Houston Texans (1-3), Sunday, Oct 10, 1:00 PM (:football: good game)
+Carolina Panthers (3-0) at Dallas Cowboys (2-1), Sunday, Oct 3, 1:00 PM (:football: good game)
 
-Tennessee Titans (2-2) at Jacksonville Jaguars (0-4), Sunday, Oct 10, 1:00 PM (:red_circle: bad game)
+Indianapolis Colts (0-3) at Miami Dolphins (1-2), Sunday, Oct 3, 1:00 PM
 
-Detroit Lions (0-4) at Minnesota Vikings (1-3), Sunday, Oct 10, 1:00 PM (:football: good game)
+Cleveland Browns (2-1) at Minnesota Vikings (1-2), Sunday, Oct 3, 1:00 PM (:football: good game)
 
-Denver Broncos (3-1) at Pittsburgh Steelers (1-3), Sunday, Oct 10, 1:00 PM (:football: good game)
+New York Giants (0-3) at New Orleans Saints (2-1), Sunday, Oct 3, 1:00 PM (:football: good game)
 
-Miami Dolphins (1-3) at Tampa Bay Buccaneers (3-1), Sunday, Oct 10, 1:00 PM (:red_circle: bad game)
+Tennessee Titans (2-1) at New York Jets (0-3), Sunday, Oct 3, 1:00 PM (:football: good game)
 
-New Orleans Saints (2-2) at Washington Football Team (2-2), Sunday, Oct 10, 1:00 PM
+Kansas City Chiefs (1-2) at Philadelphia Eagles (1-2), Sunday, Oct 3, 1:00 PM (:football: good game)
 
-<br/>Chicago Bears (2-2) at Las Vegas Raiders (3-1), Sunday, Oct 10, 4:05 PM
+<br/>Arizona Cardinals (3-0) at Los Angeles Rams (3-0), Sunday, Oct 3, 4:05 PM (:red_circle: bad game)
 
-Cleveland Browns (3-1) at Los Angeles Chargers (3-1), Sunday, Oct 10, 4:05 PM (:football: good game)
+Seattle Seahawks (1-2) at San Francisco 49ers (2-1), Sunday, Oct 3, 4:05 PM (:football: good game)
 
-San Francisco 49ers (2-2) at Arizona Cardinals (4-0), Sunday, Oct 10, 4:25 PM (:football: good game)
+Baltimore Ravens (2-1) at Denver Broncos (3-0), Sunday, Oct 3, 4:25 PM
 
-New York Giants (1-3) at Dallas Cowboys (3-1), Sunday, Oct 10, 4:25 PM (:red_circle: bad game)
+Pittsburgh Steelers (1-2) at Green Bay Packers (2-1), Sunday, Oct 3, 4:25 PM
 
-<br/>Buffalo Bills (3-1) at Kansas City Chiefs (2-2), Sunday, Oct 10, 8:20 PM (:red_circle: bad game)
+<br/>Tampa Bay Buccaneers (2-1) at New England Patriots (1-2), Sunday, Oct 3, 8:20 PM (:football: good game)
 
-<br/>Indianapolis Colts (1-3) at Baltimore Ravens (3-1), Monday, Oct 11, 8:15 PM (:football: good game)
+<br/>Las Vegas Raiders (3-0) at Los Angeles Chargers (2-1), Monday, Oct 4, 8:15 PM
 

@@ -3,13 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 wild card
+# Game info for 2016 week 17
 
-Oakland Raiders at Houston Texans, Saturday, Jan 7, 4:35 PM
+Baltimore Ravens (8-7, eliminated) at Cincinnati Bengals (5-9-1, eliminated), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
 
-<br/>Detroit Lions at Seattle Seahawks, Saturday, Jan 7, 8:15 PM
+Jacksonville Jaguars (3-12, eliminated) at Indianapolis Colts (7-8, eliminated), Sunday, Jan 1, 1:00 PM (:football: good game)
 
-<br/>Miami Dolphins at Pittsburgh Steelers, Sunday, Jan 8, 1:05 PM
+New England Patriots (13-2) at Miami Dolphins (10-5), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
 
-<br/>New York Giants at Green Bay Packers, Sunday, Jan 8, 4:40 PM
+Chicago Bears (3-12, eliminated) at Minnesota Vikings (7-8, eliminated), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
+
+Buffalo Bills (7-8, eliminated) at New York Jets (4-11, eliminated), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
+
+Houston Texans (9-6) at Tennessee Titans (8-7, eliminated), Sunday, Jan 1, 1:00 PM (:football: good game)
+
+Dallas Cowboys (13-2) at Philadelphia Eagles (6-9, eliminated), Sunday, Jan 1, 1:00 PM
+
+Cleveland Browns (1-14, eliminated) at Pittsburgh Steelers (10-5), Sunday, Jan 1, 1:00 PM (:football: good game)
+
+Carolina Panthers (6-9, eliminated) at Tampa Bay Buccaneers (8-7), Sunday, Jan 1, 1:00 PM (:football: good game)
+
+<br/>New Orleans Saints (7-8, eliminated) at Atlanta Falcons (10-5), Sunday, Jan 1, 4:25 PM (:football: good game)
+
+Oakland Raiders (12-3) at Denver Broncos (8-7, eliminated), Sunday, Jan 1, 4:25 PM (:red_circle: bad game)
+
+Arizona Cardinals (6-8-1, eliminated) at Los Angeles Rams (4-11, eliminated), Sunday, Jan 1, 4:25 PM (:red_circle: bad game)
+
+Kansas City Chiefs (11-4) at San Diego Chargers (5-10, eliminated), Sunday, Jan 1, 4:25 PM (:football: good game)
+
+Seattle Seahawks (9-5-1) at San Francisco 49ers (2-13, eliminated), Sunday, Jan 1, 4:25 PM (:football: good game)
+
+New York Giants (10-5) at Washington Redskins (8-6-1), Sunday, Jan 1, 4:25 PM
+
+<br/>Green Bay Packers (9-6) at Detroit Lions (9-6), Sunday, Jan 1, 8:30 PM (:football: good game)
 

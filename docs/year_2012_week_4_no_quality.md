@@ -3,33 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 week 5
+# Game info for 2012 week 4
 
-Arizona Cardinals (4-0) at St. Louis Rams (2-2), Thursday, Oct 4, 8:20 PM
+Cleveland Browns (0-3) at Baltimore Ravens (2-1), Thursday, Sep 27, 8:30 PM
 
-<br/>Baltimore Ravens (3-1) at Kansas City Chiefs (1-3), Sunday, Oct 7, 1:02 PM
+<br/>Seattle Seahawks (2-1) at St. Louis Rams (1-2), Sunday, Sep 30, 1:00 PM
 
-Cleveland Browns (0-4) at New York Giants (2-2), Sunday, Oct 7, 1:02 PM
+New England Patriots (1-2) at Buffalo Bills (2-1), Sunday, Sep 30, 1:02 PM
 
-Philadelphia Eagles (3-1) at Pittsburgh Steelers (1-2), Sunday, Oct 7, 1:02 PM
+Carolina Panthers (1-2) at Atlanta Falcons (3-0), Sunday, Sep 30, 1:03 PM
 
-Miami Dolphins (1-3) at Cincinnati Bengals (3-1), Sunday, Oct 7, 1:03 PM
+Minnesota Vikings (2-1) at Detroit Lions (1-2), Sunday, Sep 30, 1:03 PM
 
-Green Bay Packers (2-2) at Indianapolis Colts (1-2), Sunday, Oct 7, 1:03 PM
+Tennessee Titans (1-2) at Houston Texans (3-0), Sunday, Sep 30, 1:03 PM
 
-Atlanta Falcons (4-0) at Washington Redskins (2-2), Sunday, Oct 7, 1:04 PM
+San Diego Chargers (2-1) at Kansas City Chiefs (1-2), Sunday, Sep 30, 1:03 PM
 
-<br/>Seattle Seahawks (2-2) at Carolina Panthers (1-3), Sunday, Oct 7, 4:04 PM
+San Francisco 49ers (2-1) at New York Jets (2-1), Sunday, Sep 30, 1:03 PM
 
-Chicago Bears (3-1) at Jacksonville Jaguars (1-3), Sunday, Oct 7, 4:05 PM
+<br/>Miami Dolphins (1-2) at Arizona Cardinals (3-0), Sunday, Sep 30, 4:05 PM
 
-Tennessee Titans (1-3) at Minnesota Vikings (3-1), Sunday, Oct 7, 4:15 PM
+Oakland Raiders (1-2) at Denver Broncos (1-2), Sunday, Sep 30, 4:05 PM
 
-Denver Broncos (2-2) at New England Patriots (2-2), Sunday, Oct 7, 4:25 PM
+Cincinnati Bengals (2-1) at Jacksonville Jaguars (1-2), Sunday, Sep 30, 4:05 PM
 
-Buffalo Bills (2-2) at San Francisco 49ers (3-1), Sunday, Oct 7, 4:25 PM
+New Orleans Saints (0-3) at Green Bay Packers (1-2), Sunday, Sep 30, 4:25 PM
 
-<br/>San Diego Chargers (3-1) at New Orleans Saints (0-4), Sunday, Oct 7, 8:31 PM
+Washington Redskins (1-2) at Tampa Bay Buccaneers (1-2), Sunday, Sep 30, 4:25 PM
 
-<br/>Houston Texans (4-0) at New York Jets (2-2), Monday, Oct 8, 8:40 PM
+<br/>New York Giants (2-1) at Philadelphia Eagles (2-1), Sunday, Sep 30, 8:30 PM
+
+<br/>Chicago Bears (2-1) at Dallas Cowboys (2-1), Monday, Oct 1, 8:40 PM
 

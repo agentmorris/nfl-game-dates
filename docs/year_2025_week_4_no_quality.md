@@ -3,32 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2025 week 5
+# Game info for 2025 week 4
 
-San Francisco 49ers (3-1) at Los Angeles Rams (3-1), Thursday, Oct 2, 8:15 PM
+Seattle Seahawks (2-1) at Arizona Cardinals (2-1), Thursday, Sep 25, 8:15 PM
 
-<br/>Minnesota Vikings (2-2) at Cleveland Browns (1-3), Sunday, Oct 5, 9:30 AM
+<br/>Minnesota Vikings (2-1) at Pittsburgh Steelers (2-1), Sunday, Sep 28, 9:30 AM
 
-<br/>Houston Texans (1-3) at Baltimore Ravens (1-3), Sunday, Oct 5, 1:00 PM
+<br/>Washington Commanders (2-1) at Atlanta Falcons (1-2), Sunday, Sep 28, 1:00 PM
 
-Miami Dolphins (1-3) at Carolina Panthers (1-3), Sunday, Oct 5, 1:00 PM
+New Orleans Saints (0-3) at Buffalo Bills (3-0), Sunday, Sep 28, 1:00 PM
 
-Las Vegas Raiders (1-3) at Indianapolis Colts (3-1), Sunday, Oct 5, 1:00 PM
+Cleveland Browns (1-2) at Detroit Lions (2-1), Sunday, Sep 28, 1:00 PM
 
-New York Giants (1-3) at New Orleans Saints (0-4), Sunday, Oct 5, 1:00 PM
+Tennessee Titans (0-3) at Houston Texans (0-3), Sunday, Sep 28, 1:00 PM
 
-Dallas Cowboys (1-2-1) at New York Jets (0-4), Sunday, Oct 5, 1:00 PM
+Carolina Panthers (1-2) at New England Patriots (1-2), Sunday, Sep 28, 1:00 PM
 
-Denver Broncos (2-2) at Philadelphia Eagles (4-0), Sunday, Oct 5, 1:00 PM
+Los Angeles Chargers (3-0) at New York Giants (0-3), Sunday, Sep 28, 1:00 PM
 
-<br/>Tennessee Titans (0-4) at Arizona Cardinals (2-2), Sunday, Oct 5, 4:05 PM
+Philadelphia Eagles (3-0) at Tampa Bay Buccaneers (3-0), Sunday, Sep 28, 1:00 PM
 
-Tampa Bay Buccaneers (3-1) at Seattle Seahawks (3-1), Sunday, Oct 5, 4:05 PM
+<br/>Indianapolis Colts (3-0) at Los Angeles Rams (2-1), Sunday, Sep 28, 4:05 PM
 
-Detroit Lions (3-1) at Cincinnati Bengals (2-2), Sunday, Oct 5, 4:25 PM
+Jacksonville Jaguars (2-1) at San Francisco 49ers (3-0), Sunday, Sep 28, 4:05 PM
 
-Washington Commanders (2-2) at Los Angeles Chargers (3-1), Sunday, Oct 5, 4:25 PM
+Baltimore Ravens (1-2) at Kansas City Chiefs (1-2), Sunday, Sep 28, 4:25 PM
 
-<br/>New England Patriots (2-2) at Buffalo Bills (4-0), Sunday, Oct 5, 8:20 PM
+Chicago Bears (1-2) at Las Vegas Raiders (1-2), Sunday, Sep 28, 4:25 PM
 
-<br/>Kansas City Chiefs (2-2) at Jacksonville Jaguars (3-1), Monday, Oct 6, 8:15 PM
+<br/>Green Bay Packers (2-1) at Dallas Cowboys (1-2), Sunday, Sep 28, 8:20 PM
+
+<br/>New York Jets (0-3) at Miami Dolphins (0-3), Monday, Sep 29, 7:15 PM
+
+Cincinnati Bengals (2-1) at Denver Broncos (1-2), Monday, Sep 29, 8:15 PM

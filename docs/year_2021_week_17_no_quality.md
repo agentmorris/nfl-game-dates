@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 18
+# Game info for 2021 week 17
 
-Kansas City Chiefs (11-5) at Denver Broncos (7-9), Saturday, Jan 8, 4:30 PM
+Atlanta Falcons (7-8) at Buffalo Bills (9-6), Sunday, Jan 2, 1:00 PM
 
-<br/>Dallas Cowboys (11-5) at Philadelphia Eagles (9-7), Saturday, Jan 8, 8:15 PM
+New York Giants (4-11) at Chicago Bears (5-10), Sunday, Jan 2, 1:00 PM
 
-<br/>New Orleans Saints (8-8) at Atlanta Falcons (7-9), Sunday, Jan 9, 1:00 PM
+Kansas City Chiefs (11-4) at Cincinnati Bengals (9-6), Sunday, Jan 2, 1:00 PM
 
-Cincinnati Bengals (10-6) at Cleveland Browns (7-9), Sunday, Jan 9, 1:00 PM
+Las Vegas Raiders (8-7) at Indianapolis Colts (9-6), Sunday, Jan 2, 1:00 PM
 
-Green Bay Packers (13-3) at Detroit Lions (2-13-1), Sunday, Jan 9, 1:00 PM
+Arizona Cardinals (10-5) at Dallas Cowboys (11-4), Sunday, Jan 2, 1:00 PM
 
-Tennessee Titans (11-5) at Houston Texans (4-12), Sunday, Jan 9, 1:00 PM
+Carolina Panthers (5-10) at New Orleans Saints (7-8), Sunday, Jan 2, 1:00 PM
 
-Indianapolis Colts (9-7) at Jacksonville Jaguars (2-14), Sunday, Jan 9, 1:00 PM
+Jacksonville Jaguars (2-13) at New England Patriots (9-6), Sunday, Jan 2, 1:00 PM
 
-New England Patriots (10-6) at Miami Dolphins (8-8), Sunday, Jan 9, 1:00 PM
+Tampa Bay Buccaneers (11-4) at New York Jets (4-11), Sunday, Jan 2, 1:00 PM
 
-Chicago Bears (6-10) at Minnesota Vikings (7-9), Sunday, Jan 9, 1:00 PM
+Miami Dolphins (8-7) at Tennessee Titans (10-5), Sunday, Jan 2, 1:00 PM
 
-Washington Football Team (6-10) at New York Giants (4-12), Sunday, Jan 9, 1:00 PM
+Philadelphia Eagles (8-7) at Washington Football Team (6-9), Sunday, Jan 2, 1:00 PM
 
-Pittsburgh Steelers (8-7-1) at Baltimore Ravens (8-8), Sunday, Jan 9, 1:00 PM
+<br/>Denver Broncos (7-8) at Los Angeles Chargers (8-7), Sunday, Jan 2, 4:05 PM
 
-Carolina Panthers (5-11) at Tampa Bay Buccaneers (12-4), Sunday, Jan 9, 1:00 PM
+Houston Texans (4-11) at San Francisco 49ers (8-7), Sunday, Jan 2, 4:05 PM
 
-<br/>New York Jets (4-12) at Buffalo Bills (10-6), Sunday, Jan 9, 4:25 PM
+Los Angeles Rams (11-4) at Baltimore Ravens (8-7), Sunday, Jan 2, 4:25 PM
 
-Seattle Seahawks (6-10) at Arizona Cardinals (11-5), Sunday, Jan 9, 4:25 PM
+Detroit Lions (2-12-1) at Seattle Seahawks (5-10), Sunday, Jan 2, 4:25 PM
 
-San Francisco 49ers (9-7) at Los Angeles Rams (12-4), Sunday, Jan 9, 4:25 PM
+<br/>Minnesota Vikings (7-8) at Green Bay Packers (12-3), Sunday, Jan 2, 8:20 PM
 
-<br/>Los Angeles Chargers (9-7) at Las Vegas Raiders (9-7), Sunday, Jan 9, 8:25 PM
+<br/>Cleveland Browns (7-8) at Pittsburgh Steelers (7-7-1), Monday, Jan 3, 8:15 PM
 

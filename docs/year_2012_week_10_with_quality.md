@@ -3,33 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 week 11
+# Game info for 2012 week 10
 
-Miami Dolphins (4-5) at Buffalo Bills (3-6), Thursday, Nov 15, 8:29 PM (:football: good game)
+Indianapolis Colts (5-3) at Jacksonville Jaguars (1-7), Thursday, Nov 8, 8:30 PM (:red_circle: bad game)
 
-<br/>New York Jets (3-6) at St. Louis Rams (3-5-1), Sunday, Nov 18, 1:00 PM
+<br/>Denver Broncos (5-3) at Carolina Panthers (2-6), Sunday, Nov 11, 1:02 PM (:red_circle: bad game)
 
-Green Bay Packers (6-3) at Detroit Lions (4-5), Sunday, Nov 18, 1:02 PM (:football: good game)
+Atlanta Falcons (8-0) at New Orleans Saints (3-5), Sunday, Nov 11, 1:02 PM (:football: good game)
 
-Arizona Cardinals (4-5) at Atlanta Falcons (8-1), Sunday, Nov 18, 1:03 PM (:football: good game)
+Buffalo Bills (3-5) at New England Patriots (5-3), Sunday, Nov 11, 1:02 PM (:football: good game)
 
-Jacksonville Jaguars (1-8) at Houston Texans (8-1), Sunday, Nov 18, 1:03 PM (:football: good game)
+Oakland Raiders (3-5) at Baltimore Ravens (6-2), Sunday, Nov 11, 1:02 PM (:red_circle: bad game)
 
-Cincinnati Bengals (4-5) at Kansas City Chiefs (1-8), Sunday, Nov 18, 1:03 PM (:red_circle: bad game)
+New York Giants (6-3) at Cincinnati Bengals (3-5), Sunday, Nov 11, 1:03 PM (:red_circle: bad game)
 
-Philadelphia Eagles (3-6) at Washington Redskins (3-6), Sunday, Nov 18, 1:03 PM (:red_circle: bad game)
+Tennessee Titans (3-6) at Miami Dolphins (4-4), Sunday, Nov 11, 1:03 PM (:red_circle: bad game)
 
-Tampa Bay Buccaneers (5-4) at Carolina Panthers (2-7), Sunday, Nov 18, 1:04 PM (:football: good game)
+San Diego Chargers (4-4) at Tampa Bay Buccaneers (4-4), Sunday, Nov 11, 1:03 PM (:football: good game)
 
-Cleveland Browns (2-7) at Dallas Cowboys (4-5), Sunday, Nov 18, 1:04 PM (:football: good game)
+Detroit Lions (4-4) at Minnesota Vikings (5-4), Sunday, Nov 11, 1:05 PM
 
-<br/>New Orleans Saints (4-5) at Oakland Raiders (3-6), Sunday, Nov 18, 4:05 PM (:red_circle: bad game)
+<br/>New York Jets (3-5) at Seattle Seahawks (5-4), Sunday, Nov 11, 4:06 PM (:red_circle: bad game)
 
-San Diego Chargers (4-5) at Denver Broncos (6-3), Sunday, Nov 18, 4:25 PM (:football: good game)
+Dallas Cowboys (3-5) at Philadelphia Eagles (3-5), Sunday, Nov 11, 4:25 PM (:football: good game)
 
-Indianapolis Colts (6-3) at New England Patriots (6-3), Sunday, Nov 18, 4:25 PM (:red_circle: bad game)
+St. Louis Rams (3-5) at San Francisco 49ers (6-2), Sunday, Nov 11, 4:25 PM (:football: good game)
 
-<br/>Baltimore Ravens (7-2) at Pittsburgh Steelers (6-3), Sunday, Nov 18, 8:30 PM (:football: good game)
+<br/>Houston Texans (7-1) at Chicago Bears (7-1), Sunday, Nov 11, 8:31 PM (:football: good game)
 
-<br/>Chicago Bears (7-2) at San Francisco 49ers (6-2-1), Monday, Nov 19, 8:40 PM (:red_circle: bad game)
+<br/>Kansas City Chiefs (1-7) at Pittsburgh Steelers (5-3), Monday, Nov 12, 8:40 PM (:football: good game)
 

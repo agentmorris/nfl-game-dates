@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2013 week 2
+# Game info for 2013 week 1
 
-New York Jets (1-0) at New England Patriots (1-0), Thursday, Sep 12, 8:29 PM (:football: good game)
+Baltimore Ravens (0-0) at Denver Broncos (0-0), Thursday, Sep 5, 9:13 PM (:football: good game)
 
-<br/>Carolina Panthers (0-1) at Buffalo Bills (0-1), Sunday, Sep 15, 1:02 PM (:football: good game)
+<br/>New England Patriots (0-0) at Buffalo Bills (0-0), Sunday, Sep 8, 1:02 PM (:football: good game)
 
-Miami Dolphins (1-0) at Indianapolis Colts (1-0), Sunday, Sep 15, 1:02 PM (:football: good game)
+Cincinnati Bengals (0-0) at Chicago Bears (0-0), Sunday, Sep 8, 1:02 PM (:football: good game)
 
-Washington Redskins (0-1) at Green Bay Packers (0-1), Sunday, Sep 15, 1:02 PM (:red_circle: bad game)
+Miami Dolphins (0-0) at Cleveland Browns (0-0), Sunday, Sep 8, 1:02 PM (:football: good game)
 
-Dallas Cowboys (1-0) at Kansas City Chiefs (1-0), Sunday, Sep 15, 1:02 PM (:football: good game)
+Oakland Raiders (0-0) at Indianapolis Colts (0-0), Sunday, Sep 8, 1:02 PM (:football: good game)
 
-San Diego Chargers (0-1) at Philadelphia Eagles (1-0), Sunday, Sep 15, 1:02 PM (:football: good game)
+Minnesota Vikings (0-0) at Detroit Lions (0-0), Sunday, Sep 8, 1:02 PM (:football: good game)
 
-Cleveland Browns (0-1) at Baltimore Ravens (0-1), Sunday, Sep 15, 1:02 PM (:football: good game)
+Tennessee Titans (0-0) at Pittsburgh Steelers (0-0), Sunday, Sep 8, 1:02 PM (:football: good game)
 
-St. Louis Rams (1-0) at Atlanta Falcons (0-1), Sunday, Sep 15, 1:03 PM (:football: good game)
+Kansas City Chiefs (0-0) at Jacksonville Jaguars (0-0), Sunday, Sep 8, 1:03 PM (:red_circle: bad game)
 
-Minnesota Vikings (0-1) at Chicago Bears (1-0), Sunday, Sep 15, 1:03 PM (:football: good game)
+Atlanta Falcons (0-0) at New Orleans Saints (0-0), Sunday, Sep 8, 1:03 PM (:football: good game)
 
-Tennessee Titans (1-0) at Houston Texans (1-0), Sunday, Sep 15, 1:03 PM (:football: good game)
+Tampa Bay Buccaneers (0-0) at New York Jets (0-0), Sunday, Sep 8, 1:03 PM (:football: good game)
 
-<br/>Detroit Lions (1-0) at Arizona Cardinals (0-1), Sunday, Sep 15, 4:05 PM (:football: good game)
+Seattle Seahawks (0-0) at Carolina Panthers (0-0), Sunday, Sep 8, 1:04 PM (:football: good game)
 
-New Orleans Saints (1-0) at Tampa Bay Buccaneers (0-1), Sunday, Sep 15, 4:05 PM (:football: good game)
+<br/>Arizona Cardinals (0-0) at St. Louis Rams (0-0), Sunday, Sep 8, 4:23 PM (:football: good game)
 
-Denver Broncos (1-0) at New York Giants (0-1), Sunday, Sep 15, 4:25 PM (:red_circle: bad game)
+Green Bay Packers (0-0) at San Francisco 49ers (0-0), Sunday, Sep 8, 4:26 PM (:football: good game)
 
-Jacksonville Jaguars (0-1) at Oakland Raiders (0-1), Sunday, Sep 15, 4:25 PM
+<br/>New York Giants (0-0) at Dallas Cowboys (0-0), Sunday, Sep 8, 8:30 PM (:football: good game)
 
-<br/>San Francisco 49ers (1-0) at Seattle Seahawks (1-0), Sunday, Sep 15, 8:31 PM (:red_circle: bad game)
+<br/>Philadelphia Eagles (0-0) at Washington Redskins (0-0), Monday, Sep 9, 7:10 PM (:football: good game)
 
-<br/>Pittsburgh Steelers (0-1) at Cincinnati Bengals (0-1), Monday, Sep 16, 8:41 PM
+<br/>Houston Texans (0-0) at San Diego Chargers (0-0), Monday, Sep 9, 10:25 PM (:football: good game)
 

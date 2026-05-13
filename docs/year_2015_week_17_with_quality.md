@@ -3,13 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2015 wild card
+# Game info for 2015 week 17
 
-Kansas City Chiefs at Houston Texans, Saturday, Jan 9, 4:35 PM
+New Orleans Saints (6-9, eliminated) at Atlanta Falcons (8-7, eliminated), Sunday, Jan 3, 1:02 PM (:football: good game)
 
-<br/>Pittsburgh Steelers at Cincinnati Bengals, Saturday, Jan 9, 8:15 PM
+New York Jets (10-5) at Buffalo Bills (7-8, eliminated), Sunday, Jan 3, 1:02 PM (:football: good game)
 
-<br/>Seattle Seahawks at Minnesota Vikings, Sunday, Jan 10, 1:05 PM
+Detroit Lions (6-9, eliminated) at Chicago Bears (6-9, eliminated), Sunday, Jan 3, 1:02 PM (:football: good game)
 
-<br/>Green Bay Packers at Washington Redskins, Sunday, Jan 10, 4:42 PM
+Baltimore Ravens (5-10, eliminated) at Cincinnati Bengals (11-4), Sunday, Jan 3, 1:02 PM (:football: good game)
+
+Pittsburgh Steelers (9-6) at Cleveland Browns (3-12, eliminated), Sunday, Jan 3, 1:02 PM
+
+Tennessee Titans (3-12, eliminated) at Indianapolis Colts (7-8, eliminated), Sunday, Jan 3, 1:02 PM (:football: good game)
+
+Jacksonville Jaguars (5-10, eliminated) at Houston Texans (8-7), Sunday, Jan 3, 1:02 PM (:red_circle: bad game)
+
+New England Patriots (12-3) at Miami Dolphins (5-10, eliminated), Sunday, Jan 3, 1:02 PM
+
+Washington Redskins (8-7) at Dallas Cowboys (4-11, eliminated), Sunday, Jan 3, 1:03 PM
+
+Philadelphia Eagles (6-9, eliminated) at New York Giants (6-9, eliminated), Sunday, Jan 3, 1:03 PM (:football: good game)
+
+<br/>Tampa Bay Buccaneers (6-9, eliminated) at Carolina Panthers (14-1), Sunday, Jan 3, 4:25 PM (:red_circle: bad game)
+
+Seattle Seahawks (9-6) at Arizona Cardinals (13-2), Sunday, Jan 3, 4:25 PM (:red_circle: bad game)
+
+San Diego Chargers (4-11, eliminated) at Denver Broncos (11-4), Sunday, Jan 3, 4:25 PM (:football: good game)
+
+St. Louis Rams (7-8, eliminated) at San Francisco 49ers (4-11, eliminated), Sunday, Jan 3, 4:25 PM (:football: good game)
+
+Oakland Raiders (7-8, eliminated) at Kansas City Chiefs (10-5), Sunday, Jan 3, 4:26 PM (:football: good game)
+
+<br/>Minnesota Vikings (10-5) at Green Bay Packers (10-5), Sunday, Jan 3, 8:30 PM (:football: good game)
 

@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2014 week 14
+# Game info for 2014 week 13
 
-Dallas Cowboys (8-4) at Chicago Bears (5-7), Thursday, Dec 4, 8:26 PM
+Chicago Bears (5-6) at Detroit Lions (7-4), Thursday, Nov 27, 12:39 PM
 
-<br/>Pittsburgh Steelers (7-5) at Cincinnati Bengals (8-3-1), Sunday, Dec 7, 1:02 PM
+<br/>Philadelphia Eagles (8-3) at Dallas Cowboys (8-3), Thursday, Nov 27, 4:36 PM
 
-Tampa Bay Buccaneers (2-10) at Detroit Lions (8-4), Sunday, Dec 7, 1:02 PM
+<br/>Seattle Seahawks (7-4) at San Francisco 49ers (7-4), Thursday, Nov 27, 8:31 PM
 
-Baltimore Ravens (7-5) at Miami Dolphins (7-5), Sunday, Dec 7, 1:02 PM
+<br/>Oakland Raiders (1-10) at St. Louis Rams (4-7), Sunday, Nov 30, 1:00 PM
 
-New York Jets (2-10) at Minnesota Vikings (5-7), Sunday, Dec 7, 1:02 PM
+Cleveland Browns (7-4) at Buffalo Bills (6-5), Sunday, Nov 30, 1:02 PM
 
-Indianapolis Colts (8-4) at Cleveland Browns (7-5), Sunday, Dec 7, 1:03 PM
+Washington Redskins (3-8) at Indianapolis Colts (7-4), Sunday, Nov 30, 1:02 PM
 
-Houston Texans (6-6) at Jacksonville Jaguars (2-10), Sunday, Dec 7, 1:03 PM
+Tennessee Titans (2-9) at Houston Texans (5-6), Sunday, Nov 30, 1:02 PM
 
-Carolina Panthers (3-8-1) at New Orleans Saints (5-7), Sunday, Dec 7, 1:03 PM
+Carolina Panthers (3-7-1) at Minnesota Vikings (4-7), Sunday, Nov 30, 1:02 PM
 
-New York Giants (3-9) at Tennessee Titans (2-10), Sunday, Dec 7, 1:03 PM
+New Orleans Saints (4-7) at Pittsburgh Steelers (7-4), Sunday, Nov 30, 1:02 PM
 
-St. Louis Rams (5-7) at Washington Redskins (3-9), Sunday, Dec 7, 1:03 PM
+San Diego Chargers (7-4) at Baltimore Ravens (7-4), Sunday, Nov 30, 1:02 PM
 
-<br/>Kansas City Chiefs (7-5) at Arizona Cardinals (9-3), Sunday, Dec 7, 4:05 PM
+Cincinnati Bengals (7-3-1) at Tampa Bay Buccaneers (2-9), Sunday, Nov 30, 1:02 PM
 
-Buffalo Bills (7-5) at Denver Broncos (9-3), Sunday, Dec 7, 4:05 PM
+New York Giants (3-8) at Jacksonville Jaguars (1-10), Sunday, Nov 30, 1:03 PM
 
-Seattle Seahawks (8-4) at Philadelphia Eagles (9-3), Sunday, Dec 7, 4:25 PM
+<br/>Arizona Cardinals (9-2) at Atlanta Falcons (4-7), Sunday, Nov 30, 4:05 PM
 
-San Francisco 49ers (7-5) at Oakland Raiders (1-11), Sunday, Dec 7, 4:25 PM
+New England Patriots (9-2) at Green Bay Packers (8-3), Sunday, Nov 30, 4:25 PM
 
-<br/>New England Patriots (9-3) at San Diego Chargers (8-4), Sunday, Dec 7, 8:30 PM
+<br/>Denver Broncos (8-3) at Kansas City Chiefs (7-4), Sunday, Nov 30, 8:32 PM
 
-<br/>Atlanta Falcons (5-7) at Green Bay Packers (9-3), Monday, Dec 8, 8:30 PM
+<br/>Miami Dolphins (6-5) at New York Jets (2-9), Monday, Dec 1, 8:30 PM
 

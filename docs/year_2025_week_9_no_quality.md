@@ -3,32 +3,32 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2025 week 10
+# Game info for 2025 week 9
 
-Las Vegas Raiders (2-6) at Denver Broncos (7-2), Thursday, Nov 6, 8:15 PM
+Baltimore Ravens (2-5) at Miami Dolphins (2-6), Thursday, Oct 30, 8:15 PM
 
-<br/>Atlanta Falcons (3-5) at Indianapolis Colts (7-2), Sunday, Nov 9, 9:30 AM
+<br/>Chicago Bears (4-3) at Cincinnati Bengals (3-5), Sunday, Nov 2, 1:00 PM
 
-<br/>New Orleans Saints (1-8) at Carolina Panthers (5-4), Sunday, Nov 9, 1:00 PM
+Minnesota Vikings (3-4) at Detroit Lions (5-2), Sunday, Nov 2, 1:00 PM
 
-New York Giants (2-7) at Chicago Bears (5-3), Sunday, Nov 9, 1:00 PM
+Carolina Panthers (4-4) at Green Bay Packers (5-1-1), Sunday, Nov 2, 1:00 PM
 
-Jacksonville Jaguars (5-3) at Houston Texans (3-5), Sunday, Nov 9, 1:00 PM
+Denver Broncos (6-2) at Houston Texans (3-4), Sunday, Nov 2, 1:00 PM
 
-Buffalo Bills (6-2) at Miami Dolphins (2-7), Sunday, Nov 9, 1:00 PM
+Atlanta Falcons (3-4) at New England Patriots (6-2), Sunday, Nov 2, 1:00 PM
 
-Baltimore Ravens (3-5) at Minnesota Vikings (4-4), Sunday, Nov 9, 1:00 PM
+San Francisco 49ers (5-3) at New York Giants (2-6), Sunday, Nov 2, 1:00 PM
 
-Cleveland Browns (2-6) at New York Jets (1-7), Sunday, Nov 9, 1:00 PM
+Indianapolis Colts (7-1) at Pittsburgh Steelers (4-3), Sunday, Nov 2, 1:00 PM
 
-New England Patriots (7-2) at Tampa Bay Buccaneers (6-2), Sunday, Nov 9, 1:00 PM
+Los Angeles Chargers (5-3) at Tennessee Titans (1-7), Sunday, Nov 2, 1:00 PM
 
-<br/>Arizona Cardinals (3-5) at Seattle Seahawks (6-2), Sunday, Nov 9, 4:05 PM
+<br/>New Orleans Saints (1-7) at Los Angeles Rams (5-2), Sunday, Nov 2, 4:05 PM
 
-Los Angeles Rams (6-2) at San Francisco 49ers (6-3), Sunday, Nov 9, 4:25 PM
+Jacksonville Jaguars (4-3) at Las Vegas Raiders (2-5), Sunday, Nov 2, 4:05 PM
 
-Detroit Lions (5-3) at Washington Commanders (3-6), Sunday, Nov 9, 4:25 PM
+Kansas City Chiefs (5-3) at Buffalo Bills (5-2), Sunday, Nov 2, 4:25 PM
 
-<br/>Pittsburgh Steelers (5-3) at Los Angeles Chargers (6-3), Sunday, Nov 9, 8:20 PM
+<br/>Seattle Seahawks (5-2) at Washington Commanders (3-5), Sunday, Nov 2, 8:20 PM
 
-<br/>Philadelphia Eagles (6-2) at Green Bay Packers (5-2-1), Monday, Nov 10, 8:15 PM
+<br/>Arizona Cardinals (2-5) at Dallas Cowboys (3-4-1), Monday, Nov 3, 8:15 PM

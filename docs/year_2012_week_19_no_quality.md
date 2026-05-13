@@ -3,9 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 championship
+# Game info for 2012 divisional
 
-San Francisco 49ers at Atlanta Falcons, Sunday, Jan 20, 3:05 PM
+Baltimore Ravens at Denver Broncos, Saturday, Jan 12, 4:36 PM
 
-<br/>Baltimore Ravens at New England Patriots, Sunday, Jan 20, 6:40 PM
+<br/>Green Bay Packers at San Francisco 49ers, Saturday, Jan 12, 8:25 PM
+
+<br/>Seattle Seahawks at Atlanta Falcons, Sunday, Jan 13, 1:05 PM
+
+<br/>Houston Texans at New England Patriots, Sunday, Jan 13, 4:40 PM
 

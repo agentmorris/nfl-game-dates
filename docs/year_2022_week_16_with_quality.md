@@ -3,35 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 week 17
+# Game info for 2022 week 16
 
-Dallas Cowboys (11-4) at Tennessee Titans (7-8), Thursday, Dec 29, 8:15 PM
+Jacksonville Jaguars (6-8) at New York Jets (7-7), Thursday, Dec 22, 8:15 PM
 
-<br/>Arizona Cardinals (4-11, eliminated) at Atlanta Falcons (5-10, eliminated), Sunday, Jan 1, 1:00 PM (:football: good game)
+<br/>Detroit Lions (7-7) at Carolina Panthers (5-9), Saturday, Dec 24, 1:00 PM
 
-Chicago Bears (3-12, eliminated) at Detroit Lions (7-8), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
+Buffalo Bills (11-3) at Chicago Bears (3-11, eliminated), Saturday, Dec 24, 1:00 PM (:football: good game)
 
-Jacksonville Jaguars (7-8) at Houston Texans (2-12-1, eliminated), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
+New Orleans Saints (5-9) at Cleveland Browns (6-8), Saturday, Dec 24, 1:00 PM (:football: good game)
 
-Denver Broncos (4-11, eliminated) at Kansas City Chiefs (12-3), Sunday, Jan 1, 1:00 PM (:football: good game)
+Seattle Seahawks (7-7) at Kansas City Chiefs (11-3), Saturday, Dec 24, 1:00 PM
 
-Miami Dolphins (8-7) at New England Patriots (7-8), Sunday, Jan 1, 1:00 PM (:football: good game)
+New York Giants (8-5-1) at Minnesota Vikings (11-3), Saturday, Dec 24, 1:00 PM (:football: good game)
 
-Indianapolis Colts (4-10-1, eliminated) at New York Giants (8-6-1), Sunday, Jan 1, 1:00 PM (:red_circle: bad game)
+Cincinnati Bengals (10-4) at New England Patriots (7-7), Saturday, Dec 24, 1:00 PM (:football: good game)
 
-New Orleans Saints (6-9) at Philadelphia Eagles (13-2), Sunday, Jan 1, 1:00 PM
+Houston Texans (1-12-1, eliminated) at Tennessee Titans (7-7), Saturday, Dec 24, 1:00 PM (:football: good game)
 
-Carolina Panthers (6-9) at Tampa Bay Buccaneers (7-8), Sunday, Jan 1, 1:00 PM (:football: good game)
+Atlanta Falcons (5-9) at Baltimore Ravens (9-5), Saturday, Dec 24, 1:00 PM (:football: good game)
 
-Cleveland Browns (6-9, eliminated) at Washington Commanders (7-7-1), Sunday, Jan 1, 1:00 PM (:football: good game)
+<br/>Washington Commanders (7-6-1) at San Francisco 49ers (10-4), Saturday, Dec 24, 4:05 PM
 
-<br/>San Francisco 49ers (11-4) at Las Vegas Raiders (6-9), Sunday, Jan 1, 4:05 PM (:football: good game)
+Philadelphia Eagles (13-1) at Dallas Cowboys (10-4), Saturday, Dec 24, 4:25 PM (:football: good game)
 
-New York Jets (7-8) at Seattle Seahawks (7-8), Sunday, Jan 1, 4:05 PM (:red_circle: bad game)
+<br/>Las Vegas Raiders (6-8) at Pittsburgh Steelers (6-8), Saturday, Dec 24, 8:15 PM (:football: good game)
 
-Minnesota Vikings (12-3) at Green Bay Packers (7-8), Sunday, Jan 1, 4:25 PM (:red_circle: bad game)
+<br/>Green Bay Packers (6-8) at Miami Dolphins (8-6), Sunday, Dec 25, 1:00 PM (:football: good game)
 
-Los Angeles Rams (5-10, eliminated) at Los Angeles Chargers (9-6), Sunday, Jan 1, 4:25 PM (:red_circle: bad game)
+<br/>Denver Broncos (4-10, eliminated) at Los Angeles Rams (4-10, eliminated), Sunday, Dec 25, 4:30 PM (:red_circle: bad game)
 
-<br/>Pittsburgh Steelers (7-8) at Baltimore Ravens (10-5), Sunday, Jan 1, 8:20 PM (:football: good game)
+<br/>Tampa Bay Buccaneers (6-8) at Arizona Cardinals (4-10, eliminated), Sunday, Dec 25, 8:20 PM (:football: good game)
+
+<br/>Los Angeles Chargers (8-6) at Indianapolis Colts (4-9-1), Monday, Dec 26, 8:15 PM (:red_circle: bad game)
 

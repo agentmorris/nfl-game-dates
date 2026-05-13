@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2009 week 3
+# Game info for 2009 week 2
 
-Green Bay Packers (1-1) at St. Louis Rams (0-2), Sunday, Sep 27, 1:00 PM
+Oakland Raiders (0-1) at Kansas City Chiefs (0-1), Sunday, Sep 20, 1:00 PM
 
-New York Giants (2-0) at Tampa Bay Buccaneers (0-2), Sunday, Sep 27, 1:00 PM
+Carolina Panthers (0-1) at Atlanta Falcons (1-0), Sunday, Sep 20, 1:02 PM
 
-Washington Redskins (1-1) at Detroit Lions (0-2), Sunday, Sep 27, 1:02 PM
+Cincinnati Bengals (0-1) at Green Bay Packers (1-0), Sunday, Sep 20, 1:02 PM
 
-Atlanta Falcons (2-0) at New England Patriots (1-1), Sunday, Sep 27, 1:02 PM
+New England Patriots (1-0) at New York Jets (1-0), Sunday, Sep 20, 1:02 PM
 
-Kansas City Chiefs (0-2) at Philadelphia Eagles (1-1), Sunday, Sep 27, 1:02 PM
+St. Louis Rams (0-1) at Washington Redskins (0-1), Sunday, Sep 20, 1:02 PM
 
-Cleveland Browns (0-2) at Baltimore Ravens (2-0), Sunday, Sep 27, 1:02 PM
+Minnesota Vikings (1-0) at Detroit Lions (0-1), Sunday, Sep 20, 1:03 PM
 
-Jacksonville Jaguars (0-2) at Houston Texans (1-1), Sunday, Sep 27, 1:03 PM
+Arizona Cardinals (0-1) at Jacksonville Jaguars (0-1), Sunday, Sep 20, 1:03 PM
 
-San Francisco 49ers (2-0) at Minnesota Vikings (2-0), Sunday, Sep 27, 1:03 PM
+Houston Texans (0-1) at Tennessee Titans (0-1), Sunday, Sep 20, 1:03 PM
 
-Tennessee Titans (0-2) at New York Jets (2-0), Sunday, Sep 27, 1:03 PM
+New Orleans Saints (1-0) at Philadelphia Eagles (1-0), Sunday, Sep 20, 1:04 PM
 
-<br/>New Orleans Saints (2-0) at Buffalo Bills (1-1), Sunday, Sep 27, 4:05 PM
+<br/>Tampa Bay Buccaneers (0-1) at Buffalo Bills (0-1), Sunday, Sep 20, 4:05 PM
 
-Chicago Bears (1-1) at Seattle Seahawks (1-1), Sunday, Sep 27, 4:06 PM
+Seattle Seahawks (1-0) at San Francisco 49ers (1-0), Sunday, Sep 20, 4:05 PM
 
-Pittsburgh Steelers (1-1) at Cincinnati Bengals (1-1), Sunday, Sep 27, 4:15 PM
+Pittsburgh Steelers (1-0) at Chicago Bears (0-1), Sunday, Sep 20, 4:15 PM
 
-Denver Broncos (2-0) at Oakland Raiders (1-1), Sunday, Sep 27, 4:15 PM
+Cleveland Browns (0-1) at Denver Broncos (1-0), Sunday, Sep 20, 4:15 PM
 
-Miami Dolphins (0-2) at San Diego Chargers (1-1), Sunday, Sep 27, 4:15 PM
+Baltimore Ravens (1-0) at San Diego Chargers (1-0), Sunday, Sep 20, 4:15 PM
 
-<br/>Indianapolis Colts (2-0) at Arizona Cardinals (1-1), Sunday, Sep 27, 8:31 PM
+<br/>New York Giants (1-0) at Dallas Cowboys (1-0), Sunday, Sep 20, 8:20 PM
 
-<br/>Carolina Panthers (0-2) at Dallas Cowboys (1-1), Monday, Sep 28, 8:40 PM
+<br/>Indianapolis Colts (1-0) at Miami Dolphins (0-1), Monday, Sep 21, 8:42 PM
 

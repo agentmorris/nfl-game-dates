@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 week 16
+# Game info for 2022 week 15
 
-Jacksonville Jaguars (6-8) at New York Jets (7-7), Thursday, Dec 22, 8:15 PM
+San Francisco 49ers (9-4) at Seattle Seahawks (7-6), Thursday, Dec 15, 8:15 PM (:football: good game)
 
-<br/>Detroit Lions (7-7) at Carolina Panthers (5-9), Saturday, Dec 24, 1:00 PM
+<br/>Indianapolis Colts (4-8-1) at Minnesota Vikings (10-3), Saturday, Dec 17, 1:00 PM (:football: good game)
 
-Buffalo Bills (11-3) at Chicago Bears (3-11, eliminated), Saturday, Dec 24, 1:00 PM (:football: good game)
+<br/>Baltimore Ravens (9-4) at Cleveland Browns (5-8), Saturday, Dec 17, 4:30 PM
 
-New Orleans Saints (5-9) at Cleveland Browns (6-8), Saturday, Dec 24, 1:00 PM (:football: good game)
+<br/>Miami Dolphins (8-5) at Buffalo Bills (10-3), Saturday, Dec 17, 8:15 PM (:football: good game)
 
-Seattle Seahawks (7-7) at Kansas City Chiefs (11-3), Saturday, Dec 24, 1:00 PM
+<br/>Pittsburgh Steelers (5-8) at Carolina Panthers (5-8), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-New York Giants (8-5-1) at Minnesota Vikings (11-3), Saturday, Dec 24, 1:00 PM (:football: good game)
+Philadelphia Eagles (12-1) at Chicago Bears (3-10, eliminated), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Cincinnati Bengals (10-4) at New England Patriots (7-7), Saturday, Dec 24, 1:00 PM (:football: good game)
+Kansas City Chiefs (10-3) at Houston Texans (1-11-1, eliminated), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Houston Texans (1-12-1, eliminated) at Tennessee Titans (7-7), Saturday, Dec 24, 1:00 PM (:football: good game)
+Dallas Cowboys (10-3) at Jacksonville Jaguars (5-8), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Atlanta Falcons (5-9) at Baltimore Ravens (9-5), Saturday, Dec 24, 1:00 PM (:football: good game)
+Atlanta Falcons (5-8) at New Orleans Saints (4-9), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-<br/>Washington Commanders (7-6-1) at San Francisco 49ers (10-4), Saturday, Dec 24, 4:05 PM
+Detroit Lions (6-7) at New York Jets (7-6), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Philadelphia Eagles (13-1) at Dallas Cowboys (10-4), Saturday, Dec 24, 4:25 PM (:football: good game)
+<br/>Arizona Cardinals (4-9) at Denver Broncos (3-10, eliminated), Sunday, Dec 18, 4:05 PM (:football: good game)
 
-<br/>Las Vegas Raiders (6-8) at Pittsburgh Steelers (6-8), Saturday, Dec 24, 8:15 PM (:football: good game)
+Tennessee Titans (7-6) at Los Angeles Chargers (7-6), Sunday, Dec 18, 4:25 PM (:football: good game)
 
-<br/>Green Bay Packers (6-8) at Miami Dolphins (8-6), Sunday, Dec 25, 1:00 PM (:football: good game)
+Cincinnati Bengals (9-4) at Tampa Bay Buccaneers (6-7), Sunday, Dec 18, 4:25 PM (:football: good game)
 
-<br/>Denver Broncos (4-10, eliminated) at Los Angeles Rams (4-10, eliminated), Sunday, Dec 25, 4:30 PM (:red_circle: bad game)
+<br/>New York Giants (7-5-1) at Washington Commanders (7-5-1), Sunday, Dec 18, 8:15 PM (:football: good game)
 
-<br/>Tampa Bay Buccaneers (6-8) at Arizona Cardinals (4-10, eliminated), Sunday, Dec 25, 8:20 PM (:football: good game)
+New England Patriots (7-6) at Las Vegas Raiders (5-8), Sunday, Dec 18, 8:20 PM (:football: good game)
 
-<br/>Los Angeles Chargers (8-6) at Indianapolis Colts (4-9-1), Monday, Dec 26, 8:15 PM (:red_circle: bad game)
+<br/>Los Angeles Rams (4-9) at Green Bay Packers (5-8), Monday, Dec 19, 8:15 PM
 

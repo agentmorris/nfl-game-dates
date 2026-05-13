@@ -3,37 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2010 week 11
+# Game info for 2010 week 10
 
-Chicago Bears (6-3) at Miami Dolphins (5-4), Thursday, Nov 18, 8:29 PM
+Baltimore Ravens (6-2) at Atlanta Falcons (6-2), Thursday, Nov 11, 8:31 PM
 
-<br/>Buffalo Bills (1-8) at Cincinnati Bengals (2-7), Sunday, Nov 21, 1:02 PM
+<br/>Detroit Lions (2-6) at Buffalo Bills (0-8), Sunday, Nov 14, 1:02 PM
 
-Detroit Lions (2-7) at Dallas Cowboys (2-7), Sunday, Nov 21, 1:02 PM
+Minnesota Vikings (3-5) at Chicago Bears (5-3), Sunday, Nov 14, 1:02 PM
 
-Oakland Raiders (5-4) at Pittsburgh Steelers (6-3), Sunday, Nov 21, 1:02 PM
+New York Jets (6-2) at Cleveland Browns (3-5), Sunday, Nov 14, 1:02 PM
 
-Cleveland Browns (3-6) at Jacksonville Jaguars (5-4), Sunday, Nov 21, 1:03 PM
+Cincinnati Bengals (2-6) at Indianapolis Colts (5-3), Sunday, Nov 14, 1:02 PM
 
-Arizona Cardinals (3-6) at Kansas City Chiefs (5-4), Sunday, Nov 21, 1:03 PM
+Tennessee Titans (5-3) at Miami Dolphins (4-4), Sunday, Nov 14, 1:02 PM
 
-Houston Texans (4-5) at New York Jets (7-2), Sunday, Nov 21, 1:03 PM
+Carolina Panthers (1-7) at Tampa Bay Buccaneers (5-3), Sunday, Nov 14, 1:02 PM
 
-Washington Redskins (4-5) at Tennessee Titans (5-4), Sunday, Nov 21, 1:03 PM
+Houston Texans (4-4) at Jacksonville Jaguars (4-4), Sunday, Nov 14, 1:04 PM
 
-Baltimore Ravens (6-3) at Carolina Panthers (1-8), Sunday, Nov 21, 1:04 PM
+<br/>Kansas City Chiefs (5-3) at Denver Broncos (2-6), Sunday, Nov 14, 4:05 PM
 
-Green Bay Packers (6-3) at Minnesota Vikings (3-6), Sunday, Nov 21, 1:05 PM
+Seattle Seahawks (4-4) at Arizona Cardinals (3-5), Sunday, Nov 14, 4:15 PM
 
-<br/>Seattle Seahawks (5-4) at New Orleans Saints (6-3), Sunday, Nov 21, 4:05 PM
+Dallas Cowboys (1-7) at New York Giants (6-2), Sunday, Nov 14, 4:15 PM
 
-Atlanta Falcons (7-2) at St. Louis Rams (4-5), Sunday, Nov 21, 4:05 PM
+St. Louis Rams (4-4) at San Francisco 49ers (2-6), Sunday, Nov 14, 4:15 PM
 
-Tampa Bay Buccaneers (6-3) at San Francisco 49ers (3-6), Sunday, Nov 21, 4:05 PM
+<br/>New England Patriots (6-2) at Pittsburgh Steelers (6-2), Sunday, Nov 14, 8:30 PM
 
-Indianapolis Colts (6-3) at New England Patriots (7-2), Sunday, Nov 21, 4:15 PM
-
-<br/>New York Giants (6-3) at Philadelphia Eagles (6-3), Sunday, Nov 21, 8:30 PM
-
-<br/>Denver Broncos (3-6) at San Diego Chargers (4-5), Monday, Nov 22, 8:40 PM
+<br/>Philadelphia Eagles (5-3) at Washington Redskins (4-4), Monday, Nov 15, 8:40 PM
 

@@ -3,9 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2019 championship
+# Game info for 2019 divisional
 
-Tennessee Titans at Kansas City Chiefs, Sunday, Jan 19, 3:05 PM
+Minnesota Vikings at San Francisco 49ers, Saturday, Jan 11, 4:35 PM
 
-<br/>Green Bay Packers at San Francisco 49ers, Sunday, Jan 19, 6:40 PM
+<br/>Tennessee Titans at Baltimore Ravens, Saturday, Jan 11, 8:15 PM
+
+<br/>Houston Texans at Kansas City Chiefs, Sunday, Jan 12, 3:05 PM
+
+<br/>Seattle Seahawks at Green Bay Packers, Sunday, Jan 12, 6:40 PM
 

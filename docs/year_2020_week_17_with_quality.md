@@ -3,17 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 wild card
+# Game info for 2020 week 17
 
-Indianapolis Colts at Buffalo Bills, Saturday, Jan 9, 1:05 PM
+Miami Dolphins (10-5) at Buffalo Bills (12-3), Sunday, Jan 3, 1:00 PM (:red_circle: bad game)
 
-<br/>Los Angeles Rams at Seattle Seahawks, Saturday, Jan 9, 4:40 PM
+Baltimore Ravens (10-5) at Cincinnati Bengals (4-10-1, eliminated), Sunday, Jan 3, 1:00 PM (:red_circle: bad game)
 
-<br/>Tampa Bay Buccaneers at Washington Football Team, Saturday, Jan 9, 8:15 PM
+Pittsburgh Steelers (12-3) at Cleveland Browns (10-5), Sunday, Jan 3, 1:00 PM (:football: good game)
 
-<br/>Baltimore Ravens at Tennessee Titans, Sunday, Jan 10, 1:05 PM
+Minnesota Vikings (6-9, eliminated) at Detroit Lions (5-10, eliminated), Sunday, Jan 3, 1:00 PM (:football: good game)
 
-<br/>Chicago Bears at New Orleans Saints, Sunday, Jan 10, 4:40 PM
+New York Jets (2-13, eliminated) at New England Patriots (6-9, eliminated), Sunday, Jan 3, 1:00 PM
 
-<br/>Cleveland Browns at Pittsburgh Steelers, Sunday, Jan 10, 8:15 PM
+Dallas Cowboys (6-9, eliminated) at New York Giants (5-10, eliminated), Sunday, Jan 3, 1:00 PM (:football: good game)
+
+Atlanta Falcons (4-11, eliminated) at Tampa Bay Buccaneers (10-5), Sunday, Jan 3, 1:00 PM (:red_circle: bad game)
+
+<br/>New Orleans Saints (11-4) at Carolina Panthers (5-10, eliminated), Sunday, Jan 3, 4:25 PM (:red_circle: bad game)
+
+Green Bay Packers (12-3) at Chicago Bears (8-7), Sunday, Jan 3, 4:25 PM (:red_circle: bad game)
+
+Jacksonville Jaguars (1-14, eliminated) at Indianapolis Colts (10-5), Sunday, Jan 3, 4:25 PM
+
+Las Vegas Raiders (7-8, eliminated) at Denver Broncos (5-10, eliminated), Sunday, Jan 3, 4:25 PM (:football: good game)
+
+Tennessee Titans (10-5) at Houston Texans (4-11, eliminated), Sunday, Jan 3, 4:25 PM (:football: good game)
+
+Los Angeles Chargers (6-9, eliminated) at Kansas City Chiefs (14-1), Sunday, Jan 3, 4:25 PM (:red_circle: bad game)
+
+Arizona Cardinals (8-7) at Los Angeles Rams (9-6), Sunday, Jan 3, 4:25 PM
+
+Seattle Seahawks (11-4) at San Francisco 49ers (6-9, eliminated), Sunday, Jan 3, 4:25 PM (:football: good game)
+
+<br/>Washington Football Team (6-9, eliminated) at Philadelphia Eagles (4-10-1, eliminated), Sunday, Jan 3, 8:20 PM (:football: good game)
 

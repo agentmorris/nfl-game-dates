@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2017 week 4
+# Game info for 2017 week 3
 
-Chicago Bears (1-2) at Green Bay Packers (2-1), Thursday, Sep 28, 8:25 PM
+Los Angeles Rams (1-1) at San Francisco 49ers (0-2), Thursday, Sep 21, 8:25 PM
 
-<br/>New Orleans Saints (1-2) at Miami Dolphins (1-1), Sunday, Oct 1, 9:30 AM
+<br/>Baltimore Ravens (2-0) at Jacksonville Jaguars (1-1), Sunday, Sep 24, 9:30 AM
 
-<br/>Buffalo Bills (2-1) at Atlanta Falcons (3-0), Sunday, Oct 1, 1:00 PM
+<br/>Denver Broncos (2-0) at Buffalo Bills (1-1), Sunday, Sep 24, 1:00 PM
 
-Cincinnati Bengals (0-3) at Cleveland Browns (0-3), Sunday, Oct 1, 1:00 PM
+New Orleans Saints (0-2) at Carolina Panthers (2-0), Sunday, Sep 24, 1:00 PM
 
-Los Angeles Rams (2-1) at Dallas Cowboys (2-1), Sunday, Oct 1, 1:00 PM
+Pittsburgh Steelers (2-0) at Chicago Bears (0-2), Sunday, Sep 24, 1:00 PM
 
-Tennessee Titans (2-1) at Houston Texans (1-2), Sunday, Oct 1, 1:00 PM
+Cleveland Browns (0-2) at Indianapolis Colts (0-2), Sunday, Sep 24, 1:00 PM
 
-Detroit Lions (2-1) at Minnesota Vikings (2-1), Sunday, Oct 1, 1:00 PM
+Atlanta Falcons (2-0) at Detroit Lions (2-0), Sunday, Sep 24, 1:00 PM
 
-Carolina Panthers (2-1) at New England Patriots (2-1), Sunday, Oct 1, 1:00 PM
+Tampa Bay Buccaneers (1-0) at Minnesota Vikings (1-1), Sunday, Sep 24, 1:00 PM
 
-Jacksonville Jaguars (2-1) at New York Jets (1-2), Sunday, Oct 1, 1:00 PM
+Houston Texans (1-1) at New England Patriots (1-1), Sunday, Sep 24, 1:00 PM
 
-Pittsburgh Steelers (2-1) at Baltimore Ravens (2-1), Sunday, Oct 1, 1:00 PM
+Miami Dolphins (1-0) at New York Jets (0-2), Sunday, Sep 24, 1:00 PM
 
-<br/>San Francisco 49ers (0-3) at Arizona Cardinals (1-2), Sunday, Oct 1, 4:05 PM
+New York Giants (0-2) at Philadelphia Eagles (1-1), Sunday, Sep 24, 1:00 PM
 
-Philadelphia Eagles (2-1) at Los Angeles Chargers (0-3), Sunday, Oct 1, 4:05 PM
+<br/>Seattle Seahawks (1-1) at Tennessee Titans (1-1), Sunday, Sep 24, 4:05 PM
 
-New York Giants (0-3) at Tampa Bay Buccaneers (1-1), Sunday, Oct 1, 4:05 PM
+Cincinnati Bengals (0-2) at Green Bay Packers (1-1), Sunday, Sep 24, 4:25 PM
 
-Oakland Raiders (2-1) at Denver Broncos (2-1), Sunday, Oct 1, 4:25 PM
+Kansas City Chiefs (2-0) at Los Angeles Chargers (0-2), Sunday, Sep 24, 4:25 PM
 
-<br/>Indianapolis Colts (1-2) at Seattle Seahawks (1-2), Sunday, Oct 1, 8:30 PM
+<br/>Oakland Raiders (2-0) at Washington Redskins (1-1), Sunday, Sep 24, 8:30 PM
 
-<br/>Washington Redskins (2-1) at Kansas City Chiefs (3-0), Monday, Oct 2, 8:30 PM
+<br/>Dallas Cowboys (1-1) at Arizona Cardinals (1-1), Monday, Sep 25, 8:30 PM
 

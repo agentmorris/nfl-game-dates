@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 3
+# Game info for 2021 week 2
 
-Carolina Panthers (2-0) at Houston Texans (1-1), Thursday, Sep 23, 8:20 PM
+New York Giants (0-1) at Washington Football Team (0-1), Thursday, Sep 16, 8:20 PM (:football: good game)
 
-<br/>Washington Football Team (1-1) at Buffalo Bills (1-1), Sunday, Sep 26, 1:00 PM (:red_circle: bad game)
+<br/>New Orleans Saints (1-0) at Carolina Panthers (1-0), Sunday, Sep 19, 1:00 PM (:red_circle: bad game)
 
-Chicago Bears (1-1) at Cleveland Browns (1-1), Sunday, Sep 26, 1:00 PM (:red_circle: bad game)
+Cincinnati Bengals (1-0) at Chicago Bears (0-1), Sunday, Sep 19, 1:00 PM (:football: good game)
 
-Baltimore Ravens (1-1) at Detroit Lions (0-2), Sunday, Sep 26, 1:00 PM (:football: good game)
+Houston Texans (1-0) at Cleveland Browns (0-1), Sunday, Sep 19, 1:00 PM
 
-Arizona Cardinals (2-0) at Jacksonville Jaguars (0-2), Sunday, Sep 26, 1:00 PM (:football: good game)
+Los Angeles Rams (1-0) at Indianapolis Colts (0-1), Sunday, Sep 19, 1:00 PM (:football: good game)
 
-Los Angeles Chargers (1-1) at Kansas City Chiefs (1-1), Sunday, Sep 26, 1:00 PM (:football: good game)
+Denver Broncos (1-0) at Jacksonville Jaguars (0-1), Sunday, Sep 19, 1:00 PM
 
-New Orleans Saints (1-1) at New England Patriots (1-1), Sunday, Sep 26, 1:00 PM
+Buffalo Bills (0-1) at Miami Dolphins (1-0), Sunday, Sep 19, 1:00 PM (:red_circle: bad game)
 
-Atlanta Falcons (0-2) at New York Giants (0-2), Sunday, Sep 26, 1:00 PM (:football: good game)
+New England Patriots (0-1) at New York Jets (0-1), Sunday, Sep 19, 1:00 PM (:red_circle: bad game)
 
-Indianapolis Colts (0-2) at Tennessee Titans (1-1), Sunday, Sep 26, 1:00 PM
+San Francisco 49ers (1-0) at Philadelphia Eagles (1-0), Sunday, Sep 19, 1:00 PM (:football: good game)
 
-Cincinnati Bengals (1-1) at Pittsburgh Steelers (1-1), Sunday, Sep 26, 1:00 PM
+Las Vegas Raiders (1-0) at Pittsburgh Steelers (1-0), Sunday, Sep 19, 1:00 PM
 
-<br/>New York Jets (0-2) at Denver Broncos (2-0), Sunday, Sep 26, 4:05 PM (:red_circle: bad game)
+<br/>Minnesota Vikings (0-1) at Arizona Cardinals (1-0), Sunday, Sep 19, 4:05 PM (:football: good game)
 
-Miami Dolphins (1-1) at Las Vegas Raiders (2-0), Sunday, Sep 26, 4:05 PM (:football: good game)
+Atlanta Falcons (0-1) at Tampa Bay Buccaneers (1-0), Sunday, Sep 19, 4:05 PM (:red_circle: bad game)
 
-Seattle Seahawks (1-1) at Minnesota Vikings (0-2), Sunday, Sep 26, 4:25 PM
+Dallas Cowboys (0-1) at Los Angeles Chargers (1-0), Sunday, Sep 19, 4:25 PM (:football: good game)
 
-Tampa Bay Buccaneers (2-0) at Los Angeles Rams (2-0), Sunday, Sep 26, 4:25 PM
+Tennessee Titans (0-1) at Seattle Seahawks (1-0), Sunday, Sep 19, 4:25 PM (:football: good game)
 
-<br/>Green Bay Packers (1-1) at San Francisco 49ers (2-0), Sunday, Sep 26, 8:20 PM (:football: good game)
+<br/>Kansas City Chiefs (1-0) at Baltimore Ravens (0-1), Sunday, Sep 19, 8:20 PM (:football: good game)
 
-<br/>Philadelphia Eagles (1-1) at Dallas Cowboys (1-1), Monday, Sep 27, 8:15 PM (:red_circle: bad game)
+<br/>Detroit Lions (0-1) at Green Bay Packers (0-1), Monday, Sep 20, 8:15 PM (:football: good game)
 

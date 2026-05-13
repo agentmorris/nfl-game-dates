@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 week 15
+# Game info for 2020 week 14
 
-Los Angeles Chargers (4-9) at Las Vegas Raiders (7-6), Thursday, Dec 17, 8:20 PM
+New England Patriots (6-6) at Los Angeles Rams (8-4), Thursday, Dec 10, 8:20 PM
 
-<br/>Buffalo Bills (10-3) at Denver Broncos (5-8), Saturday, Dec 19, 4:30 PM
+<br/>Denver Broncos (4-8) at Carolina Panthers (4-8), Sunday, Dec 13, 1:00 PM
 
-<br/>Carolina Panthers (4-9) at Green Bay Packers (10-3), Saturday, Dec 19, 8:15 PM
+Houston Texans (4-8) at Chicago Bears (5-7), Sunday, Dec 13, 1:00 PM
 
-<br/>Tampa Bay Buccaneers (8-5) at Atlanta Falcons (4-9), Sunday, Dec 20, 1:00 PM
+Dallas Cowboys (3-9) at Cincinnati Bengals (2-9-1), Sunday, Dec 13, 1:00 PM
 
-Houston Texans (4-9) at Indianapolis Colts (9-4), Sunday, Dec 20, 1:00 PM
+Tennessee Titans (8-4) at Jacksonville Jaguars (1-11), Sunday, Dec 13, 1:00 PM
 
-San Francisco 49ers (5-8) at Dallas Cowboys (4-9), Sunday, Dec 20, 1:00 PM
+Kansas City Chiefs (11-1) at Miami Dolphins (8-4), Sunday, Dec 13, 1:00 PM
 
-New England Patriots (6-7) at Miami Dolphins (8-5), Sunday, Dec 20, 1:00 PM
+Arizona Cardinals (6-6) at New York Giants (5-7), Sunday, Dec 13, 1:00 PM
 
-Chicago Bears (6-7) at Minnesota Vikings (6-7), Sunday, Dec 20, 1:00 PM
+Minnesota Vikings (6-6) at Tampa Bay Buccaneers (7-5), Sunday, Dec 13, 1:00 PM
 
-Detroit Lions (5-8) at Tennessee Titans (9-4), Sunday, Dec 20, 1:00 PM
+<br/>Indianapolis Colts (8-4) at Las Vegas Raiders (7-5), Sunday, Dec 13, 4:05 PM
 
-Jacksonville Jaguars (1-12) at Baltimore Ravens (8-5), Sunday, Dec 20, 1:00 PM
+New York Jets (0-12) at Seattle Seahawks (8-4), Sunday, Dec 13, 4:05 PM
 
-Seattle Seahawks (9-4) at Washington Football Team (6-7), Sunday, Dec 20, 1:00 PM
+Green Bay Packers (9-3) at Detroit Lions (5-7), Sunday, Dec 13, 4:25 PM
 
-<br/>Philadelphia Eagles (4-8-1) at Arizona Cardinals (7-6), Sunday, Dec 20, 4:05 PM
+New Orleans Saints (10-2) at Philadelphia Eagles (3-8-1), Sunday, Dec 13, 4:25 PM
 
-New York Jets (0-13) at Los Angeles Rams (9-4), Sunday, Dec 20, 4:05 PM
+Atlanta Falcons (4-8) at Los Angeles Chargers (3-9), Sunday, Dec 13, 4:25 PM
 
-Kansas City Chiefs (12-1) at New Orleans Saints (10-3), Sunday, Dec 20, 4:25 PM
+Washington Football Team (5-7) at San Francisco 49ers (5-7), Sunday, Dec 13, 4:25 PM
 
-<br/>Cleveland Browns (9-4) at New York Giants (5-8), Sunday, Dec 20, 8:20 PM
+<br/>Pittsburgh Steelers (11-1) at Buffalo Bills (9-3), Sunday, Dec 13, 8:20 PM
 
-<br/>Pittsburgh Steelers (11-2) at Cincinnati Bengals (2-10-1), Monday, Dec 21, 8:15 PM
+<br/>Baltimore Ravens (7-5) at Cleveland Browns (9-3), Monday, Dec 14, 8:15 PM
 

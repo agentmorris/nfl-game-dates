@@ -3,33 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2013 week 5
+# Game info for 2013 week 4
 
-Buffalo Bills (2-2) at Cleveland Browns (2-2), Thursday, Oct 3, 8:29 PM
+San Francisco 49ers (1-2) at St. Louis Rams (1-2), Thursday, Sep 26, 8:25 PM
 
-<br/>Jacksonville Jaguars (0-4) at St. Louis Rams (1-3), Sunday, Oct 6, 1:00 PM
+<br/>Baltimore Ravens (2-1) at Buffalo Bills (1-2), Sunday, Sep 29, 1:02 PM
 
-New Orleans Saints (4-0) at Chicago Bears (3-1), Sunday, Oct 6, 1:02 PM
+New York Giants (0-3) at Kansas City Chiefs (3-0), Sunday, Sep 29, 1:02 PM
 
-New England Patriots (4-0) at Cincinnati Bengals (2-2), Sunday, Oct 6, 1:02 PM
+Chicago Bears (3-0) at Detroit Lions (2-1), Sunday, Sep 29, 1:03 PM
 
-Detroit Lions (3-1) at Green Bay Packers (1-2), Sunday, Oct 6, 1:02 PM
+Seattle Seahawks (3-0) at Houston Texans (2-1), Sunday, Sep 29, 1:03 PM
 
-Baltimore Ravens (2-2) at Miami Dolphins (3-1), Sunday, Oct 6, 1:02 PM
+Arizona Cardinals (1-2) at Tampa Bay Buccaneers (0-3), Sunday, Sep 29, 1:03 PM
 
-Philadelphia Eagles (1-3) at New York Giants (0-4), Sunday, Oct 6, 1:02 PM
+Cincinnati Bengals (2-1) at Cleveland Browns (1-2), Sunday, Sep 29, 1:06 PM
 
-Seattle Seahawks (4-0) at Indianapolis Colts (3-1), Sunday, Oct 6, 1:03 PM
+Indianapolis Colts (2-1) at Jacksonville Jaguars (0-3), Sunday, Sep 29, 1:06 PM
 
-Kansas City Chiefs (4-0) at Tennessee Titans (3-1), Sunday, Oct 6, 1:03 PM
+Pittsburgh Steelers (0-3) at Minnesota Vikings (0-3), Sunday, Sep 29, 1:07 PM
 
-<br/>Carolina Panthers (1-2) at Arizona Cardinals (2-2), Sunday, Oct 6, 4:05 PM
+<br/>New York Jets (2-1) at Tennessee Titans (2-1), Sunday, Sep 29, 4:05 PM
 
-Denver Broncos (4-0) at Dallas Cowboys (2-2), Sunday, Oct 6, 4:25 PM
+Philadelphia Eagles (1-2) at Denver Broncos (3-0), Sunday, Sep 29, 4:25 PM
 
-<br/>Houston Texans (2-2) at San Francisco 49ers (2-2), Sunday, Oct 6, 8:31 PM
+Washington Redskins (0-3) at Oakland Raiders (1-2), Sunday, Sep 29, 4:25 PM
 
-<br/>San Diego Chargers (2-2) at Oakland Raiders (1-3), Sunday, Oct 6, 11:35 PM
+Dallas Cowboys (2-1) at San Diego Chargers (1-2), Sunday, Sep 29, 4:25 PM
 
-<br/>New York Jets (2-2) at Atlanta Falcons (1-3), Monday, Oct 7, 8:40 PM
+<br/>New England Patriots (3-0) at Atlanta Falcons (1-2), Sunday, Sep 29, 8:30 PM
+
+<br/>Miami Dolphins (3-0) at New Orleans Saints (3-0), Monday, Sep 30, 8:40 PM
 

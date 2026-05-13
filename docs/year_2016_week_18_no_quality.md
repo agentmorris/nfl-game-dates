@@ -3,13 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 divisional
+# Game info for 2016 wild card
 
-Seattle Seahawks at Atlanta Falcons, Saturday, Jan 14, 4:35 PM
+Oakland Raiders at Houston Texans, Saturday, Jan 7, 4:35 PM
 
-<br/>Houston Texans at New England Patriots, Saturday, Jan 14, 8:15 PM
+<br/>Detroit Lions at Seattle Seahawks, Saturday, Jan 7, 8:15 PM
 
-<br/>Green Bay Packers at Dallas Cowboys, Sunday, Jan 15, 4:40 PM
+<br/>Miami Dolphins at Pittsburgh Steelers, Sunday, Jan 8, 1:05 PM
 
-<br/>Pittsburgh Steelers at Kansas City Chiefs, Sunday, Jan 15, 8:20 PM
+<br/>New York Giants at Green Bay Packers, Sunday, Jan 8, 4:40 PM
 

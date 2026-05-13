@@ -3,35 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 12
+# Game info for 2021 week 11
 
-Chicago Bears (3-7) at Detroit Lions (0-9-1), Thursday, Nov 25, 12:30 PM (:football: good game)
+New England Patriots (6-4) at Atlanta Falcons (4-5), Thursday, Nov 18, 8:20 PM (:red_circle: bad game)
 
-<br/>Las Vegas Raiders (5-5) at Dallas Cowboys (7-3), Thursday, Nov 25, 4:30 PM (:football: good game)
+<br/>Indianapolis Colts (5-5) at Buffalo Bills (6-3), Sunday, Nov 21, 1:00 PM (:red_circle: bad game)
 
-<br/>Buffalo Bills (6-4) at New Orleans Saints (5-5), Thursday, Nov 25, 8:20 PM (:red_circle: bad game)
+Washington Football Team (3-6) at Carolina Panthers (5-5), Sunday, Nov 21, 1:00 PM (:football: good game)
 
-<br/>Pittsburgh Steelers (5-4-1) at Cincinnati Bengals (6-4), Sunday, Nov 28, 1:00 PM (:red_circle: bad game)
+Baltimore Ravens (6-3) at Chicago Bears (3-6), Sunday, Nov 21, 1:00 PM (:football: good game)
 
-Tampa Bay Buccaneers (7-3) at Indianapolis Colts (6-5), Sunday, Nov 28, 1:00 PM (:football: good game)
+Detroit Lions (0-8-1) at Cleveland Browns (5-5), Sunday, Nov 21, 1:00 PM (:football: good game)
 
-New York Jets (2-8) at Houston Texans (2-8), Sunday, Nov 28, 1:00 PM (:football: good game)
+San Francisco 49ers (4-5) at Jacksonville Jaguars (2-7), Sunday, Nov 21, 1:00 PM (:red_circle: bad game)
 
-Atlanta Falcons (4-6) at Jacksonville Jaguars (2-8), Sunday, Nov 28, 1:00 PM (:football: good game)
+Green Bay Packers (8-2) at Minnesota Vikings (4-5), Sunday, Nov 21, 1:00 PM (:football: good game)
 
-Carolina Panthers (5-6) at Miami Dolphins (4-7), Sunday, Nov 28, 1:00 PM (:red_circle: bad game)
+Miami Dolphins (3-7) at New York Jets (2-7), Sunday, Nov 21, 1:00 PM (:football: good game)
 
-Tennessee Titans (8-3) at New England Patriots (7-4), Sunday, Nov 28, 1:00 PM (:red_circle: bad game)
+Houston Texans (1-8) at Tennessee Titans (8-2), Sunday, Nov 21, 1:00 PM
 
-Philadelphia Eagles (5-6) at New York Giants (3-7), Sunday, Nov 28, 1:00 PM (:football: good game)
+New Orleans Saints (5-4) at Philadelphia Eagles (4-6), Sunday, Nov 21, 1:00 PM (:football: good game)
 
-<br/>Los Angeles Chargers (6-4) at Denver Broncos (5-5), Sunday, Nov 28, 4:05 PM
+<br/>Cincinnati Bengals (5-4) at Las Vegas Raiders (5-4), Sunday, Nov 21, 4:05 PM (:red_circle: bad game)
 
-Los Angeles Rams (7-3) at Green Bay Packers (8-3), Sunday, Nov 28, 4:25 PM (:football: good game)
+Dallas Cowboys (7-2) at Kansas City Chiefs (6-4), Sunday, Nov 21, 4:25 PM
 
-Minnesota Vikings (5-5) at San Francisco 49ers (5-5), Sunday, Nov 28, 4:25 PM (:football: good game)
+Arizona Cardinals (8-2) at Seattle Seahawks (3-6), Sunday, Nov 21, 4:25 PM
 
-<br/>Cleveland Browns (6-5) at Baltimore Ravens (7-3), Sunday, Nov 28, 8:20 PM (:football: good game)
+<br/>Pittsburgh Steelers (5-3-1) at Los Angeles Chargers (5-4), Sunday, Nov 21, 8:20 PM (:football: good game)
 
-<br/>Seattle Seahawks (3-7) at Washington Football Team (4-6), Monday, Nov 29, 8:15 PM (:football: good game)
+<br/>New York Giants (3-6) at Tampa Bay Buccaneers (6-3), Monday, Nov 22, 8:15 PM (:red_circle: bad game)
 

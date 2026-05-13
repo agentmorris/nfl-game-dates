@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 2
+# Game info for 2021 week 1
 
-New York Giants (0-1) at Washington Football Team (0-1), Thursday, Sep 16, 8:20 PM
+Dallas Cowboys (0-0) at Tampa Bay Buccaneers (0-0), Thursday, Sep 9, 8:20 PM
 
-<br/>New Orleans Saints (1-0) at Carolina Panthers (1-0), Sunday, Sep 19, 1:00 PM
+<br/>Philadelphia Eagles (0-0) at Atlanta Falcons (0-0), Sunday, Sep 12, 1:00 PM
 
-Cincinnati Bengals (1-0) at Chicago Bears (0-1), Sunday, Sep 19, 1:00 PM
+Pittsburgh Steelers (0-0) at Buffalo Bills (0-0), Sunday, Sep 12, 1:00 PM
 
-Houston Texans (1-0) at Cleveland Browns (0-1), Sunday, Sep 19, 1:00 PM
+New York Jets (0-0) at Carolina Panthers (0-0), Sunday, Sep 12, 1:00 PM
 
-Los Angeles Rams (1-0) at Indianapolis Colts (0-1), Sunday, Sep 19, 1:00 PM
+Minnesota Vikings (0-0) at Cincinnati Bengals (0-0), Sunday, Sep 12, 1:00 PM
 
-Denver Broncos (1-0) at Jacksonville Jaguars (0-1), Sunday, Sep 19, 1:00 PM
+Seattle Seahawks (0-0) at Indianapolis Colts (0-0), Sunday, Sep 12, 1:00 PM
 
-Buffalo Bills (0-1) at Miami Dolphins (1-0), Sunday, Sep 19, 1:00 PM
+San Francisco 49ers (0-0) at Detroit Lions (0-0), Sunday, Sep 12, 1:00 PM
 
-New England Patriots (0-1) at New York Jets (0-1), Sunday, Sep 19, 1:00 PM
+Jacksonville Jaguars (0-0) at Houston Texans (0-0), Sunday, Sep 12, 1:00 PM
 
-San Francisco 49ers (1-0) at Philadelphia Eagles (1-0), Sunday, Sep 19, 1:00 PM
+Arizona Cardinals (0-0) at Tennessee Titans (0-0), Sunday, Sep 12, 1:00 PM
 
-Las Vegas Raiders (1-0) at Pittsburgh Steelers (1-0), Sunday, Sep 19, 1:00 PM
+Los Angeles Chargers (0-0) at Washington Football Team (0-0), Sunday, Sep 12, 1:00 PM
 
-<br/>Minnesota Vikings (0-1) at Arizona Cardinals (1-0), Sunday, Sep 19, 4:05 PM
+<br/>Cleveland Browns (0-0) at Kansas City Chiefs (0-0), Sunday, Sep 12, 4:25 PM
 
-Atlanta Falcons (0-1) at Tampa Bay Buccaneers (1-0), Sunday, Sep 19, 4:05 PM
+Green Bay Packers (0-0) at New Orleans Saints (0-0), Sunday, Sep 12, 4:25 PM
 
-Dallas Cowboys (0-1) at Los Angeles Chargers (1-0), Sunday, Sep 19, 4:25 PM
+Miami Dolphins (0-0) at New England Patriots (0-0), Sunday, Sep 12, 4:25 PM
 
-Tennessee Titans (0-1) at Seattle Seahawks (1-0), Sunday, Sep 19, 4:25 PM
+Denver Broncos (0-0) at New York Giants (0-0), Sunday, Sep 12, 4:25 PM
 
-<br/>Kansas City Chiefs (1-0) at Baltimore Ravens (0-1), Sunday, Sep 19, 8:20 PM
+<br/>Chicago Bears (0-0) at Los Angeles Rams (0-0), Sunday, Sep 12, 8:20 PM
 
-<br/>Detroit Lions (0-1) at Green Bay Packers (0-1), Monday, Sep 20, 8:15 PM
+<br/>Baltimore Ravens (0-0) at Las Vegas Raiders (0-0), Monday, Sep 13, 8:15 PM
 

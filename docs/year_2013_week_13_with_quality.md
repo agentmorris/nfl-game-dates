@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2013 week 14
+# Game info for 2013 week 13
 
-Houston Texans (2-10) at Jacksonville Jaguars (3-9), Thursday, Dec 5, 8:29 PM (:football: good game)
+Green Bay Packers (5-5-1) at Detroit Lions (6-5), Thursday, Nov 28, 12:36 PM (:red_circle: bad game)
 
-<br/>Indianapolis Colts (8-4) at Cincinnati Bengals (8-4), Sunday, Dec 8, 1:02 PM (:football: good game)
+<br/>Oakland Raiders (4-7) at Dallas Cowboys (6-5), Thursday, Nov 28, 4:31 PM (:football: good game)
 
-Atlanta Falcons (3-9, eliminated) at Green Bay Packers (5-6-1), Sunday, Dec 8, 1:02 PM (:football: good game)
+<br/>Pittsburgh Steelers (5-6) at Baltimore Ravens (5-6), Thursday, Nov 28, 8:31 PM (:football: good game)
 
-Cleveland Browns (4-8) at New England Patriots (9-3), Sunday, Dec 8, 1:02 PM (:football: good game)
+<br/>Jacksonville Jaguars (2-9) at Cleveland Browns (4-7), Sunday, Dec 1, 1:02 PM (:football: good game)
 
-Oakland Raiders (4-8) at New York Jets (5-7), Sunday, Dec 8, 1:02 PM (:football: good game)
+Tennessee Titans (5-6) at Indianapolis Colts (7-4), Sunday, Dec 1, 1:02 PM (:football: good game)
 
-Detroit Lions (7-5) at Philadelphia Eagles (7-5), Sunday, Dec 8, 1:02 PM (:football: good game)
+New England Patriots (8-3) at Houston Texans (2-9), Sunday, Dec 1, 1:02 PM (:football: good game)
 
-Miami Dolphins (6-6) at Pittsburgh Steelers (5-7), Sunday, Dec 8, 1:02 PM (:football: good game)
+Miami Dolphins (5-6) at New York Jets (5-6), Sunday, Dec 1, 1:02 PM (:red_circle: bad game)
 
-Buffalo Bills (4-8) at Tampa Bay Buccaneers (3-9, eliminated), Sunday, Dec 8, 1:02 PM (:red_circle: bad game)
+Arizona Cardinals (7-4) at Philadelphia Eagles (6-5), Sunday, Dec 1, 1:02 PM (:football: good game)
 
-Minnesota Vikings (3-8-1) at Baltimore Ravens (6-6), Sunday, Dec 8, 1:03 PM (:football: good game)
+Tampa Bay Buccaneers (3-8) at Carolina Panthers (8-3), Sunday, Dec 1, 1:04 PM (:red_circle: bad game)
 
-Kansas City Chiefs (9-3) at Washington Redskins (3-9, eliminated), Sunday, Dec 8, 1:03 PM (:red_circle: bad game)
+Chicago Bears (6-5) at Minnesota Vikings (2-8-1), Sunday, Dec 1, 1:05 PM (:football: good game)
 
-<br/>Tennessee Titans (5-7) at Denver Broncos (10-2), Sunday, Dec 8, 4:05 PM (:football: good game)
+<br/>Atlanta Falcons (2-9, eliminated) at Buffalo Bills (4-7), Sunday, Dec 1, 4:05 PM (:football: good game)
 
-St. Louis Rams (5-7) at Arizona Cardinals (7-5), Sunday, Dec 8, 4:25 PM (:red_circle: bad game)
+St. Louis Rams (5-6) at San Francisco 49ers (7-4), Sunday, Dec 1, 4:05 PM
 
-New York Giants (5-7) at San Diego Chargers (5-7), Sunday, Dec 8, 4:25 PM (:red_circle: bad game)
+Cincinnati Bengals (7-4) at San Diego Chargers (5-6), Sunday, Dec 1, 4:25 PM (:football: good game)
 
-Seattle Seahawks (11-1) at San Francisco 49ers (8-4), Sunday, Dec 8, 4:26 PM (:football: good game)
+Denver Broncos (9-2) at Kansas City Chiefs (9-2), Sunday, Dec 1, 4:26 PM (:football: good game)
 
-<br/>Carolina Panthers (9-3) at New Orleans Saints (9-3), Sunday, Dec 8, 8:30 PM (:red_circle: bad game)
+<br/>New York Giants (4-7) at Washington Redskins (3-8), Sunday, Dec 1, 8:31 PM (:football: good game)
 
-<br/>Dallas Cowboys (7-5) at Chicago Bears (6-6), Monday, Dec 9, 8:40 PM (:red_circle: bad game)
+<br/>New Orleans Saints (9-2) at Seattle Seahawks (10-1), Monday, Dec 2, 8:41 PM (:red_circle: bad game)
 

@@ -3,31 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2014 week 9
+# Game info for 2014 week 8
 
-New Orleans Saints (3-4) at Carolina Panthers (3-4-1), Thursday, Oct 30, 8:30 PM
+San Diego Chargers (5-2) at Denver Broncos (5-1), Thursday, Oct 23, 8:26 PM
 
-<br/>Jacksonville Jaguars (1-7) at Cincinnati Bengals (4-2-1), Sunday, Nov 2, 1:02 PM
+<br/>Detroit Lions (5-2) at Atlanta Falcons (2-5), Sunday, Oct 26, 9:37 AM
 
-Tampa Bay Buccaneers (1-6) at Cleveland Browns (4-3), Sunday, Nov 2, 1:02 PM
+<br/>Baltimore Ravens (5-2) at Cincinnati Bengals (3-2-1), Sunday, Oct 26, 1:02 PM
 
-San Diego Chargers (5-3) at Miami Dolphins (4-3), Sunday, Nov 2, 1:02 PM
+Miami Dolphins (3-3) at Jacksonville Jaguars (1-6), Sunday, Oct 26, 1:02 PM
 
-Philadelphia Eagles (5-2) at Houston Texans (4-4), Sunday, Nov 2, 1:03 PM
+Chicago Bears (3-4) at New England Patriots (5-2), Sunday, Oct 26, 1:02 PM
 
-New York Jets (1-7) at Kansas City Chiefs (4-3), Sunday, Nov 2, 1:03 PM
+Buffalo Bills (4-3) at New York Jets (1-6), Sunday, Oct 26, 1:02 PM
 
-Washington Redskins (3-5) at Minnesota Vikings (3-5), Sunday, Nov 2, 1:03 PM
+Houston Texans (3-4) at Tennessee Titans (2-5), Sunday, Oct 26, 1:03 PM
 
-Arizona Cardinals (6-1) at Dallas Cowboys (6-2), Sunday, Nov 2, 1:04 PM
+Minnesota Vikings (2-5) at Tampa Bay Buccaneers (1-5), Sunday, Oct 26, 1:03 PM
 
-<br/>St. Louis Rams (2-5) at San Francisco 49ers (4-3), Sunday, Nov 2, 4:05 PM
+Seattle Seahawks (3-3) at Carolina Panthers (3-3-1), Sunday, Oct 26, 1:04 PM
 
-Denver Broncos (6-1) at New England Patriots (6-2), Sunday, Nov 2, 4:25 PM
+St. Louis Rams (2-4) at Kansas City Chiefs (3-3), Sunday, Oct 26, 1:04 PM
 
-Oakland Raiders (0-7) at Seattle Seahawks (4-3), Sunday, Nov 2, 4:26 PM
+<br/>Philadelphia Eagles (5-1) at Arizona Cardinals (5-1), Sunday, Oct 26, 4:05 PM
 
-<br/>Baltimore Ravens (5-3) at Pittsburgh Steelers (5-3), Sunday, Nov 2, 8:30 PM
+Oakland Raiders (0-6) at Cleveland Browns (3-3), Sunday, Oct 26, 4:25 PM
 
-<br/>Indianapolis Colts (5-3) at New York Giants (3-4), Monday, Nov 3, 8:31 PM
+Indianapolis Colts (5-2) at Pittsburgh Steelers (4-3), Sunday, Oct 26, 4:25 PM
+
+<br/>Green Bay Packers (5-2) at New Orleans Saints (2-4), Sunday, Oct 26, 8:30 PM
+
+<br/>Washington Redskins (2-5) at Dallas Cowboys (6-1), Monday, Oct 27, 8:30 PM
 

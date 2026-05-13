@@ -3,7 +3,9 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 super bowl
+# Game info for 2016 championship
 
-New England Patriots at Atlanta Falcons, Sunday, Feb 5, 6:30 PM
+Green Bay Packers at Atlanta Falcons, Sunday, Jan 22, 3:05 PM
+
+<br/>Pittsburgh Steelers at New England Patriots, Sunday, Jan 22, 6:40 PM
 

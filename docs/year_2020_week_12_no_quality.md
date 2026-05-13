@@ -3,35 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 week 13
+# Game info for 2020 week 12
 
-New Orleans Saints (9-2) at Atlanta Falcons (4-7), Sunday, Dec 6, 1:00 PM
+Houston Texans (3-7) at Detroit Lions (4-6), Thursday, Nov 26, 12:30 PM
 
-Detroit Lions (4-7) at Chicago Bears (5-6), Sunday, Dec 6, 1:00 PM
+<br/>Washington Football Team (3-7) at Dallas Cowboys (3-7), Thursday, Nov 26, 4:30 PM
 
-Indianapolis Colts (7-4) at Houston Texans (4-7), Sunday, Dec 6, 1:00 PM
+<br/>Las Vegas Raiders (6-4) at Atlanta Falcons (3-7), Sunday, Nov 29, 1:00 PM
 
-Cincinnati Bengals (2-8-1) at Miami Dolphins (7-4), Sunday, Dec 6, 1:00 PM
+Los Angeles Chargers (3-7) at Buffalo Bills (7-3), Sunday, Nov 29, 1:00 PM
 
-Jacksonville Jaguars (1-10) at Minnesota Vikings (5-6), Sunday, Dec 6, 1:00 PM
+New York Giants (3-7) at Cincinnati Bengals (2-7-1), Sunday, Nov 29, 1:00 PM
 
-Las Vegas Raiders (6-5) at New York Jets (0-11), Sunday, Dec 6, 1:00 PM
+Tennessee Titans (7-3) at Indianapolis Colts (7-3), Sunday, Nov 29, 1:00 PM
 
-Cleveland Browns (8-3) at Tennessee Titans (8-3), Sunday, Dec 6, 1:00 PM
+Cleveland Browns (7-3) at Jacksonville Jaguars (1-9), Sunday, Nov 29, 1:00 PM
 
-<br/>Los Angeles Rams (7-4) at Arizona Cardinals (6-5), Sunday, Dec 6, 4:05 PM
+Carolina Panthers (4-7) at Minnesota Vikings (4-6), Sunday, Nov 29, 1:00 PM
 
-New York Giants (4-7) at Seattle Seahawks (8-3), Sunday, Dec 6, 4:05 PM
+Arizona Cardinals (6-4) at New England Patriots (4-6), Sunday, Nov 29, 1:00 PM
 
-Philadelphia Eagles (3-7-1) at Green Bay Packers (8-3), Sunday, Dec 6, 4:25 PM
+Miami Dolphins (6-4) at New York Jets (0-10), Sunday, Nov 29, 1:00 PM
 
-New England Patriots (5-6) at Los Angeles Chargers (3-8), Sunday, Dec 6, 4:25 PM
+<br/>New Orleans Saints (8-2) at Denver Broncos (4-6), Sunday, Nov 29, 4:05 PM
 
-<br/>Denver Broncos (4-7) at Kansas City Chiefs (10-1), Sunday, Dec 6, 8:20 PM
+San Francisco 49ers (4-6) at Los Angeles Rams (7-3), Sunday, Nov 29, 4:05 PM
 
-<br/>Washington Football Team (4-7) at Pittsburgh Steelers (11-0), Monday, Dec 7, 5:00 PM
+Kansas City Chiefs (9-1) at Tampa Bay Buccaneers (7-4), Sunday, Nov 29, 4:25 PM
 
-<br/>Buffalo Bills (8-3) at San Francisco 49ers (5-6), Monday, Dec 7, 8:15 PM
+<br/>Chicago Bears (5-5) at Green Bay Packers (7-3), Sunday, Nov 29, 8:20 PM
 
-<br/>Dallas Cowboys (3-8) at Baltimore Ravens (6-5), Tuesday, Dec 8, 8:05 PM
+<br/>Seattle Seahawks (7-3) at Philadelphia Eagles (3-6-1), Monday, Nov 30, 8:15 PM
+
+<br/>Baltimore Ravens (6-4) at Pittsburgh Steelers (10-0), Wednesday, Dec 2, 3:40 PM
 

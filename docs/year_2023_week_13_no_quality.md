@@ -3,34 +3,30 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 week 14
+# Game info for 2023 week 13
 
-New England Patriots (2-10) at Pittsburgh Steelers (7-5), Thursday, Dec 7, 8:15 PM
+Seattle Seahawks (6-5) at Dallas Cowboys (8-3), Thursday, Nov 30, 8:15 PM
 
-<br/>Tampa Bay Buccaneers (5-7) at Atlanta Falcons (6-6), Sunday, Dec 10, 1:00 PM
+<br/>Denver Broncos (6-5) at Houston Texans (6-5), Sunday, Dec 3, 1:00 PM
 
-Los Angeles Rams (6-6) at Baltimore Ravens (9-3), Sunday, Dec 10, 1:00 PM
+Los Angeles Chargers (4-7) at New England Patriots (2-9), Sunday, Dec 3, 1:00 PM
 
-Detroit Lions (9-3) at Chicago Bears (4-8), Sunday, Dec 10, 1:00 PM
+Detroit Lions (8-3) at New Orleans Saints (5-6), Sunday, Dec 3, 1:00 PM
 
-Indianapolis Colts (7-5) at Cincinnati Bengals (6-6), Sunday, Dec 10, 1:00 PM
+Atlanta Falcons (5-6) at New York Jets (4-7), Sunday, Dec 3, 1:00 PM
 
-Jacksonville Jaguars (8-4) at Cleveland Browns (7-5), Sunday, Dec 10, 1:00 PM
+Arizona Cardinals (2-10) at Pittsburgh Steelers (7-4), Sunday, Dec 3, 1:00 PM
 
-Carolina Panthers (1-11) at New Orleans Saints (5-7), Sunday, Dec 10, 1:00 PM
+Indianapolis Colts (6-5) at Tennessee Titans (4-7), Sunday, Dec 3, 1:00 PM
 
-Houston Texans (7-5) at New York Jets (4-8), Sunday, Dec 10, 1:00 PM
+Miami Dolphins (8-3) at Washington Commanders (4-8), Sunday, Dec 3, 1:00 PM
 
-<br/>Minnesota Vikings (6-6) at Las Vegas Raiders (5-7), Sunday, Dec 10, 4:05 PM
+<br/>Carolina Panthers (1-10) at Tampa Bay Buccaneers (4-7), Sunday, Dec 3, 4:05 PM
 
-Seattle Seahawks (6-6) at San Francisco 49ers (9-3), Sunday, Dec 10, 4:05 PM
+Cleveland Browns (7-4) at Los Angeles Rams (5-6), Sunday, Dec 3, 4:25 PM
 
-Buffalo Bills (6-6) at Kansas City Chiefs (8-4), Sunday, Dec 10, 4:25 PM
+San Francisco 49ers (8-3) at Philadelphia Eagles (10-1), Sunday, Dec 3, 4:25 PM
 
-Denver Broncos (6-6) at Los Angeles Chargers (5-7), Sunday, Dec 10, 4:25 PM
+<br/>Kansas City Chiefs (8-3) at Green Bay Packers (5-6), Sunday, Dec 3, 8:20 PM
 
-<br/>Philadelphia Eagles (10-2) at Dallas Cowboys (9-3), Sunday, Dec 10, 8:20 PM
-
-<br/>Tennessee Titans (4-8) at Miami Dolphins (9-3), Monday, Dec 11, 8:15 PM
-
-Green Bay Packers (6-6) at New York Giants (4-8), Monday, Dec 11, 8:15 PM
+<br/>Cincinnati Bengals (5-6) at Jacksonville Jaguars (8-3), Monday, Dec 4, 8:15 PM

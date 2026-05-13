@@ -3,32 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 week 5
+# Game info for 2023 week 4
 
-Chicago Bears (0-4) at Washington Commanders (2-2), Thursday, Oct 5, 8:15 PM
+Detroit Lions (2-1) at Green Bay Packers (2-1), Thursday, Sep 28, 8:15 PM
 
-<br/>Jacksonville Jaguars (2-2) at Buffalo Bills (3-1), Sunday, Oct 8, 9:30 AM
+<br/>Atlanta Falcons (2-1) at Jacksonville Jaguars (1-2), Sunday, Oct 1, 9:30 AM
 
-<br/>Houston Texans (2-2) at Atlanta Falcons (2-2), Sunday, Oct 8, 1:00 PM
+<br/>Miami Dolphins (3-0) at Buffalo Bills (2-1), Sunday, Oct 1, 1:00 PM
 
-Carolina Panthers (0-4) at Detroit Lions (3-1), Sunday, Oct 8, 1:00 PM
+Minnesota Vikings (0-3) at Carolina Panthers (0-3), Sunday, Oct 1, 1:00 PM
 
-Tennessee Titans (2-2) at Indianapolis Colts (2-2), Sunday, Oct 8, 1:00 PM
+Denver Broncos (0-3) at Chicago Bears (0-3), Sunday, Oct 1, 1:00 PM
 
-New York Giants (1-3) at Miami Dolphins (3-1), Sunday, Oct 8, 1:00 PM
+Baltimore Ravens (2-1) at Cleveland Browns (2-1), Sunday, Oct 1, 1:00 PM
 
-New Orleans Saints (2-2) at New England Patriots (1-3), Sunday, Oct 8, 1:00 PM
+Pittsburgh Steelers (2-1) at Houston Texans (1-2), Sunday, Oct 1, 1:00 PM
 
-Baltimore Ravens (3-1) at Pittsburgh Steelers (2-2), Sunday, Oct 8, 1:00 PM
+Los Angeles Rams (1-2) at Indianapolis Colts (2-1), Sunday, Oct 1, 1:00 PM
 
-<br/>Cincinnati Bengals (1-3) at Arizona Cardinals (1-3), Sunday, Oct 8, 4:05 PM
+Tampa Bay Buccaneers (2-1) at New Orleans Saints (2-1), Sunday, Oct 1, 1:00 PM
 
-Philadelphia Eagles (4-0) at Los Angeles Rams (2-2), Sunday, Oct 8, 4:05 PM
+Washington Commanders (2-1) at Philadelphia Eagles (3-0), Sunday, Oct 1, 1:00 PM
 
-New York Jets (1-3) at Denver Broncos (1-3), Sunday, Oct 8, 4:25 PM
+Cincinnati Bengals (1-2) at Tennessee Titans (1-2), Sunday, Oct 1, 1:00 PM
 
-Kansas City Chiefs (3-1) at Minnesota Vikings (1-3), Sunday, Oct 8, 4:25 PM
+<br/>Las Vegas Raiders (1-2) at Los Angeles Chargers (1-2), Sunday, Oct 1, 4:05 PM
 
-<br/>Dallas Cowboys (3-1) at San Francisco 49ers (4-0), Sunday, Oct 8, 8:20 PM
+New England Patriots (1-2) at Dallas Cowboys (2-1), Sunday, Oct 1, 4:25 PM
 
-<br/>Green Bay Packers (2-2) at Las Vegas Raiders (1-3), Monday, Oct 9, 8:15 PM
+Arizona Cardinals (1-2) at San Francisco 49ers (3-0), Sunday, Oct 1, 4:25 PM
+
+<br/>Kansas City Chiefs (2-1) at New York Jets (1-2), Sunday, Oct 1, 8:20 PM
+
+<br/>Seattle Seahawks (2-1) at New York Giants (1-2), Monday, Oct 2, 8:15 PM

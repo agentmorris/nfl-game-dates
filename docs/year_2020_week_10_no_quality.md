@@ -3,33 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 week 11
+# Game info for 2020 week 10
 
-Arizona Cardinals (6-3) at Seattle Seahawks (6-3), Thursday, Nov 19, 8:20 PM
+Indianapolis Colts (5-3) at Tennessee Titans (6-2), Thursday, Nov 12, 8:20 PM
 
-<br/>Detroit Lions (4-5) at Carolina Panthers (3-7), Sunday, Nov 22, 1:00 PM
+<br/>Tampa Bay Buccaneers (6-3) at Carolina Panthers (3-6), Sunday, Nov 15, 1:00 PM
 
-Philadelphia Eagles (3-5-1) at Cleveland Browns (6-3), Sunday, Nov 22, 1:00 PM
+Houston Texans (2-6) at Cleveland Browns (5-3), Sunday, Nov 15, 1:00 PM
 
-New England Patriots (4-5) at Houston Texans (2-7), Sunday, Nov 22, 1:00 PM
+Washington Football Team (2-6) at Detroit Lions (3-5), Sunday, Nov 15, 1:00 PM
 
-Pittsburgh Steelers (9-0) at Jacksonville Jaguars (1-8), Sunday, Nov 22, 1:00 PM
+Jacksonville Jaguars (1-7) at Green Bay Packers (6-2), Sunday, Nov 15, 1:00 PM
 
-Atlanta Falcons (3-6) at New Orleans Saints (7-2), Sunday, Nov 22, 1:00 PM
+Philadelphia Eagles (3-4-1) at New York Giants (2-7), Sunday, Nov 15, 1:00 PM
 
-Tennessee Titans (6-3) at Baltimore Ravens (6-3), Sunday, Nov 22, 1:00 PM
+<br/>Buffalo Bills (7-2) at Arizona Cardinals (5-3), Sunday, Nov 15, 4:05 PM
 
-Cincinnati Bengals (2-6-1) at Washington Football Team (2-7), Sunday, Nov 22, 1:00 PM
+Los Angeles Chargers (2-6) at Miami Dolphins (5-3), Sunday, Nov 15, 4:05 PM
 
-<br/>Miami Dolphins (6-3) at Denver Broncos (3-6), Sunday, Nov 22, 4:05 PM
+Denver Broncos (3-5) at Las Vegas Raiders (5-3), Sunday, Nov 15, 4:05 PM
 
-New York Jets (0-9) at Los Angeles Chargers (2-7), Sunday, Nov 22, 4:05 PM
+San Francisco 49ers (4-5) at New Orleans Saints (6-2), Sunday, Nov 15, 4:25 PM
 
-Green Bay Packers (7-2) at Indianapolis Colts (6-3), Sunday, Nov 22, 4:25 PM
+Cincinnati Bengals (2-5-1) at Pittsburgh Steelers (8-0), Sunday, Nov 15, 4:25 PM
 
-Dallas Cowboys (2-7) at Minnesota Vikings (4-5), Sunday, Nov 22, 4:25 PM
+Seattle Seahawks (6-2) at Los Angeles Rams (5-3), Sunday, Nov 15, 4:25 PM
 
-<br/>Kansas City Chiefs (8-1) at Las Vegas Raiders (6-3), Sunday, Nov 22, 8:20 PM
+<br/>Baltimore Ravens (6-2) at New England Patriots (3-5), Sunday, Nov 15, 8:20 PM
 
-<br/>Los Angeles Rams (6-3) at Tampa Bay Buccaneers (7-3), Monday, Nov 23, 8:15 PM
+<br/>Minnesota Vikings (3-5) at Chicago Bears (5-4), Monday, Nov 16, 8:15 PM
 

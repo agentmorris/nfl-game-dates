@@ -3,31 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2011 week 6
+# Game info for 2011 week 5
 
-Carolina Panthers (1-4) at Atlanta Falcons (2-3), Sunday, Oct 16, 1:02 PM
+Kansas City Chiefs (1-3) at Indianapolis Colts (0-4), Sunday, Oct 9, 1:02 PM (:football: good game)
 
-Indianapolis Colts (0-5) at Cincinnati Bengals (3-2), Sunday, Oct 16, 1:02 PM
+Oakland Raiders (2-2) at Houston Texans (3-1), Sunday, Oct 9, 1:02 PM (:football: good game)
 
-St. Louis Rams (0-4) at Green Bay Packers (5-0), Sunday, Oct 16, 1:02 PM (:red_circle: bad game)
+Cincinnati Bengals (2-2) at Jacksonville Jaguars (1-3), Sunday, Oct 9, 1:02 PM
 
-Buffalo Bills (4-1) at New York Giants (3-2), Sunday, Oct 16, 1:02 PM (:football: good game)
+Tennessee Titans (3-1) at Pittsburgh Steelers (2-2), Sunday, Oct 9, 1:02 PM (:red_circle: bad game)
 
-Jacksonville Jaguars (1-4) at Pittsburgh Steelers (3-2), Sunday, Oct 16, 1:02 PM (:football: good game)
+Philadelphia Eagles (1-3) at Buffalo Bills (3-1), Sunday, Oct 9, 1:04 PM (:football: good game)
 
-San Francisco 49ers (4-1) at Detroit Lions (5-0), Sunday, Oct 16, 1:03 PM (:football: good game)
+New Orleans Saints (3-1) at Carolina Panthers (1-3), Sunday, Oct 9, 1:04 PM (:football: good game)
 
-Philadelphia Eagles (1-4) at Washington Redskins (3-1), Sunday, Oct 16, 1:05 PM (:football: good game)
+Seattle Seahawks (1-3) at New York Giants (3-1), Sunday, Oct 9, 1:04 PM (:football: good game)
 
-<br/>Cleveland Browns (2-2) at Oakland Raiders (3-2), Sunday, Oct 16, 4:05 PM (:football: good game)
+Arizona Cardinals (1-3) at Minnesota Vikings (0-4), Sunday, Oct 9, 1:05 PM (:red_circle: bad game)
 
-Houston Texans (3-2) at Baltimore Ravens (3-1), Sunday, Oct 16, 4:06 PM
+<br/>Tampa Bay Buccaneers (3-1) at San Francisco 49ers (3-1), Sunday, Oct 9, 4:05 PM (:red_circle: bad game)
 
-Dallas Cowboys (2-2) at New England Patriots (4-1), Sunday, Oct 16, 4:15 PM (:football: good game)
+New York Jets (2-2) at New England Patriots (3-1), Sunday, Oct 9, 4:15 PM
 
-New Orleans Saints (4-1) at Tampa Bay Buccaneers (3-2), Sunday, Oct 16, 4:15 PM (:football: good game)
+San Diego Chargers (3-1) at Denver Broncos (1-3), Sunday, Oct 9, 4:16 PM (:football: good game)
 
-<br/>Minnesota Vikings (1-4) at Chicago Bears (2-3), Sunday, Oct 16, 8:30 PM (:red_circle: bad game)
+<br/>Green Bay Packers (4-0) at Atlanta Falcons (2-2), Sunday, Oct 9, 8:30 PM (:football: good game)
 
-<br/>Miami Dolphins (0-4) at New York Jets (2-3), Monday, Oct 17, 8:40 PM (:red_circle: bad game)
+<br/>Chicago Bears (2-2) at Detroit Lions (4-0), Monday, Oct 10, 8:40 PM (:football: good game)
 

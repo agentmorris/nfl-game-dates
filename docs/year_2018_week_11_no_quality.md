@@ -3,35 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 week 12
+# Game info for 2018 week 11
 
-Chicago Bears (7-3) at Detroit Lions (4-6), Thursday, Nov 22, 12:30 PM
+Green Bay Packers (4-4-1) at Seattle Seahawks (4-5), Thursday, Nov 15, 8:20 PM
 
-<br/>Washington Redskins (6-4) at Dallas Cowboys (5-5), Thursday, Nov 22, 4:30 PM
+<br/>Dallas Cowboys (4-5) at Atlanta Falcons (4-5), Sunday, Nov 18, 1:00 PM
 
-<br/>Atlanta Falcons (4-6) at New Orleans Saints (9-1), Thursday, Nov 22, 8:20 PM
+Tennessee Titans (5-4) at Indianapolis Colts (4-5), Sunday, Nov 18, 1:00 PM
 
-<br/>Jacksonville Jaguars (3-7) at Buffalo Bills (3-7), Sunday, Nov 25, 1:00 PM
+Carolina Panthers (6-3) at Detroit Lions (3-6), Sunday, Nov 18, 1:00 PM
 
-Seattle Seahawks (5-5) at Carolina Panthers (6-4), Sunday, Nov 25, 1:00 PM
+Pittsburgh Steelers (6-2-1) at Jacksonville Jaguars (3-6), Sunday, Nov 18, 1:00 PM
 
-Cleveland Browns (3-6-1) at Cincinnati Bengals (5-5), Sunday, Nov 25, 1:00 PM
+Tampa Bay Buccaneers (3-6) at New York Giants (2-7), Sunday, Nov 18, 1:00 PM
 
-New England Patriots (7-3) at New York Jets (3-7), Sunday, Nov 25, 1:00 PM
+Cincinnati Bengals (5-4) at Baltimore Ravens (4-5), Sunday, Nov 18, 1:00 PM
 
-New York Giants (3-7) at Philadelphia Eagles (4-6), Sunday, Nov 25, 1:00 PM
+Houston Texans (6-3) at Washington Redskins (6-3), Sunday, Nov 18, 1:00 PM
 
-Oakland Raiders (2-8) at Baltimore Ravens (5-5), Sunday, Nov 25, 1:00 PM
+<br/>Oakland Raiders (1-8) at Arizona Cardinals (2-7), Sunday, Nov 18, 4:05 PM
 
-San Francisco 49ers (2-8) at Tampa Bay Buccaneers (3-7), Sunday, Nov 25, 1:00 PM
+Denver Broncos (3-6) at Los Angeles Chargers (7-2), Sunday, Nov 18, 4:05 PM
 
-<br/>Arizona Cardinals (2-8) at Los Angeles Chargers (7-3), Sunday, Nov 25, 4:05 PM
+Philadelphia Eagles (4-5) at New Orleans Saints (8-1), Sunday, Nov 18, 4:25 PM
 
-Miami Dolphins (5-5) at Indianapolis Colts (5-5), Sunday, Nov 25, 4:25 PM
+<br/>Minnesota Vikings (5-3-1) at Chicago Bears (6-3), Sunday, Nov 18, 8:20 PM
 
-Pittsburgh Steelers (7-2-1) at Denver Broncos (4-6), Sunday, Nov 25, 4:25 PM
-
-<br/>Green Bay Packers (4-5-1) at Minnesota Vikings (5-4-1), Sunday, Nov 25, 8:20 PM
-
-<br/>Tennessee Titans (5-5) at Houston Texans (7-3), Monday, Nov 26, 8:15 PM
+<br/>Kansas City Chiefs (9-1) at Los Angeles Rams (9-1), Monday, Nov 19, 8:15 PM
 

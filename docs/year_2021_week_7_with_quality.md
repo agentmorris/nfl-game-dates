@@ -3,35 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 8
+# Game info for 2021 week 7
 
-Green Bay Packers (6-1) at Arizona Cardinals (7-0), Thursday, Oct 28, 8:20 PM (:football: good game)
+Denver Broncos (3-3) at Cleveland Browns (3-3), Thursday, Oct 21, 8:20 PM (:football: good game)
 
-<br/>Carolina Panthers (3-4) at Atlanta Falcons (3-3), Sunday, Oct 31, 1:00 PM (:football: good game)
+<br/>Washington Football Team (2-4) at Green Bay Packers (5-1), Sunday, Oct 24, 1:00 PM
 
-Miami Dolphins (1-6) at Buffalo Bills (4-2), Sunday, Oct 31, 1:00 PM
+Atlanta Falcons (2-3) at Miami Dolphins (1-5), Sunday, Oct 24, 1:00 PM (:football: good game)
 
-San Francisco 49ers (2-4) at Chicago Bears (3-4), Sunday, Oct 31, 1:00 PM (:football: good game)
+New York Jets (1-4) at New England Patriots (2-4), Sunday, Oct 24, 1:00 PM (:red_circle: bad game)
 
-Pittsburgh Steelers (3-3) at Cleveland Browns (4-3), Sunday, Oct 31, 1:00 PM (:football: good game)
+Carolina Panthers (3-3) at New York Giants (1-5), Sunday, Oct 24, 1:00 PM (:red_circle: bad game)
 
-Tennessee Titans (5-2) at Indianapolis Colts (3-4), Sunday, Oct 31, 1:00 PM (:football: good game)
+Kansas City Chiefs (3-3) at Tennessee Titans (4-2), Sunday, Oct 24, 1:00 PM (:red_circle: bad game)
 
-Philadelphia Eagles (2-5) at Detroit Lions (0-7), Sunday, Oct 31, 1:00 PM (:red_circle: bad game)
+Cincinnati Bengals (4-2) at Baltimore Ravens (5-1), Sunday, Oct 24, 1:00 PM (:red_circle: bad game)
 
-Los Angeles Rams (6-1) at Houston Texans (1-6), Sunday, Oct 31, 1:00 PM
+<br/>Philadelphia Eagles (2-4) at Las Vegas Raiders (4-2), Sunday, Oct 24, 4:05 PM
 
-Cincinnati Bengals (5-2) at New York Jets (1-5), Sunday, Oct 31, 1:00 PM (:football: good game)
+Detroit Lions (0-6) at Los Angeles Rams (5-1), Sunday, Oct 24, 4:05 PM
 
-<br/>New England Patriots (3-4) at Los Angeles Chargers (4-2), Sunday, Oct 31, 4:05 PM (:football: good game)
+Houston Texans (1-5) at Arizona Cardinals (6-0), Sunday, Oct 24, 4:25 PM (:red_circle: bad game)
 
-Jacksonville Jaguars (1-5) at Seattle Seahawks (2-5), Sunday, Oct 31, 4:05 PM (:red_circle: bad game)
+Chicago Bears (3-3) at Tampa Bay Buccaneers (5-1), Sunday, Oct 24, 4:25 PM (:red_circle: bad game)
 
-Washington Football Team (2-5) at Denver Broncos (3-4), Sunday, Oct 31, 4:25 PM (:football: good game)
+<br/>Indianapolis Colts (2-4) at San Francisco 49ers (2-3), Sunday, Oct 24, 8:20 PM
 
-Tampa Bay Buccaneers (6-1) at New Orleans Saints (4-2), Sunday, Oct 31, 4:25 PM (:football: good game)
-
-<br/>Dallas Cowboys (5-1) at Minnesota Vikings (3-3), Sunday, Oct 31, 8:20 PM (:football: good game)
-
-<br/>New York Giants (2-5) at Kansas City Chiefs (3-4), Monday, Nov 1, 8:15 PM (:football: good game)
+<br/>New Orleans Saints (3-2) at Seattle Seahawks (2-4), Monday, Oct 25, 8:15 PM (:football: good game)
 

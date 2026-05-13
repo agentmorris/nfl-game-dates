@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2019 week 2
+# Game info for 2019 week 1
 
-Tampa Bay Buccaneers (0-1) at Carolina Panthers (0-1), Thursday, Sep 12, 8:20 PM
+Green Bay Packers (0-0) at Chicago Bears (0-0), Thursday, Sep 5, 8:20 PM
 
-<br/>San Francisco 49ers (1-0) at Cincinnati Bengals (0-1), Sunday, Sep 15, 1:00 PM
+<br/>Los Angeles Rams (0-0) at Carolina Panthers (0-0), Sunday, Sep 8, 1:00 PM
 
-Los Angeles Chargers (1-0) at Detroit Lions (0-0-1), Sunday, Sep 15, 1:00 PM
+Tennessee Titans (0-0) at Cleveland Browns (0-0), Sunday, Sep 8, 1:00 PM
 
-Minnesota Vikings (1-0) at Green Bay Packers (1-0), Sunday, Sep 15, 1:00 PM
+Kansas City Chiefs (0-0) at Jacksonville Jaguars (0-0), Sunday, Sep 8, 1:00 PM
 
-Jacksonville Jaguars (0-1) at Houston Texans (0-1), Sunday, Sep 15, 1:00 PM
+Baltimore Ravens (0-0) at Miami Dolphins (0-0), Sunday, Sep 8, 1:00 PM
 
-New England Patriots (1-0) at Miami Dolphins (0-1), Sunday, Sep 15, 1:00 PM
+Atlanta Falcons (0-0) at Minnesota Vikings (0-0), Sunday, Sep 8, 1:00 PM
 
-Buffalo Bills (1-0) at New York Giants (0-1), Sunday, Sep 15, 1:00 PM
+Buffalo Bills (0-0) at New York Jets (0-0), Sunday, Sep 8, 1:00 PM
 
-Indianapolis Colts (0-1) at Tennessee Titans (1-0), Sunday, Sep 15, 1:00 PM
+Washington Redskins (0-0) at Philadelphia Eagles (0-0), Sunday, Sep 8, 1:00 PM
 
-Seattle Seahawks (1-0) at Pittsburgh Steelers (0-1), Sunday, Sep 15, 1:00 PM
+<br/>Indianapolis Colts (0-0) at Los Angeles Chargers (0-0), Sunday, Sep 8, 4:05 PM
 
-Arizona Cardinals (0-0-1) at Baltimore Ravens (1-0), Sunday, Sep 15, 1:00 PM
+Cincinnati Bengals (0-0) at Seattle Seahawks (0-0), Sunday, Sep 8, 4:05 PM
 
-Dallas Cowboys (1-0) at Washington Redskins (0-1), Sunday, Sep 15, 1:00 PM
+Detroit Lions (0-0) at Arizona Cardinals (0-0), Sunday, Sep 8, 4:25 PM
 
-<br/>Kansas City Chiefs (1-0) at Oakland Raiders (1-0), Sunday, Sep 15, 4:05 PM
+New York Giants (0-0) at Dallas Cowboys (0-0), Sunday, Sep 8, 4:25 PM
 
-Chicago Bears (0-1) at Denver Broncos (0-1), Sunday, Sep 15, 4:25 PM
+San Francisco 49ers (0-0) at Tampa Bay Buccaneers (0-0), Sunday, Sep 8, 4:25 PM
 
-New Orleans Saints (1-0) at Los Angeles Rams (1-0), Sunday, Sep 15, 4:25 PM
+<br/>Pittsburgh Steelers (0-0) at New England Patriots (0-0), Sunday, Sep 8, 8:20 PM
 
-<br/>Philadelphia Eagles (1-0) at Atlanta Falcons (0-1), Sunday, Sep 15, 8:20 PM
+<br/>Houston Texans (0-0) at New Orleans Saints (0-0), Monday, Sep 9, 7:10 PM
 
-<br/>Cleveland Browns (0-1) at New York Jets (0-1), Monday, Sep 16, 8:15 PM
+<br/>Denver Broncos (0-0) at Oakland Raiders (0-0), Monday, Sep 9, 10:20 PM
 

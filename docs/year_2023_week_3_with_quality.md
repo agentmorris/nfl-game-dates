@@ -3,36 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 week 4
+# Game info for 2023 week 3
 
-Detroit Lions (2-1) at Green Bay Packers (2-1), Thursday, Sep 28, 8:15 PM
+New York Giants (1-1) at San Francisco 49ers (2-0), Thursday, Sep 21, 8:15 PM (:red_circle: bad game)
 
-<br/>Atlanta Falcons (2-1) at Jacksonville Jaguars (1-2), Sunday, Oct 1, 9:30 AM
+<br/>Indianapolis Colts (1-1) at Baltimore Ravens (2-0), Sunday, Sep 24, 1:00 PM (:football: good game)
 
-<br/>Miami Dolphins (3-0) at Buffalo Bills (2-1), Sunday, Oct 1, 1:00 PM (:red_circle: bad game)
+Tennessee Titans (1-1) at Cleveland Browns (1-1), Sunday, Sep 24, 1:00 PM (:red_circle: bad game)
 
-Minnesota Vikings (0-3) at Carolina Panthers (0-3), Sunday, Oct 1, 1:00 PM (:football: good game)
+Atlanta Falcons (2-0) at Detroit Lions (1-1), Sunday, Sep 24, 1:00 PM
 
-Denver Broncos (0-3) at Chicago Bears (0-3), Sunday, Oct 1, 1:00 PM (:football: good game)
+New Orleans Saints (2-0) at Green Bay Packers (1-1), Sunday, Sep 24, 1:00 PM (:football: good game)
 
-Baltimore Ravens (2-1) at Cleveland Browns (2-1), Sunday, Oct 1, 1:00 PM (:red_circle: bad game)
+Houston Texans (0-2) at Jacksonville Jaguars (1-1), Sunday, Sep 24, 1:00 PM (:red_circle: bad game)
 
-Pittsburgh Steelers (2-1) at Houston Texans (1-2), Sunday, Oct 1, 1:00 PM (:red_circle: bad game)
+Denver Broncos (0-2) at Miami Dolphins (2-0), Sunday, Sep 24, 1:00 PM (:red_circle: bad game)
 
-Los Angeles Rams (1-2) at Indianapolis Colts (2-1), Sunday, Oct 1, 1:00 PM (:football: good game)
+Los Angeles Chargers (0-2) at Minnesota Vikings (0-2), Sunday, Sep 24, 1:00 PM (:football: good game)
 
-Tampa Bay Buccaneers (2-1) at New Orleans Saints (2-1), Sunday, Oct 1, 1:00 PM (:red_circle: bad game)
+New England Patriots (0-2) at New York Jets (1-1), Sunday, Sep 24, 1:00 PM (:football: good game)
 
-Washington Commanders (2-1) at Philadelphia Eagles (3-0), Sunday, Oct 1, 1:00 PM (:football: good game)
+Buffalo Bills (1-1) at Washington Commanders (2-0), Sunday, Sep 24, 1:00 PM (:red_circle: bad game)
 
-Cincinnati Bengals (1-2) at Tennessee Titans (1-2), Sunday, Oct 1, 1:00 PM (:red_circle: bad game)
+<br/>Carolina Panthers (0-2) at Seattle Seahawks (1-1), Sunday, Sep 24, 4:05 PM (:football: good game)
 
-<br/>Las Vegas Raiders (1-2) at Los Angeles Chargers (1-2), Sunday, Oct 1, 4:05 PM (:football: good game)
+Dallas Cowboys (2-0) at Arizona Cardinals (0-2), Sunday, Sep 24, 4:25 PM
 
-New England Patriots (1-2) at Dallas Cowboys (2-1), Sunday, Oct 1, 4:25 PM (:red_circle: bad game)
+Chicago Bears (0-2) at Kansas City Chiefs (1-1), Sunday, Sep 24, 4:25 PM (:red_circle: bad game)
 
-Arizona Cardinals (1-2) at San Francisco 49ers (3-0), Sunday, Oct 1, 4:25 PM (:red_circle: bad game)
+<br/>Pittsburgh Steelers (1-1) at Las Vegas Raiders (1-1), Sunday, Sep 24, 8:20 PM (:football: good game)
 
-<br/>Kansas City Chiefs (2-1) at New York Jets (1-2), Sunday, Oct 1, 8:20 PM (:football: good game)
+<br/>Philadelphia Eagles (2-0) at Tampa Bay Buccaneers (2-0), Monday, Sep 25, 7:15 PM
 
-<br/>Seattle Seahawks (2-1) at New York Giants (1-2), Monday, Oct 2, 8:15 PM (:red_circle: bad game)
+Los Angeles Rams (1-1) at Cincinnati Bengals (0-2), Monday, Sep 25, 8:15 PM (:football: good game)

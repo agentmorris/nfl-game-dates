@@ -3,13 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2010 wild card
+# Game info for 2010 week 17
 
-New Orleans Saints at Seattle Seahawks, Saturday, Jan 8, 4:35 PM
+Tampa Bay Buccaneers (9-6) at New Orleans Saints (11-4), Sunday, Jan 2, 1:00 PM
 
-<br/>New York Jets at Indianapolis Colts, Saturday, Jan 8, 8:15 PM
+Pittsburgh Steelers (11-4) at Cleveland Browns (5-10, eliminated), Sunday, Jan 2, 1:02 PM (:red_circle: bad game)
 
-<br/>Baltimore Ravens at Kansas City Chiefs, Sunday, Jan 9, 1:06 PM
+Oakland Raiders (7-8, eliminated) at Kansas City Chiefs (10-5), Sunday, Jan 2, 1:02 PM (:red_circle: bad game)
 
-<br/>Green Bay Packers at Philadelphia Eagles, Sunday, Jan 9, 4:40 PM
+Miami Dolphins (7-8, eliminated) at New England Patriots (13-2), Sunday, Jan 2, 1:02 PM (:red_circle: bad game)
+
+Cincinnati Bengals (4-11, eliminated) at Baltimore Ravens (11-4), Sunday, Jan 2, 1:02 PM (:football: good game)
+
+Carolina Panthers (2-13, eliminated) at Atlanta Falcons (12-3), Sunday, Jan 2, 1:03 PM (:red_circle: bad game)
+
+Minnesota Vikings (6-9, eliminated) at Detroit Lions (5-10, eliminated), Sunday, Jan 2, 1:03 PM (:football: good game)
+
+Buffalo Bills (4-11, eliminated) at New York Jets (10-5), Sunday, Jan 2, 1:03 PM (:red_circle: bad game)
+
+<br/>San Diego Chargers (8-7, eliminated) at Denver Broncos (4-11, eliminated), Sunday, Jan 2, 4:15 PM (:football: good game)
+
+Chicago Bears (11-4) at Green Bay Packers (9-6), Sunday, Jan 2, 4:15 PM (:football: good game)
+
+Jacksonville Jaguars (8-7) at Houston Texans (5-10, eliminated), Sunday, Jan 2, 4:15 PM (:red_circle: bad game)
+
+Dallas Cowboys (5-10, eliminated) at Philadelphia Eagles (10-5), Sunday, Jan 2, 4:15 PM (:football: good game)
+
+Arizona Cardinals (5-10, eliminated) at San Francisco 49ers (5-10, eliminated), Sunday, Jan 2, 4:15 PM (:red_circle: bad game)
+
+Tennessee Titans (6-9, eliminated) at Indianapolis Colts (9-6), Sunday, Jan 2, 4:16 PM (:football: good game)
+
+New York Giants (9-6) at Washington Redskins (6-9, eliminated), Sunday, Jan 2, 4:16 PM (:football: good game)
+
+<br/>St. Louis Rams (7-8, eliminated) at Seattle Seahawks (6-9, eliminated), Sunday, Jan 2, 8:31 PM
 

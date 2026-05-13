@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2012 week 16
+# Game info for 2012 week 15
 
-Atlanta Falcons (12-2) at Detroit Lions (4-10), Saturday, Dec 22, 8:40 PM
+Cincinnati Bengals (7-6) at Philadelphia Eagles (4-9), Thursday, Dec 13, 8:30 PM
 
-<br/>New Orleans Saints (6-8) at Dallas Cowboys (8-6), Sunday, Dec 23, 1:02 PM
+<br/>Minnesota Vikings (7-6) at St. Louis Rams (6-6-1), Sunday, Dec 16, 1:00 PM
 
-Tennessee Titans (5-9) at Green Bay Packers (10-4), Sunday, Dec 23, 1:02 PM
+Indianapolis Colts (9-4) at Houston Texans (11-2), Sunday, Dec 16, 1:02 PM
 
-New England Patriots (10-4) at Jacksonville Jaguars (2-12), Sunday, Dec 23, 1:02 PM
+Denver Broncos (10-3) at Baltimore Ravens (9-4), Sunday, Dec 16, 1:02 PM
 
-Buffalo Bills (5-9) at Miami Dolphins (6-8), Sunday, Dec 23, 1:02 PM
+New York Giants (8-5) at Atlanta Falcons (11-2), Sunday, Dec 16, 1:03 PM
 
-Cincinnati Bengals (8-6) at Pittsburgh Steelers (7-7), Sunday, Dec 23, 1:02 PM
+Green Bay Packers (9-4) at Chicago Bears (8-5), Sunday, Dec 16, 1:03 PM
 
-Minnesota Vikings (8-6) at Houston Texans (12-2), Sunday, Dec 23, 1:03 PM
+Washington Redskins (7-6) at Cleveland Browns (5-8), Sunday, Dec 16, 1:03 PM
 
-Indianapolis Colts (9-5) at Kansas City Chiefs (2-12), Sunday, Dec 23, 1:03 PM
+Jacksonville Jaguars (2-11) at Miami Dolphins (5-8), Sunday, Dec 16, 1:03 PM
 
-San Diego Chargers (5-9) at New York Jets (6-8), Sunday, Dec 23, 1:03 PM
+Tampa Bay Buccaneers (6-7) at New Orleans Saints (5-8), Sunday, Dec 16, 1:03 PM
 
-Washington Redskins (8-6) at Philadelphia Eagles (4-10), Sunday, Dec 23, 1:03 PM
+<br/>Seattle Seahawks (8-5) at Buffalo Bills (5-8), Sunday, Dec 16, 4:05 PM
 
-St. Louis Rams (6-7-1) at Tampa Bay Buccaneers (6-8), Sunday, Dec 23, 1:03 PM
+Detroit Lions (4-9) at Arizona Cardinals (4-9), Sunday, Dec 16, 4:05 PM
 
-Oakland Raiders (4-10) at Carolina Panthers (5-9), Sunday, Dec 23, 1:04 PM
+Carolina Panthers (4-9) at San Diego Chargers (5-8), Sunday, Dec 16, 4:05 PM
 
-<br/>Cleveland Browns (5-9) at Denver Broncos (11-3), Sunday, Dec 23, 4:05 PM
+Pittsburgh Steelers (7-6) at Dallas Cowboys (7-6), Sunday, Dec 16, 4:25 PM
 
-Chicago Bears (8-6) at Arizona Cardinals (5-9), Sunday, Dec 23, 4:25 PM
+Kansas City Chiefs (2-11) at Oakland Raiders (3-10), Sunday, Dec 16, 4:25 PM
 
-New York Giants (8-6) at Baltimore Ravens (9-5), Sunday, Dec 23, 4:25 PM
+<br/>San Francisco 49ers (9-3-1) at New England Patriots (10-3), Sunday, Dec 16, 8:30 PM
 
-<br/>San Francisco 49ers (10-3-1) at Seattle Seahawks (9-5), Sunday, Dec 23, 8:31 PM
+<br/>New York Jets (6-7) at Tennessee Titans (4-9), Monday, Dec 17, 8:40 PM
 

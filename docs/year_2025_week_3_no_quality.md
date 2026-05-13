@@ -3,36 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2025 week 4
+# Game info for 2025 week 3
 
-Seattle Seahawks (2-1) at Arizona Cardinals (2-1), Thursday, Sep 25, 8:15 PM
+Miami Dolphins (0-2) at Buffalo Bills (2-0), Thursday, Sep 18, 8:15 PM
 
-<br/>Minnesota Vikings (2-1) at Pittsburgh Steelers (2-1), Sunday, Sep 28, 9:30 AM
+<br/>Atlanta Falcons (1-1) at Carolina Panthers (0-2), Sunday, Sep 21, 1:00 PM
 
-<br/>Washington Commanders (2-1) at Atlanta Falcons (1-2), Sunday, Sep 28, 1:00 PM
+Green Bay Packers (2-0) at Cleveland Browns (0-2), Sunday, Sep 21, 1:00 PM
 
-New Orleans Saints (0-3) at Buffalo Bills (3-0), Sunday, Sep 28, 1:00 PM
+Houston Texans (0-2) at Jacksonville Jaguars (1-1), Sunday, Sep 21, 1:00 PM
 
-Cleveland Browns (1-2) at Detroit Lions (2-1), Sunday, Sep 28, 1:00 PM
+Cincinnati Bengals (2-0) at Minnesota Vikings (1-1), Sunday, Sep 21, 1:00 PM
 
-Tennessee Titans (0-3) at Houston Texans (0-3), Sunday, Sep 28, 1:00 PM
+Pittsburgh Steelers (1-1) at New England Patriots (1-1), Sunday, Sep 21, 1:00 PM
 
-Carolina Panthers (1-2) at New England Patriots (1-2), Sunday, Sep 28, 1:00 PM
+Los Angeles Rams (2-0) at Philadelphia Eagles (2-0), Sunday, Sep 21, 1:00 PM
 
-Los Angeles Chargers (3-0) at New York Giants (0-3), Sunday, Sep 28, 1:00 PM
+New York Jets (0-2) at Tampa Bay Buccaneers (2-0), Sunday, Sep 21, 1:00 PM
 
-Philadelphia Eagles (3-0) at Tampa Bay Buccaneers (3-0), Sunday, Sep 28, 1:00 PM
+Indianapolis Colts (2-0) at Tennessee Titans (0-2), Sunday, Sep 21, 1:00 PM
 
-<br/>Indianapolis Colts (3-0) at Los Angeles Rams (2-1), Sunday, Sep 28, 4:05 PM
+Las Vegas Raiders (1-1) at Washington Commanders (1-1), Sunday, Sep 21, 1:00 PM
 
-Jacksonville Jaguars (2-1) at San Francisco 49ers (3-0), Sunday, Sep 28, 4:05 PM
+<br/>Denver Broncos (1-1) at Los Angeles Chargers (2-0), Sunday, Sep 21, 4:05 PM
 
-Baltimore Ravens (1-2) at Kansas City Chiefs (1-2), Sunday, Sep 28, 4:25 PM
+New Orleans Saints (0-2) at Seattle Seahawks (1-1), Sunday, Sep 21, 4:05 PM
 
-Chicago Bears (1-2) at Las Vegas Raiders (1-2), Sunday, Sep 28, 4:25 PM
+Dallas Cowboys (1-1) at Chicago Bears (0-2), Sunday, Sep 21, 4:25 PM
 
-<br/>Green Bay Packers (2-1) at Dallas Cowboys (1-2), Sunday, Sep 28, 8:20 PM
+Arizona Cardinals (2-0) at San Francisco 49ers (2-0), Sunday, Sep 21, 4:25 PM
 
-<br/>New York Jets (0-3) at Miami Dolphins (0-3), Monday, Sep 29, 7:15 PM
+<br/>Kansas City Chiefs (0-2) at New York Giants (0-2), Sunday, Sep 21, 8:20 PM
 
-Cincinnati Bengals (2-1) at Denver Broncos (1-2), Monday, Sep 29, 8:15 PM
+<br/>Detroit Lions (1-1) at Baltimore Ravens (1-1), Monday, Sep 22, 8:15 PM

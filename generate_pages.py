@@ -221,16 +221,16 @@ def _render_season_md(year, total_weeks):
     )
     for i_week in range(total_weeks):
         s += '* [{}](year_{}_week_{}_no_quality.md)\n'.format(
-            _week_index_to_name(i_week, year).title(), year, i_week)
+            _week_index_to_name(i_week, year).title(), year, i_week + 1)
     s += '\n## With quality indicators\n\n'
     for i_week in range(total_weeks):
         s += '* [{}](year_{}_week_{}_with_quality.md)\n'.format(
-            _week_index_to_name(i_week, year).title(), year, i_week)
+            _week_index_to_name(i_week, year).title(), year, i_week + 1)
     return s
 
 
 def _render_index_md(years_present):
-    """Rewrite docs/index.md from header.txt + year links + trailer.txt."""
+    """Rewrite docs/index.md from header.txt + year links."""
     with open(os.path.join(_HERE, 'header.txt'), 'r', encoding='utf-8') as f:
         header = f.read()
     s = header
@@ -239,14 +239,6 @@ def _render_index_md(years_present):
     s += '\n'
     for year in years_present:
         s += '* [{}](season_{}.md)\n'.format(year, year)
-    trailer_path = os.path.join(_HERE, 'trailer.txt')
-    if os.path.exists(trailer_path):
-        with open(trailer_path, 'r', encoding='utf-8') as f:
-            trailer = f.read()
-        if trailer.strip():
-            s += '\n' + trailer
-            if not s.endswith('\n'):
-                s += '\n'
     return s
 
 
@@ -305,10 +297,10 @@ def generate_for_year(year, cache_path, docs_dir=DOCS_DIR, write_index=True):
                              eliminated=eliminated_in, include_quality=True)
 
         with open(os.path.join(docs_dir, 'year_{}_week_{}_no_quality.md'.format(
-                year, i_week)), 'w', encoding='utf-8') as f:
+                year, i_week + 1)), 'w', encoding='utf-8') as f:
             f.write(nq)
         with open(os.path.join(docs_dir, 'year_{}_week_{}_with_quality.md'.format(
-                year, i_week)), 'w', encoding='utf-8') as f:
+                year, i_week + 1)), 'w', encoding='utf-8') as f:
             f.write(wq)
 
     with open(os.path.join(docs_dir, 'season_{}.md'.format(year)), 'w',

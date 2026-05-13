@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2017 week 14
+# Game info for 2017 week 13
 
-New Orleans Saints (9-3) at Atlanta Falcons (7-5), Thursday, Dec 7, 8:25 PM (:football: good game)
+Washington Redskins (5-6) at Dallas Cowboys (5-6), Thursday, Nov 30, 8:25 PM (:red_circle: bad game)
 
-<br/>Indianapolis Colts (3-9) at Buffalo Bills (6-6), Sunday, Dec 10, 1:00 PM (:football: good game)
+<br/>Minnesota Vikings (9-2) at Atlanta Falcons (7-4), Sunday, Dec 3, 1:00 PM (:football: good game)
 
-Minnesota Vikings (10-2) at Carolina Panthers (8-4), Sunday, Dec 10, 1:00 PM (:football: good game)
+New England Patriots (9-2) at Buffalo Bills (6-5), Sunday, Dec 3, 1:00 PM (:red_circle: bad game)
 
-Chicago Bears (3-9, eliminated) at Cincinnati Bengals (5-7), Sunday, Dec 10, 1:00 PM (:red_circle: bad game)
+San Francisco 49ers (1-10, eliminated) at Chicago Bears (3-8), Sunday, Dec 3, 1:00 PM (:football: good game)
 
-Green Bay Packers (6-6) at Cleveland Browns (0-12, eliminated), Sunday, Dec 10, 1:00 PM (:football: good game)
+Tampa Bay Buccaneers (4-7) at Green Bay Packers (5-6), Sunday, Dec 3, 1:00 PM (:football: good game)
 
-San Francisco 49ers (2-10, eliminated) at Houston Texans (4-8), Sunday, Dec 10, 1:00 PM
+Indianapolis Colts (3-8) at Jacksonville Jaguars (7-4), Sunday, Dec 3, 1:00 PM (:red_circle: bad game)
 
-Oakland Raiders (6-6) at Kansas City Chiefs (6-6), Sunday, Dec 10, 1:00 PM
+Denver Broncos (3-8) at Miami Dolphins (4-7), Sunday, Dec 3, 1:00 PM (:red_circle: bad game)
 
-Dallas Cowboys (6-6) at New York Giants (2-10, eliminated), Sunday, Dec 10, 1:00 PM
+Kansas City Chiefs (6-5) at New York Jets (4-7), Sunday, Dec 3, 1:00 PM (:football: good game)
 
-Detroit Lions (6-6) at Tampa Bay Buccaneers (4-8), Sunday, Dec 10, 1:00 PM (:football: good game)
+Houston Texans (4-7) at Tennessee Titans (7-4), Sunday, Dec 3, 1:00 PM
 
-<br/>Tennessee Titans (8-4) at Arizona Cardinals (5-7), Sunday, Dec 10, 4:05 PM (:football: good game)
+Detroit Lions (6-5) at Baltimore Ravens (6-5), Sunday, Dec 3, 1:00 PM (:red_circle: bad game)
 
-New York Jets (5-7) at Denver Broncos (3-9, eliminated), Sunday, Dec 10, 4:05 PM (:red_circle: bad game)
+<br/>Cleveland Browns (0-11, eliminated) at Los Angeles Chargers (5-6), Sunday, Dec 3, 4:05 PM
 
-Washington Redskins (5-7) at Los Angeles Chargers (6-6), Sunday, Dec 10, 4:05 PM (:red_circle: bad game)
+Los Angeles Rams (8-3) at Arizona Cardinals (5-6), Sunday, Dec 3, 4:25 PM
 
-Seattle Seahawks (8-4) at Jacksonville Jaguars (8-4), Sunday, Dec 10, 4:25 PM (:football: good game)
+Carolina Panthers (8-3) at New Orleans Saints (8-3), Sunday, Dec 3, 4:25 PM
 
-Philadelphia Eagles (10-2) at Los Angeles Rams (9-3), Sunday, Dec 10, 4:25 PM (:football: good game)
+New York Giants (2-9, eliminated) at Oakland Raiders (5-6), Sunday, Dec 3, 4:25 PM (:football: good game)
 
-<br/>Baltimore Ravens (7-5) at Pittsburgh Steelers (10-2), Sunday, Dec 10, 8:30 PM (:football: good game)
+<br/>Philadelphia Eagles (10-1) at Seattle Seahawks (7-4), Sunday, Dec 3, 8:30 PM
 
-<br/>New England Patriots (10-2) at Miami Dolphins (5-7), Monday, Dec 11, 8:30 PM (:football: good game)
+<br/>Pittsburgh Steelers (9-2) at Cincinnati Bengals (5-6), Monday, Dec 4, 8:30 PM (:football: good game)
 

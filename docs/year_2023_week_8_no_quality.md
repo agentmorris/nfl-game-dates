@@ -3,32 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2023 week 9
+# Game info for 2023 week 8
 
-Tennessee Titans (3-4) at Pittsburgh Steelers (4-3), Thursday, Nov 2, 8:15 PM
+Tampa Bay Buccaneers (3-3) at Buffalo Bills (4-3), Thursday, Oct 26, 8:15 PM
 
-<br/>Miami Dolphins (6-2) at Kansas City Chiefs (6-2), Sunday, Nov 5, 9:30 AM
+<br/>Houston Texans (3-3) at Carolina Panthers (0-6), Sunday, Oct 29, 1:00 PM
 
-<br/>Minnesota Vikings (4-4) at Atlanta Falcons (4-4), Sunday, Nov 5, 1:00 PM
+Los Angeles Rams (3-4) at Dallas Cowboys (4-2), Sunday, Oct 29, 1:00 PM
 
-Seattle Seahawks (5-2) at Baltimore Ravens (6-2), Sunday, Nov 5, 1:00 PM
+Minnesota Vikings (3-4) at Green Bay Packers (2-4), Sunday, Oct 29, 1:00 PM
 
-Arizona Cardinals (1-7) at Cleveland Browns (4-3), Sunday, Nov 5, 1:00 PM
+New Orleans Saints (3-4) at Indianapolis Colts (3-4), Sunday, Oct 29, 1:00 PM
 
-Los Angeles Rams (3-5) at Green Bay Packers (2-5), Sunday, Nov 5, 1:00 PM
+New England Patriots (2-5) at Miami Dolphins (5-2), Sunday, Oct 29, 1:00 PM
 
-Tampa Bay Buccaneers (3-4) at Houston Texans (3-4), Sunday, Nov 5, 1:00 PM
+New York Jets (3-3) at New York Giants (2-5), Sunday, Oct 29, 1:00 PM
 
-Washington Commanders (3-5) at New England Patriots (2-6), Sunday, Nov 5, 1:00 PM
+Jacksonville Jaguars (5-2) at Pittsburgh Steelers (4-2), Sunday, Oct 29, 1:00 PM
 
-Chicago Bears (2-6) at New Orleans Saints (4-4), Sunday, Nov 5, 1:00 PM
+Atlanta Falcons (4-3) at Tennessee Titans (2-4), Sunday, Oct 29, 1:00 PM
 
-<br/>Indianapolis Colts (3-5) at Carolina Panthers (1-6), Sunday, Nov 5, 4:05 PM
+Philadelphia Eagles (6-1) at Washington Commanders (3-4), Sunday, Oct 29, 1:00 PM
 
-New York Giants (2-6) at Las Vegas Raiders (3-5), Sunday, Nov 5, 4:25 PM
+<br/>Cleveland Browns (4-2) at Seattle Seahawks (4-2), Sunday, Oct 29, 4:05 PM
 
-Dallas Cowboys (5-2) at Philadelphia Eagles (7-1), Sunday, Nov 5, 4:25 PM
+Baltimore Ravens (5-2) at Arizona Cardinals (1-6), Sunday, Oct 29, 4:25 PM
 
-<br/>Buffalo Bills (5-3) at Cincinnati Bengals (4-3), Sunday, Nov 5, 8:20 PM
+Kansas City Chiefs (6-1) at Denver Broncos (2-5), Sunday, Oct 29, 4:25 PM
 
-<br/>Los Angeles Chargers (3-4) at New York Jets (4-3), Monday, Nov 6, 8:15 PM
+Cincinnati Bengals (3-3) at San Francisco 49ers (5-2), Sunday, Oct 29, 4:25 PM
+
+<br/>Chicago Bears (2-5) at Los Angeles Chargers (2-4), Sunday, Oct 29, 8:20 PM
+
+<br/>Las Vegas Raiders (3-4) at Detroit Lions (5-2), Monday, Oct 30, 8:15 PM

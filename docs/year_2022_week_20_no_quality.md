@@ -3,9 +3,13 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2022 championship
+# Game info for 2022 divisional
 
-San Francisco 49ers at Philadelphia Eagles, Sunday, Jan 29, 3:00 PM
+Jacksonville Jaguars at Kansas City Chiefs, Saturday, Jan 21, 4:30 PM
 
-<br/>Cincinnati Bengals at Kansas City Chiefs, Sunday, Jan 29, 6:30 PM
+<br/>New York Giants at Philadelphia Eagles, Saturday, Jan 21, 8:15 PM
+
+<br/>Cincinnati Bengals at Buffalo Bills, Sunday, Jan 22, 3:00 PM
+
+<br/>Dallas Cowboys at San Francisco 49ers, Sunday, Jan 22, 6:30 PM
 

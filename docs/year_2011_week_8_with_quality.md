@@ -3,33 +3,31 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2011 week 9
+# Game info for 2011 week 8
 
-Atlanta Falcons (4-3) at Indianapolis Colts (0-8), Sunday, Nov 6, 1:02 PM (:red_circle: bad game)
+New Orleans Saints (5-2) at St. Louis Rams (0-6), Sunday, Oct 30, 1:00 PM
 
-Seattle Seahawks (2-5) at Dallas Cowboys (3-4), Sunday, Nov 6, 1:02 PM
+Jacksonville Jaguars (2-5) at Houston Texans (4-3), Sunday, Oct 30, 1:02 PM
 
-New York Jets (4-3) at Buffalo Bills (5-2), Sunday, Nov 6, 1:03 PM
+Miami Dolphins (0-6) at New York Giants (4-2), Sunday, Oct 30, 1:02 PM (:football: good game)
 
-Cleveland Browns (3-4) at Houston Texans (5-3), Sunday, Nov 6, 1:03 PM (:red_circle: bad game)
+Indianapolis Colts (0-7) at Tennessee Titans (3-3), Sunday, Oct 30, 1:02 PM (:red_circle: bad game)
 
-Miami Dolphins (0-7) at Kansas City Chiefs (4-3), Sunday, Nov 6, 1:03 PM (:red_circle: bad game)
+Arizona Cardinals (1-5) at Baltimore Ravens (4-2), Sunday, Oct 30, 1:02 PM (:football: good game)
 
-Tampa Bay Buccaneers (4-3) at New Orleans Saints (5-3), Sunday, Nov 6, 1:03 PM
+Minnesota Vikings (1-6) at Carolina Panthers (2-5), Sunday, Oct 30, 1:03 PM (:football: good game)
 
-San Francisco 49ers (6-1) at Washington Redskins (3-4), Sunday, Nov 6, 1:03 PM (:football: good game)
+<br/>Washington Redskins (3-3) at Buffalo Bills (4-2), Sunday, Oct 30, 4:05 PM (:red_circle: bad game)
 
-<br/>Cincinnati Bengals (5-2) at Tennessee Titans (4-3), Sunday, Nov 6, 4:05 PM (:football: good game)
+Detroit Lions (5-2) at Denver Broncos (2-4), Sunday, Oct 30, 4:10 PM (:red_circle: bad game)
 
-Denver Broncos (2-5) at Oakland Raiders (4-3), Sunday, Nov 6, 4:05 PM (:football: good game)
+New England Patriots (5-1) at Pittsburgh Steelers (5-2), Sunday, Oct 30, 4:15 PM (:football: good game)
 
-St. Louis Rams (1-6) at Arizona Cardinals (1-6), Sunday, Nov 6, 4:15 PM (:football: good game)
+Cleveland Browns (3-3) at San Francisco 49ers (5-1), Sunday, Oct 30, 4:15 PM
 
-New York Giants (5-2) at New England Patriots (5-2), Sunday, Nov 6, 4:15 PM (:football: good game)
+Cincinnati Bengals (4-2) at Seattle Seahawks (2-4), Sunday, Oct 30, 4:16 PM (:red_circle: bad game)
 
-Green Bay Packers (7-0) at San Diego Chargers (4-3), Sunday, Nov 6, 4:15 PM (:football: good game)
+<br/>Dallas Cowboys (3-3) at Philadelphia Eagles (2-4), Sunday, Oct 30, 8:28 PM (:red_circle: bad game)
 
-<br/>Baltimore Ravens (5-2) at Pittsburgh Steelers (6-2), Sunday, Nov 6, 8:30 PM (:football: good game)
-
-<br/>Chicago Bears (4-3) at Philadelphia Eagles (3-4), Monday, Nov 7, 8:41 PM (:football: good game)
+<br/>San Diego Chargers (4-2) at Kansas City Chiefs (3-3), Monday, Oct 31, 8:40 PM (:football: good game)
 

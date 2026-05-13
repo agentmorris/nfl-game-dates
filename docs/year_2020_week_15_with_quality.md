@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2020 week 16
+# Game info for 2020 week 15
 
-Minnesota Vikings (6-8) at New Orleans Saints (10-4), Friday, Dec 25, 4:30 PM (:red_circle: bad game)
+Los Angeles Chargers (4-9, eliminated) at Las Vegas Raiders (7-6), Thursday, Dec 17, 8:20 PM (:football: good game)
 
-<br/>Tampa Bay Buccaneers (9-5) at Detroit Lions (5-9, eliminated), Saturday, Dec 26, 1:00 PM (:red_circle: bad game)
+<br/>Buffalo Bills (10-3) at Denver Broncos (5-8), Saturday, Dec 19, 4:30 PM (:red_circle: bad game)
 
-<br/>San Francisco 49ers (5-9, eliminated) at Arizona Cardinals (8-6), Saturday, Dec 26, 4:30 PM (:football: good game)
+<br/>Carolina Panthers (4-9) at Green Bay Packers (10-3), Saturday, Dec 19, 8:15 PM (:football: good game)
 
-<br/>Miami Dolphins (9-5) at Las Vegas Raiders (7-7), Saturday, Dec 26, 8:15 PM (:football: good game)
+<br/>Tampa Bay Buccaneers (8-5) at Atlanta Falcons (4-9, eliminated), Sunday, Dec 20, 1:00 PM (:football: good game)
 
-<br/>Cincinnati Bengals (3-10-1, eliminated) at Houston Texans (4-10, eliminated), Sunday, Dec 27, 1:00 PM (:football: good game)
+Houston Texans (4-9, eliminated) at Indianapolis Colts (9-4), Sunday, Dec 20, 1:00 PM (:football: good game)
 
-Chicago Bears (7-7) at Jacksonville Jaguars (1-13, eliminated), Sunday, Dec 27, 1:00 PM (:red_circle: bad game)
+San Francisco 49ers (5-8) at Dallas Cowboys (4-9), Sunday, Dec 20, 1:00 PM (:football: good game)
 
-Atlanta Falcons (4-10, eliminated) at Kansas City Chiefs (13-1), Sunday, Dec 27, 1:00 PM (:football: good game)
+New England Patriots (6-7) at Miami Dolphins (8-5), Sunday, Dec 20, 1:00 PM (:football: good game)
 
-Cleveland Browns (10-4) at New York Jets (1-13, eliminated), Sunday, Dec 27, 1:00 PM (:football: good game)
+Chicago Bears (6-7) at Minnesota Vikings (6-7), Sunday, Dec 20, 1:00 PM (:football: good game)
 
-Indianapolis Colts (10-4) at Pittsburgh Steelers (11-3), Sunday, Dec 27, 1:00 PM (:football: good game)
+Detroit Lions (5-8) at Tennessee Titans (9-4), Sunday, Dec 20, 1:00 PM (:red_circle: bad game)
 
-New York Giants (5-9) at Baltimore Ravens (9-5), Sunday, Dec 27, 1:00 PM
+Jacksonville Jaguars (1-12, eliminated) at Baltimore Ravens (8-5), Sunday, Dec 20, 1:00 PM (:red_circle: bad game)
 
-<br/>Denver Broncos (5-9, eliminated) at Los Angeles Chargers (5-9, eliminated), Sunday, Dec 27, 4:05 PM (:football: good game)
+Seattle Seahawks (9-4) at Washington Football Team (6-7), Sunday, Dec 20, 1:00 PM (:football: good game)
 
-Carolina Panthers (4-10, eliminated) at Washington Football Team (6-8), Sunday, Dec 27, 4:05 PM (:football: good game)
+<br/>Philadelphia Eagles (4-8-1) at Arizona Cardinals (7-6), Sunday, Dec 20, 4:05 PM (:football: good game)
 
-Philadelphia Eagles (4-9-1, eliminated) at Dallas Cowboys (5-9), Sunday, Dec 27, 4:25 PM (:red_circle: bad game)
+New York Jets (0-13, eliminated) at Los Angeles Rams (9-4), Sunday, Dec 20, 4:05 PM (:football: good game)
 
-Los Angeles Rams (9-5) at Seattle Seahawks (10-4), Sunday, Dec 27, 4:25 PM
+Kansas City Chiefs (12-1) at New Orleans Saints (10-3), Sunday, Dec 20, 4:25 PM (:football: good game)
 
-<br/>Tennessee Titans (10-4) at Green Bay Packers (11-3), Sunday, Dec 27, 8:20 PM (:red_circle: bad game)
+<br/>Cleveland Browns (9-4) at New York Giants (5-8), Sunday, Dec 20, 8:20 PM
 
-<br/>Buffalo Bills (11-3) at New England Patriots (6-8, eliminated), Monday, Dec 28, 8:15 PM (:red_circle: bad game)
+<br/>Pittsburgh Steelers (11-2) at Cincinnati Bengals (2-10-1, eliminated), Monday, Dec 21, 8:15 PM
 

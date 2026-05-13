@@ -3,31 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2021 week 7
+# Game info for 2021 week 6
 
-Denver Broncos (3-3) at Cleveland Browns (3-3), Thursday, Oct 21, 8:20 PM
+Tampa Bay Buccaneers (4-1) at Philadelphia Eagles (2-3), Thursday, Oct 14, 8:20 PM
 
-<br/>Washington Football Team (2-4) at Green Bay Packers (5-1), Sunday, Oct 24, 1:00 PM
+<br/>Miami Dolphins (1-4) at Jacksonville Jaguars (0-5), Sunday, Oct 17, 9:30 AM
 
-Atlanta Falcons (2-3) at Miami Dolphins (1-5), Sunday, Oct 24, 1:00 PM
+<br/>Minnesota Vikings (2-3) at Carolina Panthers (3-2), Sunday, Oct 17, 1:00 PM
 
-New York Jets (1-4) at New England Patriots (2-4), Sunday, Oct 24, 1:00 PM
+Green Bay Packers (4-1) at Chicago Bears (3-2), Sunday, Oct 17, 1:00 PM
 
-Carolina Panthers (3-3) at New York Giants (1-5), Sunday, Oct 24, 1:00 PM
+Houston Texans (1-4) at Indianapolis Colts (1-4), Sunday, Oct 17, 1:00 PM
 
-Kansas City Chiefs (3-3) at Tennessee Titans (4-2), Sunday, Oct 24, 1:00 PM
+Cincinnati Bengals (3-2) at Detroit Lions (0-5), Sunday, Oct 17, 1:00 PM
 
-Cincinnati Bengals (4-2) at Baltimore Ravens (5-1), Sunday, Oct 24, 1:00 PM
+Los Angeles Rams (4-1) at New York Giants (1-4), Sunday, Oct 17, 1:00 PM
 
-<br/>Philadelphia Eagles (2-4) at Las Vegas Raiders (4-2), Sunday, Oct 24, 4:05 PM
+Los Angeles Chargers (4-1) at Baltimore Ravens (4-1), Sunday, Oct 17, 1:00 PM
 
-Detroit Lions (0-6) at Los Angeles Rams (5-1), Sunday, Oct 24, 4:05 PM
+Kansas City Chiefs (2-3) at Washington Football Team (2-3), Sunday, Oct 17, 1:00 PM
 
-Houston Texans (1-5) at Arizona Cardinals (6-0), Sunday, Oct 24, 4:25 PM
+<br/>Arizona Cardinals (5-0) at Cleveland Browns (3-2), Sunday, Oct 17, 4:05 PM
 
-Chicago Bears (3-3) at Tampa Bay Buccaneers (5-1), Sunday, Oct 24, 4:25 PM
+Las Vegas Raiders (3-2) at Denver Broncos (3-2), Sunday, Oct 17, 4:25 PM
 
-<br/>Indianapolis Colts (2-4) at San Francisco 49ers (2-3), Sunday, Oct 24, 8:20 PM
+Dallas Cowboys (4-1) at New England Patriots (2-3), Sunday, Oct 17, 4:25 PM
 
-<br/>New Orleans Saints (3-2) at Seattle Seahawks (2-4), Monday, Oct 25, 8:15 PM
+<br/>Seattle Seahawks (2-3) at Pittsburgh Steelers (2-3), Sunday, Oct 17, 8:20 PM
+
+<br/>Buffalo Bills (4-1) at Tennessee Titans (3-2), Monday, Oct 18, 8:15 PM
 

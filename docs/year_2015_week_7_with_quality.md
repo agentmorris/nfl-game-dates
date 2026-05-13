@@ -3,33 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2015 week 8
+# Game info for 2015 week 7
 
-Miami Dolphins (3-3) at New England Patriots (6-0), Thursday, Oct 29, 8:26 PM (:red_circle: bad game)
+Seattle Seahawks (2-4) at San Francisco 49ers (2-4), Thursday, Oct 22, 8:26 PM (:red_circle: bad game)
 
-<br/>Detroit Lions (1-6) at Kansas City Chiefs (2-5), Sunday, Nov 1, 9:36 AM (:red_circle: bad game)
+<br/>Buffalo Bills (3-3) at Jacksonville Jaguars (1-5), Sunday, Oct 25, 8:35 AM (:football: good game)
 
-<br/>Minnesota Vikings (4-2) at Chicago Bears (2-4), Sunday, Nov 1, 1:00 PM (:football: good game)
+<br/>Cleveland Browns (2-4) at St. Louis Rams (2-3), Sunday, Oct 25, 1:00 PM (:red_circle: bad game)
 
-San Francisco 49ers (2-5) at St. Louis Rams (3-3), Sunday, Nov 1, 1:00 PM (:red_circle: bad game)
+Minnesota Vikings (3-2) at Detroit Lions (1-5), Sunday, Oct 25, 1:02 PM (:football: good game)
 
-Tampa Bay Buccaneers (2-4) at Atlanta Falcons (6-1), Sunday, Nov 1, 1:02 PM (:football: good game)
+Houston Texans (2-4) at Miami Dolphins (2-3), Sunday, Oct 25, 1:02 PM (:red_circle: bad game)
 
-Arizona Cardinals (5-2) at Cleveland Browns (2-5), Sunday, Nov 1, 1:02 PM (:football: good game)
+New York Jets (4-1) at New England Patriots (5-0), Sunday, Oct 25, 1:02 PM (:football: good game)
 
-Tennessee Titans (1-5) at Houston Texans (2-5), Sunday, Nov 1, 1:02 PM
+Atlanta Falcons (5-1) at Tennessee Titans (1-4), Sunday, Oct 25, 1:02 PM (:football: good game)
 
-New York Giants (4-3) at New Orleans Saints (3-4), Sunday, Nov 1, 1:02 PM (:football: good game)
+New Orleans Saints (2-4) at Indianapolis Colts (3-3), Sunday, Oct 25, 1:03 PM (:football: good game)
 
-Cincinnati Bengals (6-0) at Pittsburgh Steelers (4-3), Sunday, Nov 1, 1:02 PM (:football: good game)
+Pittsburgh Steelers (4-2) at Kansas City Chiefs (1-5), Sunday, Oct 25, 1:03 PM
 
-San Diego Chargers (2-5) at Baltimore Ravens (1-6), Sunday, Nov 1, 1:02 PM (:football: good game)
+Tampa Bay Buccaneers (2-3) at Washington Redskins (2-4), Sunday, Oct 25, 1:04 PM (:football: good game)
 
-<br/>New York Jets (4-2) at Oakland Raiders (3-3), Sunday, Nov 1, 4:05 PM
+<br/>Oakland Raiders (2-3) at San Diego Chargers (2-4), Sunday, Oct 25, 4:05 PM (:football: good game)
 
-Seattle Seahawks (3-4) at Dallas Cowboys (2-4), Sunday, Nov 1, 4:25 PM (:football: good game)
+Dallas Cowboys (2-3) at New York Giants (3-3), Sunday, Oct 25, 4:25 PM (:football: good game)
 
-<br/>Green Bay Packers (6-0) at Denver Broncos (6-0), Sunday, Nov 1, 8:30 PM (:red_circle: bad game)
+<br/>Philadelphia Eagles (3-3) at Carolina Panthers (5-0), Sunday, Oct 25, 8:31 PM
 
-<br/>Indianapolis Colts (3-4) at Carolina Panthers (6-0), Monday, Nov 2, 8:30 PM (:football: good game)
+<br/>Baltimore Ravens (1-5) at Arizona Cardinals (4-2), Monday, Oct 26, 8:30 PM (:football: good game)
 

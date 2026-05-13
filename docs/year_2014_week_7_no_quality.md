@@ -3,35 +3,35 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2014 week 8
+# Game info for 2014 week 7
 
-San Diego Chargers (5-2) at Denver Broncos (5-1), Thursday, Oct 23, 8:26 PM
+New York Jets (1-5) at New England Patriots (4-2), Thursday, Oct 16, 8:25 PM
 
-<br/>Detroit Lions (5-2) at Atlanta Falcons (2-5), Sunday, Oct 26, 9:37 AM
+<br/>Miami Dolphins (2-3) at Chicago Bears (3-3), Sunday, Oct 19, 1:00 PM
 
-<br/>Baltimore Ravens (5-2) at Cincinnati Bengals (3-2-1), Sunday, Oct 26, 1:02 PM
+Seattle Seahawks (3-2) at St. Louis Rams (1-4), Sunday, Oct 19, 1:00 PM
 
-Miami Dolphins (3-3) at Jacksonville Jaguars (1-6), Sunday, Oct 26, 1:02 PM
+Minnesota Vikings (2-4) at Buffalo Bills (3-3), Sunday, Oct 19, 1:02 PM
 
-Chicago Bears (3-4) at New England Patriots (5-2), Sunday, Oct 26, 1:02 PM
+Cincinnati Bengals (3-1-1) at Indianapolis Colts (4-2), Sunday, Oct 19, 1:02 PM
 
-Buffalo Bills (4-3) at New York Jets (1-6), Sunday, Oct 26, 1:02 PM
+New Orleans Saints (2-3) at Detroit Lions (4-2), Sunday, Oct 19, 1:02 PM
 
-Houston Texans (3-4) at Tennessee Titans (2-5), Sunday, Oct 26, 1:03 PM
+Carolina Panthers (3-2-1) at Green Bay Packers (4-2), Sunday, Oct 19, 1:02 PM
 
-Minnesota Vikings (2-5) at Tampa Bay Buccaneers (1-5), Sunday, Oct 26, 1:03 PM
+Cleveland Browns (3-2) at Jacksonville Jaguars (0-6), Sunday, Oct 19, 1:02 PM
 
-Seattle Seahawks (3-3) at Carolina Panthers (3-3-1), Sunday, Oct 26, 1:04 PM
+Atlanta Falcons (2-4) at Baltimore Ravens (4-2), Sunday, Oct 19, 1:02 PM
 
-St. Louis Rams (2-4) at Kansas City Chiefs (3-3), Sunday, Oct 26, 1:04 PM
+Tennessee Titans (2-4) at Washington Redskins (1-5), Sunday, Oct 19, 1:02 PM
 
-<br/>Philadelphia Eagles (5-1) at Arizona Cardinals (5-1), Sunday, Oct 26, 4:05 PM
+<br/>Kansas City Chiefs (2-3) at San Diego Chargers (5-1), Sunday, Oct 19, 4:05 PM
 
-Oakland Raiders (0-6) at Cleveland Browns (3-3), Sunday, Oct 26, 4:25 PM
+New York Giants (3-3) at Dallas Cowboys (5-1), Sunday, Oct 19, 4:25 PM
 
-Indianapolis Colts (5-2) at Pittsburgh Steelers (4-3), Sunday, Oct 26, 4:25 PM
+Arizona Cardinals (4-1) at Oakland Raiders (0-5), Sunday, Oct 19, 4:25 PM
 
-<br/>Green Bay Packers (5-2) at New Orleans Saints (2-4), Sunday, Oct 26, 8:30 PM
+<br/>San Francisco 49ers (4-2) at Denver Broncos (4-1), Sunday, Oct 19, 8:30 PM
 
-<br/>Washington Redskins (2-5) at Dallas Cowboys (6-1), Monday, Oct 27, 8:30 PM
+<br/>Houston Texans (3-3) at Pittsburgh Steelers (3-3), Monday, Oct 20, 8:30 PM
 

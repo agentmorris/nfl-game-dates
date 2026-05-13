@@ -3,36 +3,36 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2025 week 17
+# Game info for 2025 week 16
 
-Dallas Cowboys (6-8-1) at Washington Commanders (4-11), Thursday, Dec 25, 1:00 PM
+Los Angeles Rams (11-3) at Seattle Seahawks (11-3), Thursday, Dec 18, 8:15 PM
 
-<br/>Detroit Lions (8-7) at Minnesota Vikings (7-8), Thursday, Dec 25, 4:30 PM
+<br/>Philadelphia Eagles (9-5) at Washington Commanders (4-10), Saturday, Dec 20, 5:00 PM
 
-<br/>Denver Broncos (12-3) at Kansas City Chiefs (6-9), Thursday, Dec 25, 8:15 PM
+<br/>Green Bay Packers (9-4-1) at Chicago Bears (10-4), Saturday, Dec 20, 8:20 PM
 
-<br/>Houston Texans (10-5) at Los Angeles Chargers (11-4), Saturday, Dec 27, 4:30 PM
+<br/>Tampa Bay Buccaneers (7-7) at Carolina Panthers (7-7), Sunday, Dec 21, 1:00 PM
 
-<br/>Baltimore Ravens (7-8) at Green Bay Packers (9-5-1), Saturday, Dec 27, 8:00 PM
+Buffalo Bills (10-4) at Cleveland Browns (3-11), Sunday, Dec 21, 1:00 PM
 
-<br/>Seattle Seahawks (12-3) at Carolina Panthers (8-7), Sunday, Dec 28, 1:00 PM
+Los Angeles Chargers (10-4) at Dallas Cowboys (6-7-1), Sunday, Dec 21, 1:00 PM
 
-Arizona Cardinals (3-12) at Cincinnati Bengals (5-10), Sunday, Dec 28, 1:00 PM
+Cincinnati Bengals (4-10) at Miami Dolphins (6-8), Sunday, Dec 21, 1:00 PM
 
-Pittsburgh Steelers (9-6) at Cleveland Browns (3-12), Sunday, Dec 28, 1:00 PM
+New York Jets (3-11) at New Orleans Saints (4-10), Sunday, Dec 21, 1:00 PM
 
-Jacksonville Jaguars (11-4) at Indianapolis Colts (8-7), Sunday, Dec 28, 1:00 PM
+Minnesota Vikings (6-8) at New York Giants (2-12), Sunday, Dec 21, 1:00 PM
 
-Tampa Bay Buccaneers (7-8) at Miami Dolphins (6-9), Sunday, Dec 28, 1:00 PM
+Kansas City Chiefs (6-8) at Tennessee Titans (2-12), Sunday, Dec 21, 1:00 PM
 
-New England Patriots (12-3) at New York Jets (3-12), Sunday, Dec 28, 1:00 PM
+<br/>Atlanta Falcons (5-9) at Arizona Cardinals (3-11), Sunday, Dec 21, 4:05 PM
 
-New Orleans Saints (5-10) at Tennessee Titans (3-12), Sunday, Dec 28, 1:00 PM
+Jacksonville Jaguars (10-4) at Denver Broncos (12-2), Sunday, Dec 21, 4:05 PM
 
-<br/>New York Giants (2-13) at Las Vegas Raiders (2-13), Sunday, Dec 28, 4:05 PM
+Pittsburgh Steelers (8-6) at Detroit Lions (8-6), Sunday, Dec 21, 4:25 PM
 
-Philadelphia Eagles (10-5) at Buffalo Bills (11-4), Sunday, Dec 28, 4:25 PM
+Las Vegas Raiders (2-12) at Houston Texans (9-5), Sunday, Dec 21, 4:25 PM
 
-<br/>Chicago Bears (11-4) at San Francisco 49ers (11-4), Sunday, Dec 28, 8:20 PM
+<br/>New England Patriots (11-3) at Baltimore Ravens (7-7), Sunday, Dec 21, 8:20 PM
 
-<br/>Los Angeles Rams (11-4) at Atlanta Falcons (6-9), Monday, Dec 29, 8:15 PM
+<br/>San Francisco 49ers (10-4) at Indianapolis Colts (8-6), Monday, Dec 22, 8:15 PM

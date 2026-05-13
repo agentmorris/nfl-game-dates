@@ -3,37 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2019 week 13
+# Game info for 2019 week 12
 
-Chicago Bears (5-6) at Detroit Lions (3-7-1), Thursday, Nov 28, 12:30 PM
+Indianapolis Colts (6-4) at Houston Texans (6-4), Thursday, Nov 21, 8:20 PM
 
-<br/>Buffalo Bills (8-3) at Dallas Cowboys (6-5), Thursday, Nov 28, 4:30 PM
+<br/>Tampa Bay Buccaneers (3-7) at Atlanta Falcons (3-7), Sunday, Nov 24, 1:00 PM
 
-<br/>New Orleans Saints (9-2) at Atlanta Falcons (3-8), Thursday, Nov 28, 8:20 PM
+Denver Broncos (3-7) at Buffalo Bills (7-3), Sunday, Nov 24, 1:00 PM
 
-<br/>Washington Redskins (2-9) at Carolina Panthers (5-6), Sunday, Dec 1, 1:00 PM
+New York Giants (2-8) at Chicago Bears (4-6), Sunday, Nov 24, 1:00 PM
 
-New York Jets (4-7) at Cincinnati Bengals (0-11), Sunday, Dec 1, 1:00 PM
+Pittsburgh Steelers (5-5) at Cincinnati Bengals (0-10), Sunday, Nov 24, 1:00 PM
 
-Tennessee Titans (6-5) at Indianapolis Colts (6-5), Sunday, Dec 1, 1:00 PM
+Miami Dolphins (2-8) at Cleveland Browns (4-6), Sunday, Nov 24, 1:00 PM
 
-Tampa Bay Buccaneers (4-7) at Jacksonville Jaguars (4-7), Sunday, Dec 1, 1:00 PM
+Carolina Panthers (5-5) at New Orleans Saints (8-2), Sunday, Nov 24, 1:00 PM
 
-Philadelphia Eagles (5-6) at Miami Dolphins (2-9), Sunday, Dec 1, 1:00 PM
+Oakland Raiders (6-4) at New York Jets (3-7), Sunday, Nov 24, 1:00 PM
 
-Green Bay Packers (8-3) at New York Giants (2-9), Sunday, Dec 1, 1:00 PM
+Seattle Seahawks (8-2) at Philadelphia Eagles (5-5), Sunday, Nov 24, 1:00 PM
 
-Cleveland Browns (5-6) at Pittsburgh Steelers (6-5), Sunday, Dec 1, 1:00 PM
+Detroit Lions (3-6-1) at Washington Redskins (1-9), Sunday, Nov 24, 1:00 PM
 
-San Francisco 49ers (10-1) at Baltimore Ravens (9-2), Sunday, Dec 1, 1:00 PM
+<br/>Jacksonville Jaguars (4-6) at Tennessee Titans (5-5), Sunday, Nov 24, 4:05 PM
 
-<br/>Los Angeles Rams (6-5) at Arizona Cardinals (3-7-1), Sunday, Dec 1, 4:05 PM
+Dallas Cowboys (6-4) at New England Patriots (9-1), Sunday, Nov 24, 4:25 PM
 
-Los Angeles Chargers (4-7) at Denver Broncos (3-8), Sunday, Dec 1, 4:25 PM
+<br/>Green Bay Packers (8-2) at San Francisco 49ers (9-1), Sunday, Nov 24, 8:20 PM
 
-Oakland Raiders (6-5) at Kansas City Chiefs (7-4), Sunday, Dec 1, 4:25 PM
-
-<br/>New England Patriots (10-1) at Houston Texans (7-4), Sunday, Dec 1, 8:20 PM
-
-<br/>Minnesota Vikings (8-3) at Seattle Seahawks (9-2), Monday, Dec 2, 8:15 PM
+<br/>Baltimore Ravens (8-2) at Los Angeles Rams (6-4), Monday, Nov 25, 8:15 PM
 

@@ -3,30 +3,32 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2024 week 12
+# Game info for 2024 week 11
 
-Pittsburgh Steelers (8-2) at Cleveland Browns (2-8), Thursday, Nov 21, 8:15 PM
+Washington Commanders (7-3) at Philadelphia Eagles (7-2), Thursday, Nov 14, 8:15 PM
 
-<br/>Kansas City Chiefs (9-1) at Carolina Panthers (3-7), Sunday, Nov 24, 1:00 PM
+<br/>Green Bay Packers (6-3) at Chicago Bears (4-5), Sunday, Nov 17, 1:00 PM
 
-Minnesota Vikings (8-2) at Chicago Bears (4-6), Sunday, Nov 24, 1:00 PM
+Jacksonville Jaguars (2-8) at Detroit Lions (8-1), Sunday, Nov 17, 1:00 PM
 
-Tennessee Titans (2-8) at Houston Texans (7-4), Sunday, Nov 24, 1:00 PM
+Las Vegas Raiders (2-7) at Miami Dolphins (3-6), Sunday, Nov 17, 1:00 PM
 
-Detroit Lions (9-1) at Indianapolis Colts (5-6), Sunday, Nov 24, 1:00 PM
+Los Angeles Rams (4-5) at New England Patriots (3-7), Sunday, Nov 17, 1:00 PM
 
-New England Patriots (3-8) at Miami Dolphins (4-6), Sunday, Nov 24, 1:00 PM
+Cleveland Browns (2-7) at New Orleans Saints (3-7), Sunday, Nov 17, 1:00 PM
 
-Tampa Bay Buccaneers (4-6) at New York Giants (2-8), Sunday, Nov 24, 1:00 PM
+Indianapolis Colts (4-6) at New York Jets (3-7), Sunday, Nov 17, 1:00 PM
 
-Dallas Cowboys (3-7) at Washington Commanders (7-4), Sunday, Nov 24, 1:00 PM
+Baltimore Ravens (7-3) at Pittsburgh Steelers (7-2), Sunday, Nov 17, 1:00 PM
 
-<br/>Denver Broncos (6-5) at Las Vegas Raiders (2-8), Sunday, Nov 24, 4:05 PM
+Minnesota Vikings (7-2) at Tennessee Titans (2-7), Sunday, Nov 17, 1:00 PM
 
-San Francisco 49ers (5-5) at Green Bay Packers (7-3), Sunday, Nov 24, 4:25 PM
+<br/>Atlanta Falcons (6-4) at Denver Broncos (5-5), Sunday, Nov 17, 4:05 PM
 
-Arizona Cardinals (6-4) at Seattle Seahawks (5-5), Sunday, Nov 24, 4:25 PM
+Seattle Seahawks (4-5) at San Francisco 49ers (5-4), Sunday, Nov 17, 4:05 PM
 
-<br/>Philadelphia Eagles (8-2) at Los Angeles Rams (5-5), Sunday, Nov 24, 8:20 PM
+Kansas City Chiefs (9-0) at Buffalo Bills (8-2), Sunday, Nov 17, 4:25 PM
 
-<br/>Baltimore Ravens (7-4) at Los Angeles Chargers (7-3), Monday, Nov 25, 8:15 PM
+<br/>Cincinnati Bengals (4-6) at Los Angeles Chargers (6-3), Sunday, Nov 17, 8:20 PM
+
+<br/>Houston Texans (6-4) at Dallas Cowboys (3-6), Monday, Nov 18, 8:15 PM

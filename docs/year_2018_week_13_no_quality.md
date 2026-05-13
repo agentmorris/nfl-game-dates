@@ -3,37 +3,37 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2018 week 14
+# Game info for 2018 week 13
 
-Jacksonville Jaguars (4-8) at Tennessee Titans (6-6), Thursday, Dec 6, 8:20 PM
+New Orleans Saints (10-1) at Dallas Cowboys (6-5), Thursday, Nov 29, 8:20 PM
 
-<br/>New York Jets (3-9) at Buffalo Bills (4-8), Sunday, Dec 9, 1:00 PM
+<br/>Baltimore Ravens (6-5) at Atlanta Falcons (4-7), Sunday, Dec 2, 1:00 PM
 
-Carolina Panthers (6-6) at Cleveland Browns (4-7-1), Sunday, Dec 9, 1:00 PM
+Denver Broncos (5-6) at Cincinnati Bengals (5-6), Sunday, Dec 2, 1:00 PM
 
-Atlanta Falcons (4-8) at Green Bay Packers (4-7-1), Sunday, Dec 9, 1:00 PM
+Los Angeles Rams (10-1) at Detroit Lions (4-7), Sunday, Dec 2, 1:00 PM
 
-Indianapolis Colts (6-6) at Houston Texans (9-3), Sunday, Dec 9, 1:00 PM
+Arizona Cardinals (2-9) at Green Bay Packers (4-6-1), Sunday, Dec 2, 1:00 PM
 
-Baltimore Ravens (7-5) at Kansas City Chiefs (10-2), Sunday, Dec 9, 1:00 PM
+Cleveland Browns (4-6-1) at Houston Texans (8-3), Sunday, Dec 2, 1:00 PM
 
-New England Patriots (9-3) at Miami Dolphins (6-6), Sunday, Dec 9, 1:00 PM
+Indianapolis Colts (6-5) at Jacksonville Jaguars (3-8), Sunday, Dec 2, 1:00 PM
 
-New Orleans Saints (10-2) at Tampa Bay Buccaneers (5-7), Sunday, Dec 9, 1:00 PM
+Buffalo Bills (4-7) at Miami Dolphins (5-6), Sunday, Dec 2, 1:00 PM
 
-New York Giants (4-8) at Washington Redskins (6-6), Sunday, Dec 9, 1:00 PM
+Chicago Bears (8-3) at New York Giants (3-8), Sunday, Dec 2, 1:00 PM
 
-<br/>Cincinnati Bengals (5-7) at Los Angeles Chargers (9-3), Sunday, Dec 9, 4:05 PM
+Carolina Panthers (6-5) at Tampa Bay Buccaneers (4-7), Sunday, Dec 2, 1:00 PM
 
-Denver Broncos (6-6) at San Francisco 49ers (2-10), Sunday, Dec 9, 4:05 PM
+<br/>New York Jets (3-8) at Tennessee Titans (5-6), Sunday, Dec 2, 4:05 PM
 
-Detroit Lions (4-8) at Arizona Cardinals (3-9), Sunday, Dec 9, 4:25 PM
+Kansas City Chiefs (9-2) at Oakland Raiders (2-9), Sunday, Dec 2, 4:05 PM
 
-Philadelphia Eagles (6-6) at Dallas Cowboys (7-5), Sunday, Dec 9, 4:25 PM
+Minnesota Vikings (6-4-1) at New England Patriots (8-3), Sunday, Dec 2, 4:25 PM
 
-Pittsburgh Steelers (7-4-1) at Oakland Raiders (2-10), Sunday, Dec 9, 4:25 PM
+San Francisco 49ers (2-9) at Seattle Seahawks (6-5), Sunday, Dec 2, 4:25 PM
 
-<br/>Los Angeles Rams (11-1) at Chicago Bears (8-4), Sunday, Dec 9, 8:20 PM
+<br/>Los Angeles Chargers (8-3) at Pittsburgh Steelers (7-3-1), Sunday, Dec 2, 8:20 PM
 
-<br/>Minnesota Vikings (6-5-1) at Seattle Seahawks (7-5), Monday, Dec 10, 8:15 PM
+<br/>Washington Redskins (6-5) at Philadelphia Eagles (5-6), Monday, Dec 3, 8:15 PM
 

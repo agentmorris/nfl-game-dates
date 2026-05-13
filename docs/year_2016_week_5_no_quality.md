@@ -3,35 +3,33 @@ title: NFL simulated-real-time schedules, 2009-present
 description: " "
 ---
 
-# Game info for 2016 week 6
+# Game info for 2016 week 5
 
-Denver Broncos (4-1) at San Diego Chargers (1-4), Thursday, Oct 13, 8:25 PM
+Arizona Cardinals (1-3) at San Francisco 49ers (1-3), Thursday, Oct 6, 8:27 PM
 
-<br/>San Francisco 49ers (1-4) at Buffalo Bills (3-2), Sunday, Oct 16, 1:02 PM
+<br/>New England Patriots (3-1) at Cleveland Browns (0-4), Sunday, Oct 9, 1:02 PM
 
-Jacksonville Jaguars (1-3) at Chicago Bears (1-4), Sunday, Oct 16, 1:02 PM
+Chicago Bears (1-3) at Indianapolis Colts (1-3), Sunday, Oct 9, 1:02 PM
 
-Los Angeles Rams (3-2) at Detroit Lions (2-3), Sunday, Oct 16, 1:02 PM
+Philadelphia Eagles (3-0) at Detroit Lions (1-3), Sunday, Oct 9, 1:02 PM
 
-Pittsburgh Steelers (4-1) at Miami Dolphins (1-4), Sunday, Oct 16, 1:02 PM
+Tennessee Titans (1-3) at Miami Dolphins (1-3), Sunday, Oct 9, 1:02 PM
 
-Cincinnati Bengals (2-3) at New England Patriots (4-1), Sunday, Oct 16, 1:02 PM
+New York Jets (1-3) at Pittsburgh Steelers (3-1), Sunday, Oct 9, 1:02 PM
 
-Baltimore Ravens (3-2) at New York Giants (2-3), Sunday, Oct 16, 1:02 PM
+Washington Redskins (2-2) at Baltimore Ravens (3-1), Sunday, Oct 9, 1:03 PM
 
-Cleveland Browns (0-5) at Tennessee Titans (2-3), Sunday, Oct 16, 1:02 PM
+Houston Texans (3-1) at Minnesota Vikings (4-0), Sunday, Oct 9, 1:05 PM
 
-Carolina Panthers (1-4) at New Orleans Saints (1-3), Sunday, Oct 16, 1:03 PM
+<br/>Atlanta Falcons (3-1) at Denver Broncos (4-0), Sunday, Oct 9, 4:05 PM
 
-Philadelphia Eagles (3-1) at Washington Redskins (3-2), Sunday, Oct 16, 1:03 PM
+Cincinnati Bengals (2-2) at Dallas Cowboys (3-1), Sunday, Oct 9, 4:25 PM
 
-<br/>Kansas City Chiefs (2-2) at Oakland Raiders (4-1), Sunday, Oct 16, 4:05 PM
+San Diego Chargers (1-3) at Oakland Raiders (3-1), Sunday, Oct 9, 4:25 PM
 
-Dallas Cowboys (4-1) at Green Bay Packers (3-1), Sunday, Oct 16, 4:25 PM
+Buffalo Bills (2-2) at Los Angeles Rams (3-1), Sunday, Oct 9, 4:25 PM
 
-Atlanta Falcons (4-1) at Seattle Seahawks (3-1), Sunday, Oct 16, 4:26 PM
+<br/>New York Giants (2-2) at Green Bay Packers (2-1), Sunday, Oct 9, 8:30 PM
 
-<br/>Indianapolis Colts (2-3) at Houston Texans (3-2), Sunday, Oct 16, 8:32 PM
-
-<br/>New York Jets (1-4) at Arizona Cardinals (2-3), Monday, Oct 17, 8:30 PM
+<br/>Tampa Bay Buccaneers (1-3) at Carolina Panthers (1-3), Monday, Oct 10, 8:04 PM
 
