@@ -1,5 +1,9 @@
+.claude
+.gemini
+
 __pycache__/
 *.py[cod]
 *$py.class
 
 .spyproject/
+.sass-cache/

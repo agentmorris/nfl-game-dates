@@ -18,6 +18,21 @@ If you're wondering "but don't they go to game breaks and tell you about other g
 If you're wondering "but don't you talk to other people about football?"... no, no I do not.
 
 
+### Good/bad game heuristics
+
+The "with quality indicators" pages tag each game as either ":red_circle: bad game", ":football: good game", or neither.  The rules (see `_compute_game_quality` in `generate_pages.py`):
+
+A game is **bad** if it finished with more than a two-score margin (final differential > 16 points) *and* the team that was leading at halftime also won the game.
+
+A game is **good** if any of the following is true:
+
+* It finished as a one-score game (final differential ≤ 8 points), or
+* The team that won the game was losing at halftime (a second-half comeback), or
+* It was at most a two-score game (final differential ≤ 16 points) *and* a shootout (combined final score > 60 points).
+
+A game that is neither "good" nor "bad" gets no tag.
+
+
 ### Usage
 
 `python nfl-game-dates.py [year] [week] [--html]`
@@ -30,6 +45,24 @@ If you're wondering "but don't you talk to other people about football?"... no, 
 * A playoff round name, from ["wild card","divisional","championship","super bowl"]
 
 The "html" option renders to HTML instead of text, with links to NFL Game Pass.
+
+
+### Previewing the GitHub Pages site locally
+
+The `docs/` folder is served by GitHub Pages with the `jekyll-theme-cayman` theme and the `jemoji` plugin.  To preview the site exactly as it will render on GitHub, run (requires Docker):
+
+From the repo root in a Windows command prompt:
+
+```
+docker run --rm -it ^
+  -e PAGES_REPO_NWO=agentmorris/nfl-game-dates ^
+  -v "%cd%/docs:/usr/src/app" ^
+  -p 4000:4000 ^
+  --entrypoint sh starefossen/github-pages ^
+  -c "bundle exec jekyll serve -d /_site --watch --force_polling -H 0.0.0.0 -P 4000"
+```
+
+Then open <http://localhost:4000>.  `Ctrl-C` stops it.
 
 
 ### Examples
