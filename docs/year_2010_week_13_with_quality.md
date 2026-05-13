@@ -7,15 +7,15 @@ description: " "
 
 Indianapolis Colts (6-6) at Tennessee Titans (5-7), Thursday, Dec 9, 8:29 PM (:football: good game)
 
-<br/>Cleveland Browns (5-7) at Buffalo Bills (2-10), Sunday, Dec 12, 1:02 PM (:football: good game)
+<br/>Cleveland Browns (5-7) at Buffalo Bills (2-10, eliminated), Sunday, Dec 12, 1:02 PM (:football: good game)
 
 Oakland Raiders (6-6) at Jacksonville Jaguars (7-5), Sunday, Dec 12, 1:02 PM (:football: good game)
 
-Cincinnati Bengals (2-10) at Pittsburgh Steelers (9-3), Sunday, Dec 12, 1:02 PM
+Cincinnati Bengals (2-10, eliminated) at Pittsburgh Steelers (9-3), Sunday, Dec 12, 1:02 PM
 
-Atlanta Falcons (10-2) at Carolina Panthers (1-11), Sunday, Dec 12, 1:03 PM (:red_circle: bad game)
+Atlanta Falcons (10-2) at Carolina Panthers (1-11, eliminated), Sunday, Dec 12, 1:03 PM (:red_circle: bad game)
 
-Green Bay Packers (8-4) at Detroit Lions (2-10), Sunday, Dec 12, 1:03 PM (:football: good game)
+Green Bay Packers (8-4) at Detroit Lions (2-10, eliminated), Sunday, Dec 12, 1:03 PM (:football: good game)
 
 Tampa Bay Buccaneers (7-5) at Washington Redskins (5-7), Sunday, Dec 12, 1:03 PM (:football: good game)
 
@@ -23,7 +23,7 @@ Tampa Bay Buccaneers (7-5) at Washington Redskins (5-7), Sunday, Dec 12, 1:03 PM
 
 Seattle Seahawks (6-6) at San Francisco 49ers (4-8), Sunday, Dec 12, 4:05 PM (:red_circle: bad game)
 
-Denver Broncos (3-9) at Arizona Cardinals (3-9), Sunday, Dec 12, 4:15 PM (:red_circle: bad game)
+Denver Broncos (3-9, eliminated) at Arizona Cardinals (3-9, eliminated), Sunday, Dec 12, 4:15 PM (:red_circle: bad game)
 
 Miami Dolphins (6-6) at New York Jets (9-3), Sunday, Dec 12, 4:15 PM (:football: good game)
 

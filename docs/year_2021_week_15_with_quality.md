@@ -11,23 +11,23 @@ San Francisco 49ers (8-6) at Tennessee Titans (9-5), Thursday, Dec 23, 8:20 PM (
 
 <br/>Indianapolis Colts (8-6) at Arizona Cardinals (10-4), Saturday, Dec 25, 8:15 PM (:football: good game)
 
-<br/>Detroit Lions (2-11-1) at Atlanta Falcons (6-8), Sunday, Dec 26, 1:00 PM (:football: good game)
+<br/>Detroit Lions (2-11-1, eliminated) at Atlanta Falcons (6-8), Sunday, Dec 26, 1:00 PM (:football: good game)
 
 Tampa Bay Buccaneers (10-4) at Carolina Panthers (5-9), Sunday, Dec 26, 1:00 PM (:red_circle: bad game)
 
 Baltimore Ravens (8-6) at Cincinnati Bengals (8-6), Sunday, Dec 26, 1:00 PM (:red_circle: bad game)
 
-Los Angeles Chargers (8-6) at Houston Texans (3-11), Sunday, Dec 26, 1:00 PM (:football: good game)
+Los Angeles Chargers (8-6) at Houston Texans (3-11, eliminated), Sunday, Dec 26, 1:00 PM (:football: good game)
 
 Los Angeles Rams (10-4) at Minnesota Vikings (7-7), Sunday, Dec 26, 1:00 PM (:football: good game)
 
 Buffalo Bills (8-6) at New England Patriots (9-5), Sunday, Dec 26, 1:00 PM
 
-Jacksonville Jaguars (2-12) at New York Jets (3-11), Sunday, Dec 26, 1:00 PM (:football: good game)
+Jacksonville Jaguars (2-12, eliminated) at New York Jets (3-11, eliminated), Sunday, Dec 26, 1:00 PM (:football: good game)
 
 New York Giants (4-10) at Philadelphia Eagles (7-7), Sunday, Dec 26, 1:00 PM
 
-<br/>Chicago Bears (4-10) at Seattle Seahawks (5-9), Sunday, Dec 26, 4:05 PM (:football: good game)
+<br/>Chicago Bears (4-10, eliminated) at Seattle Seahawks (5-9), Sunday, Dec 26, 4:05 PM (:football: good game)
 
 Pittsburgh Steelers (7-6-1) at Kansas City Chiefs (10-4), Sunday, Dec 26, 4:25 PM (:red_circle: bad game)
 

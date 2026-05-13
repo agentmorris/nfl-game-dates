@@ -23,7 +23,7 @@ Tampa Bay Buccaneers (1-8) at Washington Redskins (3-6), Sunday, Nov 16, 1:03 PM
 
 Seattle Seahawks (6-3) at Kansas City Chiefs (6-3), Sunday, Nov 16, 1:04 PM (:football: good game)
 
-<br/>Oakland Raiders (0-9) at San Diego Chargers (5-4), Sunday, Nov 16, 4:05 PM (:football: good game)
+<br/>Oakland Raiders (0-9, eliminated) at San Diego Chargers (5-4), Sunday, Nov 16, 4:05 PM (:football: good game)
 
 Detroit Lions (7-2) at Arizona Cardinals (8-1), Sunday, Nov 16, 4:25 PM (:football: good game)
 

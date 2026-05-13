@@ -30,7 +30,7 @@ base_url = 'https://www.pro-football-reference.com'
 gamepass_base_url = 'https://nfl.com/plus/games/'
 
 playoff_round_names = ['wildcard','divisional','championship','superbowl']
-playoff_round_names_long = ['wild card','divisisional','championship','super bowl']
+playoff_round_names_long = ['wild card','divisional','championship','super bowl']
 klembord.init()
 
 # Will sleep this many seconds after every request for either a whole page or an
@@ -549,15 +549,11 @@ def game_list_to_html(games,week,year,output_format='html',
                     
                     quality_string = \
                         ' (:red_circle: bad game)'
-                    #     ' ![bad game](https://img.shields.io/badge/-bad_game-aa4444)'
                         
                 else:
                     assert 'good' in game.game_tags
                     quality_string = \
-                        ' (:football: good game)'
-                        # ' (	:green_circle: good game)'
-                    #    ' ![good game](https://img.shields.io/badge/-good_game-44aa44)'
-                        
+                        ' (:football: good game)'                        
             
         game_str = '{}{} at {}{}, {}{}'.format(
             game.team_away,away_record_string,

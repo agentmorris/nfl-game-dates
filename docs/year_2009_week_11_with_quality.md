@@ -15,7 +15,7 @@ Green Bay Packers (6-4) at Detroit Lions (2-8), Thursday, Nov 26, 12:35 PM (:red
 
 Miami Dolphins (5-5) at Buffalo Bills (3-7), Sunday, Nov 29, 1:02 PM
 
-Cleveland Browns (1-9) at Cincinnati Bengals (7-3), Sunday, Nov 29, 1:02 PM
+Cleveland Browns (1-9, eliminated) at Cincinnati Bengals (7-3), Sunday, Nov 29, 1:02 PM
 
 Indianapolis Colts (10-0) at Houston Texans (5-5), Sunday, Nov 29, 1:02 PM (:football: good game)
 

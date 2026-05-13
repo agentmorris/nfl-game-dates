@@ -13,9 +13,9 @@ Indianapolis Colts (7-4) at Houston Texans (4-7), Sunday, Dec 6, 1:00 PM (:footb
 
 Cincinnati Bengals (2-8-1) at Miami Dolphins (7-4), Sunday, Dec 6, 1:00 PM (:football: good game)
 
-Jacksonville Jaguars (1-10) at Minnesota Vikings (5-6), Sunday, Dec 6, 1:00 PM (:football: good game)
+Jacksonville Jaguars (1-10, eliminated) at Minnesota Vikings (5-6), Sunday, Dec 6, 1:00 PM (:football: good game)
 
-Las Vegas Raiders (6-5) at New York Jets (0-11), Sunday, Dec 6, 1:00 PM (:football: good game)
+Las Vegas Raiders (6-5) at New York Jets (0-11, eliminated), Sunday, Dec 6, 1:00 PM (:football: good game)
 
 Cleveland Browns (8-3) at Tennessee Titans (8-3), Sunday, Dec 6, 1:00 PM (:football: good game)
 

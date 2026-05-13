@@ -27,7 +27,7 @@ Minnesota Vikings (6-2) at Washington Redskins (4-4), Sunday, Nov 12, 1:00 PM (:
 
 Dallas Cowboys (5-3) at Atlanta Falcons (4-4), Sunday, Nov 12, 4:25 PM (:red_circle: bad game)
 
-New York Giants (1-7) at San Francisco 49ers (0-9), Sunday, Nov 12, 4:25 PM
+New York Giants (1-7) at San Francisco 49ers (0-9, eliminated), Sunday, Nov 12, 4:25 PM
 
 <br/>New England Patriots (6-2) at Denver Broncos (3-5), Sunday, Nov 12, 8:30 PM (:red_circle: bad game)
 

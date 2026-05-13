@@ -51,8 +51,10 @@ Each of these links will take you to a page for the season, where each week will
 * [2020](season_2020.md)
 * [2021](season_2021.md)
 * [2022](season_2022.md)
+* [2023](season_2023.md)
+* [2024](season_2024.md)
+* [2025](season_2025.md)
 
 # Todo
 
 One thing I don't capture well is late-season games that are de facto playoff games: two losing teams might still be in contention for a playoff spot.  I'd like to track this better.  It's relatively easy to determine from the season history, it's just a bunch of code I haven't written.
-

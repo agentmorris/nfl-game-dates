@@ -21,7 +21,7 @@ Buffalo Bills (5-5) at New York Jets (5-5), Sunday, Nov 27, 1:02 PM (:football: 
 
 Tampa Bay Buccaneers (4-6) at Tennessee Titans (5-5), Sunday, Nov 27, 1:02 PM (:football: good game)
 
-Carolina Panthers (2-8) at Indianapolis Colts (0-10), Sunday, Nov 27, 1:03 PM (:football: good game)
+Carolina Panthers (2-8) at Indianapolis Colts (0-10, eliminated), Sunday, Nov 27, 1:03 PM (:football: good game)
 
 Houston Texans (7-3) at Jacksonville Jaguars (3-7), Sunday, Nov 27, 1:03 PM (:football: good game)
 

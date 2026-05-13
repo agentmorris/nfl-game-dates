@@ -23,7 +23,7 @@ Carolina Panthers (4-7) at Minnesota Vikings (4-6), Sunday, Nov 29, 1:00 PM (:fo
 
 Arizona Cardinals (6-4) at New England Patriots (4-6), Sunday, Nov 29, 1:00 PM (:football: good game)
 
-Miami Dolphins (6-4) at New York Jets (0-10), Sunday, Nov 29, 1:00 PM (:red_circle: bad game)
+Miami Dolphins (6-4) at New York Jets (0-10, eliminated), Sunday, Nov 29, 1:00 PM (:red_circle: bad game)
 
 <br/>New Orleans Saints (8-2) at Denver Broncos (4-6), Sunday, Nov 29, 4:05 PM (:red_circle: bad game)
 

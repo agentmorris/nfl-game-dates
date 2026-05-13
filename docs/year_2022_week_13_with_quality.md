@@ -11,7 +11,7 @@ Las Vegas Raiders (5-7) at Los Angeles Rams (3-9), Thursday, Dec 8, 8:15 PM (:fo
 
 Cleveland Browns (5-7) at Cincinnati Bengals (8-4), Sunday, Dec 11, 1:00 PM
 
-Houston Texans (1-10-1) at Dallas Cowboys (9-3), Sunday, Dec 11, 1:00 PM (:football: good game)
+Houston Texans (1-10-1, eliminated) at Dallas Cowboys (9-3), Sunday, Dec 11, 1:00 PM (:football: good game)
 
 Minnesota Vikings (10-2) at Detroit Lions (5-7), Sunday, Dec 11, 1:00 PM
 

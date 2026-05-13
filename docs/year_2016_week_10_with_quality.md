@@ -9,7 +9,7 @@ New Orleans Saints (4-5) at Carolina Panthers (3-6), Thursday, Nov 17, 8:25 PM (
 
 <br/>Buffalo Bills (4-5) at Cincinnati Bengals (3-5-1), Sunday, Nov 20, 1:00 PM (:football: good game)
 
-Pittsburgh Steelers (4-5) at Cleveland Browns (0-10), Sunday, Nov 20, 1:00 PM
+Pittsburgh Steelers (4-5) at Cleveland Browns (0-10, eliminated), Sunday, Nov 20, 1:00 PM
 
 Tennessee Titans (5-5) at Indianapolis Colts (4-5), Sunday, Nov 20, 1:00 PM (:football: good game)
 

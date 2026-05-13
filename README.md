@@ -11,7 +11,7 @@ I am critically dependent on NFL football for my physical fitness.  So dependent
 
 With the old NFL Game Pass Web site, this was easy: games were listed in order, so I could watch early games without fear of finding out the outcome of late games.  As of 8/2021, with a recent major revision to their site, this is no longer the case.  Ergo, before watching a week of new football, or even an old playoff week, I need to know the order in which games were played.
 
-If you're wondering "but don't all the scores tick along the bottom of the screen?"... yes, they do, which is why I use a [nice little program](https://aka.ms/scoreblocker) that [Neel](https://www.microsoft.com/en-us/research/people/neel/) wrote to put a big black rectangle on the bottom of the screen.  Very sophisticated technology.  Sidebar: sports are more fun without the distracting ticker anyway.
+If you're wondering "but don't all the scores tick along the bottom of the screen?"... yes, they do, which is why I wrote [ScoreBlocker-2000](https://github.com/agentmorris/scoreblocker-2000), which uses very sophisticated technology to solve this problem.  That sophisticated technology is "a big black rectangle".  Sidebar: sports are more fun without the distracting ticker anyway.
 
 If you're wondering "but don't they go to game breaks and tell you about other games?"... yes, they do, but <b>I'm a f'ing pro</b>, so I always know when a game break is coming and I can get my headphones out and my eyes averted in plenty of time.  Because I'm a pro.
 

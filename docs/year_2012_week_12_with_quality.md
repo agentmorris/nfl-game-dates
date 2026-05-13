@@ -21,7 +21,7 @@ Seattle Seahawks (6-5) at Chicago Bears (8-3), Sunday, Dec 2, 1:03 PM (:football
 
 Indianapolis Colts (7-4) at Detroit Lions (4-7), Sunday, Dec 2, 1:03 PM (:football: good game)
 
-Carolina Panthers (3-8) at Kansas City Chiefs (1-10), Sunday, Dec 2, 1:03 PM (:football: good game)
+Carolina Panthers (3-8, eliminated) at Kansas City Chiefs (1-10, eliminated), Sunday, Dec 2, 1:03 PM (:football: good game)
 
 Arizona Cardinals (4-7) at New York Jets (4-7), Sunday, Dec 2, 1:03 PM (:football: good game)
 

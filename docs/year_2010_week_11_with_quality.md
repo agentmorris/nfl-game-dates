@@ -5,7 +5,7 @@ description: " "
 
 # Game info for 2010 week 12
 
-New England Patriots (8-2) at Detroit Lions (2-8), Thursday, Nov 25, 12:38 PM (:football: good game)
+New England Patriots (8-2) at Detroit Lions (2-8, eliminated), Thursday, Nov 25, 12:38 PM (:football: good game)
 
 <br/>New Orleans Saints (7-3) at Dallas Cowboys (3-7), Thursday, Nov 25, 4:36 PM (:football: good game)
 
@@ -21,7 +21,7 @@ Jacksonville Jaguars (6-4) at New York Giants (6-4), Sunday, Nov 28, 1:02 PM (:f
 
 Minnesota Vikings (3-7) at Washington Redskins (5-5), Sunday, Nov 28, 1:02 PM (:football: good game)
 
-Carolina Panthers (1-9) at Cleveland Browns (3-7), Sunday, Nov 28, 1:03 PM (:football: good game)
+Carolina Panthers (1-9, eliminated) at Cleveland Browns (3-7), Sunday, Nov 28, 1:03 PM (:football: good game)
 
 <br/>Miami Dolphins (5-5) at Oakland Raiders (5-5), Sunday, Nov 28, 4:05 PM (:football: good game)
 

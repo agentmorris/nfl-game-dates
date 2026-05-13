@@ -21,7 +21,7 @@ Los Angeles Rams (7-2) at Minnesota Vikings (7-2), Sunday, Nov 19, 1:00 PM
 
 Washington Redskins (4-5) at New Orleans Saints (7-2), Sunday, Nov 19, 1:00 PM (:football: good game)
 
-Kansas City Chiefs (6-3) at New York Giants (1-8), Sunday, Nov 19, 1:00 PM (:football: good game)
+Kansas City Chiefs (6-3) at New York Giants (1-8, eliminated), Sunday, Nov 19, 1:00 PM (:football: good game)
 
 <br/>Buffalo Bills (5-4) at Los Angeles Chargers (3-6), Sunday, Nov 19, 4:05 PM (:red_circle: bad game)
 

@@ -13,15 +13,15 @@ Cleveland Browns (4-7) at Miami Dolphins (6-5), Sunday, Dec 5, 1:02 PM (:footbal
 
 Washington Redskins (5-6) at New York Giants (7-4), Sunday, Dec 5, 1:02 PM (:red_circle: bad game)
 
-New Orleans Saints (8-3) at Cincinnati Bengals (2-9), Sunday, Dec 5, 1:03 PM (:football: good game)
+New Orleans Saints (8-3) at Cincinnati Bengals (2-9, eliminated), Sunday, Dec 5, 1:03 PM (:football: good game)
 
-Chicago Bears (8-3) at Detroit Lions (2-9), Sunday, Dec 5, 1:03 PM (:football: good game)
+Chicago Bears (8-3) at Detroit Lions (2-9, eliminated), Sunday, Dec 5, 1:03 PM (:football: good game)
 
-Denver Broncos (3-8) at Kansas City Chiefs (7-4), Sunday, Dec 5, 1:03 PM (:football: good game)
+Denver Broncos (3-8, eliminated) at Kansas City Chiefs (7-4), Sunday, Dec 5, 1:03 PM (:football: good game)
 
 Jacksonville Jaguars (6-5) at Tennessee Titans (5-6), Sunday, Dec 5, 1:03 PM
 
-Buffalo Bills (2-9) at Minnesota Vikings (4-7), Sunday, Dec 5, 1:05 PM (:red_circle: bad game)
+Buffalo Bills (2-9, eliminated) at Minnesota Vikings (4-7), Sunday, Dec 5, 1:05 PM (:red_circle: bad game)
 
 <br/>Oakland Raiders (5-6) at San Diego Chargers (6-5), Sunday, Dec 5, 4:05 PM
 
@@ -29,7 +29,7 @@ Dallas Cowboys (3-8) at Indianapolis Colts (6-5), Sunday, Dec 5, 4:15 PM (:footb
 
 St. Louis Rams (5-6) at Arizona Cardinals (3-8), Sunday, Dec 5, 4:15 PM
 
-Carolina Panthers (1-10) at Seattle Seahawks (5-6), Sunday, Dec 5, 4:16 PM (:football: good game)
+Carolina Panthers (1-10, eliminated) at Seattle Seahawks (5-6), Sunday, Dec 5, 4:16 PM (:football: good game)
 
 Atlanta Falcons (9-2) at Tampa Bay Buccaneers (7-4), Sunday, Dec 5, 4:16 PM (:football: good game)
 

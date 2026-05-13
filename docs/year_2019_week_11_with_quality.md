@@ -13,7 +13,7 @@ Denver Broncos (3-7) at Buffalo Bills (7-3), Sunday, Nov 24, 1:00 PM (:red_circl
 
 New York Giants (2-8) at Chicago Bears (4-6), Sunday, Nov 24, 1:00 PM (:football: good game)
 
-Pittsburgh Steelers (5-5) at Cincinnati Bengals (0-10), Sunday, Nov 24, 1:00 PM (:football: good game)
+Pittsburgh Steelers (5-5) at Cincinnati Bengals (0-10, eliminated), Sunday, Nov 24, 1:00 PM (:football: good game)
 
 Miami Dolphins (2-8) at Cleveland Browns (4-6), Sunday, Nov 24, 1:00 PM (:red_circle: bad game)
 

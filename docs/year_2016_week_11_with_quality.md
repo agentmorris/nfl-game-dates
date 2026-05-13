@@ -17,11 +17,11 @@ Jacksonville Jaguars (2-8) at Buffalo Bills (5-5), Sunday, Nov 27, 1:00 PM (:foo
 
 Tennessee Titans (5-6) at Chicago Bears (2-8), Sunday, Nov 27, 1:00 PM (:football: good game)
 
-New York Giants (7-3) at Cleveland Browns (0-11), Sunday, Nov 27, 1:00 PM
+New York Giants (7-3) at Cleveland Browns (0-11, eliminated), Sunday, Nov 27, 1:00 PM
 
 San Diego Chargers (4-6) at Houston Texans (6-4), Sunday, Nov 27, 1:00 PM (:football: good game)
 
-San Francisco 49ers (1-9) at Miami Dolphins (6-4), Sunday, Nov 27, 1:00 PM (:football: good game)
+San Francisco 49ers (1-9, eliminated) at Miami Dolphins (6-4), Sunday, Nov 27, 1:00 PM (:football: good game)
 
 Los Angeles Rams (4-6) at New Orleans Saints (4-6), Sunday, Nov 27, 1:00 PM (:red_circle: bad game)
 

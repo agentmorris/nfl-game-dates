@@ -7,7 +7,7 @@ description: " "
 
 Baltimore Ravens (6-2) at Atlanta Falcons (6-2), Thursday, Nov 11, 8:31 PM (:football: good game)
 
-<br/>Detroit Lions (2-6) at Buffalo Bills (0-8), Sunday, Nov 14, 1:02 PM (:football: good game)
+<br/>Detroit Lions (2-6) at Buffalo Bills (0-8, eliminated), Sunday, Nov 14, 1:02 PM (:football: good game)
 
 Minnesota Vikings (3-5) at Chicago Bears (5-3), Sunday, Nov 14, 1:02 PM
 

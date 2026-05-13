@@ -15,9 +15,9 @@ San Francisco 49ers (9-4) at Seattle Seahawks (7-6), Thursday, Dec 15, 8:15 PM (
 
 <br/>Pittsburgh Steelers (5-8) at Carolina Panthers (5-8), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Philadelphia Eagles (12-1) at Chicago Bears (3-10), Sunday, Dec 18, 1:00 PM (:football: good game)
+Philadelphia Eagles (12-1) at Chicago Bears (3-10, eliminated), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Kansas City Chiefs (10-3) at Houston Texans (1-11-1), Sunday, Dec 18, 1:00 PM (:football: good game)
+Kansas City Chiefs (10-3) at Houston Texans (1-11-1, eliminated), Sunday, Dec 18, 1:00 PM (:football: good game)
 
 Dallas Cowboys (10-3) at Jacksonville Jaguars (5-8), Sunday, Dec 18, 1:00 PM (:football: good game)
 
@@ -25,7 +25,7 @@ Atlanta Falcons (5-8) at New Orleans Saints (4-9), Sunday, Dec 18, 1:00 PM (:foo
 
 Detroit Lions (6-7) at New York Jets (7-6), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-<br/>Arizona Cardinals (4-9) at Denver Broncos (3-10), Sunday, Dec 18, 4:05 PM (:football: good game)
+<br/>Arizona Cardinals (4-9) at Denver Broncos (3-10, eliminated), Sunday, Dec 18, 4:05 PM (:football: good game)
 
 Tennessee Titans (7-6) at Los Angeles Chargers (7-6), Sunday, Dec 18, 4:25 PM (:football: good game)
 

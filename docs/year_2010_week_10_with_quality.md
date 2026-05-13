@@ -21,7 +21,7 @@ Houston Texans (4-5) at New York Jets (7-2), Sunday, Nov 21, 1:03 PM (:football:
 
 Washington Redskins (4-5) at Tennessee Titans (5-4), Sunday, Nov 21, 1:03 PM (:football: good game)
 
-Baltimore Ravens (6-3) at Carolina Panthers (1-8), Sunday, Nov 21, 1:04 PM (:red_circle: bad game)
+Baltimore Ravens (6-3) at Carolina Panthers (1-8, eliminated), Sunday, Nov 21, 1:04 PM (:red_circle: bad game)
 
 Green Bay Packers (6-3) at Minnesota Vikings (3-6), Sunday, Nov 21, 1:05 PM (:red_circle: bad game)
 

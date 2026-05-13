@@ -11,7 +11,7 @@ Cleveland Browns (5-3) at Cincinnati Bengals (5-2-1), Thursday, Nov 6, 8:29 PM (
 
 Miami Dolphins (5-3) at Detroit Lions (6-2), Sunday, Nov 9, 1:02 PM (:football: good game)
 
-Pittsburgh Steelers (6-3) at New York Jets (1-8), Sunday, Nov 9, 1:02 PM (:football: good game)
+Pittsburgh Steelers (6-3) at New York Jets (1-8, eliminated), Sunday, Nov 9, 1:02 PM (:football: good game)
 
 San Francisco 49ers (4-4) at New Orleans Saints (4-4), Sunday, Nov 9, 1:03 PM (:football: good game)
 

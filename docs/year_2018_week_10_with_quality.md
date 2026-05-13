@@ -21,7 +21,7 @@ Cincinnati Bengals (5-4) at Baltimore Ravens (4-5), Sunday, Nov 18, 1:00 PM (:fo
 
 Houston Texans (6-3) at Washington Redskins (6-3), Sunday, Nov 18, 1:00 PM (:football: good game)
 
-<br/>Oakland Raiders (1-8) at Arizona Cardinals (2-7), Sunday, Nov 18, 4:05 PM (:football: good game)
+<br/>Oakland Raiders (1-8, eliminated) at Arizona Cardinals (2-7), Sunday, Nov 18, 4:05 PM (:football: good game)
 
 Denver Broncos (3-6) at Los Angeles Chargers (7-2), Sunday, Nov 18, 4:05 PM (:football: good game)
 

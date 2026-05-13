@@ -11,13 +11,13 @@ Oakland Raiders (10-2) at Kansas City Chiefs (9-3), Thursday, Dec 8, 8:25 PM (:f
 
 San Diego Chargers (5-7) at Carolina Panthers (4-8), Sunday, Dec 11, 1:00 PM
 
-Cincinnati Bengals (4-7-1) at Cleveland Browns (0-12), Sunday, Dec 11, 1:00 PM
+Cincinnati Bengals (4-7-1) at Cleveland Browns (0-12, eliminated), Sunday, Dec 11, 1:00 PM
 
 Houston Texans (6-6) at Indianapolis Colts (6-6), Sunday, Dec 11, 1:00 PM (:football: good game)
 
 Chicago Bears (3-9) at Detroit Lions (8-4), Sunday, Dec 11, 1:00 PM (:football: good game)
 
-Minnesota Vikings (6-6) at Jacksonville Jaguars (2-10), Sunday, Dec 11, 1:00 PM
+Minnesota Vikings (6-6) at Jacksonville Jaguars (2-10, eliminated), Sunday, Dec 11, 1:00 PM
 
 Arizona Cardinals (5-6-1) at Miami Dolphins (7-5), Sunday, Dec 11, 1:00 PM (:football: good game)
 
@@ -25,7 +25,7 @@ Denver Broncos (8-4) at Tennessee Titans (6-6), Sunday, Dec 11, 1:00 PM (:footba
 
 Washington Redskins (6-5-1) at Philadelphia Eagles (5-7), Sunday, Dec 11, 1:00 PM (:football: good game)
 
-<br/>New York Jets (3-9) at San Francisco 49ers (1-11), Sunday, Dec 11, 4:05 PM (:football: good game)
+<br/>New York Jets (3-9, eliminated) at San Francisco 49ers (1-11, eliminated), Sunday, Dec 11, 4:05 PM (:football: good game)
 
 Seattle Seahawks (8-3-1) at Green Bay Packers (6-6), Sunday, Dec 11, 4:25 PM (:red_circle: bad game)
 

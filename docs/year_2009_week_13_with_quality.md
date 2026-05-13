@@ -5,11 +5,11 @@ description: " "
 
 # Game info for 2009 week 14
 
-Pittsburgh Steelers (6-6) at Cleveland Browns (1-11), Thursday, Dec 10, 8:21 PM (:football: good game)
+Pittsburgh Steelers (6-6) at Cleveland Browns (1-11, eliminated), Thursday, Dec 10, 8:21 PM (:football: good game)
 
-<br/>Buffalo Bills (4-8) at Kansas City Chiefs (3-9), Sunday, Dec 13, 1:00 PM (:football: good game)
+<br/>Buffalo Bills (4-8) at Kansas City Chiefs (3-9, eliminated), Sunday, Dec 13, 1:00 PM (:football: good game)
 
-New York Jets (6-6) at Tampa Bay Buccaneers (1-11), Sunday, Dec 13, 1:00 PM (:red_circle: bad game)
+New York Jets (6-6) at Tampa Bay Buccaneers (1-11, eliminated), Sunday, Dec 13, 1:00 PM (:red_circle: bad game)
 
 New Orleans Saints (12-0) at Atlanta Falcons (6-6), Sunday, Dec 13, 1:02 PM (:football: good game)
 
@@ -21,15 +21,15 @@ Seattle Seahawks (5-7) at Houston Texans (5-7), Sunday, Dec 13, 1:02 PM (:red_ci
 
 Carolina Panthers (5-7) at New England Patriots (7-5), Sunday, Dec 13, 1:02 PM
 
-Detroit Lions (2-10) at Baltimore Ravens (6-6), Sunday, Dec 13, 1:02 PM (:red_circle: bad game)
+Detroit Lions (2-10, eliminated) at Baltimore Ravens (6-6), Sunday, Dec 13, 1:02 PM (:red_circle: bad game)
 
 Miami Dolphins (6-6) at Jacksonville Jaguars (7-5), Sunday, Dec 13, 1:03 PM (:football: good game)
 
 Cincinnati Bengals (9-3) at Minnesota Vikings (10-2), Sunday, Dec 13, 1:05 PM (:red_circle: bad game)
 
-<br/>St. Louis Rams (1-11) at Tennessee Titans (5-7), Sunday, Dec 13, 4:05 PM (:red_circle: bad game)
+<br/>St. Louis Rams (1-11, eliminated) at Tennessee Titans (5-7), Sunday, Dec 13, 4:05 PM (:red_circle: bad game)
 
-Washington Redskins (3-9) at Oakland Raiders (4-8), Sunday, Dec 13, 4:05 PM (:red_circle: bad game)
+Washington Redskins (3-9, eliminated) at Oakland Raiders (4-8), Sunday, Dec 13, 4:05 PM (:red_circle: bad game)
 
 San Diego Chargers (9-3) at Dallas Cowboys (8-4), Sunday, Dec 13, 4:15 PM (:football: good game)
 

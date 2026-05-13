@@ -5,29 +5,29 @@ description: " "
 
 # Game info for 2011 week 15
 
-Jacksonville Jaguars (4-9) at Atlanta Falcons (8-5), Thursday, Dec 15, 8:29 PM (:red_circle: bad game)
+Jacksonville Jaguars (4-9, eliminated) at Atlanta Falcons (8-5), Thursday, Dec 15, 8:29 PM (:red_circle: bad game)
 
-<br/>Dallas Cowboys (7-6) at Tampa Bay Buccaneers (4-9), Saturday, Dec 17, 8:29 PM
+<br/>Dallas Cowboys (7-6) at Tampa Bay Buccaneers (4-9, eliminated), Saturday, Dec 17, 8:29 PM
 
-<br/>Cincinnati Bengals (7-6) at St. Louis Rams (2-11), Sunday, Dec 18, 1:00 PM (:football: good game)
+<br/>Cincinnati Bengals (7-6) at St. Louis Rams (2-11, eliminated), Sunday, Dec 18, 1:00 PM (:football: good game)
 
-Miami Dolphins (4-9) at Buffalo Bills (5-8), Sunday, Dec 18, 1:02 PM (:football: good game)
+Miami Dolphins (4-9, eliminated) at Buffalo Bills (5-8, eliminated), Sunday, Dec 18, 1:02 PM (:football: good game)
 
-Washington Redskins (4-9) at New York Giants (7-6), Sunday, Dec 18, 1:02 PM
+Washington Redskins (4-9, eliminated) at New York Giants (7-6), Sunday, Dec 18, 1:02 PM
 
 Seattle Seahawks (6-7) at Chicago Bears (7-6), Sunday, Dec 18, 1:03 PM (:football: good game)
 
-Tennessee Titans (7-6) at Indianapolis Colts (0-13), Sunday, Dec 18, 1:03 PM (:football: good game)
+Tennessee Titans (7-6) at Indianapolis Colts (0-13, eliminated), Sunday, Dec 18, 1:03 PM (:football: good game)
 
-Carolina Panthers (4-9) at Houston Texans (10-3), Sunday, Dec 18, 1:03 PM
+Carolina Panthers (4-9, eliminated) at Houston Texans (10-3), Sunday, Dec 18, 1:03 PM
 
 Green Bay Packers (13-0) at Kansas City Chiefs (5-8), Sunday, Dec 18, 1:03 PM (:football: good game)
 
-New Orleans Saints (10-3) at Minnesota Vikings (2-11), Sunday, Dec 18, 1:05 PM (:red_circle: bad game)
+New Orleans Saints (10-3) at Minnesota Vikings (2-11, eliminated), Sunday, Dec 18, 1:05 PM (:red_circle: bad game)
 
 <br/>Detroit Lions (8-5) at Oakland Raiders (7-6), Sunday, Dec 18, 4:05 PM (:football: good game)
 
-Cleveland Browns (4-9) at Arizona Cardinals (6-7), Sunday, Dec 18, 4:15 PM (:football: good game)
+Cleveland Browns (4-9, eliminated) at Arizona Cardinals (6-7), Sunday, Dec 18, 4:15 PM (:football: good game)
 
 New England Patriots (10-3) at Denver Broncos (8-5), Sunday, Dec 18, 4:16 PM (:red_circle: bad game)
 

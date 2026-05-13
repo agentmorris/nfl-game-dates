@@ -13,7 +13,7 @@ Washington Redskins (5-7) at Chicago Bears (5-7), Sunday, Dec 13, 1:02 PM (:foot
 
 Pittsburgh Steelers (7-5) at Cincinnati Bengals (10-2), Sunday, Dec 13, 1:02 PM
 
-San Francisco 49ers (4-8) at Cleveland Browns (2-10), Sunday, Dec 13, 1:02 PM
+San Francisco 49ers (4-8) at Cleveland Browns (2-10, eliminated), Sunday, Dec 13, 1:02 PM
 
 Indianapolis Colts (6-6) at Jacksonville Jaguars (4-8), Sunday, Dec 13, 1:02 PM (:football: good game)
 

@@ -5,15 +5,15 @@ description: " "
 
 # Game info for 2012 week 14
 
-Denver Broncos (9-3) at Oakland Raiders (3-9), Thursday, Dec 6, 8:30 PM
+Denver Broncos (9-3) at Oakland Raiders (3-9, eliminated), Thursday, Dec 6, 8:30 PM
 
 <br/>St. Louis Rams (5-6-1) at Buffalo Bills (5-7), Sunday, Dec 9, 1:02 PM (:football: good game)
 
-Kansas City Chiefs (2-10) at Cleveland Browns (4-8), Sunday, Dec 9, 1:02 PM (:red_circle: bad game)
+Kansas City Chiefs (2-10, eliminated) at Cleveland Browns (4-8), Sunday, Dec 9, 1:02 PM (:red_circle: bad game)
 
 Tennessee Titans (4-8) at Indianapolis Colts (8-4), Sunday, Dec 9, 1:02 PM (:football: good game)
 
-New York Jets (5-7) at Jacksonville Jaguars (2-10), Sunday, Dec 9, 1:02 PM (:football: good game)
+New York Jets (5-7) at Jacksonville Jaguars (2-10, eliminated), Sunday, Dec 9, 1:02 PM (:football: good game)
 
 San Diego Chargers (4-8) at Pittsburgh Steelers (7-5), Sunday, Dec 9, 1:02 PM
 
@@ -23,7 +23,7 @@ Philadelphia Eagles (3-9) at Tampa Bay Buccaneers (6-6), Sunday, Dec 9, 1:03 PM 
 
 Baltimore Ravens (9-3) at Washington Redskins (6-6), Sunday, Dec 9, 1:03 PM (:football: good game)
 
-Atlanta Falcons (11-1) at Carolina Panthers (3-9), Sunday, Dec 9, 1:04 PM
+Atlanta Falcons (11-1) at Carolina Panthers (3-9, eliminated), Sunday, Dec 9, 1:04 PM
 
 Chicago Bears (8-4) at Minnesota Vikings (6-6), Sunday, Dec 9, 1:05 PM (:football: good game)
 

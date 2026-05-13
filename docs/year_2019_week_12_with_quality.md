@@ -13,7 +13,7 @@ Chicago Bears (5-6) at Detroit Lions (3-7-1), Thursday, Nov 28, 12:30 PM (:footb
 
 <br/>Washington Redskins (2-9) at Carolina Panthers (5-6), Sunday, Dec 1, 1:00 PM (:football: good game)
 
-New York Jets (4-7) at Cincinnati Bengals (0-11), Sunday, Dec 1, 1:00 PM
+New York Jets (4-7) at Cincinnati Bengals (0-11, eliminated), Sunday, Dec 1, 1:00 PM
 
 Tennessee Titans (6-5) at Indianapolis Colts (6-5), Sunday, Dec 1, 1:00 PM (:football: good game)
 

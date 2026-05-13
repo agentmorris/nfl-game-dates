@@ -27,7 +27,7 @@ New York Jets (2-7) at Washington Redskins (1-8), Sunday, Nov 17, 1:00 PM (:red_
 
 New England Patriots (8-1) at Philadelphia Eagles (5-4), Sunday, Nov 17, 4:25 PM (:football: good game)
 
-Cincinnati Bengals (0-9) at Oakland Raiders (5-4), Sunday, Nov 17, 4:25 PM (:football: good game)
+Cincinnati Bengals (0-9, eliminated) at Oakland Raiders (5-4), Sunday, Nov 17, 4:25 PM (:football: good game)
 
 <br/>Chicago Bears (4-5) at Los Angeles Rams (5-4), Sunday, Nov 17, 8:20 PM
 

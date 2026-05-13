@@ -5,7 +5,7 @@ description: " "
 
 # Game info for 2016 week 10
 
-Cleveland Browns (0-9) at Baltimore Ravens (4-4), Thursday, Nov 10, 8:25 PM (:football: good game)
+Cleveland Browns (0-9, eliminated) at Baltimore Ravens (4-4), Thursday, Nov 10, 8:25 PM (:football: good game)
 
 <br/>Kansas City Chiefs (6-2) at Carolina Panthers (3-5), Sunday, Nov 13, 1:00 PM (:football: good game)
 

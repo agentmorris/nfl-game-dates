@@ -11,11 +11,11 @@ Kansas City Chiefs (9-4) at Los Angeles Chargers (8-5), Thursday, Dec 16, 8:20 P
 
 <br/>Carolina Panthers (5-8) at Buffalo Bills (7-6), Sunday, Dec 19, 1:00 PM (:red_circle: bad game)
 
-Arizona Cardinals (10-3) at Detroit Lions (1-11-1), Sunday, Dec 19, 1:00 PM (:red_circle: bad game)
+Arizona Cardinals (10-3) at Detroit Lions (1-11-1, eliminated), Sunday, Dec 19, 1:00 PM (:red_circle: bad game)
 
-Houston Texans (2-11) at Jacksonville Jaguars (2-11), Sunday, Dec 19, 1:00 PM
+Houston Texans (2-11, eliminated) at Jacksonville Jaguars (2-11, eliminated), Sunday, Dec 19, 1:00 PM
 
-New York Jets (3-10) at Miami Dolphins (6-7), Sunday, Dec 19, 1:00 PM (:football: good game)
+New York Jets (3-10, eliminated) at Miami Dolphins (6-7), Sunday, Dec 19, 1:00 PM (:football: good game)
 
 Dallas Cowboys (9-4) at New York Giants (4-9), Sunday, Dec 19, 1:00 PM
 

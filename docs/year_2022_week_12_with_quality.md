@@ -9,7 +9,7 @@ Buffalo Bills (8-3) at New England Patriots (6-5), Thursday, Dec 1, 8:15 PM
 
 <br/>Pittsburgh Steelers (4-7) at Atlanta Falcons (5-7), Sunday, Dec 4, 1:00 PM (:football: good game)
 
-Green Bay Packers (4-8) at Chicago Bears (3-9), Sunday, Dec 4, 1:00 PM (:football: good game)
+Green Bay Packers (4-8) at Chicago Bears (3-9, eliminated), Sunday, Dec 4, 1:00 PM (:football: good game)
 
 Jacksonville Jaguars (4-7) at Detroit Lions (4-7), Sunday, Dec 4, 1:00 PM (:red_circle: bad game)
 

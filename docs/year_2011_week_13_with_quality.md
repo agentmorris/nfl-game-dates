@@ -11,11 +11,11 @@ Cleveland Browns (4-8) at Pittsburgh Steelers (9-3), Thursday, Dec 8, 8:28 PM
 
 Kansas City Chiefs (5-7) at New York Jets (7-5), Sunday, Dec 11, 1:02 PM (:red_circle: bad game)
 
-Indianapolis Colts (0-12) at Baltimore Ravens (9-3), Sunday, Dec 11, 1:02 PM
+Indianapolis Colts (0-12, eliminated) at Baltimore Ravens (9-3), Sunday, Dec 11, 1:02 PM
 
-Minnesota Vikings (2-10) at Detroit Lions (7-5), Sunday, Dec 11, 1:03 PM (:football: good game)
+Minnesota Vikings (2-10, eliminated) at Detroit Lions (7-5), Sunday, Dec 11, 1:03 PM (:football: good game)
 
-Tampa Bay Buccaneers (4-8) at Jacksonville Jaguars (3-9), Sunday, Dec 11, 1:03 PM (:red_circle: bad game)
+Tampa Bay Buccaneers (4-8) at Jacksonville Jaguars (3-9, eliminated), Sunday, Dec 11, 1:03 PM (:red_circle: bad game)
 
 Philadelphia Eagles (4-8) at Miami Dolphins (4-8), Sunday, Dec 11, 1:03 PM
 
@@ -35,5 +35,5 @@ Buffalo Bills (5-7) at San Diego Chargers (5-7), Sunday, Dec 11, 4:15 PM (:red_c
 
 <br/>New York Giants (6-6) at Dallas Cowboys (7-5), Sunday, Dec 11, 8:30 PM (:football: good game)
 
-<br/>St. Louis Rams (2-10) at Seattle Seahawks (5-7), Monday, Dec 12, 8:40 PM (:red_circle: bad game)
+<br/>St. Louis Rams (2-10, eliminated) at Seattle Seahawks (5-7), Monday, Dec 12, 8:40 PM (:red_circle: bad game)
 

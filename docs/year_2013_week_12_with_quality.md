@@ -25,7 +25,7 @@ Tampa Bay Buccaneers (3-8) at Carolina Panthers (8-3), Sunday, Dec 1, 1:04 PM (:
 
 Chicago Bears (6-5) at Minnesota Vikings (2-8-1), Sunday, Dec 1, 1:05 PM (:football: good game)
 
-<br/>Atlanta Falcons (2-9) at Buffalo Bills (4-7), Sunday, Dec 1, 4:05 PM (:football: good game)
+<br/>Atlanta Falcons (2-9, eliminated) at Buffalo Bills (4-7), Sunday, Dec 1, 4:05 PM (:football: good game)
 
 St. Louis Rams (5-6) at San Francisco 49ers (7-4), Sunday, Dec 1, 4:05 PM
 

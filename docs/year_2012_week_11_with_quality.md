@@ -35,5 +35,5 @@ San Francisco 49ers (7-2-1) at New Orleans Saints (5-5), Sunday, Nov 25, 4:25 PM
 
 <br/>Green Bay Packers (7-3) at New York Giants (6-4), Sunday, Nov 25, 8:30 PM (:red_circle: bad game)
 
-<br/>Carolina Panthers (2-8) at Philadelphia Eagles (3-7), Monday, Nov 26, 8:32 PM (:football: good game)
+<br/>Carolina Panthers (2-8, eliminated) at Philadelphia Eagles (3-7), Monday, Nov 26, 8:32 PM (:football: good game)
 

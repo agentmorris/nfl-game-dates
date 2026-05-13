@@ -17,7 +17,7 @@ Seattle Seahawks (6-5) at Minnesota Vikings (8-3), Sunday, Dec 6, 1:02 PM (:red_
 
 Jacksonville Jaguars (4-7) at Tennessee Titans (2-9), Sunday, Dec 6, 1:02 PM (:football: good game)
 
-Cincinnati Bengals (9-2) at Cleveland Browns (2-9), Sunday, Dec 6, 1:03 PM (:red_circle: bad game)
+Cincinnati Bengals (9-2) at Cleveland Browns (2-9, eliminated), Sunday, Dec 6, 1:03 PM (:red_circle: bad game)
 
 Baltimore Ravens (4-7) at Miami Dolphins (4-7), Sunday, Dec 6, 1:03 PM (:football: good game)
 
