@@ -35,7 +35,7 @@ A game that is neither "good" nor "bad" gets no tag.
 
 ### Usage
 
-`python nfl-game-dates.py [year] [week] [--html]`
+`python nfl-game-dates.py [year] [week] [--html] [--copy] [--file [filename]] [--open]`
 
 "year" is the start of the season, not the calendar year of the game.  I.e., 2012 week 17 is in 2013.
 
@@ -44,7 +44,19 @@ A game that is neither "good" nor "bad" gets no tag.
 * A 1-indexed number from 1 to 22, where 22 would be the Super Bowl after the start of the 17-game season
 * A playoff round name, from ["wild card","divisional","championship","super bowl"]
 
+Both arguments are optional.  With no arguments at all, you get the current week of the current season; with a single argument, that argument is the week, within the current season.  NFL weeks are assumed to run Thursday through Wednesday, so on, e.g., a Wednesday, the "current" week is still the weekend that just happened, and the new week starts on Thursday.  Week boundaries come from the nflverse schedule, so the extra week off before the Super Bowl is handled correctly, and midweek games (Thanksgiving, Christmas, the occasional Wednesday opener) don't shift a week's start date.  Between the Super Bowl and the next season's opener, the "current" week is that Super Bowl.
+
 The "html" option renders to HTML instead of text, with links to NFL Game Pass.
+
+The "copy" option copies the output to the clipboard, as rich text if "html" was specified (handy for pasting into an email).
+
+The "file" option writes the output to a file.  If no filename is supplied, the output goes to a file in the system temp folder named after the season and week, e.g. `nfl-games-2025-week-1.html`.
+
+The "open" option opens that file in your default browser; it implies "file".  So the typical start-of-week invocation is:
+
+```
+python nfl-game-dates.py --html --file --open
+```
 
 
 ### Previewing the GitHub Pages site locally

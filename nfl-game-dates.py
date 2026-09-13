@@ -19,11 +19,15 @@ import klembord
 import time
 import pickle
 import copy
+import csv
+import tempfile
+import webbrowser
 
-from collections import defaultdict
+from collections import Counter, defaultdict
+from pathlib import Path
 from tqdm import tqdm
 from dateutil import parser as dateparser
-from datetime import timedelta
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
 base_url = 'https://www.pro-football-reference.com'
@@ -482,15 +486,12 @@ _NFLVERSE_ABBR = {
 }
 
 
-def _load_game_times_from_nflverse(year, week):
+def _load_nflverse_rows():
     """
-    Fetch the nflverse games.csv (cached on disk under TMP if available),
-    filter to (year, week), and return a list of GameInfo objects sorted by
-    start time. Future games (no score yet) come back with away_scores /
-    home_scores = None.
+    Fetch the nflverse games.csv (cached on disk under TMP for an hour), and return
+    its rows as a list of dicts.  Includes every season, including scheduled games
+    that have not been played yet.
     """
-    import csv
-    import tempfile
     cache_path = os.path.join(tempfile.gettempdir(), 'nflverse_games.csv')
 
     # Refresh if older than 1 hour or missing
@@ -506,7 +507,16 @@ def _load_game_times_from_nflverse(year, week):
             f.write(resp.text)
 
     with open(cache_path, 'r', encoding='utf-8', newline='') as f:
-        rows = list(csv.DictReader(f))
+        return list(csv.DictReader(f))
+
+
+def _load_game_times_from_nflverse(year, week):
+    """
+    Fetch the nflverse games.csv, filter to (year, week), and return a list of
+    GameInfo objects sorted by start time. Future games (no score yet) come back
+    with away_scores / home_scores = None.
+    """
+    rows = _load_nflverse_rows()
 
     games = []
     for row in rows:
@@ -549,6 +559,82 @@ def _load_game_times_from_nflverse(year, week):
 
     games.sort(key=lambda g: g.start_time or dateparser.parse('9999-12-31'))
     return games
+
+
+def get_current_year_and_week(reference_date=None):
+    """
+    Determine the season and week that we're currently in, i.e. the most recent week
+    whose games have started.
+
+    NFL weeks are assumed to run Thursday through Wednesday, so a week becomes "current"
+    on the Thursday it starts, and stays current until the next week starts.  This is
+    deliberately imprecise: it doesn't care whether Thursday night's kickoff has actually
+    happened yet, so on Thursday morning we already consider the new week current.
+
+    Week boundaries come from the nflverse schedule: each week is anchored to the
+    Thursday on or before the date most of its games were played on, so the odd midweek
+    game (a Wednesday opener, Thanksgiving, Christmas) doesn't pull a week's start date
+    backwards, and the two-week gap before the Super Bowl works out correctly.  Between
+    the Super Bowl and the next season's opener, this returns the Super Bowl.
+
+    Returns a (year,week) tuple, where "week" is 1-indexed, i.e. the same convention
+    load_game_times() expects.
+    """
+
+    if reference_date is None:
+        reference_date = datetime.now().date()
+
+    rows = _load_nflverse_rows()
+
+    # (year,week) tuple --> the dates on which that week's games were played
+    week_to_game_dates = defaultdict(list)
+
+    for row in rows:
+
+        try:
+            year = int(row['season'])
+            week = int(row['week'])
+            game_date = dateparser.parse(row['gameday']).date()
+        except Exception:
+            continue
+
+        week_to_game_dates[(year,week)].append(game_date)
+
+    # ...for each game
+
+    assert len(week_to_game_dates) > 0, 'Could not find any game dates in the nflverse data'
+
+    # (year,week) tuple --> the date that week started, i.e. the Thursday on or before
+    # the day most of that week's games were played
+    week_to_start_date = {}
+
+    for week_id,game_dates in week_to_game_dates.items():
+
+        date_counts = Counter(game_dates)
+
+        # The most common game date, breaking ties toward the earlier date
+        busiest_date = min(date_counts.keys(),
+                           key=lambda game_date: (-date_counts[game_date],game_date))
+
+        # Snap back to the Thursday on or before that date (Monday is weekday 0,
+        # Thursday is weekday 3)
+        week_start_offset = timedelta(days=((busiest_date.weekday() - 3) % 7))
+        week_to_start_date[week_id] = busiest_date - week_start_offset
+
+    # ...for each week
+
+    weeks_that_have_started = [week_id for week_id in week_to_start_date
+                               if week_to_start_date[week_id] <= reference_date]
+
+    # This would only happen if we were somehow running before the earliest game we
+    # know about
+    if len(weeks_that_have_started) == 0:
+        return min(week_to_start_date.keys())
+
+    return max(weeks_that_have_started,
+               key=lambda week_id: (week_to_start_date[week_id],week_id))
+
+# ...def get_current_year_and_week()
 
 
 def team_name_from_team_string(team_string):
@@ -1061,17 +1147,61 @@ if False:
 #%% Command-line driver
 
 import argparse
-import sys
+
+def default_output_file(year,week,output_is_html):
+    """
+    Generate the name of the file we'll write output to when the user asks for file
+    output without specifying a filename, e.g. [temp_folder]/nfl-games-2025-week-1.html.
+    """
+
+    year,week = week_to_numeric(year,week)
+
+    # week_index_to_name() takes a zero-indexed week
+    week_name = week_index_to_name(week-1,year).replace(' ','-')
+
+    extension = 'html' if output_is_html else 'txt'
+
+    return os.path.join(tempfile.gettempdir(),
+                        'nfl-games-{}-{}.{}'.format(year,week_name,extension))
+
+
+def write_output_file(s,output_file,open_in_browser=False):
+    """
+    Write the string [s] to [output_file], optionally opening it in the default browser.
+
+    Returns the absolute path of the file we wrote.
+    """
+
+    output_file = os.path.abspath(os.path.expanduser(output_file))
+    output_folder = os.path.dirname(output_file)
+    if len(output_folder) > 0:
+        os.makedirs(output_folder,exist_ok=True)
+
+    with open(output_file,'w',encoding='utf-8') as f:
+        f.write(s)
+
+    if open_in_browser:
+        webbrowser.open(Path(output_file).as_uri())
+
+    return output_file
+
 
 def main():
     
     parser = argparse.ArgumentParser()
     parser.add_argument(
         'year',
-        help='Year of the season start (i.e., year of week 1, not the calendar year of the game)')
+        nargs='?',
+        default=None,
+        help='Year of the season start (i.e., year of week 1, not the calendar year of '
+             'the game); defaults to the current season')
     parser.add_argument(
         'week',
-        help='Week to fetch, either a number (1-22) or a playoff week name (wild card, divisional, championship, super bowl)'
+        nargs='?',
+        default=None,
+        help='Week to fetch, either a number (1-22) or a playoff week name (wild card, '
+             'divisional, championship, super bowl); defaults to the current week.  A '
+             'single argument is interpreted as a week in the current season.'
         )
     parser.add_argument(
         '--html',
@@ -1081,16 +1211,53 @@ def main():
         '--copy',
         help='Copy output text to the clipboard',
         action='store_true')
+    parser.add_argument(
+        '--file',
+        nargs='?',
+        const='',
+        default=None,
+        metavar='FILENAME',
+        help='Write output to a file; if no filename is supplied, writes to a file in the '
+             'system temp folder.  Implied by --open.')
+    parser.add_argument(
+        '--open',
+        help='Open the output file in the default browser (implies --file)',
+        action='store_true')
         
-    if len(sys.argv[1:]) == 0:
-        parser.print_help()
-        parser.exit()
-
     args = parser.parse_args()
-    games = load_game_times(args.year,args.week)
+
+    # A single positional argument is a week within the current season
+    if (args.year is not None) and (args.week is None):
+        try:
+            single_argument_is_a_week = (int(args.year) <= 22)
+        except ValueError:
+            single_argument_is_a_week = True
+        if not single_argument_is_a_week:
+            parser.error(
+                '"{}" is not a valid week; supply a year and a week, or just a week '
+                '(in the current season), or neither'.format(args.year))
+        args.week = args.year
+        args.year = None
+
+    using_current_week = (args.year is None) or (args.week is None)
+
+    if using_current_week:
+        current_year,current_week = get_current_year_and_week()
+        if args.year is None:
+            args.year = current_year
+        if args.week is None:
+            args.week = current_week
+
+    year,week = week_to_numeric(args.year,args.week)
+
+    if using_current_week:
+        print('Retrieving games for the {} season, {}'.format(
+            year,week_index_to_name(week-1,year)))
+
+    games = load_game_times(year,week)
     
     if args.html:
-        s = game_list_to_html(games,args.week,args.year)
+        s = game_list_to_html(games,week,year)
         print(s)
     else:
         s = '\n'.join([str(g) for g in games])
@@ -1098,6 +1265,18 @@ def main():
         
     if args.copy:
         klembord.set_with_rich_text(s,s)
+
+    # --open implies --file
+    output_file = args.file
+    if (output_file is None) and args.open:
+        output_file = ''
+
+    if output_file is not None:
+        if len(output_file) == 0:
+            output_file = default_output_file(year,week,args.html)
+        output_file = write_output_file(s,output_file,open_in_browser=args.open)
+        print('')
+        print('Wrote output to {}'.format(output_file))
 
 if __name__ == '__main__':
     main()
